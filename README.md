@@ -4,7 +4,7 @@
 By Jordan Loewen-Colón 2023
 
 ### Objective
-This project aims to craft a captivating, dynamic dataset derived from the enthralling world of Faerun in Dungeons and Dragons (D&D). The primary aim is to offer an engaging, imaginative resource for budding data scientists to hone their skills, diverging from conventional, mundane datasets. The dataset serves as an innovative educational tool and is envisioned as a dynamic, living record of Faerun’s economy and demographics, with potential for continuous updates and enhancements by the global D&D Adventurers League community.
+This project aims to craft a captivating, dynamic dataset derived from the enthralling world of Faerun in Dungeons and Dragons (D&D). The primary goal is to offer an engaging, imaginative resource for budding data scientists to hone their skills, diverging from conventional, mundane datasets. The dataset serves as an innovative educational tool and is envisioned as a dynamic, living record of Faerun’s economy and demographics, with potential for continuous updates and enhancements by the global D&D Adventurers League community.
 
 ### Insights
 This imaginative dataset reveals intriguing insights into the fictional world’s demographics, economics, and politics, providing a comprehensive view of various regions and settlements within Faerun. It offers a glimpse into the diverse species, their average ages, economic activities, and even factors like crime rates and magical climates, painting a vivid picture of life in this enchanting universe.
