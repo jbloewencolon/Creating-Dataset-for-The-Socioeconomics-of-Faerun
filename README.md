@@ -20,7 +20,9 @@ The preparation process involved meticulous collection and compilation of data f
 We then created a function that would randomize the class_density of lifestyles within a small range and then mulitiply by 365 and the lifestyle cost per lifestyle type. The result was a variad but realistic gold-economy per city depending on size. 
 
 ### Data Engineering
-Data engineering efforts were concentrated on generating novel features that would resonate with the D&D narrative while providing valuable learning resources for data science enthusiasts. Features like rumored treasure value, magical climate, and dragon sightings were ingeniously crafted, with each calculation based on a concoction of existing features and imaginative assumptions.
+Data engineering efforts were concentrated on generating novel features that would resonate with the D&D narrative while providing valuable learning resources for data science enthusiasts. Features like rumored treasure value, magical climate, and dragon sightings were ingeniously crafted, with each calculation based on a concoction of existing features and imaginative assumptions. We created two different datasets, one with hidden features that would effect the visible dataset made available to the public. This would allow models to avoid overfitting the data. On the hidden dataset, we included features measuring things like:
+
+![hidden_economy](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/Images/hidden%20data.JPG)
 
 ### Data Modeling
 Data modeling in this context is not about predicting outcomes but rather about constructing a believable, internally consistent representation of the D&D world. The modeling process involved creating relationships between different entities, making assumptions where necessary, and meticulously tweaking parameters to align the dataset with the rich lore of Faerun.
