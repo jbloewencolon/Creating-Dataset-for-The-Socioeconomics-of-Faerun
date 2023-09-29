@@ -39,11 +39,12 @@ I envision further datasets bringing to life the universes of Star Wars, Star Tr
 # Questions?
 Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
 
+**Notes:** title image created using Midjourney
 
 ## Repository Structure
 
 
-├── [data]() : data used for modeling
+├── [data](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/Demographics_of_Faerun_Dataset.xlsx) : data used for modeling
 ├── [images](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/tree/main/Images) : images used in README
 ├── [Sandbox](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/tree/main/Sandbox) : previous files from earlier drafts of project
 ├── [README.md](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/README.md) : project information and repository structure
