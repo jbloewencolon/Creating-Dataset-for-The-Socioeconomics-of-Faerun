@@ -27,8 +27,16 @@ Data engineering efforts were concentrated on generating novel features that wou
 ### Data Modeling
 Data modeling in this context is not about predicting outcomes but rather about constructing a believable, internally consistent representation of the D&D world. The modeling process involved creating relationships between different entities, making assumptions where necessary, and meticulously tweaking parameters to align the dataset with the rich lore of Faerun.
 
+![heat_matrix](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/Images/heat%20matrix.png)
+
+![class_density](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/Images/class%20aristocrat.png)
+
+![poisson](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/Images/Poisson.JPG)
+
 ### Data Evaluation
 The dataset’s evaluation isn't centered on predictive accuracy but rather its ability to engage users and accurately reflect the D&D universe’s complexities. It’s imperative to assess whether the dataset offers valuable insights, encourages exploration, and provides a faithful, engaging representation of the captivating world of Faerun for both new and seasoned adventurers.
+
+![economy_factors](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/Images/economy.png)
 
 ### Conclusions
 This project successfully amalgamates the enchanting lore of Dungeons and Dragons with real-world economics, offering an engaging, educational tool for aspiring data scientists. With potential for further enhancement and community-driven dynamic updates, this dataset stands as a unique, imaginative resource poised to inspire and educate, while contributing to the ever-evolving narrative of the D&D universe.
