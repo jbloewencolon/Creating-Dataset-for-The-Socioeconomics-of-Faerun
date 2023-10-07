@@ -14,15 +14,25 @@ Creating this dataset required a blend of familiarity with the D&D universe and 
 
 
 -**settlement**: Name of the settlement.
+
 -**region_kingdom**: The kingdom or region to which the settlement belongs.
+
 -**capital**: Indicates which settlement is the capital of its region.
+
 -**settlement_population**: Population count of the settlement.
+
 -**settlement_economy**: Economic wealth of the settlement.
+
 -**rumored_treasure_value**: Estimated value of rumored treasures in the settlement.
+
 -**demographic_breakdown**: Breakdown of settlement population by demographics.
+
 -**average_age**: Average age of the settlement's residents.
+
 -**most_likely_cause_of_death**: The most likely cause of death in the settlement.
+
 -**government_type**: Type of government governing the settlement.
+
 -**class_density**: Density or distribution of social classes in the settlement.
 -**tax_rate**: Tax rate imposed in the settlement.
 -**exports**: Goods or items exported by the settlement.
