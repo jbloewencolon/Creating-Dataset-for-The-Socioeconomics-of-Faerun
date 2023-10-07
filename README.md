@@ -16,30 +16,30 @@ Creating this dataset required a blend of familiarity with the D&D universe and 
 1. **settlement**: Name of the settlement.
 2. **region_kingdom**: The kingdom or region to which the settlement belongs.
 3. **capital**: Indicates which settlement is the capital of its region.
-**settlement_population**: Population count of the settlement.
-**settlement_economy**: Economic wealth of the settlement.
-**rumored_treasure_value**: Estimated value of rumored treasures in the settlement.
-**demographic_breakdown**: Breakdown of settlement population by demographics.
-**average_age**: Average age of the settlement's residents.
-**most_likely_cause_of_death**: The most likely cause of death in the settlement.
-**government_type**: Type of government governing the settlement.
-**class_density**: Density or distribution of social classes in the settlement.
-**tax_rate**: Tax rate imposed in the settlement.
-**exports**: Goods or items exported by the settlement.
-**imports**: Goods or items imported by the settlement.
-**ruler**: Name or title of the ruler governing the settlement.
-**military**: Information about the settlement's military.
-**magic_academy**: Presence or absence of a magic academy in the settlement.
-**languages**: Languages spoken in the settlement.
-**religions**: Religions practiced in the settlement.
-**region_population**: Population count of the region to which the settlement belongs.
-**region_economy**: Economic wealth of the region or kingdom.
-**area**: Land area of the settlement (if available).
-**average_temperature**: Average temperature in the settlement's region.
-**annual_rainfall**: Annual rainfall in the settlement's region.
-**magical_climate**:The activity or force of the "Thread" in the settlement and nearby area.
-**dragon_sightings**: Number of dragon sightings in the settlement.
-**sources**: Sources or references for the data (if available).
+4. **settlement_population**: Population count of the settlement.
+5. **settlement_economy**: Economic wealth of the settlement.
+6. **rumored_treasure_value**: Estimated value of rumored treasures in the settlement.
+7. **demographic_breakdown**: Breakdown of settlement population by demographics.
+8. **average_age**: Average age of the settlement's residents.
+9. **most_likely_cause_of_death**: The most likely cause of death in the settlement.
+10. **government_type**: Type of government governing the settlement.
+11. **class_density**: Density or distribution of social classes in the settlement.
+12. **tax_rate**: Tax rate imposed in the settlement.
+13. **exports**: Goods or items exported by the settlement.
+14. **imports**: Goods or items imported by the settlement.
+15. **ruler**: Name or title of the ruler governing the settlement.
+16. **military**: Information about the settlement's military.
+17. **magic_academy**: Presence or absence of a magic academy in the settlement.
+18. **languages**: Languages spoken in the settlement.
+19. **religions**: Religions practiced in the settlement.
+20. **region_population**: Population count of the region to which the settlement belongs.
+21. **region_economy**: Economic wealth of the region or kingdom.
+22. **area**: Land area of the settlement (if available).
+23. **average_temperature**: Average temperature in the settlement's region.
+24. **annual_rainfall**: Annual rainfall in the settlement's region.
+25. **magical_climate**:The activity or force of the "Thread" in the settlement and nearby area.
+26. **dragon_sightings**: Number of dragon sightings in the settlement.
+27. **sources**: Sources or references for the data (if available).
 
 ### Data Preparation
 The preparation process involved meticulous collection and compilation of data from D&D manuals and online sources. The list of sources can be found in the [Source](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/tree/main/Sources) folder. Real-world economic principles were ingeniously integrated with the fictional data to craft a dataset that is not only fantastical but also grounded in reality. Data cleansing, transformation, and integration were performed to ensure consistency, accuracy, and usability. Given the scarcity of accurate population and economic numbers, elements of the dataset needed to be randomized. To get a general sense of the economy, we relied on the lifestyle costs from the players handbook and then spoke to economists to get a rough estimate on lifestyle ranges depending on the size of the city.
