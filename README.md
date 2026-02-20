@@ -82,6 +82,19 @@ We suggest that Wizards of the Coast should consider building on this for:
 
 I envision further datasets bringing to life the universes of Star Wars, Star Trek, Dune, and Discworld, each providing unique opportunities for engagement, education, and community collaboration.
 
+## Next Phase: Live Dashboard Map
+
+The next implementation phase is to publish a live map dashboard for Faerûn with filtering by region, settlement size, economy, government type, and magical risk factors.
+
+- **Option A (Fastest path): Tableau Public MVP**
+  - Build an interactive choropleth/symbol map and supporting KPI panels.
+  - Publish a public URL for portfolio/demo use.
+- **Option B (Production path): Proprietary app**
+  - Build a hosted internal dashboard (for example with Streamlit + Plotly, Dash, or a JS map stack such as Mapbox/Leaflet).
+  - Add authentication, usage tracking, and a controlled refresh pipeline.
+
+See [`DASHBOARD_NEXT_PHASE.md`](./DASHBOARD_NEXT_PHASE.md) for a detailed implementation blueprint, data prep checklist, and delivery milestones.
+
 # Questions?
 Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
 
