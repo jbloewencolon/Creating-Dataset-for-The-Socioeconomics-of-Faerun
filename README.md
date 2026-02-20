@@ -95,23 +95,6 @@ The next implementation phase is to publish a live map dashboard for Faerûn wit
 
 See [`DASHBOARD_NEXT_PHASE.md`](./DASHBOARD_NEXT_PHASE.md) for a detailed implementation blueprint, data prep checklist, and delivery milestones.
 
-
-### Dashboard Data Starter (Implemented)
-
-To begin the live dashboard workstream, a no-dependency preparation script is included to convert the Excel source into dashboard-friendly CSV extracts (including normalized long-form trade/demographic tables):
-
-```bash
-python scripts/prepare_dashboard_data.py
-```
-
-This generates files in `dashboard_data/`:
-- `settlements_dashboard.csv`
-- `exports_long.csv`
-- `imports_long.csv`
-- `demographics_long.csv`
-- `class_density_long.csv`
-- `QA_SUMMARY.md`
-
 # Questions?
 Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
 
