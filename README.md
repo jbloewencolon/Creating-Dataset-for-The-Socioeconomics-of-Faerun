@@ -95,46 +95,6 @@ The next implementation phase is to publish a live map dashboard for Faerûn wit
 
 See [`DASHBOARD_NEXT_PHASE.md`](./DASHBOARD_NEXT_PHASE.md) for a detailed implementation blueprint, data prep checklist, and delivery milestones.
 
-
-
-### Dataset Generator (New)
-
-To create new synthetic dataset versions for modeling and dashboards, use:
-
-```bash
-python scripts/generate_faerun_dataset.py --rows 700 --seed 101 --capital-every 80 --out generated_data/faerun_dataset_seed101.csv
-```
-
-Recommended quality gate after generation:
-
-```bash
-python scripts/validate_faerun_dataset.py --input generated_data/faerun_dataset_seed101.csv
-```
-
-Then convert any generated CSV (or the original XLSX) to dashboard extracts:
-
-```bash
-python scripts/prepare_dashboard_data.py --input generated_data/faerun_dataset_seed101.csv --outdir generated_data/dashboard_seed101
-```
-
-This enables repeatable, seed-based refreshes of project data for experimentation and live dashboard updates.
-
-### Dashboard Data Starter (Implemented)
-
-To begin the live dashboard workstream, a no-dependency preparation script is included to convert the Excel source into dashboard-friendly CSV extracts (including normalized long-form trade/demographic tables):
-
-```bash
-python scripts/prepare_dashboard_data.py
-```
-
-This generates files in `dashboard_data/`:
-- `settlements_dashboard.csv`
-- `exports_long.csv`
-- `imports_long.csv`
-- `demographics_long.csv`
-- `class_density_long.csv`
-- `QA_SUMMARY.md`
-
 # Questions?
 Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
 

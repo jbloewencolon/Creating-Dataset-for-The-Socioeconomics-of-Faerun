@@ -56,20 +56,6 @@ Recommended if you need private access, role-based features, or custom gameplay 
 4. **Define metric semantics** (currency units, annualization assumptions, tax interpretation).
 5. **Add QA tests** for null thresholds, impossible values, and regional aggregation consistency.
 
-
-## Implementation Update
-The repository now includes a starter data-prep script:
-
-```bash
-python scripts/prepare_dashboard_data.py
-```
-
-This produces dashboard extracts in `dashboard_data/` including normalized long tables for exports, imports, demographics, and class density plus a `QA_SUMMARY.md` snapshot.
-
-- Added `scripts/generate_faerun_dataset.py` for repeatable seed-based dataset refreshes (`--rows`, `--seed`, `--out`).
-- `scripts/prepare_dashboard_data.py` now accepts both `.xlsx` and generated `.csv` inputs, enabling a full refresh cycle for new data versions.
-- Added a generator quality gate (`scripts/validate_faerun_dataset.py`) before dashboard extraction to enforce data consistency and reproducibility standards.
-
 ## Proposed Milestones
 - **Milestone 1 (Week 1):** Data cleaning + geospatial join + dashboard wireframe.
 - **Milestone 2 (Week 2):** Tableau MVP published and documented.
