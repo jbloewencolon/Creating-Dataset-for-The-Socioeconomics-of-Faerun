@@ -1,0 +1,3236 @@
+row_id,settlement,region_kingdom,demographic_group,population
+1,Athkatla,Amn,humans,116046
+1,Athkatla,Amn,halflings,116
+1,Athkatla,Amn,half-orcs,0
+1,Athkatla,Amn,misc.,0
+2,Amnwater,Amn,humans,2335
+2,Amnwater,Amn,halflings,4699
+2,Amnwater,Amn,half-orcs,0
+2,Amnwater,Amn,misc.,0
+3,Citadel Amnur,Amn,humans,580
+3,Citadel Amnur,Amn,halflings,55
+3,Citadel Amnur,Amn,half-orcs,0
+3,Citadel Amnur,Amn,misc.,0
+4,Citadel Rashturl,Amn,humans,487
+4,Citadel Rashturl,Amn,halflings,222
+4,Citadel Rashturl,Amn,half-orcs,0
+4,Citadel Rashturl,Amn,misc.,0
+5,Coryllvol,Amn,humans,5842
+5,Coryllvol,Amn,halflings,17158
+5,Coryllvol,Amn,half-orcs,0
+5,Coryllvol,Amn,misc.,0
+6,Crimmor,Amn,humans,34975
+6,Crimmor,Amn,halflings,0
+6,Crimmor,Amn,half-orcs,0
+6,Crimmor,Amn,misc.,0
+7,Dark Redoubt,Amn,humans,288
+7,Dark Redoubt,Amn,halflings,3
+7,Dark Redoubt,Amn,half-orcs,0
+7,Dark Redoubt,Amn,misc.,0
+8,Edive,Amn,humans,192
+8,Edive,Amn,halflings,0
+8,Edive,Amn,half-orcs,0
+8,Edive,Amn,misc.,0
+9,Esford,Amn,humans,2863
+9,Esford,Amn,halflings,2806
+9,Esford,Amn,half-orcs,0
+9,Esford,Amn,misc.,0
+10,Eshpurta,Amn,humans,23037
+10,Eshpurta,Amn,halflings,0
+10,Eshpurta,Amn,half-orcs,0
+10,Eshpurta,Amn,misc.,0
+11,Esmeltaran,Amn,humans,8328
+11,Esmeltaran,Amn,halflings,12972
+11,Esmeltaran,Amn,half-orcs,0
+11,Esmeltaran,Amn,misc.,0
+12,Gambiton,Amn,humans,1267
+12,Gambiton,Amn,halflings,32
+12,Gambiton,Amn,half-orcs,0
+12,Gambiton,Amn,misc.,0
+13,Goldspires,Amn,humans,1161
+13,Goldspires,Amn,halflings,0
+13,Goldspires,Amn,half-orcs,0
+13,Goldspires,Amn,misc.,0
+14,Hillfort Ishla,Amn,humans,316
+14,Hillfort Ishla,Amn,halflings,2
+14,Hillfort Ishla,Amn,half-orcs,0
+14,Hillfort Ishla,Amn,misc.,0
+15,Hillfort Keshla,Amn,humans,304
+15,Hillfort Keshla,Amn,halflings,10
+15,Hillfort Keshla,Amn,half-orcs,124
+15,Hillfort Keshla,Amn,misc.,0
+16,Hillfort Torbold,Amn,humans,224
+16,Hillfort Torbold,Amn,halflings,0
+16,Hillfort Torbold,Amn,half-orcs,86
+16,Hillfort Torbold,Amn,misc.,0
+17,Ideepton,Amn,humans,161
+17,Ideepton,Amn,halflings,31
+17,Ideepton,Amn,half-orcs,0
+17,Ideepton,Amn,misc.,0
+18,Imnescar,Amn,humans,5830
+18,Imnescar,Amn,halflings,0
+18,Imnescar,Amn,half-orcs,0
+18,Imnescar,Amn,misc.,0
+19,Keczulla,Amn,humans,37863
+19,Keczulla,Amn,halflings,10555
+19,Keczulla,Amn,half-orcs,0
+19,Keczulla,Amn,misc.,0
+20,Minsor Vale,Amn,humans,193
+20,Minsor Vale,Amn,halflings,0
+20,Minsor Vale,Amn,half-orcs,0
+20,Minsor Vale,Amn,misc.,0
+21,Murann,Amn,humans,43417
+21,Murann,Amn,halflings,0
+21,Murann,Amn,half-orcs,0
+21,Murann,Amn,misc.,0
+22,Nashkel,Amn,humans,2852
+22,Nashkel,Amn,halflings,28
+22,Nashkel,Amn,half-orcs,0
+22,Nashkel,Amn,misc.,0
+23,Purskul,Amn,humans,25797
+23,Purskul,Amn,halflings,1386
+23,Purskul,Amn,half-orcs,0
+23,Purskul,Amn,misc.,0
+24,Quarrelshigh,Amn,humans,504
+24,Quarrelshigh,Amn,halflings,0
+24,Quarrelshigh,Amn,half-orcs,0
+24,Quarrelshigh,Amn,misc.,0
+25,Riatavin,Amn,humans,3799
+25,Riatavin,Amn,halflings,8055
+25,Riatavin,Amn,half-orcs,0
+25,Riatavin,Amn,misc.,131
+26,Scimitar,Amn,humans,278
+26,Scimitar,Amn,halflings,21
+26,Scimitar,Amn,half-orcs,0
+26,Scimitar,Amn,misc.,0
+27,Shatar,Amn,humans,175
+27,Shatar,Amn,halflings,24
+27,Shatar,Amn,half-orcs,0
+27,Shatar,Amn,misc.,0
+28,Shepherdston,Amn,humans,1935
+28,Shepherdston,Amn,halflings,3065
+28,Shepherdston,Amn,half-orcs,0
+28,Shepherdston,Amn,misc.,0
+29,Trademeet,Amn,humans,6237
+29,Trademeet,Amn,halflings,0
+29,Trademeet,Amn,half-orcs,0
+29,Trademeet,Amn,misc.,0
+30,Trailstone,Amn,humans,651
+30,Trailstone,Amn,halflings,0
+30,Trailstone,Amn,half-orcs,0
+30,Trailstone,Amn,misc.,0
+31,Zinner,Amn,humans,500
+31,Zinner,Amn,halflings,0
+31,Zinner,Amn,half-orcs,0
+31,Zinner,Amn,misc.,0
+32,Calimport,Calimshan,humans,75915
+32,Calimport,Calimshan,halflings,2501
+32,Calimport,Calimshan,dwarves,2588
+32,Calimport,Calimshan,half-elves,1639
+32,Calimport,Calimshan,elves,862
+33,Almraiven,Calimshan,humans,37163
+33,Almraiven,Calimshan,halflings,1228
+33,Almraiven,Calimshan,dwarves,1271
+33,Almraiven,Calimshan,half-elves,847
+33,Almraiven,Calimshan,elves,423
+34,Keltar,Calimshan,humans,20790
+34,Keltar,Calimshan,halflings,683
+34,Keltar,Calimshan,dwarves,707
+34,Keltar,Calimshan,half-elves,471
+34,Keltar,Calimshan,elves,235
+35,Manshaka,Calimshan,humans,31248
+35,Manshaka,Calimshan,halflings,983
+35,Manshaka,Calimshan,dwarves,1017
+35,Manshaka,Calimshan,half-elves,678
+35,Manshaka,Calimshan,elves,339
+36,Memnon,Calimshan,humans,25369
+36,Memnon,Calimshan,halflings,875
+36,Memnon,Calimshan,dwarves,875
+36,Memnon,Calimshan,half-elves,583
+36,Memnon,Calimshan,elves,291
+37,Schamedar,Calimshan,humans,17612
+37,Schamedar,Calimshan,halflings,591
+37,Schamedar,Calimshan,dwarves,591
+37,Schamedar,Calimshan,half-elves,394
+37,Schamedar,Calimshan,elves,197
+38,Suldolphor,Calimshan,humans,11805
+38,Suldolphor,Calimshan,halflings,417
+38,Suldolphor,Calimshan,dwarves,403
+38,Suldolphor,Calimshan,half-elves,255
+38,Suldolphor,Calimshan,elves,134
+39,Teshburl,Calimshan,humans,18894
+39,Teshburl,Calimshan,halflings,634
+39,Teshburl,Calimshan,dwarves,634
+39,Teshburl,Calimshan,half-elves,423
+39,Teshburl,Calimshan,elves,211
+40,Volothamp,Calimshan,humans,32935
+40,Volothamp,Calimshan,halflings,1030
+40,Volothamp,Calimshan,dwarves,1065
+40,Volothamp,Calimshan,half-elves,675
+40,Volothamp,Calimshan,elves,355
+41,Cimbar,Chessenta,humans,9255
+41,Cimbar,Chessenta,halflings,311
+41,Cimbar,Chessenta,dwarves,301
+41,Cimbar,Chessenta,half-elves,207
+41,Cimbar,Chessenta,elves,103
+42,Airspur,Chessenta,humans,20663
+42,Airspur,Chessenta,halflings,685
+42,Airspur,Chessenta,dwarves,662
+42,Airspur,Chessenta,half-elves,419
+42,Airspur,Chessenta,elves,220
+43,Akanax,Chessenta,humans,23117
+43,Akanax,Chessenta,halflings,766
+43,Akanax,Chessenta,dwarves,766
+43,Akanax,Chessenta,half-elves,485
+43,Akanax,Chessenta,elves,255
+44,Erebos,Chessenta,humans,7191
+44,Erebos,Chessenta,halflings,227
+44,Erebos,Chessenta,dwarves,235
+44,Erebos,Chessenta,half-elves,157
+44,Erebos,Chessenta,elves,78
+45,Gaj,Chessenta,humans,5285
+45,Gaj,Chessenta,halflings,180
+45,Gaj,Chessenta,dwarves,180
+45,Gaj,Chessenta,half-elves,126
+45,Gaj,Chessenta,elves,60
+46,Heptios,Chessenta,humans,8032
+46,Heptios,Chessenta,halflings,249
+46,Heptios,Chessenta,dwarves,249
+46,Heptios,Chessenta,half-elves,163
+46,Heptios,Chessenta,elves,85
+47,Luthcheq,Chessenta,humans,54671
+47,Luthcheq,Chessenta,halflings,1814
+47,Luthcheq,Chessenta,dwarves,1756
+47,Luthcheq,Chessenta,half-elves,1112
+47,Luthcheq,Chessenta,elves,585
+48,Maerduuth,Chessenta,humans,11542
+48,Maerduuth,Chessenta,halflings,367
+48,Maerduuth,Chessenta,dwarves,380
+48,Maerduuth,Chessenta,half-elves,240
+48,Maerduuth,Chessenta,elves,126
+49,Mordulkin,Chessenta,humans,31761
+49,Mordulkin,Chessenta,halflings,1116
+49,Mordulkin,Chessenta,dwarves,1080
+49,Mordulkin,Chessenta,half-elves,720
+49,Mordulkin,Chessenta,elves,360
+50,Oslin,Chessenta,humans,5119
+50,Oslin,Chessenta,halflings,158
+50,Oslin,Chessenta,dwarves,158
+50,Oslin,Chessenta,half-elves,109
+50,Oslin,Chessenta,elves,54
+51,Pandrik,Chessenta,humans,1155
+51,Pandrik,Chessenta,halflings,37
+51,Pandrik,Chessenta,dwarves,39
+51,Pandrik,Chessenta,half-elves,26
+51,Pandrik,Chessenta,elves,13
+52,Rodanar,Chessenta,humans,4322
+52,Rodanar,Chessenta,halflings,145
+52,Rodanar,Chessenta,dwarves,141
+52,Rodanar,Chessenta,half-elves,94
+52,Rodanar,Chessenta,elves,47
+53,Saden,Chessenta,humans,797
+53,Saden,Chessenta,halflings,26
+53,Saden,Chessenta,dwarves,26
+53,Saden,Chessenta,half-elves,18
+53,Saden,Chessenta,elves,9
+54,Samnur,Chessenta,humans,1547
+54,Samnur,Chessenta,halflings,49
+54,Samnur,Chessenta,dwarves,52
+54,Samnur,Chessenta,half-elves,33
+54,Samnur,Chessenta,elves,16
+55,Soolabax,Chessenta,humans,1577
+55,Soolabax,Chessenta,halflings,51
+55,Soolabax,Chessenta,dwarves,55
+55,Soolabax,Chessenta,half-elves,33
+55,Soolabax,Chessenta,elves,17
+56,Soorenar,Chessenta,humans,68799
+56,Soorenar,Chessenta,halflings,2288
+56,Soorenar,Chessenta,dwarves,2288
+56,Soorenar,Chessenta,half-elves,1550
+56,Soorenar,Chessenta,elves,738
+57,Toreus,Chessenta,humans,3423
+57,Toreus,Chessenta,halflings,114
+57,Toreus,Chessenta,dwarves,107
+57,Toreus,Chessenta,half-elves,77
+57,Toreus,Chessenta,elves,37
+58,Tulach,Chessenta,humans,2188
+58,Tulach,Chessenta,halflings,70
+58,Tulach,Chessenta,dwarves,70
+58,Tulach,Chessenta,half-elves,46
+58,Tulach,Chessenta,elves,23
+59,Villon,Chessenta,humans,729
+59,Villon,Chessenta,halflings,23
+59,Villon,Chessenta,dwarves,23
+59,Villon,Chessenta,half-elves,15
+59,Villon,Chessenta,elves,7
+60,Suzail,Cormyr,humans,116767
+60,Suzail,Cormyr,halflings,3750
+60,Suzail,Cormyr,dwarves,3750
+60,Suzail,Cormyr,half-elves,2586
+60,Suzail,Cormyr,elves,1293
+61,Arabel,Cormyr,humans,25857
+61,Arabel,Cormyr,halflings,861
+61,Arabel,Cormyr,dwarves,861
+61,Arabel,Cormyr,half-elves,574
+61,Arabel,Cormyr,elves,287
+62,Aunkspear,Cormyr,humans,47748
+62,Aunkspear,Cormyr,halflings,1595
+62,Aunkspear,Cormyr,dwarves,1595
+62,Aunkspear,Cormyr,half-elves,1045
+62,Aunkspear,Cormyr,elves,550
+63,Battlerise,Cormyr,humans,7597
+63,Battlerise,Cormyr,halflings,235
+63,Battlerise,Cormyr,dwarves,243
+63,Battlerise,Cormyr,half-elves,162
+63,Battlerise,Cormyr,elves,81
+64,Besert,Cormyr,humans,389
+64,Besert,Cormyr,halflings,13
+64,Besert,Cormyr,dwarves,13
+64,Besert,Cormyr,half-elves,8
+64,Besert,Cormyr,elves,4
+65,Blustich,Cormyr,humans,4731
+65,Blustich,Cormyr,halflings,152
+65,Blustich,Cormyr,dwarves,152
+65,Blustich,Cormyr,half-elves,101
+65,Blustich,Cormyr,elves,50
+66,Bogbrook,Cormyr,humans,732
+66,Bogbrook,Cormyr,halflings,24
+66,Bogbrook,Cormyr,dwarves,25
+66,Bogbrook,Cormyr,half-elves,16
+66,Bogbrook,Cormyr,elves,8
+67,Bospir,Cormyr,humans,2313
+67,Bospir,Cormyr,halflings,79
+67,Bospir,Cormyr,dwarves,77
+67,Bospir,Cormyr,half-elves,53
+67,Bospir,Cormyr,elves,26
+68,Castle Crag,Cormyr,humans,453
+68,Castle Crag,Cormyr,halflings,14
+68,Castle Crag,Cormyr,dwarves,14
+68,Castle Crag,Cormyr,half-elves,9
+68,Castle Crag,Cormyr,elves,5
+69,Dawngleam,Cormyr,humans,722
+69,Dawngleam,Cormyr,halflings,23
+69,Dawngleam,Cormyr,dwarves,22
+69,Dawngleam,Cormyr,half-elves,15
+69,Dawngleam,Cormyr,elves,7
+70,Dhedluk,Cormyr,humans,847
+70,Dhedluk,Cormyr,halflings,27
+70,Dhedluk,Cormyr,dwarves,27
+70,Dhedluk,Cormyr,half-elves,17
+70,Dhedluk,Cormyr,elves,9
+71,Dreamer’s Rock,Cormyr,humans,565
+71,Dreamer’s Rock,Cormyr,halflings,18
+71,Dreamer’s Rock,Cormyr,dwarves,19
+71,Dreamer’s Rock,Cormyr,half-elves,13
+71,Dreamer’s Rock,Cormyr,elves,6
+72,Espar,Cormyr,humans,507
+72,Espar,Cormyr,halflings,17
+72,Espar,Cormyr,dwarves,17
+72,Espar,Cormyr,half-elves,11
+72,Espar,Cormyr,elves,5
+73,Eveningstar,Cormyr,humans,876
+73,Eveningstar,Cormyr,halflings,28
+73,Eveningstar,Cormyr,dwarves,28
+73,Eveningstar,Cormyr,half-elves,18
+73,Eveningstar,Cormyr,elves,9
+74,Ghars,Cormyr,humans,1018
+74,Ghars,Cormyr,halflings,33
+74,Ghars,Cormyr,dwarves,33
+74,Ghars,Cormyr,half-elves,22
+74,Ghars,Cormyr,elves,11
+75,Gladehap,Cormyr,humans,784
+75,Gladehap,Cormyr,halflings,25
+75,Gladehap,Cormyr,dwarves,25
+75,Gladehap,Cormyr,half-elves,18
+75,Gladehap,Cormyr,elves,8
+76,Gorthin,Cormyr,humans,5093
+76,Gorthin,Cormyr,halflings,170
+76,Gorthin,Cormyr,dwarves,170
+76,Gorthin,Cormyr,half-elves,108
+76,Gorthin,Cormyr,elves,56
+77,Gray Oaks,Cormyr,humans,86
+77,Gray Oaks,Cormyr,halflings,2
+77,Gray Oaks,Cormyr,dwarves,2
+77,Gray Oaks,Cormyr,half-elves,1
+77,Gray Oaks,Cormyr,elves,0
+78,Halfhap,Cormyr,humans,1967
+78,Halfhap,Cormyr,halflings,67
+78,Halfhap,Cormyr,dwarves,69
+78,Halfhap,Cormyr,half-elves,47
+78,Halfhap,Cormyr,elves,22
+79,High Horn,Cormyr,humans,341
+79,High Horn,Cormyr,halflings,11
+79,High Horn,Cormyr,dwarves,11
+79,High Horn,Cormyr,half-elves,7
+79,High Horn,Cormyr,elves,3
+80,Hillmarch,Cormyr,humans,4800
+80,Hillmarch,Cormyr,halflings,159
+80,Hillmarch,Cormyr,dwarves,159
+80,Hillmarch,Cormyr,half-elves,110
+80,Hillmarch,Cormyr,elves,55
+81,Hilp,Cormyr,humans,235
+81,Hilp,Cormyr,halflings,7
+81,Hilp,Cormyr,dwarves,7
+81,Hilp,Cormyr,half-elves,4
+81,Hilp,Cormyr,elves,2
+82,Hultail,Cormyr,humans,83
+82,Hultail,Cormyr,halflings,2
+82,Hultail,Cormyr,dwarves,2
+82,Hultail,Cormyr,half-elves,1
+82,Hultail,Cormyr,elves,0
+83,Immersea,Cormyr,humans,1015
+83,Immersea,Cormyr,halflings,32
+83,Immersea,Cormyr,dwarves,33
+83,Immersea,Cormyr,half-elves,22
+83,Immersea,Cormyr,elves,11
+84,Juniril,Cormyr,humans,7933
+84,Juniril,Cormyr,halflings,257
+84,Juniril,Cormyr,dwarves,257
+84,Juniril,Cormyr,half-elves,177
+84,Juniril,Cormyr,elves,88
+85,Kallamarn,Cormyr,humans,6022
+85,Kallamarn,Cormyr,halflings,200
+85,Kallamarn,Cormyr,dwarves,207
+85,Kallamarn,Cormyr,half-elves,138
+85,Kallamarn,Cormyr,elves,69
+86,Kirinwood,Cormyr,humans,4951
+86,Kirinwood,Cormyr,halflings,168
+86,Kirinwood,Cormyr,dwarves,168
+86,Kirinwood,Cormyr,half-elves,112
+86,Kirinwood,Cormyr,elves,56
+87,Knightswood,Cormyr,humans,4732
+87,Knightswood,Cormyr,halflings,155
+87,Knightswood,Cormyr,dwarves,155
+87,Knightswood,Cormyr,half-elves,107
+87,Knightswood,Cormyr,elves,53
+88,Marsark’s Grove,Cormyr,humans,2278
+88,Marsark’s Grove,Cormyr,halflings,73
+88,Marsark’s Grove,Cormyr,dwarves,73
+88,Marsark’s Grove,Cormyr,half-elves,50
+88,Marsark’s Grove,Cormyr,elves,25
+89,Marsember,Cormyr,humans,3049
+89,Marsember,Cormyr,halflings,104
+89,Marsember,Cormyr,dwarves,107
+89,Marsember,Cormyr,half-elves,69
+89,Marsember,Cormyr,elves,34
+90,Minroe,Cormyr,humans,463
+90,Minroe,Cormyr,halflings,15
+90,Minroe,Cormyr,dwarves,14
+90,Minroe,Cormyr,half-elves,10
+90,Minroe,Cormyr,elves,5
+91,Monksblade,Cormyr,humans,286
+91,Monksblade,Cormyr,halflings,9
+91,Monksblade,Cormyr,dwarves,8
+91,Monksblade,Cormyr,half-elves,6
+91,Monksblade,Cormyr,elves,3
+92,Moonever,Cormyr,humans,749
+92,Moonever,Cormyr,halflings,23
+92,Moonever,Cormyr,dwarves,25
+92,Moonever,Cormyr,half-elves,15
+92,Moonever,Cormyr,elves,8
+93,Mouth O’ Gargoyles,Cormyr,humans,407
+93,Mouth O’ Gargoyles,Cormyr,halflings,13
+93,Mouth O’ Gargoyles,Cormyr,dwarves,13
+93,Mouth O’ Gargoyles,Cormyr,half-elves,8
+93,Mouth O’ Gargoyles,Cormyr,elves,4
+94,Nesmyth,Cormyr,humans,482
+94,Nesmyth,Cormyr,halflings,15
+94,Nesmyth,Cormyr,dwarves,15
+94,Nesmyth,Cormyr,half-elves,10
+94,Nesmyth,Cormyr,elves,5
+95,Ongul’s Water,Cormyr,humans,501
+95,Ongul’s Water,Cormyr,halflings,16
+95,Ongul’s Water,Cormyr,dwarves,15
+95,Ongul’s Water,Cormyr,half-elves,10
+95,Ongul’s Water,Cormyr,elves,5
+96,Redspring,Cormyr,humans,4700
+96,Redspring,Cormyr,halflings,162
+96,Redspring,Cormyr,dwarves,167
+96,Redspring,Cormyr,half-elves,108
+96,Redspring,Cormyr,elves,54
+97,Smuggler’s Stone,Cormyr,humans,851
+97,Smuggler’s Stone,Cormyr,halflings,27
+97,Smuggler’s Stone,Cormyr,dwarves,28
+97,Smuggler’s Stone,Cormyr,half-elves,18
+97,Smuggler’s Stone,Cormyr,elves,9
+98,Stag Steads,Cormyr,humans,4806
+98,Stag Steads,Cormyr,halflings,163
+98,Stag Steads,Cormyr,dwarves,158
+98,Stag Steads,Cormyr,half-elves,109
+98,Stag Steads,Cormyr,elves,54
+99,Sunset Hill,Cormyr,humans,857
+99,Sunset Hill,Cormyr,halflings,28
+99,Sunset Hill,Cormyr,dwarves,30
+99,Sunset Hill,Cormyr,half-elves,18
+99,Sunset Hill,Cormyr,elves,9
+100,Thunderstone,Cormyr,humans,1567
+100,Thunderstone,Cormyr,halflings,55
+100,Thunderstone,Cormyr,dwarves,53
+100,Thunderstone,Cormyr,half-elves,35
+100,Thunderstone,Cormyr,elves,17
+101,Tilverton,Cormyr,humans,8320
+101,Tilverton,Cormyr,halflings,275
+101,Tilverton,Cormyr,dwarves,284
+101,Tilverton,Cormyr,half-elves,180
+101,Tilverton,Cormyr,elves,94
+102,Tyrluk,Cormyr,humans,171
+102,Tyrluk,Cormyr,halflings,5
+102,Tyrluk,Cormyr,dwarves,5
+102,Tyrluk,Cormyr,half-elves,3
+102,Tyrluk,Cormyr,elves,1
+103,Waymoot,Cormyr,humans,1743
+103,Waymoot,Cormyr,halflings,58
+103,Waymoot,Cormyr,dwarves,58
+103,Waymoot,Cormyr,half-elves,36
+103,Waymoot,Cormyr,elves,19
+104,Wheloon,Cormyr,humans,6289
+104,Wheloon,Cormyr,halflings,216
+104,Wheloon,Cormyr,dwarves,202
+104,Wheloon,Cormyr,half-elves,139
+104,Wheloon,Cormyr,elves,69
+105,Wormtower,Cormyr,humans,5059
+105,Wormtower,Cormyr,halflings,160
+105,Wormtower,Cormyr,dwarves,160
+105,Wormtower,Cormyr,half-elves,104
+105,Wormtower,Cormyr,elves,55
+106,Yeoman Bridge,Cormyr,humans,5119
+106,Yeoman Bridge,Cormyr,halflings,168
+106,Yeoman Bridge,Cormyr,dwarves,162
+106,Yeoman Bridge,Cormyr,half-elves,106
+106,Yeoman Bridge,Cormyr,elves,56
+107,Heliogabalus,Damara,humans,41306
+107,Heliogabalus,Damara,halflings,1326
+107,Heliogabalus,Damara,dwarves,1326
+107,Heliogabalus,Damara,half-elves,884
+107,Heliogabalus,Damara,elves,442
+108,Bloodstone Gate,Damara,humans,11400
+108,Bloodstone Gate,Damara,halflings,355
+108,Bloodstone Gate,Damara,dwarves,367
+108,Bloodstone Gate,Damara,half-elves,232
+108,Bloodstone Gate,Damara,elves,122
+109,Bloodstone Town,Damara,humans,6377
+109,Bloodstone Town,Damara,halflings,204
+109,Bloodstone Town,Damara,dwarves,204
+109,Bloodstone Town,Damara,half-elves,136
+109,Bloodstone Town,Damara,elves,68
+110,Brotha,Damara,humans,359
+110,Brotha,Damara,halflings,11
+110,Brotha,Damara,dwarves,11
+110,Brotha,Damara,half-elves,7
+110,Brotha,Damara,elves,3
+111,Cutrock,Damara,humans,3109
+111,Cutrock,Damara,halflings,102
+111,Cutrock,Damara,dwarves,98
+111,Cutrock,Damara,half-elves,68
+111,Cutrock,Damara,elves,34
+112,Goliad,Damara,humans,842
+112,Goliad,Damara,halflings,26
+112,Goliad,Damara,dwarves,27
+112,Goliad,Damara,half-elves,18
+112,Goliad,Damara,elves,9
+113,Daleport,Damara,humans,102
+113,Daleport,Damara,halflings,3
+113,Daleport,Damara,dwarves,3
+113,Daleport,Damara,half-elves,2
+113,Daleport,Damara,elves,1
+114,Dunfee,Damara,humans,1636
+114,Dunfee,Damara,halflings,52
+114,Dunfee,Damara,dwarves,52
+114,Dunfee,Damara,half-elves,36
+114,Dunfee,Damara,elves,18
+115,Helmsdale,Damara,humans,65
+115,Helmsdale,Damara,halflings,2
+115,Helmsdale,Damara,dwarves,2
+115,Helmsdale,Damara,half-elves,1
+115,Helmsdale,Damara,elves,0
+116,Hinterford,Damara,humans,784
+116,Hinterford,Damara,halflings,25
+116,Hinterford,Damara,dwarves,25
+116,Hinterford,Damara,half-elves,16
+116,Hinterford,Damara,elves,8
+117,Ironspur,Damara,humans,308
+117,Ironspur,Damara,halflings,10
+117,Ironspur,Damara,dwarves,10
+117,Ironspur,Damara,half-elves,7
+117,Ironspur,Damara,elves,3
+118,Kinbrace,Damara,humans,407
+118,Kinbrace,Damara,halflings,13
+118,Kinbrace,Damara,dwarves,13
+118,Kinbrace,Damara,half-elves,8
+118,Kinbrace,Damara,elves,4
+119,Kinnery,Damara,humans,730
+119,Kinnery,Damara,halflings,24
+119,Kinnery,Damara,dwarves,25
+119,Kinnery,Damara,half-elves,15
+119,Kinnery,Damara,elves,8
+120,Merkurn,Damara,humans,847
+120,Merkurn,Damara,halflings,30
+120,Merkurn,Damara,dwarves,28
+120,Merkurn,Damara,half-elves,18
+120,Merkurn,Damara,elves,9
+121,Morovar,Damara,humans,345
+121,Morovar,Damara,halflings,12
+121,Morovar,Damara,dwarves,11
+121,Morovar,Damara,half-elves,7
+121,Morovar,Damara,elves,3
+122,Newbelle,Damara,humans,650
+122,Newbelle,Damara,halflings,21
+122,Newbelle,Damara,dwarves,20
+122,Newbelle,Damara,half-elves,14
+122,Newbelle,Damara,elves,7
+123,Ostrav,Damara,humans,180
+123,Ostrav,Damara,halflings,5
+123,Ostrav,Damara,dwarves,5
+123,Ostrav,Damara,half-elves,3
+123,Ostrav,Damara,elves,1
+124,Portith,Damara,humans,507
+124,Portith,Damara,halflings,17
+124,Portith,Damara,dwarves,16
+124,Portith,Damara,half-elves,10
+124,Portith,Damara,elves,5
+125,Praka,Damara,humans,9282
+125,Praka,Damara,halflings,308
+125,Praka,Damara,dwarves,319
+125,Praka,Damara,half-elves,212
+125,Praka,Damara,elves,106
+126,Ravensburg,Damara,humans,312
+126,Ravensburg,Damara,halflings,9
+126,Ravensburg,Damara,dwarves,10
+126,Ravensburg,Damara,half-elves,6
+126,Ravensburg,Damara,elves,3
+127,Rolene,Damara,humans,506
+127,Rolene,Damara,halflings,17
+127,Rolene,Damara,dwarves,18
+127,Rolene,Damara,half-elves,11
+127,Rolene,Damara,elves,5
+128,Samek,Damara,humans,555
+128,Samek,Damara,halflings,17
+128,Samek,Damara,dwarves,18
+128,Samek,Damara,half-elves,12
+128,Samek,Damara,elves,6
+129,Steppenhall,Damara,humans,610
+129,Steppenhall,Damara,halflings,20
+129,Steppenhall,Damara,dwarves,20
+129,Steppenhall,Damara,half-elves,13
+129,Steppenhall,Damara,elves,6
+130,Sudrav,Damara,humans,525
+130,Sudrav,Damara,halflings,17
+130,Sudrav,Damara,dwarves,18
+130,Sudrav,Damara,half-elves,12
+130,Sudrav,Damara,elves,6
+131,Tellerth,Damara,humans,2002
+131,Tellerth,Damara,halflings,64
+131,Tellerth,Damara,dwarves,64
+131,Tellerth,Damara,half-elves,42
+131,Tellerth,Damara,elves,22
+132,Thimble,Damara,humans,677
+132,Thimble,Damara,halflings,22
+132,Thimble,Damara,dwarves,22
+132,Thimble,Damara,half-elves,15
+132,Thimble,Damara,elves,7
+133,Tokard,Damara,humans,752
+133,Tokard,Damara,halflings,23
+133,Tokard,Damara,dwarves,23
+133,Tokard,Damara,half-elves,15
+133,Tokard,Damara,elves,8
+134,Tomrav,Damara,humans,412
+134,Tomrav,Damara,halflings,14
+134,Tomrav,Damara,dwarves,14
+134,Tomrav,Damara,half-elves,9
+134,Tomrav,Damara,elves,4
+135,Trailsend,Damara,humans,12122
+135,Trailsend,Damara,halflings,388
+135,Trailsend,Damara,dwarves,388
+135,Trailsend,Damara,half-elves,267
+135,Trailsend,Damara,elves,133
+136,Valls,Damara,humans,1147
+136,Valls,Damara,halflings,38
+136,Valls,Damara,dwarves,35
+136,Valls,Damara,half-elves,24
+136,Valls,Damara,elves,12
+137,Virdin,Damara,humans,1299
+137,Virdin,Damara,halflings,42
+137,Virdin,Damara,dwarves,42
+137,Virdin,Damara,half-elves,29
+137,Virdin,Damara,elves,14
+138,Wassen,Damara,humans,215
+138,Wassen,Damara,halflings,7
+138,Wassen,Damara,dwarves,7
+138,Wassen,Damara,half-elves,4
+138,Wassen,Damara,elves,2
+139,Windless,Damara,humans,396
+139,Windless,Damara,halflings,12
+139,Windless,Damara,dwarves,13
+139,Windless,Damara,half-elves,8
+139,Windless,Damara,elves,4
+140,Withermeet,Damara,humans,87
+140,Withermeet,Damara,halflings,3
+140,Withermeet,Damara,dwarves,3
+140,Withermeet,Damara,half-elves,2
+140,Withermeet,Damara,elves,1
+141,Zarach,Damara,humans,471
+141,Zarach,Damara,halflings,15
+141,Zarach,Damara,dwarves,15
+141,Zarach,Damara,half-elves,10
+141,Zarach,Damara,elves,5
+142,Halarahh,Halruaa,humans,7909
+142,Halarahh,Halruaa,dwarves,0
+142,Halarahh,Halruaa,halflings,0
+142,Halarahh,Halruaa,elves,0
+142,Halarahh,Halruaa,half-elves,0
+142,Halarahh,Halruaa,misc.,0
+143,Achelar,Halruaa,humans,882
+143,Achelar,Halruaa,dwarves,21
+143,Achelar,Halruaa,halflings,0
+143,Achelar,Halruaa,elves,0
+143,Achelar,Halruaa,half-elves,0
+143,Achelar,Halruaa,misc.,0
+144,Alathil,Halruaa,humans,4013
+144,Alathil,Halruaa,dwarves,0
+144,Alathil,Halruaa,halflings,0
+144,Alathil,Halruaa,elves,0
+144,Alathil,Halruaa,half-elves,0
+144,Alathil,Halruaa,misc.,0
+145,Alu,Halruaa,humans,3759
+145,Alu,Halruaa,dwarves,0
+145,Alu,Halruaa,halflings,0
+145,Alu,Halruaa,elves,0
+145,Alu,Halruaa,half-elves,0
+145,Alu,Halruaa,misc.,0
+146,Aluarim,Halruaa,humans,8699
+146,Aluarim,Halruaa,dwarves,0
+146,Aluarim,Halruaa,halflings,0
+146,Aluarim,Halruaa,elves,0
+146,Aluarim,Halruaa,half-elves,0
+146,Aluarim,Halruaa,misc.,315
+147,Assundath,Halruaa,humans,405
+147,Assundath,Halruaa,dwarves,0
+147,Assundath,Halruaa,halflings,2
+147,Assundath,Halruaa,elves,0
+147,Assundath,Halruaa,half-elves,0
+147,Assundath,Halruaa,misc.,0
+148,Bathmé,Halruaa,humans,3641
+148,Bathmé,Halruaa,dwarves,0
+148,Bathmé,Halruaa,halflings,274
+148,Bathmé,Halruaa,elves,0
+148,Bathmé,Halruaa,half-elves,0
+148,Bathmé,Halruaa,misc.,0
+149,Borah,Halruaa,humans,4609
+149,Borah,Halruaa,dwarves,4
+149,Borah,Halruaa,halflings,0
+149,Borah,Halruaa,elves,0
+149,Borah,Halruaa,half-elves,0
+149,Borah,Halruaa,misc.,0
+150,Edouura,Halruaa,humans,3994
+150,Edouura,Halruaa,dwarves,0
+150,Edouura,Halruaa,halflings,0
+150,Edouura,Halruaa,elves,0
+150,Edouura,Halruaa,half-elves,0
+150,Edouura,Halruaa,misc.,0
+151,Elchul,Halruaa,humans,2966
+151,Elchul,Halruaa,dwarves,0
+151,Elchul,Halruaa,halflings,755
+151,Elchul,Halruaa,elves,0
+151,Elchul,Halruaa,half-elves,0
+151,Elchul,Halruaa,misc.,0
+152,Eru,Halruaa,humans,8459
+152,Eru,Halruaa,dwarves,0
+152,Eru,Halruaa,halflings,0
+152,Eru,Halruaa,elves,0
+152,Eru,Halruaa,half-elves,0
+152,Eru,Halruaa,misc.,25
+153,Galdel,Halruaa,humans,3809
+153,Galdel,Halruaa,dwarves,0
+153,Galdel,Halruaa,halflings,0
+153,Galdel,Halruaa,elves,0
+153,Galdel,Halruaa,half-elves,0
+153,Galdel,Halruaa,misc.,0
+154,Githim,Halruaa,humans,388
+154,Githim,Halruaa,dwarves,0
+154,Githim,Halruaa,halflings,0
+154,Githim,Halruaa,elves,0
+154,Githim,Halruaa,half-elves,0
+154,Githim,Halruaa,misc.,0
+155,Halabar,Halruaa,humans,4003
+155,Halabar,Halruaa,dwarves,0
+155,Halabar,Halruaa,halflings,0
+155,Halabar,Halruaa,elves,0
+155,Halabar,Halruaa,half-elves,0
+155,Halabar,Halruaa,misc.,0
+156,Halagard,Halruaa,humans,7333
+156,Halagard,Halruaa,dwarves,242
+156,Halagard,Halruaa,halflings,0
+156,Halagard,Halruaa,elves,0
+156,Halagard,Halruaa,half-elves,0
+156,Halagard,Halruaa,misc.,0
+157,Halazé,Halruaa,humans,849
+157,Halazé,Halruaa,dwarves,0
+157,Halazé,Halruaa,halflings,0
+157,Halazé,Halruaa,elves,0
+157,Halazé,Halruaa,half-elves,0
+157,Halazé,Halruaa,misc.,0
+158,Hamphal,Halruaa,humans,5885
+158,Hamphal,Halruaa,dwarves,0
+158,Hamphal,Halruaa,halflings,3989
+158,Hamphal,Halruaa,elves,0
+158,Hamphal,Halruaa,half-elves,0
+158,Hamphal,Halruaa,misc.,0
+159,Khaerbaal,Halruaa,humans,6665
+159,Khaerbaal,Halruaa,dwarves,83
+159,Khaerbaal,Halruaa,halflings,0
+159,Khaerbaal,Halruaa,elves,194
+159,Khaerbaal,Halruaa,half-elves,0
+159,Khaerbaal,Halruaa,misc.,0
+160,Kithyym,Halruaa,humans,3873
+160,Kithyym,Halruaa,dwarves,4
+160,Kithyym,Halruaa,halflings,52
+160,Kithyym,Halruaa,elves,100
+160,Kithyym,Halruaa,half-elves,0
+160,Kithyym,Halruaa,misc.,0
+161,Lath,Halruaa,humans,996
+161,Lath,Halruaa,dwarves,0
+161,Lath,Halruaa,halflings,0
+161,Lath,Halruaa,elves,0
+161,Lath,Halruaa,half-elves,0
+161,Lath,Halruaa,misc.,0
+162,Letharr,Halruaa,humans,3534
+162,Letharr,Halruaa,dwarves,0
+162,Letharr,Halruaa,halflings,10
+162,Letharr,Halruaa,elves,0
+162,Letharr,Halruaa,half-elves,0
+162,Letharr,Halruaa,misc.,0
+163,Lhaddas,Halruaa,humans,4291
+163,Lhaddas,Halruaa,dwarves,4190
+163,Lhaddas,Halruaa,halflings,0
+163,Lhaddas,Halruaa,elves,0
+163,Lhaddas,Halruaa,half-elves,0
+163,Lhaddas,Halruaa,misc.,0
+164,Lhair,Halruaa,humans,383
+164,Lhair,Halruaa,dwarves,0
+164,Lhair,Halruaa,halflings,0
+164,Lhair,Halruaa,elves,0
+164,Lhair,Halruaa,half-elves,0
+164,Lhair,Halruaa,misc.,0
+165,Maerass,Halruaa,humans,3779
+165,Maerass,Halruaa,dwarves,0
+165,Maerass,Halruaa,halflings,405
+165,Maerass,Halruaa,elves,0
+165,Maerass,Halruaa,half-elves,0
+165,Maerass,Halruaa,misc.,0
+166,Maeruhal,Halruaa,humans,3585
+166,Maeruhal,Halruaa,dwarves,137
+166,Maeruhal,Halruaa,halflings,0
+166,Maeruhal,Halruaa,elves,0
+166,Maeruhal,Halruaa,half-elves,0
+166,Maeruhal,Halruaa,misc.,0
+167,Maerzalar,Halruaa,humans,9595
+167,Maerzalar,Halruaa,dwarves,0
+167,Maerzalar,Halruaa,halflings,9
+167,Maerzalar,Halruaa,elves,29
+167,Maerzalar,Halruaa,half-elves,48
+167,Maerzalar,Halruaa,misc.,0
+168,Maezoun,Halruaa,humans,468
+168,Maezoun,Halruaa,dwarves,0
+168,Maezoun,Halruaa,halflings,237
+168,Maezoun,Halruaa,elves,0
+168,Maezoun,Halruaa,half-elves,0
+168,Maezoun,Halruaa,misc.,0
+169,Mairb,Halruaa,humans,3730
+169,Mairb,Halruaa,dwarves,111
+169,Mairb,Halruaa,halflings,0
+169,Mairb,Halruaa,elves,0
+169,Mairb,Halruaa,half-elves,0
+169,Mairb,Halruaa,misc.,0
+170,Martass,Halruaa,humans,3378
+170,Martass,Halruaa,dwarves,0
+170,Martass,Halruaa,halflings,0
+170,Martass,Halruaa,elves,0
+170,Martass,Halruaa,half-elves,591
+170,Martass,Halruaa,misc.,0
+171,Mithel,Halruaa,humans,191
+171,Mithel,Halruaa,dwarves,211
+171,Mithel,Halruaa,halflings,0
+171,Mithel,Halruaa,elves,0
+171,Mithel,Halruaa,half-elves,0
+171,Mithel,Halruaa,misc.,0
+172,Mithtar,Halruaa,humans,39920
+172,Mithtar,Halruaa,dwarves,0
+172,Mithtar,Halruaa,halflings,0
+172,Mithtar,Halruaa,elves,0
+172,Mithtar,Halruaa,half-elves,0
+172,Mithtar,Halruaa,misc.,39
+173,Nishtul,Halruaa,humans,242
+173,Nishtul,Halruaa,dwarves,137
+173,Nishtul,Halruaa,halflings,0
+173,Nishtul,Halruaa,elves,0
+173,Nishtul,Halruaa,half-elves,0
+173,Nishtul,Halruaa,misc.,0
+174,Nuulatha,Halruaa,humans,332
+174,Nuulatha,Halruaa,dwarves,346
+174,Nuulatha,Halruaa,halflings,0
+174,Nuulatha,Halruaa,elves,0
+174,Nuulatha,Halruaa,half-elves,0
+174,Nuulatha,Halruaa,misc.,0
+175,Orbedal,Halruaa,humans,3536
+175,Orbedal,Halruaa,dwarves,468
+175,Orbedal,Halruaa,halflings,0
+175,Orbedal,Halruaa,elves,0
+175,Orbedal,Halruaa,half-elves,0
+175,Orbedal,Halruaa,misc.,0
+176,Rulasuu,Halruaa,humans,3595
+176,Rulasuu,Halruaa,dwarves,15
+176,Rulasuu,Halruaa,halflings,0
+176,Rulasuu,Halruaa,elves,0
+176,Rulasuu,Halruaa,half-elves,190
+176,Rulasuu,Halruaa,misc.,0
+177,Rwamphaler,Halruaa,humans,392
+177,Rwamphaler,Halruaa,dwarves,0
+177,Rwamphaler,Halruaa,halflings,0
+177,Rwamphaler,Halruaa,elves,0
+177,Rwamphaler,Halruaa,half-elves,0
+177,Rwamphaler,Halruaa,misc.,0
+178,Salhantar,Halruaa,humans,3661
+178,Salhantar,Halruaa,dwarves,0
+178,Salhantar,Halruaa,halflings,0
+178,Salhantar,Halruaa,elves,0
+178,Salhantar,Halruaa,half-elves,0
+178,Salhantar,Halruaa,misc.,0
+179,Ssorsil,Halruaa,humans,2429
+179,Ssorsil,Halruaa,dwarves,1384
+179,Ssorsil,Halruaa,halflings,0
+179,Ssorsil,Halruaa,elves,0
+179,Ssorsil,Halruaa,half-elves,0
+179,Ssorsil,Halruaa,misc.,0
+180,Sulaziir,Halruaa,humans,7371
+180,Sulaziir,Halruaa,dwarves,1563
+180,Sulaziir,Halruaa,halflings,0
+180,Sulaziir,Halruaa,elves,0
+180,Sulaziir,Halruaa,half-elves,0
+180,Sulaziir,Halruaa,misc.,0
+181,Talathgard,Halruaa,humans,209
+181,Talathgard,Halruaa,dwarves,0
+181,Talathgard,Halruaa,halflings,0
+181,Talathgard,Halruaa,elves,0
+181,Talathgard,Halruaa,half-elves,0
+181,Talathgard,Halruaa,misc.,0
+182,Thilzoun,Halruaa,humans,3939
+182,Thilzoun,Halruaa,dwarves,0
+182,Thilzoun,Halruaa,halflings,0
+182,Thilzoun,Halruaa,elves,0
+182,Thilzoun,Halruaa,half-elves,0
+182,Thilzoun,Halruaa,misc.,0
+183,Thom,Halruaa,humans,9214
+183,Thom,Halruaa,dwarves,0
+183,Thom,Halruaa,halflings,0
+183,Thom,Halruaa,elves,0
+183,Thom,Halruaa,half-elves,0
+183,Thom,Halruaa,misc.,0
+184,Yaulazna,Halruaa,humans,398
+184,Yaulazna,Halruaa,dwarves,25
+184,Yaulazna,Halruaa,halflings,0
+184,Yaulazna,Halruaa,elves,0
+184,Yaulazna,Halruaa,half-elves,0
+184,Yaulazna,Halruaa,misc.,0
+185,Zalazuu,Halruaa,humans,4798
+185,Zalazuu,Halruaa,dwarves,0
+185,Zalazuu,Halruaa,halflings,0
+185,Zalazuu,Halruaa,elves,0
+185,Zalazuu,Halruaa,half-elves,0
+185,Zalazuu,Halruaa,misc.,0
+186,Zhal,Halruaa,humans,372
+186,Zhal,Halruaa,dwarves,0
+186,Zhal,Halruaa,halflings,0
+186,Zhal,Halruaa,elves,0
+186,Zhal,Halruaa,half-elves,21
+186,Zhal,Halruaa,misc.,0
+187,Zoundar,Halruaa,humans,549
+187,Zoundar,Halruaa,dwarves,0
+187,Zoundar,Halruaa,halflings,0
+187,Zoundar,Halruaa,elves,359
+187,Zoundar,Halruaa,half-elves,0
+187,Zoundar,Halruaa,misc.,0
+188,Zzuntal,Halruaa,humans,3646
+188,Zzuntal,Halruaa,dwarves,0
+188,Zzuntal,Halruaa,halflings,128
+188,Zzuntal,Halruaa,elves,0
+188,Zzuntal,Halruaa,half-elves,0
+188,Zzuntal,Halruaa,misc.,0
+189,Lyrabar,Impiltur,humans,49028
+189,Lyrabar,Impiltur,dwarves,0
+189,Lyrabar,Impiltur,halflings,0
+189,Lyrabar,Impiltur,misc.,0
+190,Arn’s Cove,Impiltur,humans,976
+190,Arn’s Cove,Impiltur,dwarves,0
+190,Arn’s Cove,Impiltur,halflings,0
+190,Arn’s Cove,Impiltur,misc.,0
+191,Bay Town,Impiltur,humans,1679
+191,Bay Town,Impiltur,dwarves,0
+191,Bay Town,Impiltur,halflings,0
+191,Bay Town,Impiltur,misc.,0
+192,Borgar’s Mill,Impiltur,humans,474
+192,Borgar’s Mill,Impiltur,dwarves,0
+192,Borgar’s Mill,Impiltur,halflings,0
+192,Borgar’s Mill,Impiltur,misc.,0
+193,Cairnpur,Impiltur,humans,612
+193,Cairnpur,Impiltur,dwarves,0
+193,Cairnpur,Impiltur,halflings,0
+193,Cairnpur,Impiltur,misc.,0
+194,Dilpur,Impiltur,humans,13881
+194,Dilpur,Impiltur,dwarves,0
+194,Dilpur,Impiltur,halflings,0
+194,Dilpur,Impiltur,misc.,0
+195,Filur,Impiltur,humans,601
+195,Filur,Impiltur,dwarves,0
+195,Filur,Impiltur,halflings,0
+195,Filur,Impiltur,misc.,0
+196,Guidodale,Impiltur,humans,5782
+196,Guidodale,Impiltur,dwarves,0
+196,Guidodale,Impiltur,halflings,0
+196,Guidodale,Impiltur,misc.,0
+197,Hlammach,Impiltur,humans,33909
+197,Hlammach,Impiltur,dwarves,136
+197,Hlammach,Impiltur,halflings,102
+197,Hlammach,Impiltur,misc.,0
+198,Ilmwatch,Impiltur,humans,8
+198,Ilmwatch,Impiltur,dwarves,0
+198,Ilmwatch,Impiltur,halflings,535
+198,Ilmwatch,Impiltur,misc.,0
+199,Kielbast,Impiltur,humans,859
+199,Kielbast,Impiltur,dwarves,1
+199,Kielbast,Impiltur,halflings,0
+199,Kielbast,Impiltur,misc.,0
+200,Laviguer,Impiltur,humans,562
+200,Laviguer,Impiltur,dwarves,3
+200,Laviguer,Impiltur,halflings,0
+200,Laviguer,Impiltur,misc.,0
+201,Lenchford,Impiltur,humans,285
+201,Lenchford,Impiltur,dwarves,0
+201,Lenchford,Impiltur,halflings,287
+201,Lenchford,Impiltur,misc.,0
+202,Maracrath,Impiltur,humans,3766
+202,Maracrath,Impiltur,dwarves,1170
+202,Maracrath,Impiltur,halflings,4503
+202,Maracrath,Impiltur,misc.,0
+203,Mulltown,Impiltur,humans,258
+203,Mulltown,Impiltur,dwarves,0
+203,Mulltown,Impiltur,halflings,0
+203,Mulltown,Impiltur,misc.,0
+204,New Moranay,Impiltur,humans,742
+204,New Moranay,Impiltur,dwarves,622
+204,New Moranay,Impiltur,halflings,0
+204,New Moranay,Impiltur,misc.,0
+205,New Sarshel,Impiltur,humans,1443
+205,New Sarshel,Impiltur,dwarves,0
+205,New Sarshel,Impiltur,halflings,0
+205,New Sarshel,Impiltur,misc.,0
+206,Outentown,Impiltur,humans,79
+206,Outentown,Impiltur,dwarves,0
+206,Outentown,Impiltur,halflings,0
+206,Outentown,Impiltur,misc.,0
+207,Pick ‘n’ Axe,Impiltur,humans,557
+207,Pick ‘n’ Axe,Impiltur,dwarves,0
+207,Pick ‘n’ Axe,Impiltur,halflings,27
+207,Pick ‘n’ Axe,Impiltur,misc.,0
+208,Red Bluffs,Impiltur,humans,5715
+208,Red Bluffs,Impiltur,dwarves,0
+208,Red Bluffs,Impiltur,halflings,0
+208,Red Bluffs,Impiltur,misc.,0
+209,Relgar’s Ford,Impiltur,humans,492
+209,Relgar’s Ford,Impiltur,dwarves,91
+209,Relgar’s Ford,Impiltur,halflings,2
+209,Relgar’s Ford,Impiltur,misc.,0
+210,Sarshel,Impiltur,humans,594
+210,Sarshel,Impiltur,dwarves,4
+210,Sarshel,Impiltur,halflings,0
+210,Sarshel,Impiltur,misc.,0
+211,Songhal,Impiltur,humans,830
+211,Songhal,Impiltur,dwarves,0
+211,Songhal,Impiltur,halflings,0
+211,Songhal,Impiltur,misc.,0
+212,Thelnam,Impiltur,humans,588
+212,Thelnam,Impiltur,dwarves,0
+212,Thelnam,Impiltur,halflings,0
+212,Thelnam,Impiltur,misc.,0
+213,Three Horns,Impiltur,humans,95
+213,Three Horns,Impiltur,dwarves,0
+213,Three Horns,Impiltur,halflings,0
+213,Three Horns,Impiltur,misc.,0
+214,Timbertown,Impiltur,humans,151
+214,Timbertown,Impiltur,dwarves,7
+214,Timbertown,Impiltur,halflings,0
+214,Timbertown,Impiltur,misc.,0
+215,Vordric Dun,Impiltur,humans,587
+215,Vordric Dun,Impiltur,dwarves,0
+215,Vordric Dun,Impiltur,halflings,0
+215,Vordric Dun,Impiltur,misc.,0
+216,Caer Callidyrr,Moonshae,humans,1118
+216,Caer Callidyrr,Moonshae,halflings,0
+216,Caer Callidyrr,Moonshae,elves,0
+216,Caer Callidyrr,Moonshae,dwarves,0
+216,Caer Callidyrr,Moonshae,half-elves,0
+216,Caer Callidyrr,Moonshae,misc.,32
+217,Aithelar,Moonshae,humans,849
+217,Aithelar,Moonshae,halflings,0
+217,Aithelar,Moonshae,elves,0
+217,Aithelar,Moonshae,dwarves,0
+217,Aithelar,Moonshae,half-elves,0
+217,Aithelar,Moonshae,misc.,0
+218,Blackstone,Moonshae,humans,818
+218,Blackstone,Moonshae,halflings,0
+218,Blackstone,Moonshae,elves,45
+218,Blackstone,Moonshae,dwarves,0
+218,Blackstone,Moonshae,half-elves,0
+218,Blackstone,Moonshae,misc.,0
+219,Blythe,Moonshae,humans,421
+219,Blythe,Moonshae,halflings,0
+219,Blythe,Moonshae,elves,229
+219,Blythe,Moonshae,dwarves,0
+219,Blythe,Moonshae,half-elves,0
+219,Blythe,Moonshae,misc.,0
+220,Borth,Moonshae,humans,94
+220,Borth,Moonshae,halflings,0
+220,Borth,Moonshae,elves,0
+220,Borth,Moonshae,dwarves,0
+220,Borth,Moonshae,half-elves,0
+220,Borth,Moonshae,misc.,0
+221,Bounty,Moonshae,humans,956
+221,Bounty,Moonshae,halflings,0
+221,Bounty,Moonshae,elves,0
+221,Bounty,Moonshae,dwarves,0
+221,Bounty,Moonshae,half-elves,0
+221,Bounty,Moonshae,misc.,0
+222,Brannoch,Moonshae,humans,851
+222,Brannoch,Moonshae,halflings,0
+222,Brannoch,Moonshae,elves,0
+222,Brannoch,Moonshae,dwarves,0
+222,Brannoch,Moonshae,half-elves,0
+222,Brannoch,Moonshae,misc.,0
+223,Bray,Moonshae,humans,1549
+223,Bray,Moonshae,halflings,0
+223,Bray,Moonshae,elves,0
+223,Bray,Moonshae,dwarves,0
+223,Bray,Moonshae,half-elves,0
+223,Bray,Moonshae,misc.,0
+224,Cambro,Moonshae,humans,165
+224,Cambro,Moonshae,halflings,35
+224,Cambro,Moonshae,elves,513
+224,Cambro,Moonshae,dwarves,0
+224,Cambro,Moonshae,half-elves,0
+224,Cambro,Moonshae,misc.,0
+225,Caer Corwell,Moonshae,humans,563
+225,Caer Corwell,Moonshae,halflings,0
+225,Caer Corwell,Moonshae,elves,0
+225,Caer Corwell,Moonshae,dwarves,0
+225,Caer Corwell,Moonshae,half-elves,0
+225,Caer Corwell,Moonshae,misc.,0
+226,Caer Moray,Moonshae,humans,605
+226,Caer Moray,Moonshae,halflings,90
+226,Caer Moray,Moonshae,elves,0
+226,Caer Moray,Moonshae,dwarves,392
+226,Caer Moray,Moonshae,half-elves,0
+226,Caer Moray,Moonshae,misc.,0
+227,Caer Westphal,Moonshae,humans,536
+227,Caer Westphal,Moonshae,halflings,0
+227,Caer Westphal,Moonshae,elves,0
+227,Caer Westphal,Moonshae,dwarves,0
+227,Caer Westphal,Moonshae,half-elves,0
+227,Caer Westphal,Moonshae,misc.,0
+228,Caervu,Moonshae,humans,62
+228,Caervu,Moonshae,halflings,25
+228,Caervu,Moonshae,elves,0
+228,Caervu,Moonshae,dwarves,0
+228,Caervu,Moonshae,half-elves,0
+228,Caervu,Moonshae,misc.,0
+229,Cobh,Moonshae,humans,186
+229,Cobh,Moonshae,halflings,0
+229,Cobh,Moonshae,elves,10
+229,Cobh,Moonshae,dwarves,0
+229,Cobh,Moonshae,half-elves,0
+229,Cobh,Moonshae,misc.,0
+230,Codfin,Moonshae,humans,953
+230,Codfin,Moonshae,halflings,0
+230,Codfin,Moonshae,elves,0
+230,Codfin,Moonshae,dwarves,0
+230,Codfin,Moonshae,half-elves,187
+230,Codfin,Moonshae,misc.,0
+231,Codscove,Moonshae,humans,591
+231,Codscove,Moonshae,halflings,0
+231,Codscove,Moonshae,elves,213
+231,Codscove,Moonshae,dwarves,0
+231,Codscove,Moonshae,half-elves,0
+231,Codscove,Moonshae,misc.,0
+232,Doncastle,Moonshae,humans,84
+232,Doncastle,Moonshae,halflings,0
+232,Doncastle,Moonshae,elves,0
+232,Doncastle,Moonshae,dwarves,0
+232,Doncastle,Moonshae,half-elves,0
+232,Doncastle,Moonshae,misc.,0
+233,Dorset,Moonshae,humans,292
+233,Dorset,Moonshae,halflings,66
+233,Dorset,Moonshae,elves,0
+233,Dorset,Moonshae,dwarves,0
+233,Dorset,Moonshae,half-elves,0
+233,Dorset,Moonshae,misc.,0
+234,Dultann,Moonshae,humans,1291
+234,Dultann,Moonshae,halflings,0
+234,Dultann,Moonshae,elves,0
+234,Dultann,Moonshae,dwarves,0
+234,Dultann,Moonshae,half-elves,0
+234,Dultann,Moonshae,misc.,0
+235,Dynnatt,Moonshae,humans,533
+235,Dynnatt,Moonshae,halflings,0
+235,Dynnatt,Moonshae,elves,0
+235,Dynnatt,Moonshae,dwarves,0
+235,Dynnatt,Moonshae,half-elves,0
+235,Dynnatt,Moonshae,misc.,0
+236,Dynnegall,Moonshae,humans,576
+236,Dynnegall,Moonshae,halflings,0
+236,Dynnegall,Moonshae,elves,339
+236,Dynnegall,Moonshae,dwarves,0
+236,Dynnegall,Moonshae,half-elves,0
+236,Dynnegall,Moonshae,misc.,0
+237,Elyssyrr,Moonshae,humans,321
+237,Elyssyrr,Moonshae,halflings,0
+237,Elyssyrr,Moonshae,elves,0
+237,Elyssyrr,Moonshae,dwarves,0
+237,Elyssyrr,Moonshae,half-elves,0
+237,Elyssyrr,Moonshae,misc.,0
+238,Farview,Moonshae,humans,1021
+238,Farview,Moonshae,halflings,0
+238,Farview,Moonshae,elves,0
+238,Farview,Moonshae,dwarves,2
+238,Farview,Moonshae,half-elves,0
+238,Farview,Moonshae,misc.,0
+239,Fenton,Moonshae,humans,751
+239,Fenton,Moonshae,halflings,0
+239,Fenton,Moonshae,elves,0
+239,Fenton,Moonshae,dwarves,0
+239,Fenton,Moonshae,half-elves,0
+239,Fenton,Moonshae,misc.,0
+240,Grady,Moonshae,humans,1196
+240,Grady,Moonshae,halflings,0
+240,Grady,Moonshae,elves,0
+240,Grady,Moonshae,dwarves,0
+240,Grady,Moonshae,half-elves,0
+240,Grady,Moonshae,misc.,0
+241,Graystone,Moonshae,humans,1362
+241,Graystone,Moonshae,halflings,357
+241,Graystone,Moonshae,elves,0
+241,Graystone,Moonshae,dwarves,0
+241,Graystone,Moonshae,half-elves,0
+241,Graystone,Moonshae,misc.,0
+242,Grimstad,Moonshae,humans,334
+242,Grimstad,Moonshae,halflings,0
+242,Grimstad,Moonshae,elves,0
+242,Grimstad,Moonshae,dwarves,0
+242,Grimstad,Moonshae,half-elves,331
+242,Grimstad,Moonshae,misc.,0
+243,Harloch,Moonshae,humans,935
+243,Harloch,Moonshae,halflings,0
+243,Harloch,Moonshae,elves,186
+243,Harloch,Moonshae,dwarves,0
+243,Harloch,Moonshae,half-elves,0
+243,Harloch,Moonshae,misc.,0
+244,Hickorydale,Moonshae,humans,986
+244,Hickorydale,Moonshae,halflings,184
+244,Hickorydale,Moonshae,elves,0
+244,Hickorydale,Moonshae,dwarves,3
+244,Hickorydale,Moonshae,half-elves,0
+244,Hickorydale,Moonshae,misc.,0
+245,Horsa,Moonshae,humans,4645
+245,Horsa,Moonshae,halflings,0
+245,Horsa,Moonshae,elves,0
+245,Horsa,Moonshae,dwarves,0
+245,Horsa,Moonshae,half-elves,0
+245,Horsa,Moonshae,misc.,0
+246,Horst,Moonshae,humans,423
+246,Horst,Moonshae,halflings,2
+246,Horst,Moonshae,elves,0
+246,Horst,Moonshae,dwarves,0
+246,Horst,Moonshae,half-elves,0
+246,Horst,Moonshae,misc.,0
+247,Highhome,Moonshae,humans,90
+247,Highhome,Moonshae,halflings,0
+247,Highhome,Moonshae,elves,0
+247,Highhome,Moonshae,dwarves,0
+247,Highhome,Moonshae,half-elves,0
+247,Highhome,Moonshae,misc.,0
+248,Highrock,Moonshae,humans,385
+248,Highrock,Moonshae,halflings,0
+248,Highrock,Moonshae,elves,0
+248,Highrock,Moonshae,dwarves,0
+248,Highrock,Moonshae,half-elves,0
+248,Highrock,Moonshae,misc.,0
+249,Holyhead,Moonshae,humans,1360
+249,Holyhead,Moonshae,halflings,0
+249,Holyhead,Moonshae,elves,0
+249,Holyhead,Moonshae,dwarves,0
+249,Holyhead,Moonshae,half-elves,0
+249,Holyhead,Moonshae,misc.,1
+250,Horstall,Moonshae,humans,64
+250,Horstall,Moonshae,halflings,147
+250,Horstall,Moonshae,elves,0
+250,Horstall,Moonshae,dwarves,0
+250,Horstall,Moonshae,half-elves,481
+250,Horstall,Moonshae,misc.,0
+251,Hyoclaatl,Moonshae,humans,11537
+251,Hyoclaatl,Moonshae,halflings,544
+251,Hyoclaatl,Moonshae,elves,0
+251,Hyoclaatl,Moonshae,dwarves,12
+251,Hyoclaatl,Moonshae,half-elves,0
+251,Hyoclaatl,Moonshae,misc.,0
+252,Kingsbay,Moonshae,humans,656
+252,Kingsbay,Moonshae,halflings,13
+252,Kingsbay,Moonshae,elves,0
+252,Kingsbay,Moonshae,dwarves,137
+252,Kingsbay,Moonshae,half-elves,0
+252,Kingsbay,Moonshae,misc.,0
+253,Koart,Moonshae,humans,1555
+253,Koart,Moonshae,halflings,90
+253,Koart,Moonshae,elves,0
+253,Koart,Moonshae,dwarves,0
+253,Koart,Moonshae,half-elves,0
+253,Koart,Moonshae,misc.,0
+254,Kork,Moonshae,humans,1521
+254,Kork,Moonshae,halflings,0
+254,Kork,Moonshae,elves,0
+254,Kork,Moonshae,dwarves,0
+254,Kork,Moonshae,half-elves,0
+254,Kork,Moonshae,misc.,0
+255,Kythyss,Moonshae,humans,1643
+255,Kythyss,Moonshae,halflings,0
+255,Kythyss,Moonshae,elves,0
+255,Kythyss,Moonshae,dwarves,0
+255,Kythyss,Moonshae,half-elves,0
+255,Kythyss,Moonshae,misc.,0
+256,Lehigh,Moonshae,humans,318
+256,Lehigh,Moonshae,halflings,9
+256,Lehigh,Moonshae,elves,0
+256,Lehigh,Moonshae,dwarves,190
+256,Lehigh,Moonshae,half-elves,0
+256,Lehigh,Moonshae,misc.,0
+257,Llandrain,Moonshae,humans,1479
+257,Llandrain,Moonshae,halflings,0
+257,Llandrain,Moonshae,elves,0
+257,Llandrain,Moonshae,dwarves,0
+257,Llandrain,Moonshae,half-elves,0
+257,Llandrain,Moonshae,misc.,0
+258,Llewellyn,Moonshae,humans,206
+258,Llewellyn,Moonshae,halflings,463
+258,Llewellyn,Moonshae,elves,17
+258,Llewellyn,Moonshae,dwarves,0
+258,Llewellyn,Moonshae,half-elves,0
+258,Llewellyn,Moonshae,misc.,0
+259,Lowhill,Moonshae,humans,13473
+259,Lowhill,Moonshae,halflings,0
+259,Lowhill,Moonshae,elves,0
+259,Lowhill,Moonshae,dwarves,0
+259,Lowhill,Moonshae,half-elves,0
+259,Lowhill,Moonshae,misc.,0
+260,MacSheehan,Moonshae,humans,792
+260,MacSheehan,Moonshae,halflings,3
+260,MacSheehan,Moonshae,elves,0
+260,MacSheehan,Moonshae,dwarves,0
+260,MacSheehan,Moonshae,half-elves,0
+260,MacSheehan,Moonshae,misc.,442
+261,Manger,Moonshae,humans,1032
+261,Manger,Moonshae,halflings,4
+261,Manger,Moonshae,elves,0
+261,Manger,Moonshae,dwarves,0
+261,Manger,Moonshae,half-elves,0
+261,Manger,Moonshae,misc.,0
+262,Myrrdale,Moonshae,humans,340
+262,Myrrdale,Moonshae,halflings,0
+262,Myrrdale,Moonshae,elves,60
+262,Myrrdale,Moonshae,dwarves,0
+262,Myrrdale,Moonshae,half-elves,0
+262,Myrrdale,Moonshae,misc.,0
+263,Ogden,Moonshae,humans,1751
+263,Ogden,Moonshae,halflings,0
+263,Ogden,Moonshae,elves,0
+263,Ogden,Moonshae,dwarves,1
+263,Ogden,Moonshae,half-elves,0
+263,Ogden,Moonshae,misc.,0
+264,O’Malley,Moonshae,humans,1527
+264,O’Malley,Moonshae,halflings,0
+264,O’Malley,Moonshae,elves,0
+264,O’Malley,Moonshae,dwarves,0
+264,O’Malley,Moonshae,half-elves,0
+264,O’Malley,Moonshae,misc.,0
+265,Pembroke,Moonshae,humans,497
+265,Pembroke,Moonshae,halflings,0
+265,Pembroke,Moonshae,elves,0
+265,Pembroke,Moonshae,dwarves,0
+265,Pembroke,Moonshae,half-elves,0
+265,Pembroke,Moonshae,misc.,0
+266,Pengram,Moonshae,humans,161
+266,Pengram,Moonshae,halflings,59
+266,Pengram,Moonshae,elves,880
+266,Pengram,Moonshae,dwarves,0
+266,Pengram,Moonshae,half-elves,0
+266,Pengram,Moonshae,misc.,0
+267,Pontswain,Moonshae,humans,820
+267,Pontswain,Moonshae,halflings,20
+267,Pontswain,Moonshae,elves,0
+267,Pontswain,Moonshae,dwarves,0
+267,Pontswain,Moonshae,half-elves,1
+267,Pontswain,Moonshae,misc.,52
+268,Regents Field,Moonshae,humans,643
+268,Regents Field,Moonshae,halflings,0
+268,Regents Field,Moonshae,elves,0
+268,Regents Field,Moonshae,dwarves,0
+268,Regents Field,Moonshae,half-elves,0
+268,Regents Field,Moonshae,misc.,38
+269,Storaad,Moonshae,humans,1178
+269,Storaad,Moonshae,halflings,0
+269,Storaad,Moonshae,elves,0
+269,Storaad,Moonshae,dwarves,0
+269,Storaad,Moonshae,half-elves,0
+269,Storaad,Moonshae,misc.,0
+270,Tetauctaa,Moonshae,humans,1695
+270,Tetauctaa,Moonshae,halflings,0
+270,Tetauctaa,Moonshae,elves,0
+270,Tetauctaa,Moonshae,dwarves,0
+270,Tetauctaa,Moonshae,half-elves,0
+270,Tetauctaa,Moonshae,misc.,0
+271,Thorndyke,Moonshae,humans,390
+271,Thorndyke,Moonshae,halflings,0
+271,Thorndyke,Moonshae,elves,0
+271,Thorndyke,Moonshae,dwarves,0
+271,Thorndyke,Moonshae,half-elves,0
+271,Thorndyke,Moonshae,misc.,0
+272,White Rock,Moonshae,humans,784
+272,White Rock,Moonshae,halflings,0
+272,White Rock,Moonshae,elves,0
+272,White Rock,Moonshae,dwarves,0
+272,White Rock,Moonshae,half-elves,0
+272,White Rock,Moonshae,misc.,0
+273,Wyngate,Moonshae,humans,705
+273,Wyngate,Moonshae,halflings,0
+273,Wyngate,Moonshae,elves,0
+273,Wyngate,Moonshae,dwarves,0
+273,Wyngate,Moonshae,half-elves,0
+273,Wyngate,Moonshae,misc.,2
+274,Selpir,Nimbral,humans,1831
+274,Selpir,Nimbral,half-elves,2702
+275,Arevar,Nimbral,humans,417
+275,Arevar,Nimbral,half-elves,0
+276,Bromtor,Nimbral,humans,320
+276,Bromtor,Nimbral,half-elves,0
+277,Curstallyon,Nimbral,humans,403
+277,Curstallyon,Nimbral,half-elves,16
+278,Esdul,Nimbral,humans,4268
+278,Esdul,Nimbral,half-elves,0
+279,Nimith,Nimbral,humans,445
+279,Nimith,Nimbral,half-elves,2
+280,Nimsur,Nimbral,humans,4301
+280,Nimsur,Nimbral,half-elves,0
+281,Ormen,Nimbral,humans,338
+281,Ormen,Nimbral,half-elves,0
+282,Rauthaven,Nimbral,humans,4316
+282,Rauthaven,Nimbral,half-elves,0
+283,Sombor,Nimbral,humans,566
+283,Sombor,Nimbral,half-elves,0
+284,Suthaven,Nimbral,humans,139
+284,Suthaven,Nimbral,half-elves,3
+285,Tethmor,Nimbral,humans,4431
+285,Tethmor,Nimbral,half-elves,0
+286,Vindal,Nimbral,humans,179
+286,Vindal,Nimbral,half-elves,0
+287,Ordulin,Sembia,humans,37559
+287,Ordulin,Sembia,halflings,0
+287,Ordulin,Sembia,misc.,0
+288,Daerlun,Sembia,humans,52028
+288,Daerlun,Sembia,halflings,0
+288,Daerlun,Sembia,misc.,0
+289,Huddagh,Sembia,humans,6838
+289,Huddagh,Sembia,halflings,118
+289,Huddagh,Sembia,misc.,0
+290,Kulta,Sembia,humans,7314
+290,Kulta,Sembia,halflings,0
+290,Kulta,Sembia,misc.,0
+291,Mulhessen,Sembia,humans,26542
+291,Mulhessen,Sembia,halflings,0
+291,Mulhessen,Sembia,misc.,0
+292,Saerb,Sembia,humans,26053
+292,Saerb,Sembia,halflings,1085
+292,Saerb,Sembia,misc.,0
+293,Saerloon,Sembia,humans,57120
+293,Saerloon,Sembia,halflings,0
+293,Saerloon,Sembia,misc.,0
+294,Selgaunt,Sembia,humans,56790
+294,Selgaunt,Sembia,halflings,0
+294,Selgaunt,Sembia,misc.,0
+295,Surd,Sembia,humans,26230
+295,Surd,Sembia,halflings,0
+295,Surd,Sembia,misc.,0
+296,Tulbegh,Sembia,humans,27735
+296,Tulbegh,Sembia,halflings,55
+296,Tulbegh,Sembia,misc.,0
+297,Uarhold,Sembia,humans,7395
+297,Uarhold,Sembia,halflings,0
+297,Uarhold,Sembia,misc.,0
+298,Urmlaspyr,Sembia,humans,5647
+298,Urmlaspyr,Sembia,halflings,0
+298,Urmlaspyr,Sembia,misc.,0
+299,Yhaunn,Sembia,humans,19399
+299,Yhaunn,Sembia,halflings,0
+299,Yhaunn,Sembia,misc.,0
+300,Yuthgalaunt,Sembia,humans,2899
+300,Yuthgalaunt,Sembia,halflings,0
+300,Yuthgalaunt,Sembia,misc.,0
+301,Sundice,Sossal,humans,1738
+301,Sundice,Sossal,halflings,55
+301,Sundice,Sossal,dwarves,59
+301,Sundice,Sossal,half-elves,38
+301,Sundice,Sossal,elves,19
+302,Sundice,Sossal,humans,6530
+302,Sundice,Sossal,halflings,224
+302,Sundice,Sossal,dwarves,224
+302,Sundice,Sossal,half-elves,142
+302,Sundice,Sossal,elves,74
+303,Dharvil,Sossal,humans,1689
+303,Dharvil,Sossal,halflings,58
+303,Dharvil,Sossal,dwarves,58
+303,Dharvil,Sossal,half-elves,38
+303,Dharvil,Sossal,elves,19
+304,Naupau,Sossal,humans,875
+304,Naupau,Sossal,halflings,28
+304,Naupau,Sossal,dwarves,28
+304,Naupau,Sossal,half-elves,19
+304,Naupau,Sossal,elves,9
+305,Shannath,Sossal,humans,1366
+305,Shannath,Sossal,halflings,44
+305,Shannath,Sossal,dwarves,42
+305,Shannath,Sossal,half-elves,29
+305,Shannath,Sossal,elves,14
+306,Uldfest,Sossal,humans,1265
+306,Uldfest,Sossal,halflings,41
+306,Uldfest,Sossal,dwarves,41
+306,Uldfest,Sossal,half-elves,28
+306,Uldfest,Sossal,elves,14
+307,Darromar,Tethyr,humans,61753
+307,Darromar,Tethyr,halflings,5662
+307,Darromar,Tethyr,elves,0
+307,Darromar,Tethyr,misc.,0
+308,Abbor,Tethyr,humans,72
+308,Abbor,Tethyr,halflings,12
+308,Abbor,Tethyr,elves,9
+308,Abbor,Tethyr,misc.,0
+309,Banshivale,Tethyr,humans,768
+309,Banshivale,Tethyr,halflings,0
+309,Banshivale,Tethyr,elves,0
+309,Banshivale,Tethyr,misc.,0
+310,Barrowsmorn,Tethyr,humans,645
+310,Barrowsmorn,Tethyr,halflings,34
+310,Barrowsmorn,Tethyr,elves,74
+310,Barrowsmorn,Tethyr,misc.,2
+311,Brost,Tethyr,humans,605
+311,Brost,Tethyr,halflings,106
+311,Brost,Tethyr,elves,0
+311,Brost,Tethyr,misc.,0
+312,Cayr Thalwood,Tethyr,humans,7
+312,Cayr Thalwood,Tethyr,halflings,292
+312,Cayr Thalwood,Tethyr,elves,0
+312,Cayr Thalwood,Tethyr,misc.,0
+313,Colbertann,Tethyr,humans,257
+313,Colbertann,Tethyr,halflings,89
+313,Colbertann,Tethyr,elves,232
+313,Colbertann,Tethyr,misc.,0
+314,Daraqadim,Tethyr,humans,720
+314,Daraqadim,Tethyr,halflings,16
+314,Daraqadim,Tethyr,elves,0
+314,Daraqadim,Tethyr,misc.,0
+315,Dunod,Tethyr,humans,131
+315,Dunod,Tethyr,halflings,4
+315,Dunod,Tethyr,elves,0
+315,Dunod,Tethyr,misc.,0
+316,Elbencourt,Tethyr,humans,726
+316,Elbencourt,Tethyr,halflings,99
+316,Elbencourt,Tethyr,elves,0
+316,Elbencourt,Tethyr,misc.,0
+317,Fort Agis,Tethyr,humans,320
+317,Fort Agis,Tethyr,halflings,10
+317,Fort Agis,Tethyr,elves,0
+317,Fort Agis,Tethyr,misc.,0
+318,Fort Calim,Tethyr,humans,734
+318,Fort Calim,Tethyr,halflings,25
+318,Fort Calim,Tethyr,elves,0
+318,Fort Calim,Tethyr,misc.,0
+319,Fort Teqlar,Tethyr,humans,307
+319,Fort Teqlar,Tethyr,halflings,7
+319,Fort Teqlar,Tethyr,elves,0
+319,Fort Teqlar,Tethyr,misc.,0
+320,Grapton,Tethyr,humans,166
+320,Grapton,Tethyr,halflings,804
+320,Grapton,Tethyr,elves,0
+320,Grapton,Tethyr,misc.,0
+321,Hostim,Tethyr,humans,718
+321,Hostim,Tethyr,halflings,51
+321,Hostim,Tethyr,elves,0
+321,Hostim,Tethyr,misc.,0
+322,Ithal Pass,Tethyr,humans,816
+322,Ithal Pass,Tethyr,halflings,0
+322,Ithal Pass,Tethyr,elves,0
+322,Ithal Pass,Tethyr,misc.,0
+323,Jhaansciim,Tethyr,humans,774
+323,Jhaansciim,Tethyr,halflings,26
+323,Jhaansciim,Tethyr,elves,0
+323,Jhaansciim,Tethyr,misc.,1
+324,Khanall,Tethyr,humans,8005
+324,Khanall,Tethyr,halflings,24
+324,Khanall,Tethyr,elves,0
+324,Khanall,Tethyr,misc.,0
+325,Kirgard,Tethyr,humans,6884
+325,Kirgard,Tethyr,halflings,0
+325,Kirgard,Tethyr,elves,0
+325,Kirgard,Tethyr,misc.,0
+326,Krennasar,Tethyr,humans,673
+326,Krennasar,Tethyr,halflings,55
+326,Krennasar,Tethyr,elves,0
+326,Krennasar,Tethyr,misc.,0
+327,Kzelter,Tethyr,humans,9048
+327,Kzelter,Tethyr,halflings,0
+327,Kzelter,Tethyr,elves,337
+327,Kzelter,Tethyr,misc.,0
+328,Lhestyn’s Hearth,Tethyr,humans,2631
+328,Lhestyn’s Hearth,Tethyr,halflings,1165
+328,Lhestyn’s Hearth,Tethyr,elves,0
+328,Lhestyn’s Hearth,Tethyr,misc.,0
+329,Loranse,Tethyr,humans,563
+329,Loranse,Tethyr,halflings,7150
+329,Loranse,Tethyr,elves,0
+329,Loranse,Tethyr,misc.,0
+330,Lyllburg,Tethyr,humans,601
+330,Lyllburg,Tethyr,halflings,138
+330,Lyllburg,Tethyr,elves,0
+330,Lyllburg,Tethyr,misc.,0
+331,Marakir,Tethyr,humans,7654
+331,Marakir,Tethyr,halflings,0
+331,Marakir,Tethyr,elves,0
+331,Marakir,Tethyr,misc.,0
+332,Maratimmir,Tethyr,humans,7562
+332,Maratimmir,Tethyr,halflings,15
+332,Maratimmir,Tethyr,elves,22
+332,Maratimmir,Tethyr,misc.,0
+333,Masamount,Tethyr,humans,555
+333,Masamount,Tethyr,halflings,306
+333,Masamount,Tethyr,elves,0
+333,Masamount,Tethyr,misc.,0
+334,Monguldarath,Tethyr,humans,2618
+334,Monguldarath,Tethyr,halflings,2029
+334,Monguldarath,Tethyr,elves,2448
+334,Monguldarath,Tethyr,misc.,0
+335,Morninggold Keep,Tethyr,humans,10692
+335,Morninggold Keep,Tethyr,halflings,0
+335,Morninggold Keep,Tethyr,elves,0
+335,Morninggold Keep,Tethyr,misc.,0
+336,Mosstone,Tethyr,humans,156
+336,Mosstone,Tethyr,halflings,1469
+336,Mosstone,Tethyr,elves,0
+336,Mosstone,Tethyr,misc.,0
+337,Mount Noblesse,Tethyr,humans,8455
+337,Mount Noblesse,Tethyr,halflings,0
+337,Mount Noblesse,Tethyr,elves,0
+337,Mount Noblesse,Tethyr,misc.,0
+338,Myratma,Tethyr,humans,37866
+338,Myratma,Tethyr,halflings,12893
+338,Myratma,Tethyr,elves,0
+338,Myratma,Tethyr,misc.,0
+339,Myth Dyraalis,Tethyr,humans,8131
+339,Myth Dyraalis,Tethyr,halflings,107
+339,Myth Dyraalis,Tethyr,elves,0
+339,Myth Dyraalis,Tethyr,misc.,0
+340,Nomerritin,Tethyr,humans,734
+340,Nomerritin,Tethyr,halflings,0
+340,Nomerritin,Tethyr,elves,0
+340,Nomerritin,Tethyr,misc.,0
+341,Pansemil,Tethyr,humans,117
+341,Pansemil,Tethyr,halflings,189
+341,Pansemil,Tethyr,elves,0
+341,Pansemil,Tethyr,misc.,0
+342,Port Kir,Tethyr,humans,4431
+342,Port Kir,Tethyr,halflings,2202
+342,Port Kir,Tethyr,elves,0
+342,Port Kir,Tethyr,misc.,0
+343,Qian Hillfort,Tethyr,humans,44
+343,Qian Hillfort,Tethyr,halflings,15
+343,Qian Hillfort,Tethyr,elves,0
+343,Qian Hillfort,Tethyr,misc.,0
+344,Riatavin,Tethyr,humans,14784
+344,Riatavin,Tethyr,halflings,0
+344,Riatavin,Tethyr,elves,0
+344,Riatavin,Tethyr,misc.,0
+345,Rock Orchard,Tethyr,humans,7061
+345,Rock Orchard,Tethyr,halflings,0
+345,Rock Orchard,Tethyr,elves,589
+345,Rock Orchard,Tethyr,misc.,0
+346,Ruba,Tethyr,humans,63
+346,Ruba,Tethyr,halflings,51
+346,Ruba,Tethyr,elves,0
+346,Ruba,Tethyr,misc.,0
+347,Saharkhan,Tethyr,humans,7935
+347,Saharkhan,Tethyr,halflings,63
+347,Saharkhan,Tethyr,elves,0
+347,Saharkhan,Tethyr,misc.,0
+348,Saradush,Tethyr,humans,14033
+348,Saradush,Tethyr,halflings,22417
+348,Saradush,Tethyr,elves,0
+348,Saradush,Tethyr,misc.,0
+349,Shelshyr House,Tethyr,humans,3348
+349,Shelshyr House,Tethyr,halflings,3852
+349,Shelshyr House,Tethyr,elves,0
+349,Shelshyr House,Tethyr,misc.,0
+350,Sulduskoonar,Tethyr,humans,2789
+350,Sulduskoonar,Tethyr,halflings,4897
+350,Sulduskoonar,Tethyr,elves,1201
+350,Sulduskoonar,Tethyr,misc.,80
+351,Survale Ford,Tethyr,humans,435
+351,Survale Ford,Tethyr,halflings,5
+351,Survale Ford,Tethyr,elves,0
+351,Survale Ford,Tethyr,misc.,0
+352,Tannitton,Tethyr,humans,15
+352,Tannitton,Tethyr,halflings,74
+352,Tannitton,Tethyr,elves,0
+352,Tannitton,Tethyr,misc.,0
+353,Toaketh,Tethyr,humans,7753
+353,Toaketh,Tethyr,halflings,0
+353,Toaketh,Tethyr,elves,0
+353,Toaketh,Tethyr,misc.,0
+354,Toralth,Tethyr,humans,5293
+354,Toralth,Tethyr,halflings,37
+354,Toralth,Tethyr,elves,0
+354,Toralth,Tethyr,misc.,0
+355,Trailstone,Tethyr,humans,84
+355,Trailstone,Tethyr,halflings,327
+355,Trailstone,Tethyr,elves,0
+355,Trailstone,Tethyr,misc.,0
+356,Tulmene,Tethyr,humans,334
+356,Tulmene,Tethyr,halflings,3029
+356,Tulmene,Tethyr,elves,268
+356,Tulmene,Tethyr,misc.,0
+357,Tweyar,Tethyr,humans,947
+357,Tweyar,Tethyr,halflings,6996
+357,Tweyar,Tethyr,elves,0
+357,Tweyar,Tethyr,misc.,15
+358,Upparkol,Tethyr,humans,1537
+358,Upparkol,Tethyr,halflings,3
+358,Upparkol,Tethyr,elves,0
+358,Upparkol,Tethyr,misc.,0
+359,Valtreth,Tethyr,humans,648
+359,Valtreth,Tethyr,halflings,101
+359,Valtreth,Tethyr,elves,0
+359,Valtreth,Tethyr,misc.,0
+360,Velen,Tethyr,humans,9910
+360,Velen,Tethyr,halflings,4053
+360,Velen,Tethyr,elves,27
+360,Velen,Tethyr,misc.,0
+361,Vineshade,Tethyr,humans,3005
+361,Vineshade,Tethyr,halflings,109
+361,Vineshade,Tethyr,elves,0
+361,Vineshade,Tethyr,misc.,0
+362,Viperstongue,Tethyr,humans,483
+362,Viperstongue,Tethyr,halflings,292
+362,Viperstongue,Tethyr,elves,0
+362,Viperstongue,Tethyr,misc.,0
+363,Zazesspur,Tethyr,humans,114049
+363,Zazesspur,Tethyr,halflings,343
+363,Zazesspur,Tethyr,elves,114
+363,Zazesspur,Tethyr,misc.,0
+364,Eltabbar,Thay,humans,3555
+364,Eltabbar,Thay,gnolls,5332
+364,Eltabbar,Thay,orcs,2502
+364,Eltabbar,Thay,dwarves,81
+364,Eltabbar,Thay,goblins,0
+364,Eltabbar,Thay,halflings,233
+364,Eltabbar,Thay,misc.,0
+365,Amruthar,Thay,humans,1075
+365,Amruthar,Thay,gnolls,0
+365,Amruthar,Thay,orcs,239
+365,Amruthar,Thay,dwarves,0
+365,Amruthar,Thay,goblins,38212
+365,Amruthar,Thay,halflings,318
+365,Amruthar,Thay,misc.,0
+366,Anhaurz,Thay,humans,20906
+366,Anhaurz,Thay,gnolls,0
+366,Anhaurz,Thay,orcs,0
+366,Anhaurz,Thay,dwarves,0
+366,Anhaurz,Thay,goblins,1032
+366,Anhaurz,Thay,halflings,0
+366,Anhaurz,Thay,misc.,0
+367,Ankhur,Thay,humans,1868
+367,Ankhur,Thay,gnolls,0
+367,Ankhur,Thay,orcs,386
+367,Ankhur,Thay,dwarves,0
+367,Ankhur,Thay,goblins,0
+367,Ankhur,Thay,halflings,57
+367,Ankhur,Thay,misc.,0
+368,Belizir,Thay,humans,528
+368,Belizir,Thay,gnolls,2343
+368,Belizir,Thay,orcs,0
+368,Belizir,Thay,dwarves,21
+368,Belizir,Thay,goblins,4243
+368,Belizir,Thay,halflings,0
+368,Belizir,Thay,misc.,0
+369,Bezantur,Thay,humans,420
+369,Bezantur,Thay,gnolls,13
+369,Bezantur,Thay,orcs,0
+369,Bezantur,Thay,dwarves,7422
+369,Bezantur,Thay,goblins,5294
+369,Bezantur,Thay,halflings,0
+369,Bezantur,Thay,misc.,0
+370,Delabbar,Thay,humans,9452
+370,Delabbar,Thay,gnolls,411
+370,Delabbar,Thay,orcs,915
+370,Delabbar,Thay,dwarves,823
+370,Delabbar,Thay,goblins,11283
+370,Delabbar,Thay,halflings,0
+370,Delabbar,Thay,misc.,0
+371,Denzar,Thay,humans,3062
+371,Denzar,Thay,gnolls,0
+371,Denzar,Thay,orcs,68
+371,Denzar,Thay,dwarves,0
+371,Denzar,Thay,goblins,0
+371,Denzar,Thay,halflings,283
+371,Denzar,Thay,misc.,0
+372,Escalant,Thay,humans,28593
+372,Escalant,Thay,gnolls,0
+372,Escalant,Thay,orcs,0
+372,Escalant,Thay,dwarves,0
+372,Escalant,Thay,goblins,0
+372,Escalant,Thay,halflings,28
+372,Escalant,Thay,misc.,0
+373,Ezreket,Thay,humans,5306
+373,Ezreket,Thay,gnolls,3609
+373,Ezreket,Thay,orcs,0
+373,Ezreket,Thay,dwarves,0
+373,Ezreket,Thay,goblins,8
+373,Ezreket,Thay,halflings,0
+373,Ezreket,Thay,misc.,0
+374,Hurkh,Thay,humans,221
+374,Hurkh,Thay,gnolls,0
+374,Hurkh,Thay,orcs,0
+374,Hurkh,Thay,dwarves,2
+374,Hurkh,Thay,goblins,0
+374,Hurkh,Thay,halflings,0
+374,Hurkh,Thay,misc.,0
+375,Keluthar,Thay,humans,102
+375,Keluthar,Thay,gnolls,2
+375,Keluthar,Thay,orcs,0
+375,Keluthar,Thay,dwarves,219
+375,Keluthar,Thay,goblins,0
+375,Keluthar,Thay,halflings,0
+375,Keluthar,Thay,misc.,54
+376,Mophur,Thay,humans,22297
+376,Mophur,Thay,gnolls,254
+376,Mophur,Thay,orcs,555
+376,Mophur,Thay,dwarves,23
+376,Mophur,Thay,goblins,0
+376,Mophur,Thay,halflings,0
+376,Mophur,Thay,misc.,0
+377,Murbant,Thay,humans,4815
+377,Murbant,Thay,gnolls,0
+377,Murbant,Thay,orcs,24
+377,Murbant,Thay,dwarves,4
+377,Murbant,Thay,goblins,53
+377,Murbant,Thay,halflings,0
+377,Murbant,Thay,misc.,0
+378,Nethentir,Thay,humans,799
+378,Nethentir,Thay,gnolls,84
+378,Nethentir,Thay,orcs,320
+378,Nethentir,Thay,dwarves,0
+378,Nethentir,Thay,goblins,726
+378,Nethentir,Thay,halflings,0
+378,Nethentir,Thay,misc.,0
+379,Nethjet,Thay,humans,193
+379,Nethjet,Thay,gnolls,0
+379,Nethjet,Thay,orcs,1003
+379,Nethjet,Thay,dwarves,1
+379,Nethjet,Thay,goblins,125
+379,Nethjet,Thay,halflings,0
+379,Nethjet,Thay,misc.,0
+380,Nurethretos,Thay,humans,0
+380,Nurethretos,Thay,gnolls,257
+380,Nurethretos,Thay,orcs,0
+380,Nurethretos,Thay,dwarves,0
+380,Nurethretos,Thay,goblins,2
+380,Nurethretos,Thay,halflings,10
+380,Nurethretos,Thay,misc.,0
+381,Pyrados,Thay,humans,31243
+381,Pyrados,Thay,gnolls,0
+381,Pyrados,Thay,orcs,47
+381,Pyrados,Thay,dwarves,47
+381,Pyrados,Thay,goblins,0
+381,Pyrados,Thay,halflings,0
+381,Pyrados,Thay,misc.,16579
+382,Sefriszar,Thay,humans,1
+382,Sefriszar,Thay,gnolls,0
+382,Sefriszar,Thay,orcs,227
+382,Sefriszar,Thay,dwarves,0
+382,Sefriszar,Thay,goblins,0
+382,Sefriszar,Thay,halflings,0
+382,Sefriszar,Thay,misc.,0
+383,Sekelmur,Thay,humans,152
+383,Sekelmur,Thay,gnolls,144
+383,Sekelmur,Thay,orcs,0
+383,Sekelmur,Thay,dwarves,0
+383,Sekelmur,Thay,goblins,25
+383,Sekelmur,Thay,halflings,0
+383,Sekelmur,Thay,misc.,0
+384,Solzepar,Thay,humans,194
+384,Solzepar,Thay,gnolls,26
+384,Solzepar,Thay,orcs,0
+384,Solzepar,Thay,dwarves,1
+384,Solzepar,Thay,goblins,0
+384,Solzepar,Thay,halflings,0
+384,Solzepar,Thay,misc.,0
+385,Surag,Thay,humans,11923
+385,Surag,Thay,gnolls,50
+385,Surag,Thay,orcs,0
+385,Surag,Thay,dwarves,645
+385,Surag,Thay,goblins,37
+385,Surag,Thay,halflings,0
+385,Surag,Thay,misc.,0
+386,Surthay,Thay,humans,2546
+386,Surthay,Thay,gnolls,0
+386,Surthay,Thay,orcs,11995
+386,Surthay,Thay,dwarves,2546
+386,Surthay,Thay,goblins,0
+386,Surthay,Thay,halflings,0
+386,Surthay,Thay,misc.,0
+387,Szul,Thay,humans,1292
+387,Szul,Thay,gnolls,0
+387,Szul,Thay,orcs,29
+387,Szul,Thay,dwarves,344
+387,Szul,Thay,goblins,118
+387,Szul,Thay,halflings,38
+387,Szul,Thay,misc.,0
+388,Thasselen,Thay,humans,1366
+388,Thasselen,Thay,gnolls,7100
+388,Thasselen,Thay,orcs,827
+388,Thasselen,Thay,dwarves,0
+388,Thasselen,Thay,goblins,0
+388,Thasselen,Thay,halflings,0
+388,Thasselen,Thay,misc.,0
+389,Thazrumaros,Thay,humans,3209
+389,Thazrumaros,Thay,gnolls,0
+389,Thazrumaros,Thay,orcs,3
+389,Thazrumaros,Thay,dwarves,602
+389,Thazrumaros,Thay,goblins,50
+389,Thazrumaros,Thay,halflings,0
+389,Thazrumaros,Thay,misc.,0
+390,Tyraturos,Thay,humans,48200
+390,Tyraturos,Thay,gnolls,0
+390,Tyraturos,Thay,orcs,0
+390,Tyraturos,Thay,dwarves,0
+390,Tyraturos,Thay,goblins,0
+390,Tyraturos,Thay,halflings,0
+390,Tyraturos,Thay,misc.,0
+391,Umratharos,Thay,humans,89
+391,Umratharos,Thay,gnolls,131
+391,Umratharos,Thay,orcs,6
+391,Umratharos,Thay,dwarves,0
+391,Umratharos,Thay,goblins,0
+391,Umratharos,Thay,halflings,0
+391,Umratharos,Thay,misc.,0
+392,Whitebranch,Thay,humans,35
+392,Whitebranch,Thay,gnolls,40
+392,Whitebranch,Thay,orcs,0
+392,Whitebranch,Thay,dwarves,0
+392,Whitebranch,Thay,goblins,0
+392,Whitebranch,Thay,halflings,0
+392,Whitebranch,Thay,misc.,0
+393,Zolum,Thay,humans,3389
+393,Zolum,Thay,gnolls,0
+393,Zolum,Thay,orcs,87
+393,Zolum,Thay,dwarves,13
+393,Zolum,Thay,goblins,0
+393,Zolum,Thay,halflings,0
+393,Zolum,Thay,misc.,0
+394,Culdorn,Thesk,humans,9253
+394,Culdorn,Thesk,gnomes,0
+394,Culdorn,Thesk,orcs,0
+394,Culdorn,Thesk,misc.,0
+395,Ethvale,Thesk,humans,8643
+395,Ethvale,Thesk,gnomes,0
+395,Ethvale,Thesk,orcs,0
+395,Ethvale,Thesk,misc.,0
+396,Fullpoint,Thesk,humans,906
+396,Fullpoint,Thesk,gnomes,0
+396,Fullpoint,Thesk,orcs,0
+396,Fullpoint,Thesk,misc.,0
+397,Hill Town,Thesk,humans,384
+397,Hill Town,Thesk,gnomes,40
+397,Hill Town,Thesk,orcs,485
+397,Hill Town,Thesk,misc.,0
+398,Inkar,Thesk,humans,822
+398,Inkar,Thesk,gnomes,46
+398,Inkar,Thesk,orcs,4
+398,Inkar,Thesk,misc.,16
+399,Milvarune,Thesk,humans,5738
+399,Milvarune,Thesk,gnomes,0
+399,Milvarune,Thesk,orcs,0
+399,Milvarune,Thesk,misc.,0
+400,Nyth,Thesk,humans,11164
+400,Nyth,Thesk,gnomes,0
+400,Nyth,Thesk,orcs,147
+400,Nyth,Thesk,misc.,0
+401,Phent,Thesk,humans,8499
+401,Phent,Thesk,gnomes,0
+401,Phent,Thesk,orcs,0
+401,Phent,Thesk,misc.,0
+402,Phsant,Thesk,humans,209
+402,Phsant,Thesk,gnomes,0
+402,Phsant,Thesk,orcs,0
+402,Phsant,Thesk,misc.,0
+403,Tammar,Thesk,humans,3533
+403,Tammar,Thesk,gnomes,0
+403,Tammar,Thesk,orcs,7
+403,Tammar,Thesk,misc.,0
+404,Thassalra,Thesk,humans,8915
+404,Thassalra,Thesk,gnomes,181
+404,Thassalra,Thesk,orcs,0
+404,Thassalra,Thesk,misc.,0
+405,Two-Stars,Thesk,humans,4753
+405,Two-Stars,Thesk,gnomes,0
+405,Two-Stars,Thesk,orcs,19
+405,Two-Stars,Thesk,misc.,0
+406,Tezir-on-the-Marsh,Thesk,humans,8474
+406,Tezir-on-the-Marsh,Thesk,gnomes,51
+406,Tezir-on-the-Marsh,Thesk,orcs,0
+406,Tezir-on-the-Marsh,Thesk,misc.,0
+407,Alaghôn,Turmish,humans,35831
+407,Alaghôn,Turmish,dwarves,2022
+407,Alaghôn,Turmish,halflings,0
+407,Alaghôn,Turmish,elves,0
+407,Alaghôn,Turmish,gnomes,0
+407,Alaghôn,Turmish,half-elves,0
+407,Alaghôn,Turmish,half-orcs,0
+407,Alaghôn,Turmish,misc.,305
+408,Ayakar,Turmish,humans,4730
+408,Ayakar,Turmish,dwarves,0
+408,Ayakar,Turmish,halflings,0
+408,Ayakar,Turmish,elves,0
+408,Ayakar,Turmish,gnomes,0
+408,Ayakar,Turmish,half-elves,0
+408,Ayakar,Turmish,half-orcs,0
+408,Ayakar,Turmish,misc.,0
+409,Banathar,Turmish,humans,459
+409,Banathar,Turmish,dwarves,0
+409,Banathar,Turmish,halflings,0
+409,Banathar,Turmish,elves,9
+409,Banathar,Turmish,gnomes,0
+409,Banathar,Turmish,half-elves,0
+409,Banathar,Turmish,half-orcs,0
+409,Banathar,Turmish,misc.,0
+410,Bistal’s Bottom,Turmish,humans,2870
+410,Bistal’s Bottom,Turmish,dwarves,431
+410,Bistal’s Bottom,Turmish,halflings,2226
+410,Bistal’s Bottom,Turmish,elves,0
+410,Bistal’s Bottom,Turmish,gnomes,719
+410,Bistal’s Bottom,Turmish,half-elves,0
+410,Bistal’s Bottom,Turmish,half-orcs,6
+410,Bistal’s Bottom,Turmish,misc.,0
+411,Centaur Bridge,Turmish,humans,475
+411,Centaur Bridge,Turmish,dwarves,0
+411,Centaur Bridge,Turmish,halflings,5
+411,Centaur Bridge,Turmish,elves,0
+411,Centaur Bridge,Turmish,gnomes,0
+411,Centaur Bridge,Turmish,half-elves,0
+411,Centaur Bridge,Turmish,half-orcs,0
+411,Centaur Bridge,Turmish,misc.,0
+412,Daroush,Turmish,humans,6243
+412,Daroush,Turmish,dwarves,124
+412,Daroush,Turmish,halflings,441
+412,Daroush,Turmish,elves,1498
+412,Daroush,Turmish,gnomes,0
+412,Daroush,Turmish,half-elves,0
+412,Daroush,Turmish,half-orcs,16
+412,Daroush,Turmish,misc.,0
+413,Dauntshield,Turmish,humans,363
+413,Dauntshield,Turmish,dwarves,28
+413,Dauntshield,Turmish,halflings,0
+413,Dauntshield,Turmish,elves,0
+413,Dauntshield,Turmish,gnomes,0
+413,Dauntshield,Turmish,half-elves,35
+413,Dauntshield,Turmish,half-orcs,0
+413,Dauntshield,Turmish,misc.,0
+414,Faerie Well,Turmish,humans,621
+414,Faerie Well,Turmish,dwarves,214
+414,Faerie Well,Turmish,halflings,0
+414,Faerie Well,Turmish,elves,0
+414,Faerie Well,Turmish,gnomes,0
+414,Faerie Well,Turmish,half-elves,0
+414,Faerie Well,Turmish,half-orcs,0
+414,Faerie Well,Turmish,misc.,0
+415,Five Lions,Turmish,humans,5010
+415,Five Lions,Turmish,dwarves,0
+415,Five Lions,Turmish,halflings,0
+415,Five Lions,Turmish,elves,0
+415,Five Lions,Turmish,gnomes,0
+415,Five Lions,Turmish,half-elves,0
+415,Five Lions,Turmish,half-orcs,0
+415,Five Lions,Turmish,misc.,0
+416,Gildenglade,Turmish,humans,4625
+416,Gildenglade,Turmish,dwarves,0
+416,Gildenglade,Turmish,halflings,0
+416,Gildenglade,Turmish,elves,0
+416,Gildenglade,Turmish,gnomes,0
+416,Gildenglade,Turmish,half-elves,0
+416,Gildenglade,Turmish,half-orcs,0
+416,Gildenglade,Turmish,misc.,0
+417,Holdensword,Turmish,humans,21788
+417,Holdensword,Turmish,dwarves,0
+417,Holdensword,Turmish,halflings,0
+417,Holdensword,Turmish,elves,0
+417,Holdensword,Turmish,gnomes,0
+417,Holdensword,Turmish,half-elves,0
+417,Holdensword,Turmish,half-orcs,0
+417,Holdensword,Turmish,misc.,0
+418,Illowwood,Turmish,humans,49
+418,Illowwood,Turmish,dwarves,375
+418,Illowwood,Turmish,halflings,0
+418,Illowwood,Turmish,elves,0
+418,Illowwood,Turmish,gnomes,0
+418,Illowwood,Turmish,half-elves,0
+418,Illowwood,Turmish,half-orcs,55
+418,Illowwood,Turmish,misc.,0
+419,Ironcloak,Turmish,humans,2720
+419,Ironcloak,Turmish,dwarves,0
+419,Ironcloak,Turmish,halflings,2289
+419,Ironcloak,Turmish,elves,0
+419,Ironcloak,Turmish,gnomes,0
+419,Ironcloak,Turmish,half-elves,0
+419,Ironcloak,Turmish,half-orcs,0
+419,Ironcloak,Turmish,misc.,0
+420,Ironfang Deep,Turmish,humans,8216
+420,Ironfang Deep,Turmish,dwarves,0
+420,Ironfang Deep,Turmish,halflings,812
+420,Ironfang Deep,Turmish,elves,0
+420,Ironfang Deep,Turmish,gnomes,0
+420,Ironfang Deep,Turmish,half-elves,0
+420,Ironfang Deep,Turmish,half-orcs,0
+420,Ironfang Deep,Turmish,misc.,0
+421,Jathrin’s Jump,Turmish,humans,502
+421,Jathrin’s Jump,Turmish,dwarves,5
+421,Jathrin’s Jump,Turmish,halflings,1
+421,Jathrin’s Jump,Turmish,elves,0
+421,Jathrin’s Jump,Turmish,gnomes,0
+421,Jathrin’s Jump,Turmish,half-elves,0
+421,Jathrin’s Jump,Turmish,half-orcs,0
+421,Jathrin’s Jump,Turmish,misc.,0
+422,Karthoon,Turmish,humans,31887
+422,Karthoon,Turmish,dwarves,0
+422,Karthoon,Turmish,halflings,0
+422,Karthoon,Turmish,elves,0
+422,Karthoon,Turmish,gnomes,0
+422,Karthoon,Turmish,half-elves,0
+422,Karthoon,Turmish,half-orcs,0
+422,Karthoon,Turmish,misc.,0
+423,Merrydell,Turmish,humans,7022
+423,Merrydell,Turmish,dwarves,1658
+423,Merrydell,Turmish,halflings,0
+423,Merrydell,Turmish,elves,0
+423,Merrydell,Turmish,gnomes,0
+423,Merrydell,Turmish,half-elves,0
+423,Merrydell,Turmish,half-orcs,0
+423,Merrydell,Turmish,misc.,0
+424,Moonhunt Down,Turmish,humans,2664
+424,Moonhunt Down,Turmish,dwarves,10
+424,Moonhunt Down,Turmish,halflings,0
+424,Moonhunt Down,Turmish,elves,0
+424,Moonhunt Down,Turmish,gnomes,29
+424,Moonhunt Down,Turmish,half-elves,0
+424,Moonhunt Down,Turmish,half-orcs,0
+424,Moonhunt Down,Turmish,misc.,0
+425,Morningstar Hollows,Turmish,humans,18036
+425,Morningstar Hollows,Turmish,dwarves,18
+425,Morningstar Hollows,Turmish,halflings,0
+425,Morningstar Hollows,Turmish,elves,37
+425,Morningstar Hollows,Turmish,gnomes,0
+425,Morningstar Hollows,Turmish,half-elves,425
+425,Morningstar Hollows,Turmish,half-orcs,0
+425,Morningstar Hollows,Turmish,misc.,0
+426,Nonthal,Turmish,humans,13218
+426,Nonthal,Turmish,dwarves,0
+426,Nonthal,Turmish,halflings,106
+426,Nonthal,Turmish,elves,0
+426,Nonthal,Turmish,gnomes,0
+426,Nonthal,Turmish,half-elves,0
+426,Nonthal,Turmish,half-orcs,0
+426,Nonthal,Turmish,misc.,0
+427,Peldrathan’s Pool,Turmish,humans,895
+427,Peldrathan’s Pool,Turmish,dwarves,0
+427,Peldrathan’s Pool,Turmish,halflings,55
+427,Peldrathan’s Pool,Turmish,elves,0
+427,Peldrathan’s Pool,Turmish,gnomes,0
+427,Peldrathan’s Pool,Turmish,half-elves,0
+427,Peldrathan’s Pool,Turmish,half-orcs,0
+427,Peldrathan’s Pool,Turmish,misc.,0
+428,Oberiner’s Well,Turmish,humans,6497
+428,Oberiner’s Well,Turmish,dwarves,0
+428,Oberiner’s Well,Turmish,halflings,0
+428,Oberiner’s Well,Turmish,elves,6
+428,Oberiner’s Well,Turmish,gnomes,52
+428,Oberiner’s Well,Turmish,half-elves,0
+428,Oberiner’s Well,Turmish,half-orcs,0
+428,Oberiner’s Well,Turmish,misc.,0
+429,Quorngar,Turmish,humans,8
+429,Quorngar,Turmish,dwarves,346
+429,Quorngar,Turmish,halflings,0
+429,Quorngar,Turmish,elves,3
+429,Quorngar,Turmish,gnomes,0
+429,Quorngar,Turmish,half-elves,17
+429,Quorngar,Turmish,half-orcs,0
+429,Quorngar,Turmish,misc.,0
+430,Ravilar’s Cloak,Turmish,humans,732
+430,Ravilar’s Cloak,Turmish,dwarves,0
+430,Ravilar’s Cloak,Turmish,halflings,10
+430,Ravilar’s Cloak,Turmish,elves,0
+430,Ravilar’s Cloak,Turmish,gnomes,0
+430,Ravilar’s Cloak,Turmish,half-elves,0
+430,Ravilar’s Cloak,Turmish,half-orcs,0
+430,Ravilar’s Cloak,Turmish,misc.,0
+431,Regalia,Turmish,humans,665
+431,Regalia,Turmish,dwarves,1
+431,Regalia,Turmish,halflings,0
+431,Regalia,Turmish,elves,0
+431,Regalia,Turmish,gnomes,0
+431,Regalia,Turmish,half-elves,0
+431,Regalia,Turmish,half-orcs,0
+431,Regalia,Turmish,misc.,0
+432,Sambryntyn,Turmish,humans,4548
+432,Sambryntyn,Turmish,dwarves,0
+432,Sambryntyn,Turmish,halflings,15
+432,Sambryntyn,Turmish,elves,0
+432,Sambryntyn,Turmish,gnomes,512
+432,Sambryntyn,Turmish,half-elves,0
+432,Sambryntyn,Turmish,half-orcs,0
+432,Sambryntyn,Turmish,misc.,0
+433,Starfall,Turmish,humans,4581
+433,Starfall,Turmish,dwarves,0
+433,Starfall,Turmish,halflings,225
+433,Starfall,Turmish,elves,0
+433,Starfall,Turmish,gnomes,0
+433,Starfall,Turmish,half-elves,0
+433,Starfall,Turmish,half-orcs,0
+433,Starfall,Turmish,misc.,0
+434,Swordslake Creek,Turmish,humans,749
+434,Swordslake Creek,Turmish,dwarves,0
+434,Swordslake Creek,Turmish,halflings,9
+434,Swordslake Creek,Turmish,elves,0
+434,Swordslake Creek,Turmish,gnomes,0
+434,Swordslake Creek,Turmish,half-elves,0
+434,Swordslake Creek,Turmish,half-orcs,0
+434,Swordslake Creek,Turmish,misc.,0
+435,Tamring,Turmish,humans,6718
+435,Tamring,Turmish,dwarves,0
+435,Tamring,Turmish,halflings,0
+435,Tamring,Turmish,elves,0
+435,Tamring,Turmish,gnomes,0
+435,Tamring,Turmish,half-elves,0
+435,Tamring,Turmish,half-orcs,0
+435,Tamring,Turmish,misc.,0
+436,Ulver’s Lance,Turmish,humans,5706
+436,Ulver’s Lance,Turmish,dwarves,0
+436,Ulver’s Lance,Turmish,halflings,0
+436,Ulver’s Lance,Turmish,elves,4148
+436,Ulver’s Lance,Turmish,gnomes,0
+436,Ulver’s Lance,Turmish,half-elves,0
+436,Ulver’s Lance,Turmish,half-orcs,0
+436,Ulver’s Lance,Turmish,misc.,0
+437,Velorn’s Valor,Turmish,humans,488
+437,Velorn’s Valor,Turmish,dwarves,0
+437,Velorn’s Valor,Turmish,halflings,0
+437,Velorn’s Valor,Turmish,elves,0
+437,Velorn’s Valor,Turmish,gnomes,0
+437,Velorn’s Valor,Turmish,half-elves,0
+437,Velorn’s Valor,Turmish,half-orcs,0
+437,Velorn’s Valor,Turmish,misc.,0
+438,Vollermore,Turmish,humans,259
+438,Vollermore,Turmish,dwarves,52
+438,Vollermore,Turmish,halflings,80
+438,Vollermore,Turmish,elves,100
+438,Vollermore,Turmish,gnomes,0
+438,Vollermore,Turmish,half-elves,0
+438,Vollermore,Turmish,half-orcs,0
+438,Vollermore,Turmish,misc.,0
+439,Wyvernstone,Turmish,humans,14
+439,Wyvernstone,Turmish,dwarves,0
+439,Wyvernstone,Turmish,halflings,0
+439,Wyvernstone,Turmish,elves,0
+439,Wyvernstone,Turmish,gnomes,354
+439,Wyvernstone,Turmish,half-elves,0
+439,Wyvernstone,Turmish,half-orcs,4487
+439,Wyvernstone,Turmish,misc.,0
+440,Xorhun,Turmish,humans,8291
+440,Xorhun,Turmish,dwarves,8
+440,Xorhun,Turmish,halflings,0
+440,Xorhun,Turmish,elves,0
+440,Xorhun,Turmish,gnomes,0
+440,Xorhun,Turmish,half-elves,0
+440,Xorhun,Turmish,half-orcs,0
+440,Xorhun,Turmish,misc.,0
+441,Zustild,Turmish,humans,2333
+441,Zustild,Turmish,dwarves,0
+441,Zustild,Turmish,halflings,1583
+441,Zustild,Turmish,elves,0
+441,Zustild,Turmish,gnomes,985
+441,Zustild,Turmish,half-elves,0
+441,Zustild,Turmish,half-orcs,0
+441,Zustild,Turmish,misc.,0
+442,Unthalass,Unther,humans,158047
+442,Unthalass,Unther,dwarves,0
+442,Unthalass,Unther,halflings,0
+442,Unthalass,Unther,misc.,0
+443,Dalath,Unther,humans,6177
+443,Dalath,Unther,dwarves,0
+443,Dalath,Unther,halflings,0
+443,Dalath,Unther,misc.,0
+444,Firetrees,Unther,humans,7257
+444,Firetrees,Unther,dwarves,0
+444,Firetrees,Unther,halflings,0
+444,Firetrees,Unther,misc.,0
+445,Kaoll,Unther,humans,18776
+445,Kaoll,Unther,dwarves,0
+445,Kaoll,Unther,halflings,0
+445,Kaoll,Unther,misc.,0
+446,Messemprar,Unther,humans,15444
+446,Messemprar,Unther,dwarves,0
+446,Messemprar,Unther,halflings,0
+446,Messemprar,Unther,misc.,15
+447,Red Haven,Unther,humans,1562
+447,Red Haven,Unther,dwarves,0
+447,Red Haven,Unther,halflings,0
+447,Red Haven,Unther,misc.,0
+448,Sadamzar,Unther,humans,9150
+448,Sadamzar,Unther,dwarves,0
+448,Sadamzar,Unther,halflings,0
+448,Sadamzar,Unther,misc.,0
+449,Shussel,Unther,humans,8852
+449,Shussel,Unther,dwarves,0
+449,Shussel,Unther,halflings,0
+449,Shussel,Unther,misc.,0
+450,Ssintar,Unther,humans,3843
+450,Ssintar,Unther,dwarves,0
+450,Ssintar,Unther,halflings,0
+450,Ssintar,Unther,misc.,0
+451,Waterdeep,The Sword Coast,humans,1302013
+451,Waterdeep,The Sword Coast,dwarves,0
+451,Waterdeep,The Sword Coast,elves,0
+451,Waterdeep,The Sword Coast,halflings,0
+451,Waterdeep,The Sword Coast,half-elves,45826
+451,Waterdeep,The Sword Coast,gnomes,0
+451,Waterdeep,The Sword Coast,half-orcs,0
+451,Waterdeep,The Sword Coast,misc.,0
+452,Amphail,The Sword Coast,humans,525
+452,Amphail,The Sword Coast,dwarves,190
+452,Amphail,The Sword Coast,elves,0
+452,Amphail,The Sword Coast,halflings,26
+452,Amphail,The Sword Coast,half-elves,9
+452,Amphail,The Sword Coast,gnomes,0
+452,Amphail,The Sword Coast,half-orcs,0
+452,Amphail,The Sword Coast,misc.,0
+453,Rassalantar,The Sword Coast,humans,42
+453,Rassalantar,The Sword Coast,dwarves,11
+453,Rassalantar,The Sword Coast,elves,127
+453,Rassalantar,The Sword Coast,halflings,0
+453,Rassalantar,The Sword Coast,half-elves,7
+453,Rassalantar,The Sword Coast,gnomes,0
+453,Rassalantar,The Sword Coast,half-orcs,0
+453,Rassalantar,The Sword Coast,misc.,0
+454,Tharqualnaar,The Sword Coast,humans,315
+454,Tharqualnaar,The Sword Coast,dwarves,0
+454,Tharqualnaar,The Sword Coast,elves,9
+454,Tharqualnaar,The Sword Coast,halflings,98
+454,Tharqualnaar,The Sword Coast,half-elves,94
+454,Tharqualnaar,The Sword Coast,gnomes,2
+454,Tharqualnaar,The Sword Coast,half-orcs,0
+454,Tharqualnaar,The Sword Coast,misc.,0
+455,T’Quession,The Sword Coast,humans,51
+455,T’Quession,The Sword Coast,dwarves,0
+455,T’Quession,The Sword Coast,elves,170
+455,T’Quession,The Sword Coast,halflings,0
+455,T’Quession,The Sword Coast,half-elves,0
+455,T’Quession,The Sword Coast,gnomes,0
+455,T’Quession,The Sword Coast,half-orcs,0
+455,T’Quession,The Sword Coast,misc.,0
+456,Neverwinter,The Sword Coast,half-elves,14117
+456,Neverwinter,The Sword Coast,humans,5882
+456,Neverwinter,The Sword Coast,tieflings,588
+456,Neverwinter,The Sword Coast,dragonborn,1470
+456,Neverwinter,The Sword Coast,eladrin,882
+456,Neverwinter,The Sword Coast,elves,2352
+456,Neverwinter,The Sword Coast,dwarves,2352
+456,Neverwinter,The Sword Coast,orcs,294
+456,Neverwinter,The Sword Coast,half-orcs,294
+457,Baldur's Gate,The Sword Coast,half-elves,35000
+457,Baldur's Gate,The Sword Coast,humans,50000
+457,Baldur's Gate,The Sword Coast,elves,10000
+457,Baldur's Gate,The Sword Coast,dwarves,10000
+457,Baldur's Gate,The Sword Coast,orcs,1250
+457,Baldur's Gate,The Sword Coast,half-orcs,1250
+458,Phandalin,The Sword Coast,half-elves,42
+458,Phandalin,The Sword Coast,humans,60
+458,Phandalin,The Sword Coast,elves,12
+458,Phandalin,The Sword Coast,dwarves,12
+458,Phandalin,The Sword Coast,orcs,1
+458,Phandalin,The Sword Coast,half-orcs,1
+459,Daggerford,The Sword Coast,half-elves,336
+459,Daggerford,The Sword Coast,humans,480
+459,Daggerford,The Sword Coast,elves,96
+459,Daggerford,The Sword Coast,dwarves,96
+459,Daggerford,The Sword Coast,orcs,12
+459,Daggerford,The Sword Coast,half-orcs,12
+460,Mirabar,The Sword Coast,humans,14593
+460,Mirabar,The Sword Coast,dwarves,26649
+460,Mirabar,The Sword Coast,elves,465
+460,Mirabar,The Sword Coast,half-elves,507
+460,Mirabar,The Sword Coast,halflings,0
+460,Mirabar,The Sword Coast,gnomes,84
+460,Mirabar,The Sword Coast,half-orcs,0
+460,Mirabar,The Sword Coast,misc.,0
+461,Secomber,The Sword Coast,half-elves,252
+461,Secomber,The Sword Coast,humans,360
+461,Secomber,The Sword Coast,elves,72
+461,Secomber,The Sword Coast,dwarves,72
+461,Secomber,The Sword Coast,orcs,9
+461,Secomber,The Sword Coast,half-orcs,9
+462,Longsaddle,The Sword Coast,half-elves,25
+462,Longsaddle,The Sword Coast,humans,36
+462,Longsaddle,The Sword Coast,elves,7
+462,Longsaddle,The Sword Coast,dwarves,7
+462,Longsaddle,The Sword Coast,orcs,0
+462,Longsaddle,The Sword Coast,half-orcs,0
+463,Zundbridge,The Sword Coast,humans,168
+463,Zundbridge,The Sword Coast,dwarves,0
+463,Zundbridge,The Sword Coast,elves,1
+463,Zundbridge,The Sword Coast,halflings,0
+463,Zundbridge,The Sword Coast,half-elves,0
+463,Zundbridge,The Sword Coast,gnomes,0
+463,Zundbridge,The Sword Coast,half-orcs,49
+463,Zundbridge,The Sword Coast,misc.,0
+464,Velprintalar,Aglarond,humans,5013
+464,Velprintalar,Aglarond,half-elves,60629
+464,Velprintalar,Aglarond,elves,263
+464,Velprintalar,Aglarond,misc.,65
+465,Corth,Aglarond,humans,19
+465,Corth,Aglarond,half-elves,449
+465,Corth,Aglarond,elves,4
+465,Corth,Aglarond,misc.,0
+466,Dahst,Aglarond,humans,216
+466,Dahst,Aglarond,half-elves,71
+466,Dahst,Aglarond,elves,1
+466,Dahst,Aglarond,misc.,0
+467,Dlusk,Aglarond,humans,89
+467,Dlusk,Aglarond,half-elves,857
+467,Dlusk,Aglarond,elves,0
+467,Dlusk,Aglarond,misc.,0
+468,Emmech,Aglarond,humans,2096
+468,Emmech,Aglarond,half-elves,5181
+468,Emmech,Aglarond,elves,0
+468,Emmech,Aglarond,misc.,0
+469,Findar,Aglarond,humans,95
+469,Findar,Aglarond,half-elves,197
+469,Findar,Aglarond,elves,1
+469,Findar,Aglarond,misc.,0
+470,Furthinghome,Aglarond,humans,33100
+470,Furthinghome,Aglarond,half-elves,7021
+470,Furthinghome,Aglarond,elves,0
+470,Furthinghome,Aglarond,misc.,0
+471,Glarondar,Aglarond,humans,55
+471,Glarondar,Aglarond,half-elves,5527
+471,Glarondar,Aglarond,elves,5
+471,Glarondar,Aglarond,misc.,0
+472,Halendos,Aglarond,humans,117
+472,Halendos,Aglarond,half-elves,89
+472,Halendos,Aglarond,elves,0
+472,Halendos,Aglarond,misc.,0
+473,Ingdal’s Arm,Aglarond,humans,968
+473,Ingdal’s Arm,Aglarond,half-elves,0
+473,Ingdal’s Arm,Aglarond,elves,0
+473,Ingdal’s Arm,Aglarond,misc.,0
+474,Mesring,Aglarond,humans,85
+474,Mesring,Aglarond,half-elves,13
+474,Mesring,Aglarond,elves,0
+474,Mesring,Aglarond,misc.,0
+475,Orithar,Aglarond,humans,128
+475,Orithar,Aglarond,half-elves,375
+475,Orithar,Aglarond,elves,0
+475,Orithar,Aglarond,misc.,0
+476,Osker,Aglarond,humans,189
+476,Osker,Aglarond,half-elves,523
+476,Osker,Aglarond,elves,0
+476,Osker,Aglarond,misc.,0
+477,Relkath’s Foot,Aglarond,humans,4702
+477,Relkath’s Foot,Aglarond,half-elves,464
+477,Relkath’s Foot,Aglarond,elves,41
+477,Relkath’s Foot,Aglarond,misc.,10
+478,Thayguard,Aglarond,humans,4935
+478,Thayguard,Aglarond,half-elves,49
+478,Thayguard,Aglarond,elves,0
+478,Thayguard,Aglarond,misc.,0
+479,Urst,Aglarond,humans,827
+479,Urst,Aglarond,half-elves,146
+479,Urst,Aglarond,elves,0
+479,Urst,Aglarond,misc.,0
+480,Urve,Aglarond,humans,475
+480,Urve,Aglarond,half-elves,2
+480,Urve,Aglarond,elves,0
+480,Urve,Aglarond,misc.,0
+481,Evermeet,Evereska,elves,117
+481,Evermeet,Evereska,humans,0
+482,Greyhome,Evereska,elves,517
+482,Greyhome,Evereska,humans,0
+483,Greyshield,Evereska,elves,5300
+483,Greyshield,Evereska,humans,0
+484,Leuthilspar,Evermeet,elves,48267
+484,Leuthilspar,Evermeet,humans,0
+485,Drelagara,Evermeet,elves,3000
+485,Drelagara,Evermeet,humans,0
+486,Elion,Evermeet,elves,1152
+486,Elion,Evermeet,humans,284
+487,Erial,Evermeet,elves,2245
+487,Erial,Evermeet,humans,2755
+488,Iumathiashae,Evermeet,elves,4600
+488,Iumathiashae,Evermeet,humans,0
+489,Nimlith,Evermeet,elves,1036
+489,Nimlith,Evermeet,humans,0
+490,Ruith,Evermeet,elves,10426
+490,Ruith,Evermeet,humans,0
+491,Sumbrar,Evermeet,elves,2430
+491,Sumbrar,Evermeet,humans,0
+492,Taltempla,Evermeet,elves,11670
+492,Taltempla,Evermeet,humans,0
+493,Gundbarg,Gundarlun,humans,12031
+494,Ruathym,Ruathym,humans,4471
+494,Ruathym,Ruathym,halflings,154
+494,Ruathym,Ruathym,dwarves,144
+494,Ruathym,Ruathym,half-elves,99
+494,Ruathym,Ruathym,elves,49
+495,Hastor,Ruathym,humans,2007
+495,Hastor,Ruathym,halflings,70
+495,Hastor,Ruathym,dwarves,70
+495,Hastor,Ruathym,half-elves,47
+495,Hastor,Ruathym,elves,22
+496,Holgerstead,Ruathym,humans,2119
+496,Holgerstead,Ruathym,halflings,70
+496,Holgerstead,Ruathym,dwarves,68
+496,Holgerstead,Ruathym,half-elves,46
+496,Holgerstead,Ruathym,elves,23
+497,Rethgaard,Ruathym,humans,2146
+497,Rethgaard,Ruathym,halflings,67
+497,Rethgaard,Ruathym,dwarves,72
+497,Rethgaard,Ruathym,half-elves,46
+497,Rethgaard,Ruathym,elves,23
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),humans,678
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),halflings,23
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),dwarves,22
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),half-elves,14
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),elves,7
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),humans,340
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),halflings,11
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),dwarves,11
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),half-elves,7
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),elves,3
+500,Uttersea,Tuern,humans,1739
+500,Uttersea,Tuern,halflings,54
+500,Uttersea,Tuern,dwarves,56
+500,Uttersea,Tuern,half-elves,35
+500,Uttersea,Tuern,elves,18
+501,Throne Rock,Tuern,humans,421
+501,Throne Rock,Tuern,halflings,14
+501,Throne Rock,Tuern,dwarves,13
+501,Throne Rock,Tuern,half-elves,9
+501,Throne Rock,Tuern,elves,4
+503,Cuthbert Castle,Hartsvale,humans,431
+503,Cuthbert Castle,Hartsvale,misc.,0
+504,Stagwick,Hartsvale,humans,532
+504,Stagwick,Hartsvale,misc.,0
+505,Wendel Manor,Hartsvale,humans,84
+505,Wendel Manor,Hartsvale,misc.,10
+506,Windward Town,Hartsvale,humans,389
+506,Windward Town,Hartsvale,misc.,0
+507,Wynn Castle,Hartsvale,humans,130
+507,Wynn Castle,Hartsvale,firbolg,6
+507,Wynn Castle,Hartsvale,misc.,0
+508,Sambar,Lantan,humans,610
+508,Sambar,Lantan,gnomes,284
+508,Sambar,Lantan,vengeance-obsessed cat (Silky),1
+509,Anchoril,Lantan,humans,132
+509,Anchoril,Lantan,gnomes,0
+509,Anchoril,Lantan,sentient wombats,2
+510,Baelrah,Lantan,humans,54
+510,Baelrah,Lantan,gnomes,71
+511,Darluj,Lantan,humans,16
+511,Darluj,Lantan,gnomes,122
+512,Dtakkar,Lantan,humans,0
+512,Dtakkar,Lantan,gnomes,320
+513,Illul,Lantan,humans,48
+513,Illul,Lantan,gnomes,1
+513,Illul,Lantan,platypuses,79
+514,Lethtar,Lantan,humans,126
+514,Lethtar,Lantan,gnomes,3
+515,Sundrah,Lantan,humans,38
+515,Sundrah,Lantan,gnomes,89
+516,Sujjar,Lantan,humans,124
+516,Sujjar,Lantan,gnomes,0
+517,Tsan,Lantan,humans,28
+517,Tsan,Lantan,gnomes,99
+518,Sheirtalar,Lapaliiya,humans,0
+518,Sheirtalar,Lapaliiya,yuan-ti,28076
+518,Sheirtalar,Lapaliiya,gnomes,18527
+518,Sheirtalar,Lapaliiya,dwarves,5293
+519,Abreon,Lapaliiya,humans,0
+519,Abreon,Lapaliiya,yuan-ti,3118
+519,Abreon,Lapaliiya,gnomes,631
+519,Abreon,Lapaliiya,dwarves,856
+520,Dungar,Lapaliiya,humans,36
+520,Dungar,Lapaliiya,yuan-ti,41
+520,Dungar,Lapaliiya,gnomes,851
+520,Dungar,Lapaliiya,dwarves,0
+521,Ilyaport,Lapaliiya,humans,0
+521,Ilyaport,Lapaliiya,yuan-ti,906
+521,Ilyaport,Lapaliiya,gnomes,1094
+521,Ilyaport,Lapaliiya,dwarves,0
+522,Ithmong,Lapaliiya,humans,13594
+522,Ithmong,Lapaliiya,yuan-ti,21815
+522,Ithmong,Lapaliiya,gnomes,10287
+522,Ithmong,Lapaliiya,dwarves,229
+523,Lapalgard,Lapaliiya,humans,0
+523,Lapalgard,Lapaliiya,yuan-ti,1667
+523,Lapalgard,Lapaliiya,gnomes,290
+523,Lapalgard,Lapaliiya,dwarves,1712
+524,Lhazantal,Lapaliiya,humans,0
+524,Lhazantal,Lapaliiya,yuan-ti,6
+524,Lhazantal,Lapaliiya,gnomes,165
+524,Lhazantal,Lapaliiya,dwarves,725
+525,Lushpool,Lapaliiya,humans,68
+525,Lushpool,Lapaliiya,yuan-ti,17008
+525,Lushpool,Lapaliiya,gnomes,17
+525,Lushpool,Lapaliiya,dwarves,0
+526,Malaxer,Lapaliiya,humans,0
+526,Malaxer,Lapaliiya,yuan-ti,305
+526,Malaxer,Lapaliiya,gnomes,89
+526,Malaxer,Lapaliiya,dwarves,25
+527,Mierskar,Lapaliiya,humans,0
+527,Mierskar,Lapaliiya,yuan-ti,94
+527,Mierskar,Lapaliiya,gnomes,69
+527,Mierskar,Lapaliiya,dwarves,1
+528,Ormpur,Lapaliiya,humans,830
+528,Ormpur,Lapaliiya,yuan-ti,22233
+528,Ormpur,Lapaliiya,gnomes,593
+528,Ormpur,Lapaliiya,dwarves,71
+529,Sammaresh,Lapaliiya,humans,16700
+529,Sammaresh,Lapaliiya,yuan-ti,2007
+529,Sammaresh,Lapaliiya,gnomes,1696
+529,Sammaresh,Lapaliiya,dwarves,289
+530,Sheirlantar,Lapaliiya,humans,1
+530,Sheirlantar,Lapaliiya,yuan-ti,51
+530,Sheirlantar,Lapaliiya,gnomes,2
+530,Sheirlantar,Lapaliiya,dwarves,20
+531,Uzurr,Lapaliiya,humans,12
+531,Uzurr,Lapaliiya,yuan-ti,744
+531,Uzurr,Lapaliiya,gnomes,234
+531,Uzurr,Lapaliiya,dwarves,0
+532,Zashuma,Lapaliiya,humans,6
+532,Zashuma,Lapaliiya,yuan-ti,1
+532,Zashuma,Lapaliiya,gnomes,503
+532,Zashuma,Lapaliiya,dwarves,877
+533,Beluir,Luiren,halflings,25062
+533,Beluir,Luiren,humans,459
+533,Beluir,Luiren,elves,0
+533,Beluir,Luiren,half-elves,0
+534,Ammathluir,Luiren,halflings,9353
+534,Ammathluir,Luiren,humans,0
+534,Ammathluir,Luiren,elves,0
+534,Ammathluir,Luiren,half-elves,0
+535,Chethel,Luiren,halflings,14618
+535,Chethel,Luiren,humans,0
+535,Chethel,Luiren,elves,0
+535,Chethel,Luiren,half-elves,0
+536,Crimel,Luiren,halflings,939
+536,Crimel,Luiren,humans,0
+536,Crimel,Luiren,elves,0
+536,Crimel,Luiren,half-elves,0
+537,Djannath,Luiren,halflings,788
+537,Djannath,Luiren,humans,0
+537,Djannath,Luiren,elves,75
+537,Djannath,Luiren,half-elves,0
+538,Fasruil,Luiren,halflings,3160
+538,Fasruil,Luiren,humans,0
+538,Fasruil,Luiren,elves,0
+538,Fasruil,Luiren,half-elves,0
+539,Krenadir,Luiren,halflings,485
+539,Krenadir,Luiren,humans,0
+539,Krenadir,Luiren,elves,0
+539,Krenadir,Luiren,half-elves,0
+540,Lluirvale,Luiren,halflings,1515
+540,Lluirvale,Luiren,humans,0
+540,Lluirvale,Luiren,elves,0
+540,Lluirvale,Luiren,half-elves,0
+541,Otennath,Luiren,halflings,367
+541,Otennath,Luiren,humans,0
+541,Otennath,Luiren,elves,0
+541,Otennath,Luiren,half-elves,0
+542,Shoun,Luiren,halflings,16185
+542,Shoun,Luiren,humans,0
+542,Shoun,Luiren,elves,0
+542,Shoun,Luiren,half-elves,0
+543,Silverymoon,The Silver Marches,humans,457
+543,Silverymoon,The Silver Marches,dwarves,36701
+543,Silverymoon,The Silver Marches,elves,0
+543,Silverymoon,The Silver Marches,half-elves,952
+543,Silverymoon,The Silver Marches,halflings,0
+543,Silverymoon,The Silver Marches,gnomes,0
+543,Silverymoon,The Silver Marches,half-orcs,0
+543,Silverymoon,The Silver Marches,misc.,0
+544,Auvandell,The Silver Marches,humans,487
+544,Auvandell,The Silver Marches,dwarves,14
+544,Auvandell,The Silver Marches,elves,0
+544,Auvandell,The Silver Marches,half-elves,0
+544,Auvandell,The Silver Marches,halflings,0
+544,Auvandell,The Silver Marches,gnomes,0
+544,Auvandell,The Silver Marches,half-orcs,0
+544,Auvandell,The Silver Marches,misc.,0
+545,Blumberg,The Silver Marches,humans,16
+545,Blumberg,The Silver Marches,dwarves,0
+545,Blumberg,The Silver Marches,elves,897
+545,Blumberg,The Silver Marches,half-elves,12
+545,Blumberg,The Silver Marches,halflings,0
+545,Blumberg,The Silver Marches,gnomes,0
+545,Blumberg,The Silver Marches,half-orcs,0
+545,Blumberg,The Silver Marches,misc.,0
+546,Citadel Adbar,Dwarfholds of the North,humans,8357
+546,Citadel Adbar,Dwarfholds of the North,dwarves,2210
+546,Citadel Adbar,Dwarfholds of the North,elves,3138
+546,Citadel Adbar,Dwarfholds of the North,half-elves,4847
+546,Citadel Adbar,Dwarfholds of the North,halflings,0
+546,Citadel Adbar,Dwarfholds of the North,gnomes,18
+546,Citadel Adbar,Dwarfholds of the North,half-orcs,0
+546,Citadel Adbar,Dwarfholds of the North,misc.,0
+547,Citadel Felbarr,Dwarfholds of the North,humans,212
+547,Citadel Felbarr,Dwarfholds of the North,dwarves,5357
+547,Citadel Felbarr,Dwarfholds of the North,elves,0
+547,Citadel Felbarr,Dwarfholds of the North,half-elves,6
+547,Citadel Felbarr,Dwarfholds of the North,halflings,1291
+547,Citadel Felbarr,Dwarfholds of the North,gnomes,0
+547,Citadel Felbarr,Dwarfholds of the North,half-orcs,0
+547,Citadel Felbarr,Dwarfholds of the North,misc.,0
+548,Deadsnows,The Silver Marches,humans,131
+548,Deadsnows,The Silver Marches,dwarves,0
+548,Deadsnows,The Silver Marches,elves,346
+548,Deadsnows,The Silver Marches,half-elves,295
+548,Deadsnows,The Silver Marches,halflings,0
+548,Deadsnows,The Silver Marches,gnomes,18
+548,Deadsnows,The Silver Marches,half-orcs,0
+548,Deadsnows,The Silver Marches,misc.,0
+549,Everlund,The Silver Marches,humans,19691
+549,Everlund,The Silver Marches,dwarves,0
+549,Everlund,The Silver Marches,elves,731
+549,Everlund,The Silver Marches,half-elves,0
+549,Everlund,The Silver Marches,halflings,41
+549,Everlund,The Silver Marches,gnomes,0
+549,Everlund,The Silver Marches,half-orcs,418
+549,Everlund,The Silver Marches,misc.,0
+550,Hilltop,The Silver Marches,humans,6
+550,Hilltop,The Silver Marches,dwarves,66
+550,Hilltop,The Silver Marches,elves,18
+550,Hilltop,The Silver Marches,half-elves,0
+550,Hilltop,The Silver Marches,halflings,0
+550,Hilltop,The Silver Marches,gnomes,13
+550,Hilltop,The Silver Marches,half-orcs,0
+550,Hilltop,The Silver Marches,misc.,0
+551,Jalanthar,The Silver Marches,humans,20
+551,Jalanthar,The Silver Marches,dwarves,182
+551,Jalanthar,The Silver Marches,elves,2
+551,Jalanthar,The Silver Marches,half-elves,0
+551,Jalanthar,The Silver Marches,halflings,3
+551,Jalanthar,The Silver Marches,gnomes,0
+551,Jalanthar,The Silver Marches,half-orcs,0
+551,Jalanthar,The Silver Marches,misc.,0
+552,Khelb,The Silver Marches,humans,5499
+552,Khelb,The Silver Marches,dwarves,9474
+552,Khelb,The Silver Marches,elves,30
+552,Khelb,The Silver Marches,half-elves,0
+552,Khelb,The Silver Marches,halflings,213
+552,Khelb,The Silver Marches,gnomes,0
+552,Khelb,The Silver Marches,half-orcs,0
+552,Khelb,The Silver Marches,misc.,0
+553,Lhuvenhead,The Silver Marches,humans,7247
+553,Lhuvenhead,The Silver Marches,dwarves,12
+553,Lhuvenhead,The Silver Marches,elves,4659
+553,Lhuvenhead,The Silver Marches,half-elves,72
+553,Lhuvenhead,The Silver Marches,halflings,48
+553,Lhuvenhead,The Silver Marches,gnomes,0
+553,Lhuvenhead,The Silver Marches,half-orcs,0
+553,Lhuvenhead,The Silver Marches,misc.,0
+554,Mithral Hall,Dwarfholds of the North,humans,2696
+554,Mithral Hall,Dwarfholds of the North,dwarves,2180
+554,Mithral Hall,Dwarfholds of the North,elves,0
+554,Mithral Hall,Dwarfholds of the North,half-elves,0
+554,Mithral Hall,Dwarfholds of the North,halflings,0
+554,Mithral Hall,Dwarfholds of the North,gnomes,0
+554,Mithral Hall,Dwarfholds of the North,half-orcs,0
+554,Mithral Hall,Dwarfholds of the North,misc.,0
+555,Newfort,The Silver Marches,humans,0
+555,Newfort,The Silver Marches,dwarves,1
+555,Newfort,The Silver Marches,elves,138
+555,Newfort,The Silver Marches,half-elves,0
+555,Newfort,The Silver Marches,halflings,0
+555,Newfort,The Silver Marches,gnomes,0
+555,Newfort,The Silver Marches,half-orcs,0
+555,Newfort,The Silver Marches,misc.,0
+556,Quaervaar,The Silver Marches,humans,83
+556,Quaervaar,The Silver Marches,dwarves,651
+556,Quaervaar,The Silver Marches,elves,0
+556,Quaervaar,The Silver Marches,half-elves,206
+556,Quaervaar,The Silver Marches,halflings,0
+556,Quaervaar,The Silver Marches,gnomes,0
+556,Quaervaar,The Silver Marches,half-orcs,0
+556,Quaervaar,The Silver Marches,misc.,0
+557,Rauvincross,The Silver Marches,humans,1579
+557,Rauvincross,The Silver Marches,dwarves,891
+557,Rauvincross,The Silver Marches,elves,13038
+557,Rauvincross,The Silver Marches,half-elves,0
+557,Rauvincross,The Silver Marches,halflings,109
+557,Rauvincross,The Silver Marches,gnomes,0
+557,Rauvincross,The Silver Marches,half-orcs,0
+557,Rauvincross,The Silver Marches,misc.,0
+558,Rivermoot,The Silver Marches,humans,5250
+558,Rivermoot,The Silver Marches,dwarves,559
+558,Rivermoot,The Silver Marches,elves,82
+558,Rivermoot,The Silver Marches,half-elves,0
+558,Rivermoot,The Silver Marches,halflings,0
+558,Rivermoot,The Silver Marches,gnomes,0
+558,Rivermoot,The Silver Marches,half-orcs,0
+558,Rivermoot,The Silver Marches,misc.,0
+559,Sundabar,Dwarfholds of the North,humans,276
+559,Sundabar,Dwarfholds of the North,dwarves,504
+559,Sundabar,Dwarfholds of the North,elves,8
+559,Sundabar,Dwarfholds of the North,half-elves,9
+559,Sundabar,Dwarfholds of the North,halflings,0
+559,Sundabar,Dwarfholds of the North,gnomes,1
+559,Sundabar,Dwarfholds of the North,half-orcs,0
+559,Sundabar,Dwarfholds of the North,misc.,0
+560,Winter's Edge,The Silver Marches,humans,0
+560,Winter's Edge,The Silver Marches,dwarves,135
+560,Winter's Edge,The Silver Marches,elves,5728
+560,Winter's Edge,The Silver Marches,half-elves,6
+560,Winter's Edge,The Silver Marches,halflings,0
+560,Winter's Edge,The Silver Marches,gnomes,302
+560,Winter's Edge,The Silver Marches,half-orcs,0
+560,Winter's Edge,The Silver Marches,misc.,0
+561,Yartar,The Sword Coast,humans,329
+561,Yartar,The Sword Coast,misc.,19
+562,Mintarn,The Sword Coast,humans,3331
+562,Mintarn,The Sword Coast,dwarves,1567
+562,Mintarn,The Sword Coast,merfolk,0
+563,Orlumbor,Orlumbor,humans,1408
+563,Orlumbor,Orlumbor,misc.,81
+564,Farr Windward,Orlumbor,humans,755
+564,Farr Windward,Orlumbor,misc.,3
+565,Caer Callidyrr,Moonshae,humans,22517
+565,Caer Callidyrr,Moonshae,halflings,0
+565,Caer Callidyrr,Moonshae,elves,0
+565,Caer Callidyrr,Moonshae,dwarves,0
+565,Caer Callidyrr,Moonshae,half-elves,0
+565,Caer Callidyrr,Moonshae,misc.,0
+566,Aithelar,Moonshae,humans,13140
+566,Aithelar,Moonshae,halflings,0
+566,Aithelar,Moonshae,elves,0
+566,Aithelar,Moonshae,dwarves,0
+566,Aithelar,Moonshae,half-elves,0
+566,Aithelar,Moonshae,misc.,0
+567,Blackstone,Moonshae,humans,810
+567,Blackstone,Moonshae,halflings,0
+567,Blackstone,Moonshae,elves,0
+567,Blackstone,Moonshae,dwarves,0
+567,Blackstone,Moonshae,half-elves,0
+567,Blackstone,Moonshae,misc.,0
+568,Blythe,Moonshae,humans,666
+568,Blythe,Moonshae,halflings,0
+568,Blythe,Moonshae,elves,0
+568,Blythe,Moonshae,dwarves,0
+568,Blythe,Moonshae,half-elves,0
+568,Blythe,Moonshae,misc.,0
+569,Borth,Moonshae,humans,16630
+569,Borth,Moonshae,halflings,0
+569,Borth,Moonshae,elves,0
+569,Borth,Moonshae,dwarves,0
+569,Borth,Moonshae,half-elves,0
+569,Borth,Moonshae,misc.,0
+570,Bounty,Moonshae,humans,591
+570,Bounty,Moonshae,halflings,0
+570,Bounty,Moonshae,elves,0
+570,Bounty,Moonshae,dwarves,0
+570,Bounty,Moonshae,half-elves,0
+570,Bounty,Moonshae,misc.,0
+571,Brannoch,Moonshae,humans,901
+571,Brannoch,Moonshae,halflings,5
+571,Brannoch,Moonshae,elves,0
+571,Brannoch,Moonshae,dwarves,0
+571,Brannoch,Moonshae,half-elves,0
+571,Brannoch,Moonshae,misc.,0
+572,Bray,Moonshae,humans,423
+572,Bray,Moonshae,halflings,0
+572,Bray,Moonshae,elves,0
+572,Bray,Moonshae,dwarves,0
+572,Bray,Moonshae,half-elves,0
+572,Bray,Moonshae,misc.,0
+573,Cambro,Moonshae,humans,17348
+573,Cambro,Moonshae,halflings,0
+573,Cambro,Moonshae,elves,0
+573,Cambro,Moonshae,dwarves,0
+573,Cambro,Moonshae,half-elves,0
+573,Cambro,Moonshae,misc.,0
+574,Caer Corwell,Moonshae,humans,136
+574,Caer Corwell,Moonshae,halflings,0
+574,Caer Corwell,Moonshae,elves,0
+574,Caer Corwell,Moonshae,dwarves,0
+574,Caer Corwell,Moonshae,half-elves,0
+574,Caer Corwell,Moonshae,misc.,7
+575,Caer Moray,Moonshae,humans,16485
+575,Caer Moray,Moonshae,halflings,0
+575,Caer Moray,Moonshae,elves,0
+575,Caer Moray,Moonshae,dwarves,0
+575,Caer Moray,Moonshae,half-elves,0
+575,Caer Moray,Moonshae,misc.,0
+576,Caer Westphal,Moonshae,humans,17
+576,Caer Westphal,Moonshae,halflings,9
+576,Caer Westphal,Moonshae,elves,0
+576,Caer Westphal,Moonshae,dwarves,100
+576,Caer Westphal,Moonshae,half-elves,0
+576,Caer Westphal,Moonshae,misc.,0
+577,Caervu,Moonshae,humans,7706
+577,Caervu,Moonshae,halflings,0
+577,Caervu,Moonshae,elves,0
+577,Caervu,Moonshae,dwarves,0
+577,Caervu,Moonshae,half-elves,0
+577,Caervu,Moonshae,misc.,0
+578,Cobh,Moonshae,humans,6860
+578,Cobh,Moonshae,halflings,0
+578,Cobh,Moonshae,elves,0
+578,Cobh,Moonshae,dwarves,0
+578,Cobh,Moonshae,half-elves,0
+578,Cobh,Moonshae,misc.,0
+579,Codfin,Moonshae,humans,14098
+579,Codfin,Moonshae,halflings,56
+579,Codfin,Moonshae,elves,0
+579,Codfin,Moonshae,dwarves,0
+579,Codfin,Moonshae,half-elves,0
+579,Codfin,Moonshae,misc.,0
+580,Codscove,Moonshae,humans,7445
+580,Codscove,Moonshae,halflings,0
+580,Codscove,Moonshae,elves,0
+580,Codscove,Moonshae,dwarves,0
+580,Codscove,Moonshae,half-elves,0
+580,Codscove,Moonshae,misc.,0
+581,Doncastle,Moonshae,humans,100
+581,Doncastle,Moonshae,halflings,0
+581,Doncastle,Moonshae,elves,0
+581,Doncastle,Moonshae,dwarves,0
+581,Doncastle,Moonshae,half-elves,0
+581,Doncastle,Moonshae,misc.,0
+582,Dorset,Moonshae,humans,13107
+582,Dorset,Moonshae,halflings,0
+582,Dorset,Moonshae,elves,0
+582,Dorset,Moonshae,dwarves,0
+582,Dorset,Moonshae,half-elves,0
+582,Dorset,Moonshae,misc.,0
+583,Dultann,Moonshae,humans,7118
+583,Dultann,Moonshae,halflings,0
+583,Dultann,Moonshae,elves,0
+583,Dultann,Moonshae,dwarves,0
+583,Dultann,Moonshae,half-elves,478
+583,Dultann,Moonshae,misc.,0
+584,Dynnatt,Moonshae,humans,133
+584,Dynnatt,Moonshae,halflings,0
+584,Dynnatt,Moonshae,elves,0
+584,Dynnatt,Moonshae,dwarves,0
+584,Dynnatt,Moonshae,half-elves,0
+584,Dynnatt,Moonshae,misc.,0
+585,Dynnegall,Moonshae,humans,369
+585,Dynnegall,Moonshae,halflings,0
+585,Dynnegall,Moonshae,elves,0
+585,Dynnegall,Moonshae,dwarves,0
+585,Dynnegall,Moonshae,half-elves,0
+585,Dynnegall,Moonshae,misc.,0
+586,Elyssyrr,Moonshae,humans,4350
+586,Elyssyrr,Moonshae,halflings,0
+586,Elyssyrr,Moonshae,elves,181
+586,Elyssyrr,Moonshae,dwarves,0
+586,Elyssyrr,Moonshae,half-elves,0
+586,Elyssyrr,Moonshae,misc.,0
+587,Farview,Moonshae,humans,764
+587,Farview,Moonshae,halflings,0
+587,Farview,Moonshae,elves,0
+587,Farview,Moonshae,dwarves,0
+587,Farview,Moonshae,half-elves,0
+587,Farview,Moonshae,misc.,0
+588,Fenton,Moonshae,humans,757
+588,Fenton,Moonshae,halflings,0
+588,Fenton,Moonshae,elves,0
+588,Fenton,Moonshae,dwarves,0
+588,Fenton,Moonshae,half-elves,0
+588,Fenton,Moonshae,misc.,0
+589,Grady,Moonshae,humans,62
+589,Grady,Moonshae,halflings,0
+589,Grady,Moonshae,elves,0
+589,Grady,Moonshae,dwarves,0
+589,Grady,Moonshae,half-elves,0
+589,Grady,Moonshae,misc.,0
+590,Graystone,Moonshae,humans,1025
+590,Graystone,Moonshae,halflings,0
+590,Graystone,Moonshae,elves,2
+590,Graystone,Moonshae,dwarves,4
+590,Graystone,Moonshae,half-elves,0
+590,Graystone,Moonshae,misc.,0
+591,Grimstad,Moonshae,humans,103
+591,Grimstad,Moonshae,halflings,0
+591,Grimstad,Moonshae,elves,0
+591,Grimstad,Moonshae,dwarves,0
+591,Grimstad,Moonshae,half-elves,0
+591,Grimstad,Moonshae,misc.,0
+592,Harloch,Moonshae,humans,460
+592,Harloch,Moonshae,halflings,0
+592,Harloch,Moonshae,elves,0
+592,Harloch,Moonshae,dwarves,0
+592,Harloch,Moonshae,half-elves,0
+592,Harloch,Moonshae,misc.,0
+593,Hickorydale,Moonshae,humans,801
+593,Hickorydale,Moonshae,halflings,0
+593,Hickorydale,Moonshae,elves,0
+593,Hickorydale,Moonshae,dwarves,0
+593,Hickorydale,Moonshae,half-elves,0
+593,Hickorydale,Moonshae,misc.,0
+594,Horsa,Moonshae,humans,176
+594,Horsa,Moonshae,halflings,0
+594,Horsa,Moonshae,elves,0
+594,Horsa,Moonshae,dwarves,4
+594,Horsa,Moonshae,half-elves,0
+594,Horsa,Moonshae,misc.,0
+595,Horst,Moonshae,humans,532
+595,Horst,Moonshae,halflings,0
+595,Horst,Moonshae,elves,0
+595,Horst,Moonshae,dwarves,0
+595,Horst,Moonshae,half-elves,0
+595,Horst,Moonshae,misc.,0
+596,Highhome,Moonshae,humans,4004
+596,Highhome,Moonshae,halflings,4974
+596,Highhome,Moonshae,elves,0
+596,Highhome,Moonshae,dwarves,0
+596,Highhome,Moonshae,half-elves,0
+596,Highhome,Moonshae,misc.,0
+597,Highrock,Moonshae,humans,12862
+597,Highrock,Moonshae,halflings,0
+597,Highrock,Moonshae,elves,0
+597,Highrock,Moonshae,dwarves,0
+597,Highrock,Moonshae,half-elves,0
+597,Highrock,Moonshae,misc.,0
+598,Holyhead,Moonshae,humans,136
+598,Holyhead,Moonshae,halflings,0
+598,Holyhead,Moonshae,elves,0
+598,Holyhead,Moonshae,dwarves,0
+598,Holyhead,Moonshae,half-elves,0
+598,Holyhead,Moonshae,misc.,0
+599,Horstall,Moonshae,humans,1844
+599,Horstall,Moonshae,halflings,0
+599,Horstall,Moonshae,elves,0
+599,Horstall,Moonshae,dwarves,1214
+599,Horstall,Moonshae,half-elves,0
+599,Horstall,Moonshae,misc.,0
+600,Hyoclaatl,Moonshae,humans,135
+600,Hyoclaatl,Moonshae,halflings,32
+600,Hyoclaatl,Moonshae,elves,0
+600,Hyoclaatl,Moonshae,dwarves,0
+600,Hyoclaatl,Moonshae,half-elves,0
+600,Hyoclaatl,Moonshae,misc.,0
+601,Kingsbay,Moonshae,humans,91
+601,Kingsbay,Moonshae,halflings,0
+601,Kingsbay,Moonshae,elves,59
+601,Kingsbay,Moonshae,dwarves,0
+601,Kingsbay,Moonshae,half-elves,0
+601,Kingsbay,Moonshae,misc.,0
+602,Koart,Moonshae,humans,246
+602,Koart,Moonshae,halflings,0
+602,Koart,Moonshae,elves,4
+602,Koart,Moonshae,dwarves,0
+602,Koart,Moonshae,half-elves,0
+602,Koart,Moonshae,misc.,0
+603,Kork,Moonshae,humans,101
+603,Kork,Moonshae,halflings,1
+603,Kork,Moonshae,elves,0
+603,Kork,Moonshae,dwarves,0
+603,Kork,Moonshae,half-elves,0
+603,Kork,Moonshae,misc.,0
+604,Kythyss,Moonshae,humans,407
+604,Kythyss,Moonshae,halflings,0
+604,Kythyss,Moonshae,elves,0
+604,Kythyss,Moonshae,dwarves,289
+604,Kythyss,Moonshae,half-elves,0
+604,Kythyss,Moonshae,misc.,0
+605,Lehigh,Moonshae,humans,148
+605,Lehigh,Moonshae,halflings,0
+605,Lehigh,Moonshae,elves,0
+605,Lehigh,Moonshae,dwarves,0
+605,Lehigh,Moonshae,half-elves,0
+605,Lehigh,Moonshae,misc.,0
+606,Llandrain,Moonshae,humans,15308
+606,Llandrain,Moonshae,halflings,0
+606,Llandrain,Moonshae,elves,0
+606,Llandrain,Moonshae,dwarves,0
+606,Llandrain,Moonshae,half-elves,0
+606,Llandrain,Moonshae,misc.,0
+607,Llewellyn,Moonshae,humans,964
+607,Llewellyn,Moonshae,halflings,21
+607,Llewellyn,Moonshae,elves,0
+607,Llewellyn,Moonshae,dwarves,0
+607,Llewellyn,Moonshae,half-elves,0
+607,Llewellyn,Moonshae,misc.,0
+608,Lowhill,Moonshae,humans,1504
+608,Lowhill,Moonshae,halflings,0
+608,Lowhill,Moonshae,elves,0
+608,Lowhill,Moonshae,dwarves,1
+608,Lowhill,Moonshae,half-elves,0
+608,Lowhill,Moonshae,misc.,0
+609,MacSheehan,Moonshae,humans,707
+609,MacSheehan,Moonshae,halflings,0
+609,MacSheehan,Moonshae,elves,0
+609,MacSheehan,Moonshae,dwarves,0
+609,MacSheehan,Moonshae,half-elves,0
+609,MacSheehan,Moonshae,misc.,0
+610,Manger,Moonshae,humans,3127
+610,Manger,Moonshae,halflings,1110
+610,Manger,Moonshae,elves,0
+610,Manger,Moonshae,dwarves,0
+610,Manger,Moonshae,half-elves,0
+610,Manger,Moonshae,misc.,0
+611,Myrrdale,Moonshae,humans,28
+611,Myrrdale,Moonshae,halflings,1
+611,Myrrdale,Moonshae,elves,0
+611,Myrrdale,Moonshae,dwarves,0
+611,Myrrdale,Moonshae,half-elves,0
+611,Myrrdale,Moonshae,misc.,904
+612,Ogden,Moonshae,humans,319
+612,Ogden,Moonshae,halflings,0
+612,Ogden,Moonshae,elves,0
+612,Ogden,Moonshae,dwarves,0
+612,Ogden,Moonshae,half-elves,0
+612,Ogden,Moonshae,misc.,0
+613,O’Malley,Moonshae,humans,49
+613,O’Malley,Moonshae,halflings,8
+613,O’Malley,Moonshae,elves,92
+613,O’Malley,Moonshae,dwarves,0
+613,O’Malley,Moonshae,half-elves,0
+613,O’Malley,Moonshae,misc.,0
+614,Pembroke,Moonshae,humans,1201
+614,Pembroke,Moonshae,halflings,0
+614,Pembroke,Moonshae,elves,0
+614,Pembroke,Moonshae,dwarves,0
+614,Pembroke,Moonshae,half-elves,0
+614,Pembroke,Moonshae,misc.,103
+615,Pengram,Moonshae,humans,928
+615,Pengram,Moonshae,halflings,0
+615,Pengram,Moonshae,elves,9
+615,Pengram,Moonshae,dwarves,0
+615,Pengram,Moonshae,half-elves,0
+615,Pengram,Moonshae,misc.,26
+616,Pontswain,Moonshae,humans,418
+616,Pontswain,Moonshae,halflings,0
+616,Pontswain,Moonshae,elves,0
+616,Pontswain,Moonshae,dwarves,0
+616,Pontswain,Moonshae,half-elves,0
+616,Pontswain,Moonshae,misc.,0
+617,Regents Field,Moonshae,humans,6411
+617,Regents Field,Moonshae,halflings,91
+617,Regents Field,Moonshae,elves,0
+617,Regents Field,Moonshae,dwarves,1823
+617,Regents Field,Moonshae,half-elves,0
+617,Regents Field,Moonshae,misc.,0
+618,Storaad,Moonshae,humans,119
+618,Storaad,Moonshae,halflings,123
+618,Storaad,Moonshae,elves,0
+618,Storaad,Moonshae,dwarves,0
+618,Storaad,Moonshae,half-elves,0
+618,Storaad,Moonshae,misc.,0
+619,Tetauctaa,Moonshae,humans,1502
+619,Tetauctaa,Moonshae,halflings,0
+619,Tetauctaa,Moonshae,elves,0
+619,Tetauctaa,Moonshae,dwarves,0
+619,Tetauctaa,Moonshae,half-elves,0
+619,Tetauctaa,Moonshae,misc.,0
+620,Thorndyke,Moonshae,humans,119
+620,Thorndyke,Moonshae,halflings,0
+620,Thorndyke,Moonshae,elves,0
+620,Thorndyke,Moonshae,dwarves,0
+620,Thorndyke,Moonshae,half-elves,31
+620,Thorndyke,Moonshae,misc.,0
+621,White Rock,Moonshae,humans,749
+621,White Rock,Moonshae,halflings,0
+621,White Rock,Moonshae,elves,0
+621,White Rock,Moonshae,dwarves,0
+621,White Rock,Moonshae,half-elves,0
+621,White Rock,Moonshae,misc.,0
+622,Wyngate,Moonshae,humans,579
+622,Wyngate,Moonshae,halflings,389
+622,Wyngate,Moonshae,elves,0
+622,Wyngate,Moonshae,dwarves,0
+622,Wyngate,Moonshae,half-elves,0
+622,Wyngate,Moonshae,misc.,0
+623,Skuld,Mulhorand,humans,191699
+623,Skuld,Mulhorand,misc.,1545
+624,Aina,Mulhorand,humans,1000
+624,Aina,Mulhorand,misc.,0
+625,Delgora,Mulhorand,humans,4000
+625,Delgora,Mulhorand,misc.,0
+626,Gheldaneth,Mulhorand,humans,170413
+626,Gheldaneth,Mulhorand,misc.,0
+627,Jhalhoran,Mulhorand,humans,1000
+627,Jhalhoran,Mulhorand,misc.,0
+628,Klondor,Mulhorand,humans,1400
+628,Klondor,Mulhorand,misc.,0
+629,Maerlar,Mulhorand,humans,5000
+629,Maerlar,Mulhorand,misc.,0
+630,Mishtan,Mulhorand,humans,6268
+630,Mishtan,Mulhorand,misc.,0
+631,Neldorild,Mulhorand,humans,40934
+631,Neldorild,Mulhorand,misc.,0
+632,Rauthil,Mulhorand,humans,3000
+632,Rauthil,Mulhorand,misc.,0
+633,Sampranasz,Mulhorand,humans,2738
+633,Sampranasz,Mulhorand,misc.,0
+634,Sultim,Mulhorand,humans,270
+634,Sultim,Mulhorand,misc.,0
+635,Surbroar,Mulhorand,humans,280
+635,Surbroar,Mulhorand,misc.,0
+636,Ulzel,Mulhorand,humans,260
+636,Ulzel,Mulhorand,misc.,0
+637,Bildoobaris,Narfell,humans,14001
+637,Bildoobaris,Narfell,misc.,15412
+638,Antlerbones,Narfell,humans,241
+638,Antlerbones,Narfell,misc.,452
+639,Hoarbridge,Narfell,humans,349
+639,Hoarbridge,Narfell,misc.,0
+640,Jiyyd,Narfell,humans,461
+640,Jiyyd,Narfell,misc.,0
+641,Nar-Sek Qu’encesta,Narfell,humans,1011
+641,Nar-Sek Qu’encesta,Narfell,misc.,0
+642,Nar-Sek Qu’istrade,Narfell,humans,82
+642,Nar-Sek Qu’istrade,Narfell,misc.,0
+643,Nar-Sek Qu’tel,Narfell,humans,413
+643,Nar-Sek Qu’tel,Narfell,misc.,0
+644,N’Jast,Narfell,humans,71
+644,N’Jast,Narfell,misc.,0
+645,Peltarch,Narfell,humans,313
+645,Peltarch,Narfell,misc.,0
+646,Selmast,Narfell,humans,392
+646,Selmast,Narfell,misc.,0
+647,Snowcap,Narfell,humans,495
+647,Snowcap,Narfell,misc.,0
+648,Luskan,The Sword Coast,humans,14735
+648,Luskan,The Sword Coast,halflings,0
+648,Luskan,The Sword Coast,elves,0
+648,Luskan,The Sword Coast,dwarves,0
+648,Luskan,The Sword Coast,half-elves,0
+648,Luskan,The Sword Coast,misc.,1264

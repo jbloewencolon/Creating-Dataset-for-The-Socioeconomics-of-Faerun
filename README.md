@@ -82,6 +82,59 @@ We suggest that Wizards of the Coast should consider building on this for:
 
 I envision further datasets bringing to life the universes of Star Wars, Star Trek, Dune, and Discworld, each providing unique opportunities for engagement, education, and community collaboration.
 
+## Next Phase: Live Dashboard Map
+
+The next implementation phase is to publish a live map dashboard for Faerûn with filtering by region, settlement size, economy, government type, and magical risk factors.
+
+- **Option A (Fastest path): Tableau Public MVP**
+  - Build an interactive choropleth/symbol map and supporting KPI panels.
+  - Publish a public URL for portfolio/demo use.
+- **Option B (Production path): Proprietary app**
+  - Build a hosted internal dashboard (for example with Streamlit + Plotly, Dash, or a JS map stack such as Mapbox/Leaflet).
+  - Add authentication, usage tracking, and a controlled refresh pipeline.
+
+See [`DASHBOARD_NEXT_PHASE.md`](./DASHBOARD_NEXT_PHASE.md) for a detailed implementation blueprint, data prep checklist, and delivery milestones.
+
+
+
+### Dataset Generator (New)
+
+To create new synthetic dataset versions for modeling and dashboards, use:
+
+```bash
+python scripts/generate_faerun_dataset.py --rows 700 --seed 101 --capital-every 80 --out generated_data/faerun_dataset_seed101.csv
+```
+
+Recommended quality gate after generation:
+
+```bash
+python scripts/validate_faerun_dataset.py --input generated_data/faerun_dataset_seed101.csv
+```
+
+Then convert any generated CSV (or the original XLSX) to dashboard extracts:
+
+```bash
+python scripts/prepare_dashboard_data.py --input generated_data/faerun_dataset_seed101.csv --outdir generated_data/dashboard_seed101
+```
+
+This enables repeatable, seed-based refreshes of project data for experimentation and live dashboard updates.
+
+### Dashboard Data Starter (Implemented)
+
+To begin the live dashboard workstream, a no-dependency preparation script is included to convert the Excel source into dashboard-friendly CSV extracts (including normalized long-form trade/demographic tables):
+
+```bash
+python scripts/prepare_dashboard_data.py
+```
+
+This generates files in `dashboard_data/`:
+- `settlements_dashboard.csv`
+- `exports_long.csv`
+- `imports_long.csv`
+- `demographics_long.csv`
+- `class_density_long.csv`
+- `QA_SUMMARY.md`
+
 # Questions?
 Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
 
@@ -94,4 +147,6 @@ Further questions? Contact Jordan Loewen-Colón @ jbloewen@syr.edu
 ├── [images](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/tree/main/Images) : images used in README
 ├── [Sandbox](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/tree/main/Sandbox) : previous files from earlier drafts of project
 ├── [README.md](https://github.com/jbloewencolon/Creating-Dataset-for-The-Demographics-of-Faerun/blob/main/README.md) : project information and repository structure
+├── `scripts/prepare_dashboard_data.py` : converts source workbook into dashboard-ready CSV tables
+├── `dashboard_data/` : generated extracts and QA summary for live dashboard prototyping
 

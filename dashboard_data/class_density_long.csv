@@ -1,0 +1,4537 @@
+row_id,settlement,region_kingdom,social_class,share
+1,Athkatla,Amn,Aristocratic,332.0
+1,Athkatla,Amn,Wealthy,2809.0
+1,Athkatla,Amn,Comfortable,16584.0
+1,Athkatla,Amn,Modest,33440.0
+1,Athkatla,Amn,Poor,39204.0
+1,Athkatla,Amn,Squalid,48917.0
+1,Athkatla,Amn,Wretched,10176.0
+2,Amnwater,Amn,Aristocratic,2.0
+2,Amnwater,Amn,Wealthy,113.0
+2,Amnwater,Amn,Comfortable,486.0
+2,Amnwater,Amn,Modest,961.0
+2,Amnwater,Amn,Poor,2269.0
+2,Amnwater,Amn,Squalid,1336.0
+2,Amnwater,Amn,Wretched,318.0
+3,Citadel Amnur,Amn,Aristocratic,0.0
+3,Citadel Amnur,Amn,Wealthy,1.0
+3,Citadel Amnur,Amn,Comfortable,40.0
+3,Citadel Amnur,Amn,Modest,87.0
+3,Citadel Amnur,Amn,Poor,204.0
+3,Citadel Amnur,Amn,Squalid,123.0
+3,Citadel Amnur,Amn,Wretched,10.0
+4,Citadel Rashturl,Amn,Aristocratic,0.0
+4,Citadel Rashturl,Amn,Wealthy,3.0
+4,Citadel Rashturl,Amn,Comfortable,41.0
+4,Citadel Rashturl,Amn,Modest,127.0
+4,Citadel Rashturl,Amn,Poor,221.0
+4,Citadel Rashturl,Amn,Squalid,146.0
+4,Citadel Rashturl,Amn,Wretched,7.0
+5,Coryllvol,Amn,Aristocratic,71.0
+5,Coryllvol,Amn,Wealthy,631.0
+5,Coryllvol,Amn,Comfortable,1771.0
+5,Coryllvol,Amn,Modest,2545.0
+5,Coryllvol,Amn,Poor,7526.0
+5,Coryllvol,Amn,Squalid,6608.0
+5,Coryllvol,Amn,Wretched,2090.0
+6,Crimmor,Amn,Aristocratic,135.0
+6,Crimmor,Amn,Wealthy,522.0
+6,Crimmor,Amn,Comfortable,4054.0
+6,Crimmor,Amn,Modest,6474.0
+6,Crimmor,Amn,Poor,11773.0
+6,Crimmor,Amn,Squalid,9875.0
+6,Crimmor,Amn,Wretched,3283.0
+7,Dark Redoubt,Amn,Aristocratic,0.0
+7,Dark Redoubt,Amn,Wealthy,0.0
+7,Dark Redoubt,Amn,Comfortable,19.0
+7,Dark Redoubt,Amn,Modest,45.0
+7,Dark Redoubt,Amn,Poor,94.0
+7,Dark Redoubt,Amn,Squalid,54.0
+7,Dark Redoubt,Amn,Wretched,2.0
+8,Edive,Amn,Aristocratic,0.0
+8,Edive,Amn,Wealthy,0.0
+8,Edive,Amn,Comfortable,12.0
+8,Edive,Amn,Modest,18.0
+8,Edive,Amn,Poor,66.0
+8,Edive,Amn,Squalid,45.0
+8,Edive,Amn,Wretched,1.0
+9,Esford,Amn,Aristocratic,0.0
+9,Esford,Amn,Wealthy,69.0
+9,Esford,Amn,Comfortable,426.0
+9,Esford,Amn,Modest,1412.0
+9,Esford,Amn,Poor,1786.0
+9,Esford,Amn,Squalid,1523.0
+9,Esford,Amn,Wretched,263.0
+10,Eshpurta,Amn,Aristocratic,60.0
+10,Eshpurta,Amn,Wealthy,584.0
+10,Eshpurta,Amn,Comfortable,2529.0
+10,Eshpurta,Amn,Modest,2456.0
+10,Eshpurta,Amn,Poor,7455.0
+10,Eshpurta,Amn,Squalid,4931.0
+10,Eshpurta,Amn,Wretched,1996.0
+11,Esmeltaran,Amn,Aristocratic,74.0
+11,Esmeltaran,Amn,Wealthy,629.0
+11,Esmeltaran,Amn,Comfortable,1979.0
+11,Esmeltaran,Amn,Modest,2879.0
+11,Esmeltaran,Amn,Poor,7341.0
+11,Esmeltaran,Amn,Squalid,5324.0
+11,Esmeltaran,Amn,Wretched,1622.0
+12,Gambiton,Amn,Aristocratic,0.0
+12,Gambiton,Amn,Wealthy,25.0
+12,Gambiton,Amn,Comfortable,97.0
+12,Gambiton,Amn,Modest,227.0
+12,Gambiton,Amn,Poor,451.0
+12,Gambiton,Amn,Squalid,246.0
+12,Gambiton,Amn,Wretched,97.0
+13,Goldspires,Amn,Aristocratic,0.0
+13,Goldspires,Amn,Wealthy,18.0
+13,Goldspires,Amn,Comfortable,77.0
+13,Goldspires,Amn,Modest,167.0
+13,Goldspires,Amn,Poor,402.0
+13,Goldspires,Amn,Squalid,328.0
+13,Goldspires,Amn,Wretched,82.0
+14,Hillfort Ishla,Amn,Aristocratic,0.0
+14,Hillfort Ishla,Amn,Wealthy,0.0
+14,Hillfort Ishla,Amn,Comfortable,12.0
+14,Hillfort Ishla,Amn,Modest,26.0
+14,Hillfort Ishla,Amn,Poor,99.0
+14,Hillfort Ishla,Amn,Squalid,82.0
+14,Hillfort Ishla,Amn,Wretched,5.0
+15,Hillfort Keshla,Amn,Aristocratic,0.0
+15,Hillfort Keshla,Amn,Wealthy,2.0
+15,Hillfort Keshla,Amn,Comfortable,24.0
+15,Hillfort Keshla,Amn,Modest,44.0
+15,Hillfort Keshla,Amn,Poor,141.0
+15,Hillfort Keshla,Amn,Squalid,79.0
+15,Hillfort Keshla,Amn,Wretched,5.0
+16,Hillfort Torbold,Amn,Aristocratic,0.0
+16,Hillfort Torbold,Amn,Wealthy,1.0
+16,Hillfort Torbold,Amn,Comfortable,18.0
+16,Hillfort Torbold,Amn,Modest,44.0
+16,Hillfort Torbold,Amn,Poor,94.0
+16,Hillfort Torbold,Amn,Squalid,61.0
+16,Hillfort Torbold,Amn,Wretched,3.0
+17,Ideepton,Amn,Aristocratic,0.0
+17,Ideepton,Amn,Wealthy,0.0
+17,Ideepton,Amn,Comfortable,13.0
+17,Ideepton,Amn,Modest,25.0
+17,Ideepton,Amn,Poor,66.0
+17,Ideepton,Amn,Squalid,37.0
+17,Ideepton,Amn,Wretched,3.0
+18,Imnescar,Amn,Aristocratic,1.0
+18,Imnescar,Amn,Wealthy,98.0
+18,Imnescar,Amn,Comfortable,359.0
+18,Imnescar,Amn,Modest,1097.0
+18,Imnescar,Amn,Poor,1865.0
+18,Imnescar,Amn,Squalid,1217.0
+18,Imnescar,Amn,Wretched,194.0
+19,Keczulla,Amn,Aristocratic,116.0
+19,Keczulla,Amn,Wealthy,1139.0
+19,Keczulla,Amn,Comfortable,5496.0
+19,Keczulla,Amn,Modest,5971.0
+19,Keczulla,Amn,Poor,14565.0
+19,Keczulla,Amn,Squalid,10033.0
+19,Keczulla,Amn,Wretched,3680.0
+20,Minsor Vale,Amn,Aristocratic,0.0
+20,Minsor Vale,Amn,Wealthy,1.0
+20,Minsor Vale,Amn,Comfortable,10.0
+20,Minsor Vale,Amn,Modest,27.0
+20,Minsor Vale,Amn,Poor,60.0
+20,Minsor Vale,Amn,Squalid,55.0
+20,Minsor Vale,Amn,Wretched,3.0
+21,Murann,Amn,Aristocratic,80.0
+21,Murann,Amn,Wealthy,725.0
+21,Murann,Amn,Comfortable,4899.0
+21,Murann,Amn,Modest,8280.0
+21,Murann,Amn,Poor,13325.0
+21,Murann,Amn,Squalid,9976.0
+21,Murann,Amn,Wretched,3850.0
+22,Nashkel,Amn,Aristocratic,0.0
+22,Nashkel,Amn,Wealthy,29.0
+22,Nashkel,Amn,Comfortable,208.0
+22,Nashkel,Amn,Modest,475.0
+22,Nashkel,Amn,Poor,870.0
+22,Nashkel,Amn,Squalid,558.0
+22,Nashkel,Amn,Wretched,100.0
+23,Purskul,Amn,Aristocratic,97.0
+23,Purskul,Amn,Wealthy,382.0
+23,Purskul,Amn,Comfortable,2892.0
+23,Purskul,Amn,Modest,4779.0
+23,Purskul,Amn,Poor,8750.0
+23,Purskul,Amn,Squalid,7924.0
+23,Purskul,Amn,Wretched,1653.0
+24,Quarrelshigh,Amn,Aristocratic,0.0
+24,Quarrelshigh,Amn,Wealthy,2.0
+24,Quarrelshigh,Amn,Comfortable,33.0
+24,Quarrelshigh,Amn,Modest,50.0
+24,Quarrelshigh,Amn,Poor,163.0
+24,Quarrelshigh,Amn,Squalid,137.0
+24,Quarrelshigh,Amn,Wretched,6.0
+25,Riatavin,Amn,Aristocratic,0.0
+25,Riatavin,Amn,Wealthy,337.0
+25,Riatavin,Amn,Comfortable,1012.0
+25,Riatavin,Amn,Modest,2062.0
+25,Riatavin,Amn,Poor,4032.0
+25,Riatavin,Amn,Squalid,2606.0
+25,Riatavin,Amn,Wretched,943.0
+26,Scimitar,Amn,Aristocratic,0.0
+26,Scimitar,Amn,Wealthy,0.0
+26,Scimitar,Amn,Comfortable,19.0
+26,Scimitar,Amn,Modest,26.0
+26,Scimitar,Amn,Poor,90.0
+26,Scimitar,Amn,Squalid,54.0
+26,Scimitar,Amn,Wretched,5.0
+27,Shatar,Amn,Aristocratic,0.0
+27,Shatar,Amn,Wealthy,0.0
+27,Shatar,Amn,Comfortable,8.0
+27,Shatar,Amn,Modest,20.0
+27,Shatar,Amn,Poor,69.0
+27,Shatar,Amn,Squalid,32.0
+27,Shatar,Amn,Wretched,3.0
+28,Shepherdston,Amn,Aristocratic,0.0
+28,Shepherdston,Amn,Wealthy,84.0
+28,Shepherdston,Amn,Comfortable,394.0
+28,Shepherdston,Amn,Modest,1139.0
+28,Shepherdston,Amn,Poor,1680.0
+28,Shepherdston,Amn,Squalid,1130.0
+28,Shepherdston,Amn,Wretched,272.0
+29,Trademeet,Amn,Aristocratic,2.0
+29,Trademeet,Amn,Wealthy,109.0
+29,Trademeet,Amn,Comfortable,481.0
+29,Trademeet,Amn,Modest,1361.0
+29,Trademeet,Amn,Poor,2107.0
+29,Trademeet,Amn,Squalid,1693.0
+29,Trademeet,Amn,Wretched,393.0
+30,Trailstone,Amn,Aristocratic,0.0
+30,Trailstone,Amn,Wealthy,3.0
+30,Trailstone,Amn,Comfortable,43.0
+30,Trailstone,Amn,Modest,83.0
+30,Trailstone,Amn,Poor,208.0
+30,Trailstone,Amn,Squalid,124.0
+30,Trailstone,Amn,Wretched,8.0
+31,Zinner,Amn,Aristocratic,0.0
+31,Zinner,Amn,Wealthy,2.0
+31,Zinner,Amn,Comfortable,26.0
+31,Zinner,Amn,Modest,68.0
+31,Zinner,Amn,Poor,167.0
+31,Zinner,Amn,Squalid,100.0
+31,Zinner,Amn,Wretched,8.0
+32,Calimport,Calimshan,Aristocratic,181.0
+32,Calimport,Calimshan,Wealthy,2417.0
+32,Calimport,Calimshan,Comfortable,6719.0
+32,Calimport,Calimshan,Modest,11520.0
+32,Calimport,Calimshan,Poor,26379.0
+32,Calimport,Calimshan,Squalid,25852.0
+32,Calimport,Calimshan,Wretched,5711.0
+33,Almraiven,Calimshan,Aristocratic,72.0
+33,Almraiven,Calimshan,Wealthy,990.0
+33,Almraiven,Calimshan,Comfortable,5046.0
+33,Almraiven,Calimshan,Modest,7931.0
+33,Almraiven,Calimshan,Poor,13233.0
+33,Almraiven,Calimshan,Squalid,9809.0
+33,Almraiven,Calimshan,Wretched,3050.0
+34,Keltar,Calimshan,Aristocratic,59.0
+34,Keltar,Calimshan,Wealthy,473.0
+34,Keltar,Calimshan,Comfortable,2686.0
+34,Keltar,Calimshan,Modest,3047.0
+34,Keltar,Calimshan,Poor,8232.0
+34,Keltar,Calimshan,Squalid,6746.0
+34,Keltar,Calimshan,Wretched,1946.0
+35,Manshaka,Calimshan,Aristocratic,15.0
+35,Manshaka,Calimshan,Wealthy,742.0
+35,Manshaka,Calimshan,Comfortable,3770.0
+35,Manshaka,Calimshan,Modest,4192.0
+35,Manshaka,Calimshan,Poor,11220.0
+35,Manshaka,Calimshan,Squalid,11920.0
+35,Manshaka,Calimshan,Wretched,1724.0
+36,Memnon,Calimshan,Aristocratic,51.0
+36,Memnon,Calimshan,Wealthy,506.0
+36,Memnon,Calimshan,Comfortable,3726.0
+36,Memnon,Calimshan,Modest,3097.0
+36,Memnon,Calimshan,Poor,9503.0
+36,Memnon,Calimshan,Squalid,7835.0
+36,Memnon,Calimshan,Wretched,2281.0
+37,Schamedar,Calimshan,Aristocratic,43.0
+37,Schamedar,Calimshan,Wealthy,230.0
+37,Schamedar,Calimshan,Comfortable,2532.0
+37,Schamedar,Calimshan,Modest,3372.0
+37,Schamedar,Calimshan,Poor,6882.0
+37,Schamedar,Calimshan,Squalid,4640.0
+37,Schamedar,Calimshan,Wretched,1559.0
+38,Suldolphor,Calimshan,Aristocratic,1.0
+38,Suldolphor,Calimshan,Wealthy,247.0
+38,Suldolphor,Calimshan,Comfortable,1615.0
+38,Suldolphor,Calimshan,Modest,1478.0
+38,Suldolphor,Calimshan,Poor,4575.0
+38,Suldolphor,Calimshan,Squalid,3833.0
+38,Suldolphor,Calimshan,Wretched,822.0
+39,Teshburl,Calimshan,Aristocratic,100.0
+39,Teshburl,Calimshan,Wealthy,621.0
+39,Teshburl,Calimshan,Comfortable,2367.0
+39,Teshburl,Calimshan,Modest,3971.0
+39,Teshburl,Calimshan,Poor,6852.0
+39,Teshburl,Calimshan,Squalid,5755.0
+39,Teshburl,Calimshan,Wretched,1664.0
+40,Volothamp,Calimshan,Aristocratic,118.0
+40,Volothamp,Calimshan,Wealthy,591.0
+40,Volothamp,Calimshan,Comfortable,4405.0
+40,Volothamp,Calimshan,Modest,5767.0
+40,Volothamp,Calimshan,Poor,11304.0
+40,Volothamp,Calimshan,Squalid,12207.0
+40,Volothamp,Calimshan,Wretched,2229.0
+41,Cimbar,Chessenta,Aristocratic,24.0
+41,Cimbar,Chessenta,Wealthy,245.0
+41,Cimbar,Chessenta,Comfortable,1125.0
+41,Cimbar,Chessenta,Modest,1402.0
+41,Cimbar,Chessenta,Poor,3584.0
+41,Cimbar,Chessenta,Squalid,3227.0
+41,Cimbar,Chessenta,Wretched,1023.0
+42,Airspur,Chessenta,Aristocratic,5.0
+42,Airspur,Chessenta,Wealthy,570.0
+42,Airspur,Chessenta,Comfortable,2292.0
+42,Airspur,Chessenta,Modest,2694.0
+42,Airspur,Chessenta,Poor,7690.0
+42,Airspur,Chessenta,Squalid,7643.0
+42,Airspur,Chessenta,Wretched,2017.0
+43,Akanax,Chessenta,Aristocratic,103.0
+43,Akanax,Chessenta,Wealthy,380.0
+43,Akanax,Chessenta,Comfortable,2838.0
+43,Akanax,Chessenta,Modest,3872.0
+43,Akanax,Chessenta,Poor,8420.0
+43,Akanax,Chessenta,Squalid,8928.0
+43,Akanax,Chessenta,Wretched,2258.0
+44,Erebos,Chessenta,Aristocratic,3.0
+44,Erebos,Chessenta,Wealthy,105.0
+44,Erebos,Chessenta,Comfortable,520.0
+44,Erebos,Chessenta,Modest,1847.0
+44,Erebos,Chessenta,Poor,2375.0
+44,Erebos,Chessenta,Squalid,1441.0
+44,Erebos,Chessenta,Wretched,369.0
+45,Gaj,Chessenta,Aristocratic,1.0
+45,Gaj,Chessenta,Wealthy,92.0
+45,Gaj,Chessenta,Comfortable,381.0
+45,Gaj,Chessenta,Modest,1309.0
+45,Gaj,Chessenta,Poor,2038.0
+45,Gaj,Chessenta,Squalid,1644.0
+45,Gaj,Chessenta,Wretched,382.0
+46,Heptios,Chessenta,Aristocratic,2.0
+46,Heptios,Chessenta,Wealthy,133.0
+46,Heptios,Chessenta,Comfortable,567.0
+46,Heptios,Chessenta,Modest,1602.0
+46,Heptios,Chessenta,Poor,2694.0
+46,Heptios,Chessenta,Squalid,2003.0
+46,Heptios,Chessenta,Wretched,274.0
+47,Luthcheq,Chessenta,Aristocratic,93.0
+47,Luthcheq,Chessenta,Wealthy,1341.0
+47,Luthcheq,Chessenta,Comfortable,6488.0
+47,Luthcheq,Chessenta,Modest,7564.0
+47,Luthcheq,Chessenta,Poor,19982.0
+47,Luthcheq,Chessenta,Squalid,15575.0
+47,Luthcheq,Chessenta,Wretched,3162.0
+48,Maerduuth,Chessenta,Aristocratic,49.0
+48,Maerduuth,Chessenta,Wealthy,161.0
+48,Maerduuth,Chessenta,Comfortable,928.0
+48,Maerduuth,Chessenta,Modest,1879.0
+48,Maerduuth,Chessenta,Poor,4405.0
+48,Maerduuth,Chessenta,Squalid,2686.0
+48,Maerduuth,Chessenta,Wretched,892.0
+49,Mordulkin,Chessenta,Aristocratic,26.0
+49,Mordulkin,Chessenta,Wealthy,716.0
+49,Mordulkin,Chessenta,Comfortable,4110.0
+49,Mordulkin,Chessenta,Modest,5939.0
+49,Mordulkin,Chessenta,Poor,11032.0
+49,Mordulkin,Chessenta,Squalid,10202.0
+49,Mordulkin,Chessenta,Wretched,3139.0
+50,Oslin,Chessenta,Aristocratic,2.0
+50,Oslin,Chessenta,Wealthy,104.0
+50,Oslin,Chessenta,Comfortable,401.0
+50,Oslin,Chessenta,Modest,575.0
+50,Oslin,Chessenta,Poor,1700.0
+50,Oslin,Chessenta,Squalid,1647.0
+50,Oslin,Chessenta,Wretched,334.0
+51,Pandrik,Chessenta,Aristocratic,0.0
+51,Pandrik,Chessenta,Wealthy,19.0
+51,Pandrik,Chessenta,Comfortable,80.0
+51,Pandrik,Chessenta,Modest,255.0
+51,Pandrik,Chessenta,Poor,393.0
+51,Pandrik,Chessenta,Squalid,334.0
+51,Pandrik,Chessenta,Wretched,88.0
+52,Rodanar,Chessenta,Aristocratic,2.0
+52,Rodanar,Chessenta,Wealthy,52.0
+52,Rodanar,Chessenta,Comfortable,293.0
+52,Rodanar,Chessenta,Modest,1183.0
+52,Rodanar,Chessenta,Poor,1440.0
+52,Rodanar,Chessenta,Squalid,1408.0
+52,Rodanar,Chessenta,Wretched,322.0
+53,Saden,Chessenta,Aristocratic,0.0
+53,Saden,Chessenta,Wealthy,3.0
+53,Saden,Chessenta,Comfortable,62.0
+53,Saden,Chessenta,Modest,79.0
+53,Saden,Chessenta,Poor,280.0
+53,Saden,Chessenta,Squalid,193.0
+53,Saden,Chessenta,Wretched,12.0
+54,Samnur,Chessenta,Aristocratic,0.0
+54,Samnur,Chessenta,Wealthy,20.0
+54,Samnur,Chessenta,Comfortable,134.0
+54,Samnur,Chessenta,Modest,203.0
+54,Samnur,Chessenta,Poor,515.0
+54,Samnur,Chessenta,Squalid,402.0
+54,Samnur,Chessenta,Wretched,108.0
+55,Soolabax,Chessenta,Aristocratic,0.0
+55,Soolabax,Chessenta,Wealthy,33.0
+55,Soolabax,Chessenta,Comfortable,120.0
+55,Soolabax,Chessenta,Modest,355.0
+55,Soolabax,Chessenta,Poor,569.0
+55,Soolabax,Chessenta,Squalid,344.0
+55,Soolabax,Chessenta,Wretched,119.0
+56,Soorenar,Chessenta,Aristocratic,54.0
+56,Soorenar,Chessenta,Wealthy,1297.0
+56,Soorenar,Chessenta,Comfortable,6842.0
+56,Soorenar,Chessenta,Modest,15045.0
+56,Soorenar,Chessenta,Poor,23312.0
+56,Soorenar,Chessenta,Squalid,22255.0
+56,Soorenar,Chessenta,Wretched,6816.0
+57,Toreus,Chessenta,Aristocratic,1.0
+57,Toreus,Chessenta,Wealthy,43.0
+57,Toreus,Chessenta,Comfortable,243.0
+57,Toreus,Chessenta,Modest,430.0
+57,Toreus,Chessenta,Poor,1250.0
+57,Toreus,Chessenta,Squalid,749.0
+57,Toreus,Chessenta,Wretched,146.0
+58,Tulach,Chessenta,Aristocratic,0.0
+58,Tulach,Chessenta,Wealthy,24.0
+58,Tulach,Chessenta,Comfortable,180.0
+58,Tulach,Chessenta,Modest,273.0
+58,Tulach,Chessenta,Poor,801.0
+58,Tulach,Chessenta,Squalid,595.0
+58,Tulach,Chessenta,Wretched,73.0
+59,Villon,Chessenta,Aristocratic,0.0
+59,Villon,Chessenta,Wealthy,5.0
+59,Villon,Chessenta,Comfortable,33.0
+59,Villon,Chessenta,Modest,85.0
+59,Villon,Chessenta,Poor,242.0
+59,Villon,Chessenta,Squalid,194.0
+59,Villon,Chessenta,Wretched,13.0
+60,Suzail,Cormyr,Aristocratic,689.0
+60,Suzail,Cormyr,Wealthy,3224.0
+60,Suzail,Cormyr,Comfortable,14929.0
+60,Suzail,Cormyr,Modest,21951.0
+60,Suzail,Cormyr,Poor,39429.0
+60,Suzail,Cormyr,Squalid,45305.0
+60,Suzail,Cormyr,Wretched,12830.0
+61,Arabel,Cormyr,Aristocratic,14.0
+61,Arabel,Cormyr,Wealthy,776.0
+61,Arabel,Cormyr,Comfortable,3675.0
+61,Arabel,Cormyr,Modest,5260.0
+61,Arabel,Cormyr,Poor,9537.0
+61,Arabel,Cormyr,Squalid,10116.0
+61,Arabel,Cormyr,Wretched,1933.0
+62,Aunkspear,Cormyr,Aristocratic,97.0
+62,Aunkspear,Cormyr,Wealthy,1100.0
+62,Aunkspear,Cormyr,Comfortable,4045.0
+62,Aunkspear,Cormyr,Modest,9416.0
+62,Aunkspear,Cormyr,Poor,18359.0
+62,Aunkspear,Cormyr,Squalid,13317.0
+62,Aunkspear,Cormyr,Wretched,3976.0
+63,Battlerise,Cormyr,Aristocratic,3.0
+63,Battlerise,Cormyr,Wealthy,95.0
+63,Battlerise,Cormyr,Comfortable,502.0
+63,Battlerise,Cormyr,Modest,1612.0
+63,Battlerise,Cormyr,Poor,2495.0
+63,Battlerise,Cormyr,Squalid,1930.0
+63,Battlerise,Cormyr,Wretched,269.0
+64,Besert,Cormyr,Aristocratic,0.0
+64,Besert,Cormyr,Wealthy,2.0
+64,Besert,Cormyr,Comfortable,28.0
+64,Besert,Cormyr,Modest,64.0
+64,Besert,Cormyr,Poor,141.0
+64,Besert,Cormyr,Squalid,96.0
+64,Besert,Cormyr,Wretched,7.0
+65,Blustich,Cormyr,Aristocratic,1.0
+65,Blustich,Cormyr,Wealthy,80.0
+65,Blustich,Cormyr,Comfortable,337.0
+65,Blustich,Cormyr,Modest,885.0
+65,Blustich,Cormyr,Poor,1579.0
+65,Blustich,Cormyr,Squalid,1483.0
+65,Blustich,Cormyr,Wretched,387.0
+66,Bogbrook,Cormyr,Aristocratic,0.0
+66,Bogbrook,Cormyr,Wealthy,0.0
+66,Bogbrook,Cormyr,Comfortable,44.0
+66,Bogbrook,Cormyr,Modest,102.0
+66,Bogbrook,Cormyr,Poor,248.0
+66,Bogbrook,Cormyr,Squalid,198.0
+66,Bogbrook,Cormyr,Wretched,14.0
+67,Bospir,Cormyr,Aristocratic,0.0
+67,Bospir,Cormyr,Wealthy,36.0
+67,Bospir,Cormyr,Comfortable,199.0
+67,Bospir,Cormyr,Modest,618.0
+67,Bospir,Cormyr,Poor,899.0
+67,Bospir,Cormyr,Squalid,748.0
+67,Bospir,Cormyr,Wretched,86.0
+68,Castle Crag,Cormyr,Aristocratic,0.0
+68,Castle Crag,Cormyr,Wealthy,3.0
+68,Castle Crag,Cormyr,Comfortable,25.0
+68,Castle Crag,Cormyr,Modest,42.0
+68,Castle Crag,Cormyr,Poor,164.0
+68,Castle Crag,Cormyr,Squalid,141.0
+68,Castle Crag,Cormyr,Wretched,7.0
+69,Dawngleam,Cormyr,Aristocratic,0.0
+69,Dawngleam,Cormyr,Wealthy,4.0
+69,Dawngleam,Cormyr,Comfortable,40.0
+69,Dawngleam,Cormyr,Modest,100.0
+69,Dawngleam,Cormyr,Poor,273.0
+69,Dawngleam,Cormyr,Squalid,203.0
+69,Dawngleam,Cormyr,Wretched,14.0
+70,Dhedluk,Cormyr,Aristocratic,0.0
+70,Dhedluk,Cormyr,Wealthy,2.0
+70,Dhedluk,Cormyr,Comfortable,48.0
+70,Dhedluk,Cormyr,Modest,69.0
+70,Dhedluk,Cormyr,Poor,289.0
+70,Dhedluk,Cormyr,Squalid,142.0
+70,Dhedluk,Cormyr,Wretched,12.0
+71,Dreamer’s Rock,Cormyr,Aristocratic,0.0
+71,Dreamer’s Rock,Cormyr,Wealthy,3.0
+71,Dreamer’s Rock,Cormyr,Comfortable,34.0
+71,Dreamer’s Rock,Cormyr,Modest,117.0
+71,Dreamer’s Rock,Cormyr,Poor,224.0
+71,Dreamer’s Rock,Cormyr,Squalid,151.0
+71,Dreamer’s Rock,Cormyr,Wretched,9.0
+72,Espar,Cormyr,Aristocratic,0.0
+72,Espar,Cormyr,Wealthy,3.0
+72,Espar,Cormyr,Comfortable,35.0
+72,Espar,Cormyr,Modest,53.0
+72,Espar,Cormyr,Poor,192.0
+72,Espar,Cormyr,Squalid,89.0
+72,Espar,Cormyr,Wretched,7.0
+73,Eveningstar,Cormyr,Aristocratic,0.0
+73,Eveningstar,Cormyr,Wealthy,5.0
+73,Eveningstar,Cormyr,Comfortable,56.0
+73,Eveningstar,Cormyr,Modest,176.0
+73,Eveningstar,Cormyr,Poor,290.0
+73,Eveningstar,Cormyr,Squalid,161.0
+73,Eveningstar,Cormyr,Wretched,19.0
+74,Ghars,Cormyr,Aristocratic,0.0
+74,Ghars,Cormyr,Wealthy,15.0
+74,Ghars,Cormyr,Comfortable,85.0
+74,Ghars,Cormyr,Modest,265.0
+74,Ghars,Cormyr,Poor,368.0
+74,Ghars,Cormyr,Squalid,283.0
+74,Ghars,Cormyr,Wretched,46.0
+75,Gladehap,Cormyr,Aristocratic,0.0
+75,Gladehap,Cormyr,Wealthy,3.0
+75,Gladehap,Cormyr,Comfortable,40.0
+75,Gladehap,Cormyr,Modest,113.0
+75,Gladehap,Cormyr,Poor,274.0
+75,Gladehap,Cormyr,Squalid,174.0
+75,Gladehap,Cormyr,Wretched,11.0
+76,Gorthin,Cormyr,Aristocratic,2.0
+76,Gorthin,Cormyr,Wealthy,73.0
+76,Gorthin,Cormyr,Comfortable,403.0
+76,Gorthin,Cormyr,Modest,1126.0
+76,Gorthin,Cormyr,Poor,1977.0
+76,Gorthin,Cormyr,Squalid,1120.0
+76,Gorthin,Cormyr,Wretched,392.0
+77,Gray Oaks,Cormyr,Aristocratic,0.0
+77,Gray Oaks,Cormyr,Wealthy,0.0
+77,Gray Oaks,Cormyr,Comfortable,5.0
+77,Gray Oaks,Cormyr,Modest,8.0
+77,Gray Oaks,Cormyr,Poor,32.0
+77,Gray Oaks,Cormyr,Squalid,22.0
+77,Gray Oaks,Cormyr,Wretched,0.0
+78,Halfhap,Cormyr,Aristocratic,0.0
+78,Halfhap,Cormyr,Wealthy,31.0
+78,Halfhap,Cormyr,Comfortable,177.0
+78,Halfhap,Cormyr,Modest,500.0
+78,Halfhap,Cormyr,Poor,718.0
+78,Halfhap,Cormyr,Squalid,547.0
+78,Halfhap,Cormyr,Wretched,101.0
+79,High Horn,Cormyr,Aristocratic,0.0
+79,High Horn,Cormyr,Wealthy,2.0
+79,High Horn,Cormyr,Comfortable,16.0
+79,High Horn,Cormyr,Modest,58.0
+79,High Horn,Cormyr,Poor,127.0
+79,High Horn,Cormyr,Squalid,110.0
+79,High Horn,Cormyr,Wretched,4.0
+80,Hillmarch,Cormyr,Aristocratic,0.0
+80,Hillmarch,Cormyr,Wealthy,82.0
+80,Hillmarch,Cormyr,Comfortable,362.0
+80,Hillmarch,Cormyr,Modest,1100.0
+80,Hillmarch,Cormyr,Poor,1715.0
+80,Hillmarch,Cormyr,Squalid,1330.0
+80,Hillmarch,Cormyr,Wretched,404.0
+81,Hilp,Cormyr,Aristocratic,0.0
+81,Hilp,Cormyr,Wealthy,0.0
+81,Hilp,Cormyr,Comfortable,13.0
+81,Hilp,Cormyr,Modest,37.0
+81,Hilp,Cormyr,Poor,88.0
+81,Hilp,Cormyr,Squalid,50.0
+81,Hilp,Cormyr,Wretched,3.0
+82,Hultail,Cormyr,Aristocratic,0.0
+82,Hultail,Cormyr,Wealthy,0.0
+82,Hultail,Cormyr,Comfortable,6.0
+82,Hultail,Cormyr,Modest,11.0
+82,Hultail,Cormyr,Poor,32.0
+82,Hultail,Cormyr,Squalid,21.0
+82,Hultail,Cormyr,Wretched,0.0
+83,Immersea,Cormyr,Aristocratic,0.0
+83,Immersea,Cormyr,Wealthy,17.0
+83,Immersea,Cormyr,Comfortable,88.0
+83,Immersea,Cormyr,Modest,134.0
+83,Immersea,Cormyr,Poor,350.0
+83,Immersea,Cormyr,Squalid,296.0
+83,Immersea,Cormyr,Wretched,49.0
+84,Juniril,Cormyr,Aristocratic,0.0
+84,Juniril,Cormyr,Wealthy,110.0
+84,Juniril,Cormyr,Comfortable,707.0
+84,Juniril,Cormyr,Modest,965.0
+84,Juniril,Cormyr,Poor,3082.0
+84,Juniril,Cormyr,Squalid,1946.0
+84,Juniril,Cormyr,Wretched,327.0
+85,Kallamarn,Cormyr,Aristocratic,0.0
+85,Kallamarn,Cormyr,Wealthy,99.0
+85,Kallamarn,Cormyr,Comfortable,541.0
+85,Kallamarn,Cormyr,Modest,1225.0
+85,Kallamarn,Cormyr,Poor,2159.0
+85,Kallamarn,Cormyr,Squalid,1958.0
+85,Kallamarn,Cormyr,Wretched,476.0
+86,Kirinwood,Cormyr,Aristocratic,2.0
+86,Kirinwood,Cormyr,Wealthy,82.0
+86,Kirinwood,Cormyr,Comfortable,417.0
+86,Kirinwood,Cormyr,Modest,1237.0
+86,Kirinwood,Cormyr,Poor,1747.0
+86,Kirinwood,Cormyr,Squalid,1073.0
+86,Kirinwood,Cormyr,Wretched,345.0
+87,Knightswood,Cormyr,Aristocratic,1.0
+87,Knightswood,Cormyr,Wealthy,55.0
+87,Knightswood,Cormyr,Comfortable,349.0
+87,Knightswood,Cormyr,Modest,1002.0
+87,Knightswood,Cormyr,Poor,1745.0
+87,Knightswood,Cormyr,Squalid,1219.0
+87,Knightswood,Cormyr,Wretched,309.0
+88,Marsark’s Grove,Cormyr,Aristocratic,0.0
+88,Marsark’s Grove,Cormyr,Wealthy,50.0
+88,Marsark’s Grove,Cormyr,Comfortable,180.0
+88,Marsark’s Grove,Cormyr,Modest,297.0
+88,Marsark’s Grove,Cormyr,Poor,842.0
+88,Marsark’s Grove,Cormyr,Squalid,595.0
+88,Marsark’s Grove,Cormyr,Wretched,138.0
+89,Marsember,Cormyr,Aristocratic,0.0
+89,Marsember,Cormyr,Wealthy,43.0
+89,Marsember,Cormyr,Comfortable,273.0
+89,Marsember,Cormyr,Modest,711.0
+89,Marsember,Cormyr,Poor,1074.0
+89,Marsember,Cormyr,Squalid,691.0
+89,Marsember,Cormyr,Wretched,142.0
+90,Minroe,Cormyr,Aristocratic,0.0
+90,Minroe,Cormyr,Wealthy,2.0
+90,Minroe,Cormyr,Comfortable,24.0
+90,Minroe,Cormyr,Modest,63.0
+90,Minroe,Cormyr,Poor,155.0
+90,Minroe,Cormyr,Squalid,132.0
+90,Minroe,Cormyr,Wretched,7.0
+91,Monksblade,Cormyr,Aristocratic,0.0
+91,Monksblade,Cormyr,Wealthy,1.0
+91,Monksblade,Cormyr,Comfortable,17.0
+91,Monksblade,Cormyr,Modest,36.0
+91,Monksblade,Cormyr,Poor,99.0
+91,Monksblade,Cormyr,Squalid,88.0
+91,Monksblade,Cormyr,Wretched,3.0
+92,Moonever,Cormyr,Aristocratic,0.0
+92,Moonever,Cormyr,Wealthy,5.0
+92,Moonever,Cormyr,Comfortable,35.0
+92,Moonever,Cormyr,Modest,160.0
+92,Moonever,Cormyr,Poor,248.0
+92,Moonever,Cormyr,Squalid,158.0
+92,Moonever,Cormyr,Wretched,14.0
+93,Mouth O’ Gargoyles,Cormyr,Aristocratic,0.0
+93,Mouth O’ Gargoyles,Cormyr,Wealthy,0.0
+93,Mouth O’ Gargoyles,Cormyr,Comfortable,20.0
+93,Mouth O’ Gargoyles,Cormyr,Modest,41.0
+93,Mouth O’ Gargoyles,Cormyr,Poor,157.0
+93,Mouth O’ Gargoyles,Cormyr,Squalid,73.0
+93,Mouth O’ Gargoyles,Cormyr,Wretched,6.0
+94,Nesmyth,Cormyr,Aristocratic,0.0
+94,Nesmyth,Cormyr,Wealthy,0.0
+94,Nesmyth,Cormyr,Comfortable,23.0
+94,Nesmyth,Cormyr,Modest,92.0
+94,Nesmyth,Cormyr,Poor,165.0
+94,Nesmyth,Cormyr,Squalid,149.0
+94,Nesmyth,Cormyr,Wretched,5.0
+95,Ongul’s Water,Cormyr,Aristocratic,0.0
+95,Ongul’s Water,Cormyr,Wealthy,1.0
+95,Ongul’s Water,Cormyr,Comfortable,34.0
+95,Ongul’s Water,Cormyr,Modest,88.0
+95,Ongul’s Water,Cormyr,Poor,189.0
+95,Ongul’s Water,Cormyr,Squalid,126.0
+95,Ongul’s Water,Cormyr,Wretched,10.0
+96,Redspring,Cormyr,Aristocratic,2.0
+96,Redspring,Cormyr,Wealthy,78.0
+96,Redspring,Cormyr,Comfortable,415.0
+96,Redspring,Cormyr,Modest,1155.0
+96,Redspring,Cormyr,Poor,1874.0
+96,Redspring,Cormyr,Squalid,1365.0
+96,Redspring,Cormyr,Wretched,257.0
+97,Smuggler’s Stone,Cormyr,Aristocratic,0.0
+97,Smuggler’s Stone,Cormyr,Wealthy,7.0
+97,Smuggler’s Stone,Cormyr,Comfortable,38.0
+97,Smuggler’s Stone,Cormyr,Modest,109.0
+97,Smuggler’s Stone,Cormyr,Poor,304.0
+97,Smuggler’s Stone,Cormyr,Squalid,159.0
+97,Smuggler’s Stone,Cormyr,Wretched,16.0
+98,Stag Steads,Cormyr,Aristocratic,1.0
+98,Stag Steads,Cormyr,Wealthy,59.0
+98,Stag Steads,Cormyr,Comfortable,358.0
+98,Stag Steads,Cormyr,Modest,732.0
+98,Stag Steads,Cormyr,Poor,1637.0
+98,Stag Steads,Cormyr,Squalid,1319.0
+98,Stag Steads,Cormyr,Wretched,308.0
+99,Sunset Hill,Cormyr,Aristocratic,0.0
+99,Sunset Hill,Cormyr,Wealthy,2.0
+99,Sunset Hill,Cormyr,Comfortable,52.0
+99,Sunset Hill,Cormyr,Modest,141.0
+99,Sunset Hill,Cormyr,Poor,325.0
+99,Sunset Hill,Cormyr,Squalid,248.0
+99,Sunset Hill,Cormyr,Wretched,16.0
+100,Thunderstone,Cormyr,Aristocratic,0.0
+100,Thunderstone,Cormyr,Wealthy,31.0
+100,Thunderstone,Cormyr,Comfortable,122.0
+100,Thunderstone,Cormyr,Modest,297.0
+100,Thunderstone,Cormyr,Poor,579.0
+100,Thunderstone,Cormyr,Squalid,378.0
+100,Thunderstone,Cormyr,Wretched,80.0
+101,Tilverton,Cormyr,Aristocratic,1.0
+101,Tilverton,Cormyr,Wealthy,171.0
+101,Tilverton,Cormyr,Comfortable,741.0
+101,Tilverton,Cormyr,Modest,1972.0
+101,Tilverton,Cormyr,Poor,2961.0
+101,Tilverton,Cormyr,Squalid,2345.0
+101,Tilverton,Cormyr,Wretched,736.0
+102,Tyrluk,Cormyr,Aristocratic,0.0
+102,Tyrluk,Cormyr,Wealthy,0.0
+102,Tyrluk,Cormyr,Comfortable,11.0
+102,Tyrluk,Cormyr,Modest,36.0
+102,Tyrluk,Cormyr,Poor,59.0
+102,Tyrluk,Cormyr,Squalid,32.0
+102,Tyrluk,Cormyr,Wretched,2.0
+103,Waymoot,Cormyr,Aristocratic,0.0
+103,Waymoot,Cormyr,Wealthy,28.0
+103,Waymoot,Cormyr,Comfortable,134.0
+103,Waymoot,Cormyr,Modest,300.0
+103,Waymoot,Cormyr,Poor,600.0
+103,Waymoot,Cormyr,Squalid,559.0
+103,Waymoot,Cormyr,Wretched,137.0
+104,Wheloon,Cormyr,Aristocratic,1.0
+104,Wheloon,Cormyr,Wealthy,94.0
+104,Wheloon,Cormyr,Comfortable,458.0
+104,Wheloon,Cormyr,Modest,1588.0
+104,Wheloon,Cormyr,Poor,2315.0
+104,Wheloon,Cormyr,Squalid,1367.0
+104,Wheloon,Cormyr,Wretched,445.0
+105,Wormtower,Cormyr,Aristocratic,2.0
+105,Wormtower,Cormyr,Wealthy,94.0
+105,Wormtower,Cormyr,Comfortable,363.0
+105,Wormtower,Cormyr,Modest,698.0
+105,Wormtower,Cormyr,Poor,1923.0
+105,Wormtower,Cormyr,Squalid,1004.0
+105,Wormtower,Cormyr,Wretched,395.0
+106,Yeoman Bridge,Cormyr,Aristocratic,0.0
+106,Yeoman Bridge,Cormyr,Wealthy,68.0
+106,Yeoman Bridge,Cormyr,Comfortable,373.0
+106,Yeoman Bridge,Cormyr,Modest,1080.0
+106,Yeoman Bridge,Cormyr,Poor,1957.0
+106,Yeoman Bridge,Cormyr,Squalid,1644.0
+106,Yeoman Bridge,Cormyr,Wretched,217.0
+107,Heliogabalus,Damara,Aristocratic,208.0
+107,Heliogabalus,Damara,Wealthy,549.0
+107,Heliogabalus,Damara,Comfortable,4599.0
+107,Heliogabalus,Damara,Modest,5928.0
+107,Heliogabalus,Damara,Poor,15253.0
+107,Heliogabalus,Damara,Squalid,14624.0
+107,Heliogabalus,Damara,Wretched,2994.0
+108,Bloodstone Gate,Damara,Aristocratic,41.0
+108,Bloodstone Gate,Damara,Wealthy,323.0
+108,Bloodstone Gate,Damara,Comfortable,1303.0
+108,Bloodstone Gate,Damara,Modest,1568.0
+108,Bloodstone Gate,Damara,Poor,3935.0
+108,Bloodstone Gate,Damara,Squalid,3183.0
+108,Bloodstone Gate,Damara,Wretched,783.0
+109,Bloodstone Town,Damara,Aristocratic,1.0
+109,Bloodstone Town,Damara,Wealthy,90.0
+109,Bloodstone Town,Damara,Comfortable,465.0
+109,Bloodstone Town,Damara,Modest,711.0
+109,Bloodstone Town,Damara,Poor,2110.0
+109,Bloodstone Town,Damara,Squalid,1888.0
+109,Bloodstone Town,Damara,Wretched,505.0
+110,Brotha,Damara,Aristocratic,0.0
+110,Brotha,Damara,Wealthy,3.0
+110,Brotha,Damara,Comfortable,22.0
+110,Brotha,Damara,Modest,59.0
+110,Brotha,Damara,Poor,131.0
+110,Brotha,Damara,Squalid,103.0
+110,Brotha,Damara,Wretched,5.0
+111,Cutrock,Damara,Aristocratic,0.0
+111,Cutrock,Damara,Wealthy,48.0
+111,Cutrock,Damara,Comfortable,245.0
+111,Cutrock,Damara,Modest,702.0
+111,Cutrock,Damara,Poor,1081.0
+111,Cutrock,Damara,Squalid,687.0
+111,Cutrock,Damara,Wretched,121.0
+112,Goliad,Damara,Aristocratic,0.0
+112,Goliad,Damara,Wealthy,1.0
+112,Goliad,Damara,Comfortable,63.0
+112,Goliad,Damara,Modest,107.0
+112,Goliad,Damara,Poor,280.0
+112,Goliad,Damara,Squalid,214.0
+112,Goliad,Damara,Wretched,9.0
+113,Daleport,Damara,Aristocratic,0.0
+113,Daleport,Damara,Wealthy,0.0
+113,Daleport,Damara,Comfortable,7.0
+113,Daleport,Damara,Modest,18.0
+113,Daleport,Damara,Poor,39.0
+113,Daleport,Damara,Squalid,19.0
+113,Daleport,Damara,Wretched,1.0
+114,Dunfee,Damara,Aristocratic,0.0
+114,Dunfee,Damara,Wealthy,32.0
+114,Dunfee,Damara,Comfortable,136.0
+114,Dunfee,Damara,Modest,302.0
+114,Dunfee,Damara,Poor,593.0
+114,Dunfee,Damara,Squalid,433.0
+114,Dunfee,Damara,Wretched,76.0
+115,Helmsdale,Damara,Aristocratic,0.0
+115,Helmsdale,Damara,Wealthy,0.0
+115,Helmsdale,Damara,Comfortable,1.0
+115,Helmsdale,Damara,Modest,5.0
+115,Helmsdale,Damara,Poor,25.0
+115,Helmsdale,Damara,Squalid,11.0
+115,Helmsdale,Damara,Wretched,0.0
+116,Hinterford,Damara,Aristocratic,0.0
+116,Hinterford,Damara,Wealthy,5.0
+116,Hinterford,Damara,Comfortable,34.0
+116,Hinterford,Damara,Modest,163.0
+116,Hinterford,Damara,Poor,258.0
+116,Hinterford,Damara,Squalid,194.0
+116,Hinterford,Damara,Wretched,13.0
+117,Ironspur,Damara,Aristocratic,0.0
+117,Ironspur,Damara,Wealthy,1.0
+117,Ironspur,Damara,Comfortable,21.0
+117,Ironspur,Damara,Modest,44.0
+117,Ironspur,Damara,Poor,114.0
+117,Ironspur,Damara,Squalid,94.0
+117,Ironspur,Damara,Wretched,5.0
+118,Kinbrace,Damara,Aristocratic,0.0
+118,Kinbrace,Damara,Wealthy,1.0
+118,Kinbrace,Damara,Comfortable,27.0
+118,Kinbrace,Damara,Modest,85.0
+118,Kinbrace,Damara,Poor,152.0
+118,Kinbrace,Damara,Squalid,102.0
+118,Kinbrace,Damara,Wretched,6.0
+119,Kinnery,Damara,Aristocratic,0.0
+119,Kinnery,Damara,Wealthy,2.0
+119,Kinnery,Damara,Comfortable,45.0
+119,Kinnery,Damara,Modest,59.0
+119,Kinnery,Damara,Poor,271.0
+119,Kinnery,Damara,Squalid,168.0
+119,Kinnery,Damara,Wretched,14.0
+120,Merkurn,Damara,Aristocratic,0.0
+120,Merkurn,Damara,Wealthy,5.0
+120,Merkurn,Damara,Comfortable,62.0
+120,Merkurn,Damara,Modest,185.0
+120,Merkurn,Damara,Poor,303.0
+120,Merkurn,Damara,Squalid,281.0
+120,Merkurn,Damara,Wretched,14.0
+121,Morovar,Damara,Aristocratic,0.0
+121,Morovar,Damara,Wealthy,2.0
+121,Morovar,Damara,Comfortable,26.0
+121,Morovar,Damara,Modest,51.0
+121,Morovar,Damara,Poor,129.0
+121,Morovar,Damara,Squalid,61.0
+121,Morovar,Damara,Wretched,7.0
+122,Newbelle,Damara,Aristocratic,0.0
+122,Newbelle,Damara,Wealthy,3.0
+122,Newbelle,Damara,Comfortable,35.0
+122,Newbelle,Damara,Modest,64.0
+122,Newbelle,Damara,Poor,223.0
+122,Newbelle,Damara,Squalid,207.0
+122,Newbelle,Damara,Wretched,9.0
+123,Ostrav,Damara,Aristocratic,0.0
+123,Ostrav,Damara,Wealthy,1.0
+123,Ostrav,Damara,Comfortable,9.0
+123,Ostrav,Damara,Modest,32.0
+123,Ostrav,Damara,Poor,60.0
+123,Ostrav,Damara,Squalid,38.0
+123,Ostrav,Damara,Wretched,2.0
+124,Portith,Damara,Aristocratic,0.0
+124,Portith,Damara,Wealthy,3.0
+124,Portith,Damara,Comfortable,35.0
+124,Portith,Damara,Modest,67.0
+124,Portith,Damara,Poor,189.0
+124,Portith,Damara,Squalid,100.0
+124,Portith,Damara,Wretched,10.0
+125,Praka,Damara,Aristocratic,16.0
+125,Praka,Damara,Wealthy,163.0
+125,Praka,Damara,Comfortable,1380.0
+125,Praka,Damara,Modest,1526.0
+125,Praka,Damara,Poor,3508.0
+125,Praka,Damara,Squalid,3527.0
+125,Praka,Damara,Wretched,581.0
+126,Ravensburg,Damara,Aristocratic,0.0
+126,Ravensburg,Damara,Wealthy,2.0
+126,Ravensburg,Damara,Comfortable,21.0
+126,Ravensburg,Damara,Modest,28.0
+126,Ravensburg,Damara,Poor,118.0
+126,Ravensburg,Damara,Squalid,97.0
+126,Ravensburg,Damara,Wretched,3.0
+127,Rolene,Damara,Aristocratic,0.0
+127,Rolene,Damara,Wealthy,2.0
+127,Rolene,Damara,Comfortable,23.0
+127,Rolene,Damara,Modest,102.0
+127,Rolene,Damara,Poor,189.0
+127,Rolene,Damara,Squalid,153.0
+127,Rolene,Damara,Wretched,8.0
+128,Samek,Damara,Aristocratic,0.0
+128,Samek,Damara,Wealthy,0.0
+128,Samek,Damara,Comfortable,27.0
+128,Samek,Damara,Modest,90.0
+128,Samek,Damara,Poor,200.0
+128,Samek,Damara,Squalid,157.0
+128,Samek,Damara,Wretched,8.0
+129,Steppenhall,Damara,Aristocratic,0.0
+129,Steppenhall,Damara,Wealthy,4.0
+129,Steppenhall,Damara,Comfortable,41.0
+129,Steppenhall,Damara,Modest,50.0
+129,Steppenhall,Damara,Poor,239.0
+129,Steppenhall,Damara,Squalid,112.0
+129,Steppenhall,Damara,Wretched,7.0
+130,Sudrav,Damara,Aristocratic,0.0
+130,Sudrav,Damara,Wealthy,0.0
+130,Sudrav,Damara,Comfortable,37.0
+130,Sudrav,Damara,Modest,85.0
+130,Sudrav,Damara,Poor,207.0
+130,Sudrav,Damara,Squalid,142.0
+130,Sudrav,Damara,Wretched,10.0
+131,Tellerth,Damara,Aristocratic,0.0
+131,Tellerth,Damara,Wealthy,32.0
+131,Tellerth,Damara,Comfortable,172.0
+131,Tellerth,Damara,Modest,296.0
+131,Tellerth,Damara,Poor,702.0
+131,Tellerth,Damara,Squalid,561.0
+131,Tellerth,Damara,Wretched,148.0
+132,Thimble,Damara,Aristocratic,0.0
+132,Thimble,Damara,Wealthy,3.0
+132,Thimble,Damara,Comfortable,30.0
+132,Thimble,Damara,Modest,111.0
+132,Thimble,Damara,Poor,259.0
+132,Thimble,Damara,Squalid,154.0
+132,Thimble,Damara,Wretched,8.0
+133,Tokard,Damara,Aristocratic,0.0
+133,Tokard,Damara,Wealthy,1.0
+133,Tokard,Damara,Comfortable,54.0
+133,Tokard,Damara,Modest,145.0
+133,Tokard,Damara,Poor,262.0
+133,Tokard,Damara,Squalid,197.0
+133,Tokard,Damara,Wretched,9.0
+134,Tomrav,Damara,Aristocratic,0.0
+134,Tomrav,Damara,Wealthy,4.0
+134,Tomrav,Damara,Comfortable,21.0
+134,Tomrav,Damara,Modest,67.0
+134,Tomrav,Damara,Poor,146.0
+134,Tomrav,Damara,Squalid,76.0
+134,Tomrav,Damara,Wretched,6.0
+135,Trailsend,Damara,Aristocratic,37.0
+135,Trailsend,Damara,Wealthy,278.0
+135,Trailsend,Damara,Comfortable,965.0
+135,Trailsend,Damara,Modest,2154.0
+135,Trailsend,Damara,Poor,4362.0
+135,Trailsend,Damara,Squalid,4988.0
+135,Trailsend,Damara,Wretched,897.0
+136,Valls,Damara,Aristocratic,0.0
+136,Valls,Damara,Wealthy,15.0
+136,Valls,Damara,Comfortable,91.0
+136,Valls,Damara,Modest,242.0
+136,Valls,Damara,Poor,394.0
+136,Valls,Damara,Squalid,368.0
+136,Valls,Damara,Wretched,95.0
+137,Virdin,Damara,Aristocratic,0.0
+137,Virdin,Damara,Wealthy,24.0
+137,Virdin,Damara,Comfortable,102.0
+137,Virdin,Damara,Modest,250.0
+137,Virdin,Damara,Poor,502.0
+137,Virdin,Damara,Squalid,280.0
+137,Virdin,Damara,Wretched,61.0
+138,Wassen,Damara,Aristocratic,0.0
+138,Wassen,Damara,Wealthy,1.0
+138,Wassen,Damara,Comfortable,12.0
+138,Wassen,Damara,Modest,34.0
+138,Wassen,Damara,Poor,76.0
+138,Wassen,Damara,Squalid,65.0
+138,Wassen,Damara,Wretched,4.0
+139,Windless,Damara,Aristocratic,0.0
+139,Windless,Damara,Wealthy,3.0
+139,Windless,Damara,Comfortable,24.0
+139,Windless,Damara,Modest,52.0
+139,Windless,Damara,Poor,133.0
+139,Windless,Damara,Squalid,105.0
+139,Windless,Damara,Wretched,6.0
+140,Withermeet,Damara,Aristocratic,0.0
+140,Withermeet,Damara,Wealthy,0.0
+140,Withermeet,Damara,Comfortable,4.0
+140,Withermeet,Damara,Modest,9.0
+140,Withermeet,Damara,Poor,34.0
+140,Withermeet,Damara,Squalid,17.0
+140,Withermeet,Damara,Wretched,1.0
+141,Zarach,Damara,Aristocratic,0.0
+141,Zarach,Damara,Wealthy,3.0
+141,Zarach,Damara,Comfortable,30.0
+141,Zarach,Damara,Modest,92.0
+141,Zarach,Damara,Poor,185.0
+141,Zarach,Damara,Squalid,123.0
+141,Zarach,Damara,Wretched,7.0
+142,Halarahh,Halruaa,Aristocratic,0.0
+142,Halarahh,Halruaa,Wealthy,113.0
+142,Halarahh,Halruaa,Comfortable,616.0
+142,Halarahh,Halruaa,Modest,1347.0
+142,Halarahh,Halruaa,Poor,2446.0
+142,Halarahh,Halruaa,Squalid,2282.0
+142,Halarahh,Halruaa,Wretched,585.0
+143,Achelar,Halruaa,Aristocratic,0.0
+143,Achelar,Halruaa,Wealthy,2.0
+143,Achelar,Halruaa,Comfortable,51.0
+143,Achelar,Halruaa,Modest,92.0
+143,Achelar,Halruaa,Poor,275.0
+143,Achelar,Halruaa,Squalid,179.0
+143,Achelar,Halruaa,Wretched,15.0
+144,Alathil,Halruaa,Aristocratic,0.0
+144,Alathil,Halruaa,Wealthy,61.0
+144,Alathil,Halruaa,Comfortable,304.0
+144,Alathil,Halruaa,Modest,792.0
+144,Alathil,Halruaa,Poor,1327.0
+144,Alathil,Halruaa,Squalid,947.0
+144,Alathil,Halruaa,Wretched,200.0
+145,Alu,Halruaa,Aristocratic,0.0
+145,Alu,Halruaa,Wealthy,70.0
+145,Alu,Halruaa,Comfortable,242.0
+145,Alu,Halruaa,Modest,496.0
+145,Alu,Halruaa,Poor,1216.0
+145,Alu,Halruaa,Squalid,742.0
+145,Alu,Halruaa,Wretched,276.0
+146,Aluarim,Halruaa,Aristocratic,1.0
+146,Aluarim,Halruaa,Wealthy,155.0
+146,Aluarim,Halruaa,Comfortable,606.0
+146,Aluarim,Halruaa,Modest,1507.0
+146,Aluarim,Halruaa,Poor,3007.0
+146,Aluarim,Halruaa,Squalid,2537.0
+146,Aluarim,Halruaa,Wretched,293.0
+147,Assundath,Halruaa,Aristocratic,0.0
+147,Assundath,Halruaa,Wealthy,1.0
+147,Assundath,Halruaa,Comfortable,22.0
+147,Assundath,Halruaa,Modest,39.0
+147,Assundath,Halruaa,Poor,141.0
+147,Assundath,Halruaa,Squalid,100.0
+147,Assundath,Halruaa,Wretched,7.0
+148,Bathmé,Halruaa,Aristocratic,1.0
+148,Bathmé,Halruaa,Wealthy,46.0
+148,Bathmé,Halruaa,Comfortable,264.0
+148,Bathmé,Halruaa,Modest,768.0
+148,Bathmé,Halruaa,Poor,1254.0
+148,Bathmé,Halruaa,Squalid,796.0
+148,Bathmé,Halruaa,Wretched,278.0
+149,Borah,Halruaa,Aristocratic,2.0
+149,Borah,Halruaa,Wealthy,78.0
+149,Borah,Halruaa,Comfortable,292.0
+149,Borah,Halruaa,Modest,1032.0
+149,Borah,Halruaa,Poor,1388.0
+149,Borah,Halruaa,Squalid,1028.0
+149,Borah,Halruaa,Wretched,287.0
+150,Edouura,Halruaa,Aristocratic,1.0
+150,Edouura,Halruaa,Wealthy,44.0
+150,Edouura,Halruaa,Comfortable,288.0
+150,Edouura,Halruaa,Modest,618.0
+150,Edouura,Halruaa,Poor,1267.0
+150,Edouura,Halruaa,Squalid,1176.0
+150,Edouura,Halruaa,Wretched,195.0
+151,Elchul,Halruaa,Aristocratic,0.0
+151,Elchul,Halruaa,Wealthy,44.0
+151,Elchul,Halruaa,Comfortable,230.0
+151,Elchul,Halruaa,Modest,923.0
+151,Elchul,Halruaa,Poor,1149.0
+151,Elchul,Halruaa,Squalid,1113.0
+151,Elchul,Halruaa,Wretched,223.0
+152,Eru,Halruaa,Aristocratic,0.0
+152,Eru,Halruaa,Wealthy,125.0
+152,Eru,Halruaa,Comfortable,566.0
+152,Eru,Halruaa,Modest,1315.0
+152,Eru,Halruaa,Poor,2723.0
+152,Eru,Halruaa,Squalid,2485.0
+152,Eru,Halruaa,Wretched,488.0
+153,Galdel,Halruaa,Aristocratic,1.0
+153,Galdel,Halruaa,Wealthy,74.0
+153,Galdel,Halruaa,Comfortable,300.0
+153,Galdel,Halruaa,Modest,765.0
+153,Galdel,Halruaa,Poor,1161.0
+153,Galdel,Halruaa,Squalid,692.0
+153,Galdel,Halruaa,Wretched,295.0
+154,Githim,Halruaa,Aristocratic,0.0
+154,Githim,Halruaa,Wealthy,2.0
+154,Githim,Halruaa,Comfortable,17.0
+154,Githim,Halruaa,Modest,66.0
+154,Githim,Halruaa,Poor,135.0
+154,Githim,Halruaa,Squalid,89.0
+154,Githim,Halruaa,Wretched,7.0
+155,Halabar,Halruaa,Aristocratic,0.0
+155,Halabar,Halruaa,Wealthy,57.0
+155,Halabar,Halruaa,Comfortable,248.0
+155,Halabar,Halruaa,Modest,475.0
+155,Halabar,Halruaa,Poor,1352.0
+155,Halabar,Halruaa,Squalid,1027.0
+155,Halabar,Halruaa,Wretched,180.0
+156,Halagard,Halruaa,Aristocratic,2.0
+156,Halagard,Halruaa,Wealthy,147.0
+156,Halagard,Halruaa,Comfortable,507.0
+156,Halagard,Halruaa,Modest,1085.0
+156,Halagard,Halruaa,Poor,2393.0
+156,Halagard,Halruaa,Squalid,1517.0
+156,Halagard,Halruaa,Wretched,449.0
+157,Halazé,Halruaa,Aristocratic,0.0
+157,Halazé,Halruaa,Wealthy,1.0
+157,Halazé,Halruaa,Comfortable,47.0
+157,Halazé,Halruaa,Modest,121.0
+157,Halazé,Halruaa,Poor,265.0
+157,Halazé,Halruaa,Squalid,202.0
+157,Halazé,Halruaa,Wretched,12.0
+158,Hamphal,Halruaa,Aristocratic,4.0
+158,Hamphal,Halruaa,Wealthy,165.0
+158,Hamphal,Halruaa,Comfortable,697.0
+158,Hamphal,Halruaa,Modest,1419.0
+158,Hamphal,Halruaa,Poor,3181.0
+158,Hamphal,Halruaa,Squalid,2689.0
+158,Hamphal,Halruaa,Wretched,669.0
+159,Khaerbaal,Halruaa,Aristocratic,0.0
+159,Khaerbaal,Halruaa,Wealthy,121.0
+159,Khaerbaal,Halruaa,Comfortable,492.0
+159,Khaerbaal,Halruaa,Modest,912.0
+159,Khaerbaal,Halruaa,Poor,2255.0
+159,Khaerbaal,Halruaa,Squalid,1308.0
+159,Khaerbaal,Halruaa,Wretched,432.0
+160,Kithyym,Halruaa,Aristocratic,0.0
+160,Kithyym,Halruaa,Wealthy,53.0
+160,Kithyym,Halruaa,Comfortable,295.0
+160,Kithyym,Halruaa,Modest,990.0
+160,Kithyym,Halruaa,Poor,1320.0
+160,Kithyym,Halruaa,Squalid,1140.0
+160,Kithyym,Halruaa,Wretched,267.0
+161,Lath,Halruaa,Aristocratic,0.0
+161,Lath,Halruaa,Wealthy,6.0
+161,Lath,Halruaa,Comfortable,42.0
+161,Lath,Halruaa,Modest,85.0
+161,Lath,Halruaa,Poor,312.0
+161,Lath,Halruaa,Squalid,155.0
+161,Lath,Halruaa,Wretched,18.0
+162,Letharr,Halruaa,Aristocratic,0.0
+162,Letharr,Halruaa,Wealthy,48.0
+162,Letharr,Halruaa,Comfortable,233.0
+162,Letharr,Halruaa,Modest,405.0
+162,Letharr,Halruaa,Poor,1102.0
+162,Letharr,Halruaa,Squalid,653.0
+162,Letharr,Halruaa,Wretched,233.0
+163,Lhaddas,Halruaa,Aristocratic,1.0
+163,Lhaddas,Halruaa,Wealthy,131.0
+163,Lhaddas,Halruaa,Comfortable,642.0
+163,Lhaddas,Halruaa,Modest,1767.0
+163,Lhaddas,Halruaa,Poor,2667.0
+163,Lhaddas,Halruaa,Squalid,2116.0
+163,Lhaddas,Halruaa,Wretched,314.0
+164,Lhair,Halruaa,Aristocratic,0.0
+164,Lhair,Halruaa,Wealthy,3.0
+164,Lhair,Halruaa,Comfortable,26.0
+164,Lhair,Halruaa,Modest,27.0
+164,Lhair,Halruaa,Poor,131.0
+164,Lhair,Halruaa,Squalid,96.0
+164,Lhair,Halruaa,Wretched,3.0
+165,Maerass,Halruaa,Aristocratic,1.0
+165,Maerass,Halruaa,Wealthy,72.0
+165,Maerass,Halruaa,Comfortable,288.0
+165,Maerass,Halruaa,Modest,895.0
+165,Maerass,Halruaa,Poor,1452.0
+165,Maerass,Halruaa,Squalid,1194.0
+165,Maerass,Halruaa,Wretched,330.0
+166,Maeruhal,Halruaa,Aristocratic,0.0
+166,Maeruhal,Halruaa,Wealthy,43.0
+166,Maeruhal,Halruaa,Comfortable,235.0
+166,Maeruhal,Halruaa,Modest,609.0
+166,Maeruhal,Halruaa,Poor,1263.0
+166,Maeruhal,Halruaa,Squalid,834.0
+166,Maeruhal,Halruaa,Wretched,289.0
+167,Maerzalar,Halruaa,Aristocratic,2.0
+167,Maerzalar,Halruaa,Wealthy,154.0
+167,Maerzalar,Halruaa,Comfortable,592.0
+167,Maerzalar,Halruaa,Modest,1656.0
+167,Maerzalar,Halruaa,Poor,3296.0
+167,Maerzalar,Halruaa,Squalid,2496.0
+167,Maerzalar,Halruaa,Wretched,557.0
+168,Maezoun,Halruaa,Aristocratic,0.0
+168,Maezoun,Halruaa,Wealthy,6.0
+168,Maezoun,Halruaa,Comfortable,38.0
+168,Maezoun,Halruaa,Modest,136.0
+168,Maezoun,Halruaa,Poor,240.0
+168,Maezoun,Halruaa,Squalid,193.0
+168,Maezoun,Halruaa,Wretched,8.0
+169,Mairb,Halruaa,Aristocratic,1.0
+169,Mairb,Halruaa,Wealthy,65.0
+169,Mairb,Halruaa,Comfortable,269.0
+169,Mairb,Halruaa,Modest,728.0
+169,Mairb,Halruaa,Poor,1179.0
+169,Mairb,Halruaa,Squalid,1117.0
+169,Mairb,Halruaa,Wretched,130.0
+170,Martass,Halruaa,Aristocratic,0.0
+170,Martass,Halruaa,Wealthy,52.0
+170,Martass,Halruaa,Comfortable,290.0
+170,Martass,Halruaa,Modest,582.0
+170,Martass,Halruaa,Poor,1218.0
+170,Martass,Halruaa,Squalid,854.0
+170,Martass,Halruaa,Wretched,249.0
+171,Mithel,Halruaa,Aristocratic,0.0
+171,Mithel,Halruaa,Wealthy,3.0
+171,Mithel,Halruaa,Comfortable,20.0
+171,Mithel,Halruaa,Modest,73.0
+171,Mithel,Halruaa,Poor,140.0
+171,Mithel,Halruaa,Squalid,65.0
+171,Mithel,Halruaa,Wretched,7.0
+172,Mithtar,Halruaa,Aristocratic,195.0
+172,Mithtar,Halruaa,Wealthy,746.0
+172,Mithtar,Halruaa,Comfortable,4152.0
+172,Mithtar,Halruaa,Modest,5440.0
+172,Mithtar,Halruaa,Poor,13509.0
+172,Mithtar,Halruaa,Squalid,9544.0
+172,Mithtar,Halruaa,Wretched,2526.0
+173,Nishtul,Halruaa,Aristocratic,0.0
+173,Nishtul,Halruaa,Wealthy,1.0
+173,Nishtul,Halruaa,Comfortable,22.0
+173,Nishtul,Halruaa,Modest,74.0
+173,Nishtul,Halruaa,Poor,130.0
+173,Nishtul,Halruaa,Squalid,98.0
+173,Nishtul,Halruaa,Wretched,5.0
+174,Nuulatha,Halruaa,Aristocratic,0.0
+174,Nuulatha,Halruaa,Wealthy,4.0
+174,Nuulatha,Halruaa,Comfortable,46.0
+174,Nuulatha,Halruaa,Modest,123.0
+174,Nuulatha,Halruaa,Poor,222.0
+174,Nuulatha,Halruaa,Squalid,163.0
+174,Nuulatha,Halruaa,Wretched,8.0
+175,Orbedal,Halruaa,Aristocratic,0.0
+175,Orbedal,Halruaa,Wealthy,51.0
+175,Orbedal,Halruaa,Comfortable,258.0
+175,Orbedal,Halruaa,Modest,514.0
+175,Orbedal,Halruaa,Poor,1380.0
+175,Orbedal,Halruaa,Squalid,1051.0
+175,Orbedal,Halruaa,Wretched,212.0
+176,Rulasuu,Halruaa,Aristocratic,1.0
+176,Rulasuu,Halruaa,Wealthy,51.0
+176,Rulasuu,Halruaa,Comfortable,257.0
+176,Rulasuu,Halruaa,Modest,887.0
+176,Rulasuu,Halruaa,Poor,1194.0
+176,Rulasuu,Halruaa,Squalid,847.0
+176,Rulasuu,Halruaa,Wretched,238.0
+177,Rwamphaler,Halruaa,Aristocratic,0.0
+177,Rwamphaler,Halruaa,Wealthy,2.0
+177,Rwamphaler,Halruaa,Comfortable,22.0
+177,Rwamphaler,Halruaa,Modest,28.0
+177,Rwamphaler,Halruaa,Poor,131.0
+177,Rwamphaler,Halruaa,Squalid,96.0
+177,Rwamphaler,Halruaa,Wretched,6.0
+178,Salhantar,Halruaa,Aristocratic,0.0
+178,Salhantar,Halruaa,Wealthy,71.0
+178,Salhantar,Halruaa,Comfortable,228.0
+178,Salhantar,Halruaa,Modest,701.0
+178,Salhantar,Halruaa,Poor,1190.0
+178,Salhantar,Halruaa,Squalid,868.0
+178,Salhantar,Halruaa,Wretched,139.0
+179,Ssorsil,Halruaa,Aristocratic,1.0
+179,Ssorsil,Halruaa,Wealthy,63.0
+179,Ssorsil,Halruaa,Comfortable,262.0
+179,Ssorsil,Halruaa,Modest,794.0
+179,Ssorsil,Halruaa,Poor,1280.0
+179,Ssorsil,Halruaa,Squalid,783.0
+179,Ssorsil,Halruaa,Wretched,220.0
+180,Sulaziir,Halruaa,Aristocratic,1.0
+180,Sulaziir,Halruaa,Wealthy,115.0
+180,Sulaziir,Halruaa,Comfortable,693.0
+180,Sulaziir,Halruaa,Modest,1121.0
+180,Sulaziir,Halruaa,Poor,2789.0
+180,Sulaziir,Halruaa,Squalid,1908.0
+180,Sulaziir,Halruaa,Wretched,380.0
+181,Talathgard,Halruaa,Aristocratic,0.0
+181,Talathgard,Halruaa,Wealthy,1.0
+181,Talathgard,Halruaa,Comfortable,11.0
+181,Talathgard,Halruaa,Modest,16.0
+181,Talathgard,Halruaa,Poor,69.0
+181,Talathgard,Halruaa,Squalid,43.0
+181,Talathgard,Halruaa,Wretched,2.0
+182,Thilzoun,Halruaa,Aristocratic,1.0
+182,Thilzoun,Halruaa,Wealthy,44.0
+182,Thilzoun,Halruaa,Comfortable,294.0
+182,Thilzoun,Halruaa,Modest,597.0
+182,Thilzoun,Halruaa,Poor,1190.0
+182,Thilzoun,Halruaa,Squalid,985.0
+182,Thilzoun,Halruaa,Wretched,152.0
+183,Thom,Halruaa,Aristocratic,1.0
+183,Thom,Halruaa,Wealthy,142.0
+183,Thom,Halruaa,Comfortable,583.0
+183,Thom,Halruaa,Modest,2163.0
+183,Thom,Halruaa,Poor,2794.0
+183,Thom,Halruaa,Squalid,2610.0
+183,Thom,Halruaa,Wretched,350.0
+184,Yaulazna,Halruaa,Aristocratic,0.0
+184,Yaulazna,Halruaa,Wealthy,0.0
+184,Yaulazna,Halruaa,Comfortable,19.0
+184,Yaulazna,Halruaa,Modest,69.0
+184,Yaulazna,Halruaa,Poor,140.0
+184,Yaulazna,Halruaa,Squalid,74.0
+184,Yaulazna,Halruaa,Wretched,4.0
+185,Zalazuu,Halruaa,Aristocratic,0.0
+185,Zalazuu,Halruaa,Wealthy,67.0
+185,Zalazuu,Halruaa,Comfortable,361.0
+185,Zalazuu,Halruaa,Modest,618.0
+185,Zalazuu,Halruaa,Poor,1459.0
+185,Zalazuu,Halruaa,Squalid,1000.0
+185,Zalazuu,Halruaa,Wretched,340.0
+186,Zhal,Halruaa,Aristocratic,0.0
+186,Zhal,Halruaa,Wealthy,3.0
+186,Zhal,Halruaa,Comfortable,20.0
+186,Zhal,Halruaa,Modest,59.0
+186,Zhal,Halruaa,Poor,131.0
+186,Zhal,Halruaa,Squalid,59.0
+186,Zhal,Halruaa,Wretched,6.0
+187,Zoundar,Halruaa,Aristocratic,0.0
+187,Zoundar,Halruaa,Wealthy,4.0
+187,Zoundar,Halruaa,Comfortable,37.0
+187,Zoundar,Halruaa,Modest,169.0
+187,Zoundar,Halruaa,Poor,301.0
+187,Zoundar,Halruaa,Squalid,241.0
+187,Zoundar,Halruaa,Wretched,9.0
+188,Zzuntal,Halruaa,Aristocratic,0.0
+188,Zzuntal,Halruaa,Wealthy,51.0
+188,Zzuntal,Halruaa,Comfortable,299.0
+188,Zzuntal,Halruaa,Modest,500.0
+188,Zzuntal,Halruaa,Poor,1318.0
+188,Zzuntal,Halruaa,Squalid,703.0
+188,Zzuntal,Halruaa,Wretched,138.0
+189,Lyrabar,Impiltur,Aristocratic,80.0
+189,Lyrabar,Impiltur,Wealthy,652.0
+189,Lyrabar,Impiltur,Comfortable,5707.0
+189,Lyrabar,Impiltur,Modest,5171.0
+189,Lyrabar,Impiltur,Poor,16610.0
+189,Lyrabar,Impiltur,Squalid,17356.0
+189,Lyrabar,Impiltur,Wretched,2454.0
+190,Arn’s Cove,Impiltur,Aristocratic,0.0
+190,Arn’s Cove,Impiltur,Wealthy,6.0
+190,Arn’s Cove,Impiltur,Comfortable,40.0
+190,Arn’s Cove,Impiltur,Modest,159.0
+190,Arn’s Cove,Impiltur,Poor,319.0
+190,Arn’s Cove,Impiltur,Squalid,199.0
+190,Arn’s Cove,Impiltur,Wretched,16.0
+191,Bay Town,Impiltur,Aristocratic,0.0
+191,Bay Town,Impiltur,Wealthy,27.0
+191,Bay Town,Impiltur,Comfortable,126.0
+191,Bay Town,Impiltur,Modest,416.0
+191,Bay Town,Impiltur,Poor,520.0
+191,Bay Town,Impiltur,Squalid,444.0
+191,Bay Town,Impiltur,Wretched,120.0
+192,Borgar’s Mill,Impiltur,Aristocratic,0.0
+192,Borgar’s Mill,Impiltur,Wealthy,1.0
+192,Borgar’s Mill,Impiltur,Comfortable,20.0
+192,Borgar’s Mill,Impiltur,Modest,35.0
+192,Borgar’s Mill,Impiltur,Poor,154.0
+192,Borgar’s Mill,Impiltur,Squalid,84.0
+192,Borgar’s Mill,Impiltur,Wretched,7.0
+193,Cairnpur,Impiltur,Aristocratic,0.0
+193,Cairnpur,Impiltur,Wealthy,1.0
+193,Cairnpur,Impiltur,Comfortable,37.0
+193,Cairnpur,Impiltur,Modest,92.0
+193,Cairnpur,Impiltur,Poor,190.0
+193,Cairnpur,Impiltur,Squalid,141.0
+193,Cairnpur,Impiltur,Wretched,9.0
+194,Dilpur,Impiltur,Aristocratic,57.0
+194,Dilpur,Impiltur,Wealthy,172.0
+194,Dilpur,Impiltur,Comfortable,1258.0
+194,Dilpur,Impiltur,Modest,2013.0
+194,Dilpur,Impiltur,Poor,4587.0
+194,Dilpur,Impiltur,Squalid,5022.0
+194,Dilpur,Impiltur,Wretched,889.0
+195,Filur,Impiltur,Aristocratic,0.0
+195,Filur,Impiltur,Wealthy,4.0
+195,Filur,Impiltur,Comfortable,26.0
+195,Filur,Impiltur,Modest,82.0
+195,Filur,Impiltur,Poor,180.0
+195,Filur,Impiltur,Squalid,173.0
+195,Filur,Impiltur,Wretched,9.0
+196,Guidodale,Impiltur,Aristocratic,2.0
+196,Guidodale,Impiltur,Wealthy,110.0
+196,Guidodale,Impiltur,Comfortable,449.0
+196,Guidodale,Impiltur,Modest,844.0
+196,Guidodale,Impiltur,Poor,1889.0
+196,Guidodale,Impiltur,Squalid,1631.0
+196,Guidodale,Impiltur,Wretched,459.0
+197,Hlammach,Impiltur,Aristocratic,106.0
+197,Hlammach,Impiltur,Wealthy,421.0
+197,Hlammach,Impiltur,Comfortable,3432.0
+197,Hlammach,Impiltur,Modest,3714.0
+197,Hlammach,Impiltur,Poor,11162.0
+197,Hlammach,Impiltur,Squalid,11994.0
+197,Hlammach,Impiltur,Wretched,2838.0
+198,Ilmwatch,Impiltur,Aristocratic,0.0
+198,Ilmwatch,Impiltur,Wealthy,3.0
+198,Ilmwatch,Impiltur,Comfortable,27.0
+198,Ilmwatch,Impiltur,Modest,100.0
+198,Ilmwatch,Impiltur,Poor,163.0
+198,Ilmwatch,Impiltur,Squalid,97.0
+198,Ilmwatch,Impiltur,Wretched,10.0
+199,Kielbast,Impiltur,Aristocratic,0.0
+199,Kielbast,Impiltur,Wealthy,0.0
+199,Kielbast,Impiltur,Comfortable,51.0
+199,Kielbast,Impiltur,Modest,159.0
+199,Kielbast,Impiltur,Poor,279.0
+199,Kielbast,Impiltur,Squalid,205.0
+199,Kielbast,Impiltur,Wretched,16.0
+200,Laviguer,Impiltur,Aristocratic,0.0
+200,Laviguer,Impiltur,Wealthy,0.0
+200,Laviguer,Impiltur,Comfortable,30.0
+200,Laviguer,Impiltur,Modest,56.0
+200,Laviguer,Impiltur,Poor,174.0
+200,Laviguer,Impiltur,Squalid,94.0
+200,Laviguer,Impiltur,Wretched,8.0
+201,Lenchford,Impiltur,Aristocratic,0.0
+201,Lenchford,Impiltur,Wealthy,5.0
+201,Lenchford,Impiltur,Comfortable,25.0
+201,Lenchford,Impiltur,Modest,52.0
+201,Lenchford,Impiltur,Poor,175.0
+201,Lenchford,Impiltur,Squalid,86.0
+201,Lenchford,Impiltur,Wretched,10.0
+202,Maracrath,Impiltur,Aristocratic,3.0
+202,Maracrath,Impiltur,Wealthy,152.0
+202,Maracrath,Impiltur,Comfortable,580.0
+202,Maracrath,Impiltur,Modest,1368.0
+202,Maracrath,Impiltur,Poor,2991.0
+202,Maracrath,Impiltur,Squalid,2598.0
+202,Maracrath,Impiltur,Wretched,459.0
+203,Mulltown,Impiltur,Aristocratic,0.0
+203,Mulltown,Impiltur,Wealthy,2.0
+203,Mulltown,Impiltur,Comfortable,17.0
+203,Mulltown,Impiltur,Modest,45.0
+203,Mulltown,Impiltur,Poor,80.0
+203,Mulltown,Impiltur,Squalid,52.0
+203,Mulltown,Impiltur,Wretched,3.0
+204,New Moranay,Impiltur,Aristocratic,0.0
+204,New Moranay,Impiltur,Wealthy,14.0
+204,New Moranay,Impiltur,Comfortable,106.0
+204,New Moranay,Impiltur,Modest,336.0
+204,New Moranay,Impiltur,Poor,415.0
+204,New Moranay,Impiltur,Squalid,309.0
+204,New Moranay,Impiltur,Wretched,106.0
+205,New Sarshel,Impiltur,Aristocratic,0.0
+205,New Sarshel,Impiltur,Wealthy,24.0
+205,New Sarshel,Impiltur,Comfortable,93.0
+205,New Sarshel,Impiltur,Modest,249.0
+205,New Sarshel,Impiltur,Poor,501.0
+205,New Sarshel,Impiltur,Squalid,408.0
+205,New Sarshel,Impiltur,Wretched,111.0
+206,Outentown,Impiltur,Aristocratic,0.0
+206,Outentown,Impiltur,Wealthy,0.0
+206,Outentown,Impiltur,Comfortable,7.0
+206,Outentown,Impiltur,Modest,3.0
+206,Outentown,Impiltur,Poor,25.0
+206,Outentown,Impiltur,Squalid,18.0
+206,Outentown,Impiltur,Wretched,0.0
+207,Pick ‘n’ Axe,Impiltur,Aristocratic,0.0
+207,Pick ‘n’ Axe,Impiltur,Wealthy,0.0
+207,Pick ‘n’ Axe,Impiltur,Comfortable,33.0
+207,Pick ‘n’ Axe,Impiltur,Modest,66.0
+207,Pick ‘n’ Axe,Impiltur,Poor,188.0
+207,Pick ‘n’ Axe,Impiltur,Squalid,91.0
+207,Pick ‘n’ Axe,Impiltur,Wretched,8.0
+208,Red Bluffs,Impiltur,Aristocratic,1.0
+208,Red Bluffs,Impiltur,Wealthy,64.0
+208,Red Bluffs,Impiltur,Comfortable,389.0
+208,Red Bluffs,Impiltur,Modest,911.0
+208,Red Bluffs,Impiltur,Poor,1840.0
+208,Red Bluffs,Impiltur,Squalid,1073.0
+208,Red Bluffs,Impiltur,Wretched,436.0
+209,Relgar’s Ford,Impiltur,Aristocratic,0.0
+209,Relgar’s Ford,Impiltur,Wealthy,4.0
+209,Relgar’s Ford,Impiltur,Comfortable,38.0
+209,Relgar’s Ford,Impiltur,Modest,76.0
+209,Relgar’s Ford,Impiltur,Poor,197.0
+209,Relgar’s Ford,Impiltur,Squalid,128.0
+209,Relgar’s Ford,Impiltur,Wretched,9.0
+210,Sarshel,Impiltur,Aristocratic,0.0
+210,Sarshel,Impiltur,Wealthy,1.0
+210,Sarshel,Impiltur,Comfortable,41.0
+210,Sarshel,Impiltur,Modest,83.0
+210,Sarshel,Impiltur,Poor,183.0
+210,Sarshel,Impiltur,Squalid,118.0
+210,Sarshel,Impiltur,Wretched,7.0
+211,Songhal,Impiltur,Aristocratic,0.0
+211,Songhal,Impiltur,Wealthy,4.0
+211,Songhal,Impiltur,Comfortable,55.0
+211,Songhal,Impiltur,Modest,121.0
+211,Songhal,Impiltur,Poor,263.0
+211,Songhal,Impiltur,Squalid,185.0
+211,Songhal,Impiltur,Wretched,10.0
+212,Thelnam,Impiltur,Aristocratic,0.0
+212,Thelnam,Impiltur,Wealthy,4.0
+212,Thelnam,Impiltur,Comfortable,30.0
+212,Thelnam,Impiltur,Modest,67.0
+212,Thelnam,Impiltur,Poor,189.0
+212,Thelnam,Impiltur,Squalid,121.0
+212,Thelnam,Impiltur,Wretched,7.0
+213,Three Horns,Impiltur,Aristocratic,0.0
+213,Three Horns,Impiltur,Wealthy,0.0
+213,Three Horns,Impiltur,Comfortable,1.0
+213,Three Horns,Impiltur,Modest,11.0
+213,Three Horns,Impiltur,Poor,32.0
+213,Three Horns,Impiltur,Squalid,13.0
+213,Three Horns,Impiltur,Wretched,0.0
+214,Timbertown,Impiltur,Aristocratic,0.0
+214,Timbertown,Impiltur,Wealthy,1.0
+214,Timbertown,Impiltur,Comfortable,10.0
+214,Timbertown,Impiltur,Modest,18.0
+214,Timbertown,Impiltur,Poor,55.0
+214,Timbertown,Impiltur,Squalid,28.0
+214,Timbertown,Impiltur,Wretched,2.0
+215,Vordric Dun,Impiltur,Aristocratic,0.0
+215,Vordric Dun,Impiltur,Wealthy,2.0
+215,Vordric Dun,Impiltur,Comfortable,31.0
+215,Vordric Dun,Impiltur,Modest,64.0
+215,Vordric Dun,Impiltur,Poor,181.0
+215,Vordric Dun,Impiltur,Squalid,171.0
+215,Vordric Dun,Impiltur,Wretched,8.0
+216,Caer Callidyrr,Moonshae,Aristocratic,0.0
+216,Caer Callidyrr,Moonshae,Wealthy,17.0
+216,Caer Callidyrr,Moonshae,Comfortable,77.0
+216,Caer Callidyrr,Moonshae,Modest,260.0
+216,Caer Callidyrr,Moonshae,Poor,350.0
+216,Caer Callidyrr,Moonshae,Squalid,273.0
+216,Caer Callidyrr,Moonshae,Wretched,53.0
+217,Aithelar,Moonshae,Aristocratic,0.0
+217,Aithelar,Moonshae,Wealthy,8.0
+217,Aithelar,Moonshae,Comfortable,39.0
+217,Aithelar,Moonshae,Modest,96.0
+217,Aithelar,Moonshae,Poor,265.0
+217,Aithelar,Moonshae,Squalid,231.0
+217,Aithelar,Moonshae,Wretched,14.0
+218,Blackstone,Moonshae,Aristocratic,0.0
+218,Blackstone,Moonshae,Wealthy,6.0
+218,Blackstone,Moonshae,Comfortable,40.0
+218,Blackstone,Moonshae,Modest,147.0
+218,Blackstone,Moonshae,Poor,267.0
+218,Blackstone,Moonshae,Squalid,228.0
+218,Blackstone,Moonshae,Wretched,10.0
+219,Blythe,Moonshae,Aristocratic,0.0
+219,Blythe,Moonshae,Wealthy,1.0
+219,Blythe,Moonshae,Comfortable,31.0
+219,Blythe,Moonshae,Modest,130.0
+219,Blythe,Moonshae,Poor,208.0
+219,Blythe,Moonshae,Squalid,113.0
+219,Blythe,Moonshae,Wretched,7.0
+220,Borth,Moonshae,Aristocratic,0.0
+220,Borth,Moonshae,Wealthy,0.0
+220,Borth,Moonshae,Comfortable,4.0
+220,Borth,Moonshae,Modest,8.0
+220,Borth,Moonshae,Poor,29.0
+220,Borth,Moonshae,Squalid,16.0
+220,Borth,Moonshae,Wretched,0.0
+221,Bounty,Moonshae,Aristocratic,0.0
+221,Bounty,Moonshae,Wealthy,0.0
+221,Bounty,Moonshae,Comfortable,41.0
+221,Bounty,Moonshae,Modest,75.0
+221,Bounty,Moonshae,Poor,324.0
+221,Bounty,Moonshae,Squalid,158.0
+221,Bounty,Moonshae,Wretched,10.0
+222,Brannoch,Moonshae,Aristocratic,0.0
+222,Brannoch,Moonshae,Wealthy,6.0
+222,Brannoch,Moonshae,Comfortable,51.0
+222,Brannoch,Moonshae,Modest,103.0
+222,Brannoch,Moonshae,Poor,267.0
+222,Brannoch,Moonshae,Squalid,129.0
+222,Brannoch,Moonshae,Wretched,10.0
+223,Bray,Moonshae,Aristocratic,0.0
+223,Bray,Moonshae,Wealthy,15.0
+223,Bray,Moonshae,Comfortable,102.0
+223,Bray,Moonshae,Modest,270.0
+223,Bray,Moonshae,Poor,517.0
+223,Bray,Moonshae,Squalid,406.0
+223,Bray,Moonshae,Wretched,120.0
+224,Cambro,Moonshae,Aristocratic,0.0
+224,Cambro,Moonshae,Wealthy,6.0
+224,Cambro,Moonshae,Comfortable,39.0
+224,Cambro,Moonshae,Modest,110.0
+224,Cambro,Moonshae,Poor,224.0
+224,Cambro,Moonshae,Squalid,124.0
+224,Cambro,Moonshae,Wretched,14.0
+225,Caer Corwell,Moonshae,Aristocratic,0.0
+225,Caer Corwell,Moonshae,Wealthy,1.0
+225,Caer Corwell,Moonshae,Comfortable,27.0
+225,Caer Corwell,Moonshae,Modest,81.0
+225,Caer Corwell,Moonshae,Poor,171.0
+225,Caer Corwell,Moonshae,Squalid,156.0
+225,Caer Corwell,Moonshae,Wretched,10.0
+226,Caer Moray,Moonshae,Aristocratic,0.0
+226,Caer Moray,Moonshae,Wealthy,14.0
+226,Caer Moray,Moonshae,Comfortable,76.0
+226,Caer Moray,Moonshae,Modest,151.0
+226,Caer Moray,Moonshae,Poor,361.0
+226,Caer Moray,Moonshae,Squalid,298.0
+226,Caer Moray,Moonshae,Wretched,84.0
+227,Caer Westphal,Moonshae,Aristocratic,0.0
+227,Caer Westphal,Moonshae,Wealthy,4.0
+227,Caer Westphal,Moonshae,Comfortable,26.0
+227,Caer Westphal,Moonshae,Modest,90.0
+227,Caer Westphal,Moonshae,Poor,173.0
+227,Caer Westphal,Moonshae,Squalid,134.0
+227,Caer Westphal,Moonshae,Wretched,9.0
+228,Caervu,Moonshae,Aristocratic,0.0
+228,Caervu,Moonshae,Wealthy,0.0
+228,Caervu,Moonshae,Comfortable,7.0
+228,Caervu,Moonshae,Modest,14.0
+228,Caervu,Moonshae,Poor,28.0
+228,Caervu,Moonshae,Squalid,18.0
+228,Caervu,Moonshae,Wretched,0.0
+229,Cobh,Moonshae,Aristocratic,0.0
+229,Cobh,Moonshae,Wealthy,0.0
+229,Cobh,Moonshae,Comfortable,12.0
+229,Cobh,Moonshae,Modest,23.0
+229,Cobh,Moonshae,Poor,63.0
+229,Cobh,Moonshae,Squalid,34.0
+229,Cobh,Moonshae,Wretched,2.0
+230,Codfin,Moonshae,Aristocratic,0.0
+230,Codfin,Moonshae,Wealthy,21.0
+230,Codfin,Moonshae,Comfortable,71.0
+230,Codfin,Moonshae,Modest,172.0
+230,Codfin,Moonshae,Poor,387.0
+230,Codfin,Moonshae,Squalid,208.0
+230,Codfin,Moonshae,Wretched,63.0
+231,Codscove,Moonshae,Aristocratic,0.0
+231,Codscove,Moonshae,Wealthy,4.0
+231,Codscove,Moonshae,Comfortable,45.0
+231,Codscove,Moonshae,Modest,84.0
+231,Codscove,Moonshae,Poor,260.0
+231,Codscove,Moonshae,Squalid,181.0
+231,Codscove,Moonshae,Wretched,13.0
+232,Doncastle,Moonshae,Aristocratic,0.0
+232,Doncastle,Moonshae,Wealthy,0.0
+232,Doncastle,Moonshae,Comfortable,7.0
+232,Doncastle,Moonshae,Modest,4.0
+232,Doncastle,Moonshae,Poor,28.0
+232,Doncastle,Moonshae,Squalid,24.0
+232,Doncastle,Moonshae,Wretched,0.0
+233,Dorset,Moonshae,Aristocratic,0.0
+233,Dorset,Moonshae,Wealthy,0.0
+233,Dorset,Moonshae,Comfortable,20.0
+233,Dorset,Moonshae,Modest,42.0
+233,Dorset,Moonshae,Poor,109.0
+233,Dorset,Moonshae,Squalid,70.0
+233,Dorset,Moonshae,Wretched,4.0
+234,Dultann,Moonshae,Aristocratic,0.0
+234,Dultann,Moonshae,Wealthy,23.0
+234,Dultann,Moonshae,Comfortable,81.0
+234,Dultann,Moonshae,Modest,184.0
+234,Dultann,Moonshae,Poor,420.0
+234,Dultann,Moonshae,Squalid,240.0
+234,Dultann,Moonshae,Wretched,72.0
+235,Dynnatt,Moonshae,Aristocratic,0.0
+235,Dynnatt,Moonshae,Wealthy,2.0
+235,Dynnatt,Moonshae,Comfortable,22.0
+235,Dynnatt,Moonshae,Modest,99.0
+235,Dynnatt,Moonshae,Poor,172.0
+235,Dynnatt,Moonshae,Squalid,125.0
+235,Dynnatt,Moonshae,Wretched,5.0
+236,Dynnegall,Moonshae,Aristocratic,0.0
+236,Dynnegall,Moonshae,Wealthy,6.0
+236,Dynnegall,Moonshae,Comfortable,56.0
+236,Dynnegall,Moonshae,Modest,167.0
+236,Dynnegall,Moonshae,Poor,274.0
+236,Dynnegall,Moonshae,Squalid,271.0
+236,Dynnegall,Moonshae,Wretched,14.0
+237,Elyssyrr,Moonshae,Aristocratic,0.0
+237,Elyssyrr,Moonshae,Wealthy,2.0
+237,Elyssyrr,Moonshae,Comfortable,18.0
+237,Elyssyrr,Moonshae,Modest,35.0
+237,Elyssyrr,Moonshae,Poor,100.0
+237,Elyssyrr,Moonshae,Squalid,91.0
+237,Elyssyrr,Moonshae,Wretched,6.0
+238,Farview,Moonshae,Aristocratic,0.0
+238,Farview,Moonshae,Wealthy,16.0
+238,Farview,Moonshae,Comfortable,71.0
+238,Farview,Moonshae,Modest,105.0
+238,Farview,Moonshae,Poor,330.0
+238,Farview,Moonshae,Squalid,256.0
+238,Farview,Moonshae,Wretched,39.0
+239,Fenton,Moonshae,Aristocratic,0.0
+239,Fenton,Moonshae,Wealthy,7.0
+239,Fenton,Moonshae,Comfortable,39.0
+239,Fenton,Moonshae,Modest,122.0
+239,Fenton,Moonshae,Poor,242.0
+239,Fenton,Moonshae,Squalid,136.0
+239,Fenton,Moonshae,Wretched,12.0
+240,Grady,Moonshae,Aristocratic,0.0
+240,Grady,Moonshae,Wealthy,18.0
+240,Grady,Moonshae,Comfortable,76.0
+240,Grady,Moonshae,Modest,263.0
+240,Grady,Moonshae,Poor,380.0
+240,Grady,Moonshae,Squalid,242.0
+240,Grady,Moonshae,Wretched,48.0
+241,Graystone,Moonshae,Aristocratic,0.0
+241,Graystone,Moonshae,Wealthy,22.0
+241,Graystone,Moonshae,Comfortable,106.0
+241,Graystone,Moonshae,Modest,272.0
+241,Graystone,Moonshae,Poor,539.0
+241,Graystone,Moonshae,Squalid,342.0
+241,Graystone,Moonshae,Wretched,85.0
+242,Grimstad,Moonshae,Aristocratic,0.0
+242,Grimstad,Moonshae,Wealthy,6.0
+242,Grimstad,Moonshae,Comfortable,36.0
+242,Grimstad,Moonshae,Modest,85.0
+242,Grimstad,Moonshae,Poor,220.0
+242,Grimstad,Moonshae,Squalid,114.0
+242,Grimstad,Moonshae,Wretched,11.0
+243,Harloch,Moonshae,Aristocratic,0.0
+243,Harloch,Moonshae,Wealthy,15.0
+243,Harloch,Moonshae,Comfortable,88.0
+243,Harloch,Moonshae,Modest,207.0
+243,Harloch,Moonshae,Poor,369.0
+243,Harloch,Moonshae,Squalid,265.0
+243,Harloch,Moonshae,Wretched,78.0
+244,Hickorydale,Moonshae,Aristocratic,0.0
+244,Hickorydale,Moonshae,Wealthy,11.0
+244,Hickorydale,Moonshae,Comfortable,90.0
+244,Hickorydale,Moonshae,Modest,234.0
+244,Hickorydale,Moonshae,Poor,387.0
+244,Hickorydale,Moonshae,Squalid,228.0
+244,Hickorydale,Moonshae,Wretched,42.0
+245,Horsa,Moonshae,Aristocratic,0.0
+245,Horsa,Moonshae,Wealthy,57.0
+245,Horsa,Moonshae,Comfortable,341.0
+245,Horsa,Moonshae,Modest,1054.0
+245,Horsa,Moonshae,Poor,1494.0
+245,Horsa,Moonshae,Squalid,1319.0
+245,Horsa,Moonshae,Wretched,183.0
+246,Horst,Moonshae,Aristocratic,0.0
+246,Horst,Moonshae,Wealthy,0.0
+246,Horst,Moonshae,Comfortable,26.0
+246,Horst,Moonshae,Modest,68.0
+246,Horst,Moonshae,Poor,137.0
+246,Horst,Moonshae,Squalid,67.0
+246,Horst,Moonshae,Wretched,5.0
+247,Highhome,Moonshae,Aristocratic,0.0
+247,Highhome,Moonshae,Wealthy,0.0
+247,Highhome,Moonshae,Comfortable,4.0
+247,Highhome,Moonshae,Modest,7.0
+247,Highhome,Moonshae,Poor,29.0
+247,Highhome,Moonshae,Squalid,16.0
+247,Highhome,Moonshae,Wretched,0.0
+248,Highrock,Moonshae,Aristocratic,0.0
+248,Highrock,Moonshae,Wealthy,3.0
+248,Highrock,Moonshae,Comfortable,24.0
+248,Highrock,Moonshae,Modest,59.0
+248,Highrock,Moonshae,Poor,124.0
+248,Highrock,Moonshae,Squalid,64.0
+248,Highrock,Moonshae,Wretched,4.0
+249,Holyhead,Moonshae,Aristocratic,0.0
+249,Holyhead,Moonshae,Wealthy,24.0
+249,Holyhead,Moonshae,Comfortable,92.0
+249,Holyhead,Moonshae,Modest,139.0
+249,Holyhead,Moonshae,Poor,424.0
+249,Holyhead,Moonshae,Squalid,368.0
+249,Holyhead,Moonshae,Wretched,44.0
+250,Horstall,Moonshae,Aristocratic,0.0
+250,Horstall,Moonshae,Wealthy,1.0
+250,Horstall,Moonshae,Comfortable,46.0
+250,Horstall,Moonshae,Modest,88.0
+250,Horstall,Moonshae,Poor,236.0
+250,Horstall,Moonshae,Squalid,117.0
+250,Horstall,Moonshae,Wretched,8.0
+251,Hyoclaatl,Moonshae,Aristocratic,53.0
+251,Hyoclaatl,Moonshae,Wealthy,265.0
+251,Hyoclaatl,Moonshae,Comfortable,1099.0
+251,Hyoclaatl,Moonshae,Modest,1597.0
+251,Hyoclaatl,Moonshae,Poor,4126.0
+251,Hyoclaatl,Moonshae,Squalid,2446.0
+251,Hyoclaatl,Moonshae,Wretched,1146.0
+252,Kingsbay,Moonshae,Aristocratic,0.0
+252,Kingsbay,Moonshae,Wealthy,2.0
+252,Kingsbay,Moonshae,Comfortable,44.0
+252,Kingsbay,Moonshae,Modest,97.0
+252,Kingsbay,Moonshae,Poor,269.0
+252,Kingsbay,Moonshae,Squalid,237.0
+252,Kingsbay,Moonshae,Wretched,8.0
+253,Koart,Moonshae,Aristocratic,0.0
+253,Koart,Moonshae,Wealthy,28.0
+253,Koart,Moonshae,Comfortable,119.0
+253,Koart,Moonshae,Modest,235.0
+253,Koart,Moonshae,Poor,542.0
+253,Koart,Moonshae,Squalid,331.0
+253,Koart,Moonshae,Wretched,51.0
+254,Kork,Moonshae,Aristocratic,0.0
+254,Kork,Moonshae,Wealthy,18.0
+254,Kork,Moonshae,Comfortable,114.0
+254,Kork,Moonshae,Modest,225.0
+254,Kork,Moonshae,Poor,529.0
+254,Kork,Moonshae,Squalid,448.0
+254,Kork,Moonshae,Wretched,84.0
+255,Kythyss,Moonshae,Aristocratic,0.0
+255,Kythyss,Moonshae,Wealthy,16.0
+255,Kythyss,Moonshae,Comfortable,120.0
+255,Kythyss,Moonshae,Modest,169.0
+255,Kythyss,Moonshae,Poor,524.0
+255,Kythyss,Moonshae,Squalid,352.0
+255,Kythyss,Moonshae,Wretched,123.0
+256,Lehigh,Moonshae,Aristocratic,0.0
+256,Lehigh,Moonshae,Wealthy,3.0
+256,Lehigh,Moonshae,Comfortable,28.0
+256,Lehigh,Moonshae,Modest,94.0
+256,Lehigh,Moonshae,Poor,157.0
+256,Lehigh,Moonshae,Squalid,146.0
+256,Lehigh,Moonshae,Wretched,7.0
+257,Llandrain,Moonshae,Aristocratic,0.0
+257,Llandrain,Moonshae,Wealthy,23.0
+257,Llandrain,Moonshae,Comfortable,116.0
+257,Llandrain,Moonshae,Modest,242.0
+257,Llandrain,Moonshae,Poor,482.0
+257,Llandrain,Moonshae,Squalid,318.0
+257,Llandrain,Moonshae,Wretched,111.0
+258,Llewellyn,Moonshae,Aristocratic,0.0
+258,Llewellyn,Moonshae,Wealthy,1.0
+258,Llewellyn,Moonshae,Comfortable,37.0
+258,Llewellyn,Moonshae,Modest,69.0
+258,Llewellyn,Moonshae,Poor,215.0
+258,Llewellyn,Moonshae,Squalid,164.0
+258,Llewellyn,Moonshae,Wretched,12.0
+259,Lowhill,Moonshae,Aristocratic,16.0
+259,Lowhill,Moonshae,Wealthy,226.0
+259,Lowhill,Moonshae,Comfortable,1208.0
+259,Lowhill,Moonshae,Modest,1791.0
+259,Lowhill,Moonshae,Poor,4450.0
+259,Lowhill,Moonshae,Squalid,3355.0
+259,Lowhill,Moonshae,Wretched,1056.0
+260,MacSheehan,Moonshae,Aristocratic,0.0
+260,MacSheehan,Moonshae,Wealthy,18.0
+260,MacSheehan,Moonshae,Comfortable,84.0
+260,MacSheehan,Moonshae,Modest,261.0
+260,MacSheehan,Moonshae,Poor,402.0
+260,MacSheehan,Moonshae,Squalid,320.0
+260,MacSheehan,Moonshae,Wretched,46.0
+261,Manger,Moonshae,Aristocratic,0.0
+261,Manger,Moonshae,Wealthy,15.0
+261,Manger,Moonshae,Comfortable,65.0
+261,Manger,Moonshae,Modest,200.0
+261,Manger,Moonshae,Poor,315.0
+261,Manger,Moonshae,Squalid,243.0
+261,Manger,Moonshae,Wretched,42.0
+262,Myrrdale,Moonshae,Aristocratic,0.0
+262,Myrrdale,Moonshae,Wealthy,2.0
+262,Myrrdale,Moonshae,Comfortable,25.0
+262,Myrrdale,Moonshae,Modest,41.0
+262,Myrrdale,Moonshae,Poor,132.0
+262,Myrrdale,Moonshae,Squalid,102.0
+262,Myrrdale,Moonshae,Wretched,6.0
+263,Ogden,Moonshae,Aristocratic,0.0
+263,Ogden,Moonshae,Wealthy,23.0
+263,Ogden,Moonshae,Comfortable,106.0
+263,Ogden,Moonshae,Modest,208.0
+263,Ogden,Moonshae,Poor,591.0
+263,Ogden,Moonshae,Squalid,367.0
+263,Ogden,Moonshae,Wretched,103.0
+264,O’Malley,Moonshae,Aristocratic,0.0
+264,O’Malley,Moonshae,Wealthy,15.0
+264,O’Malley,Moonshae,Comfortable,113.0
+264,O’Malley,Moonshae,Modest,255.0
+264,O’Malley,Moonshae,Poor,463.0
+264,O’Malley,Moonshae,Squalid,338.0
+264,O’Malley,Moonshae,Wretched,55.0
+265,Pembroke,Moonshae,Aristocratic,0.0
+265,Pembroke,Moonshae,Wealthy,4.0
+265,Pembroke,Moonshae,Comfortable,24.0
+265,Pembroke,Moonshae,Modest,48.0
+265,Pembroke,Moonshae,Poor,162.0
+265,Pembroke,Moonshae,Squalid,129.0
+265,Pembroke,Moonshae,Wretched,9.0
+266,Pengram,Moonshae,Aristocratic,0.0
+266,Pengram,Moonshae,Wealthy,11.0
+266,Pengram,Moonshae,Comfortable,76.0
+266,Pengram,Moonshae,Modest,157.0
+266,Pengram,Moonshae,Poor,365.0
+266,Pengram,Moonshae,Squalid,232.0
+266,Pengram,Moonshae,Wretched,37.0
+267,Pontswain,Moonshae,Aristocratic,0.0
+267,Pontswain,Moonshae,Wealthy,6.0
+267,Pontswain,Moonshae,Comfortable,52.0
+267,Pontswain,Moonshae,Modest,98.0
+267,Pontswain,Moonshae,Poor,304.0
+267,Pontswain,Moonshae,Squalid,203.0
+267,Pontswain,Moonshae,Wretched,9.0
+268,Regents Field,Moonshae,Aristocratic,0.0
+268,Regents Field,Moonshae,Wealthy,1.0
+268,Regents Field,Moonshae,Comfortable,33.0
+268,Regents Field,Moonshae,Modest,111.0
+268,Regents Field,Moonshae,Poor,224.0
+268,Regents Field,Moonshae,Squalid,134.0
+268,Regents Field,Moonshae,Wretched,8.0
+269,Storaad,Moonshae,Aristocratic,0.0
+269,Storaad,Moonshae,Wealthy,23.0
+269,Storaad,Moonshae,Comfortable,94.0
+269,Storaad,Moonshae,Modest,160.0
+269,Storaad,Moonshae,Poor,365.0
+269,Storaad,Moonshae,Squalid,277.0
+269,Storaad,Moonshae,Wretched,42.0
+270,Tetauctaa,Moonshae,Aristocratic,0.0
+270,Tetauctaa,Moonshae,Wealthy,20.0
+270,Tetauctaa,Moonshae,Comfortable,131.0
+270,Tetauctaa,Moonshae,Modest,293.0
+270,Tetauctaa,Moonshae,Poor,523.0
+270,Tetauctaa,Moonshae,Squalid,313.0
+270,Tetauctaa,Moonshae,Wretched,133.0
+271,Thorndyke,Moonshae,Aristocratic,0.0
+271,Thorndyke,Moonshae,Wealthy,3.0
+271,Thorndyke,Moonshae,Comfortable,16.0
+271,Thorndyke,Moonshae,Modest,41.0
+271,Thorndyke,Moonshae,Poor,120.0
+271,Thorndyke,Moonshae,Squalid,99.0
+271,Thorndyke,Moonshae,Wretched,6.0
+272,White Rock,Moonshae,Aristocratic,0.0
+272,White Rock,Moonshae,Wealthy,0.0
+272,White Rock,Moonshae,Comfortable,37.0
+272,White Rock,Moonshae,Modest,84.0
+272,White Rock,Moonshae,Poor,260.0
+272,White Rock,Moonshae,Squalid,142.0
+272,White Rock,Moonshae,Wretched,11.0
+273,Wyngate,Moonshae,Aristocratic,0.0
+273,Wyngate,Moonshae,Wealthy,2.0
+273,Wyngate,Moonshae,Comfortable,47.0
+273,Wyngate,Moonshae,Modest,62.0
+273,Wyngate,Moonshae,Poor,232.0
+273,Wyngate,Moonshae,Squalid,142.0
+273,Wyngate,Moonshae,Wretched,14.0
+274,Selpir,Nimbral,Aristocratic,1.0
+274,Selpir,Nimbral,Wealthy,82.0
+274,Selpir,Nimbral,Comfortable,350.0
+274,Selpir,Nimbral,Modest,651.0
+274,Selpir,Nimbral,Poor,1456.0
+274,Selpir,Nimbral,Squalid,1330.0
+274,Selpir,Nimbral,Wretched,279.0
+275,Arevar,Nimbral,Aristocratic,0.0
+275,Arevar,Nimbral,Wealthy,0.0
+275,Arevar,Nimbral,Comfortable,19.0
+275,Arevar,Nimbral,Modest,49.0
+275,Arevar,Nimbral,Poor,132.0
+275,Arevar,Nimbral,Squalid,104.0
+275,Arevar,Nimbral,Wretched,6.0
+276,Bromtor,Nimbral,Aristocratic,0.0
+276,Bromtor,Nimbral,Wealthy,2.0
+276,Bromtor,Nimbral,Comfortable,20.0
+276,Bromtor,Nimbral,Modest,62.0
+276,Bromtor,Nimbral,Poor,111.0
+276,Bromtor,Nimbral,Squalid,63.0
+276,Bromtor,Nimbral,Wretched,3.0
+277,Curstallyon,Nimbral,Aristocratic,0.0
+277,Curstallyon,Nimbral,Wealthy,2.0
+277,Curstallyon,Nimbral,Comfortable,19.0
+277,Curstallyon,Nimbral,Modest,38.0
+277,Curstallyon,Nimbral,Poor,127.0
+277,Curstallyon,Nimbral,Squalid,68.0
+277,Curstallyon,Nimbral,Wretched,6.0
+278,Esdul,Nimbral,Aristocratic,1.0
+278,Esdul,Nimbral,Wealthy,63.0
+278,Esdul,Nimbral,Comfortable,269.0
+278,Esdul,Nimbral,Modest,622.0
+278,Esdul,Nimbral,Poor,1451.0
+278,Esdul,Nimbral,Squalid,781.0
+278,Esdul,Nimbral,Wretched,334.0
+279,Nimith,Nimbral,Aristocratic,0.0
+279,Nimith,Nimbral,Wealthy,3.0
+279,Nimith,Nimbral,Comfortable,19.0
+279,Nimith,Nimbral,Modest,49.0
+279,Nimith,Nimbral,Poor,136.0
+279,Nimith,Nimbral,Squalid,78.0
+279,Nimith,Nimbral,Wretched,4.0
+280,Nimsur,Nimbral,Aristocratic,0.0
+280,Nimsur,Nimbral,Wealthy,68.0
+280,Nimsur,Nimbral,Comfortable,295.0
+280,Nimsur,Nimbral,Modest,648.0
+280,Nimsur,Nimbral,Poor,1425.0
+280,Nimsur,Nimbral,Squalid,889.0
+280,Nimsur,Nimbral,Wretched,207.0
+281,Ormen,Nimbral,Aristocratic,0.0
+281,Ormen,Nimbral,Wealthy,0.0
+281,Ormen,Nimbral,Comfortable,15.0
+281,Ormen,Nimbral,Modest,49.0
+281,Ormen,Nimbral,Poor,103.0
+281,Ormen,Nimbral,Squalid,53.0
+281,Ormen,Nimbral,Wretched,5.0
+282,Rauthaven,Nimbral,Aristocratic,0.0
+282,Rauthaven,Nimbral,Wealthy,55.0
+282,Rauthaven,Nimbral,Comfortable,337.0
+282,Rauthaven,Nimbral,Modest,824.0
+282,Rauthaven,Nimbral,Poor,1365.0
+282,Rauthaven,Nimbral,Squalid,1246.0
+282,Rauthaven,Nimbral,Wretched,219.0
+283,Sombor,Nimbral,Aristocratic,0.0
+283,Sombor,Nimbral,Wealthy,1.0
+283,Sombor,Nimbral,Comfortable,28.0
+283,Sombor,Nimbral,Modest,103.0
+283,Sombor,Nimbral,Poor,177.0
+283,Sombor,Nimbral,Squalid,92.0
+283,Sombor,Nimbral,Wretched,6.0
+284,Suthaven,Nimbral,Aristocratic,0.0
+284,Suthaven,Nimbral,Wealthy,1.0
+284,Suthaven,Nimbral,Comfortable,6.0
+284,Suthaven,Nimbral,Modest,14.0
+284,Suthaven,Nimbral,Poor,47.0
+284,Suthaven,Nimbral,Squalid,36.0
+284,Suthaven,Nimbral,Wretched,1.0
+285,Tethmor,Nimbral,Aristocratic,0.0
+285,Tethmor,Nimbral,Wealthy,48.0
+285,Tethmor,Nimbral,Comfortable,305.0
+285,Tethmor,Nimbral,Modest,651.0
+285,Tethmor,Nimbral,Poor,1435.0
+285,Tethmor,Nimbral,Squalid,1081.0
+285,Tethmor,Nimbral,Wretched,232.0
+286,Vindal,Nimbral,Aristocratic,0.0
+286,Vindal,Nimbral,Wealthy,1.0
+286,Vindal,Nimbral,Comfortable,11.0
+286,Vindal,Nimbral,Modest,25.0
+286,Vindal,Nimbral,Poor,53.0
+286,Vindal,Nimbral,Squalid,49.0
+286,Vindal,Nimbral,Wretched,2.0
+287,Ordulin,Sembia,Aristocratic,42.0
+287,Ordulin,Sembia,Wealthy,708.0
+287,Ordulin,Sembia,Comfortable,2815.0
+287,Ordulin,Sembia,Modest,4770.0
+287,Ordulin,Sembia,Poor,12057.0
+287,Ordulin,Sembia,Squalid,13186.0
+287,Ordulin,Sembia,Wretched,3596.0
+288,Daerlun,Sembia,Aristocratic,4.0
+288,Daerlun,Sembia,Wealthy,888.0
+288,Daerlun,Sembia,Comfortable,3821.0
+288,Daerlun,Sembia,Modest,6787.0
+288,Daerlun,Sembia,Poor,16807.0
+288,Daerlun,Sembia,Squalid,10959.0
+288,Daerlun,Sembia,Wretched,4179.0
+289,Huddagh,Sembia,Aristocratic,1.0
+289,Huddagh,Sembia,Wealthy,73.0
+289,Huddagh,Sembia,Comfortable,422.0
+289,Huddagh,Sembia,Modest,1180.0
+289,Huddagh,Sembia,Poor,2319.0
+289,Huddagh,Sembia,Squalid,1705.0
+289,Huddagh,Sembia,Wretched,415.0
+290,Kulta,Sembia,Aristocratic,1.0
+290,Kulta,Sembia,Wealthy,92.0
+290,Kulta,Sembia,Comfortable,544.0
+290,Kulta,Sembia,Modest,1636.0
+290,Kulta,Sembia,Poor,2214.0
+290,Kulta,Sembia,Squalid,2191.0
+290,Kulta,Sembia,Wretched,558.0
+291,Mulhessen,Sembia,Aristocratic,40.0
+291,Mulhessen,Sembia,Wealthy,328.0
+291,Mulhessen,Sembia,Comfortable,1876.0
+291,Mulhessen,Sembia,Modest,3356.0
+291,Mulhessen,Sembia,Poor,8758.0
+291,Mulhessen,Sembia,Squalid,6773.0
+291,Mulhessen,Sembia,Wretched,1426.0
+292,Saerb,Sembia,Aristocratic,50.0
+292,Saerb,Sembia,Wealthy,697.0
+292,Saerb,Sembia,Comfortable,2061.0
+292,Saerb,Sembia,Modest,3657.0
+292,Saerb,Sembia,Poor,9107.0
+292,Saerb,Sembia,Squalid,9375.0
+292,Saerb,Sembia,Wretched,2327.0
+293,Saerloon,Sembia,Aristocratic,82.0
+293,Saerloon,Sembia,Wealthy,1697.0
+293,Saerloon,Sembia,Comfortable,7395.0
+293,Saerloon,Sembia,Modest,10578.0
+293,Saerloon,Sembia,Poor,19143.0
+293,Saerloon,Sembia,Squalid,21050.0
+293,Saerloon,Sembia,Wretched,3135.0
+294,Selgaunt,Sembia,Aristocratic,158.0
+294,Selgaunt,Sembia,Wealthy,1099.0
+294,Selgaunt,Sembia,Comfortable,7183.0
+294,Selgaunt,Sembia,Modest,8238.0
+294,Selgaunt,Sembia,Poor,18297.0
+294,Selgaunt,Sembia,Squalid,21096.0
+294,Selgaunt,Sembia,Wretched,4364.0
+295,Surd,Sembia,Aristocratic,60.0
+295,Surd,Sembia,Wealthy,716.0
+295,Surd,Sembia,Comfortable,2547.0
+295,Surd,Sembia,Modest,5091.0
+295,Surd,Sembia,Poor,9176.0
+295,Surd,Sembia,Squalid,9711.0
+295,Surd,Sembia,Wretched,1365.0
+296,Tulbegh,Sembia,Aristocratic,59.0
+296,Tulbegh,Sembia,Wealthy,769.0
+296,Tulbegh,Sembia,Comfortable,2760.0
+296,Tulbegh,Sembia,Modest,3624.0
+296,Tulbegh,Sembia,Poor,8957.0
+296,Tulbegh,Sembia,Squalid,10467.0
+296,Tulbegh,Sembia,Wretched,1784.0
+297,Uarhold,Sembia,Aristocratic,3.0
+297,Uarhold,Sembia,Wealthy,117.0
+297,Uarhold,Sembia,Comfortable,543.0
+297,Uarhold,Sembia,Modest,1183.0
+297,Uarhold,Sembia,Poor,2516.0
+297,Uarhold,Sembia,Squalid,1714.0
+297,Uarhold,Sembia,Wretched,547.0
+298,Urmlaspyr,Sembia,Aristocratic,2.0
+298,Urmlaspyr,Sembia,Wealthy,86.0
+298,Urmlaspyr,Sembia,Comfortable,376.0
+298,Urmlaspyr,Sembia,Modest,661.0
+298,Urmlaspyr,Sembia,Poor,1801.0
+298,Urmlaspyr,Sembia,Squalid,1658.0
+298,Urmlaspyr,Sembia,Wretched,195.0
+299,Yhaunn,Sembia,Aristocratic,27.0
+299,Yhaunn,Sembia,Wealthy,314.0
+299,Yhaunn,Sembia,Comfortable,2319.0
+299,Yhaunn,Sembia,Modest,2117.0
+299,Yhaunn,Sembia,Poor,5908.0
+299,Yhaunn,Sembia,Squalid,5869.0
+299,Yhaunn,Sembia,Wretched,1081.0
+300,Yuthgalaunt,Sembia,Aristocratic,0.0
+300,Yuthgalaunt,Sembia,Wealthy,41.0
+300,Yuthgalaunt,Sembia,Comfortable,174.0
+300,Yuthgalaunt,Sembia,Modest,549.0
+300,Yuthgalaunt,Sembia,Poor,934.0
+300,Yuthgalaunt,Sembia,Squalid,686.0
+300,Yuthgalaunt,Sembia,Wretched,226.0
+301,Sundice,Sossal,Aristocratic,0.0
+301,Sundice,Sossal,Wealthy,29.0
+301,Sundice,Sossal,Comfortable,114.0
+301,Sundice,Sossal,Modest,302.0
+301,Sundice,Sossal,Poor,577.0
+301,Sundice,Sossal,Squalid,434.0
+301,Sundice,Sossal,Wretched,80.0
+302,Sundice,Sossal,Aristocratic,1.0
+302,Sundice,Sossal,Wealthy,99.0
+302,Sundice,Sossal,Comfortable,502.0
+302,Sundice,Sossal,Modest,945.0
+302,Sundice,Sossal,Poor,2423.0
+302,Sundice,Sossal,Squalid,1650.0
+302,Sundice,Sossal,Wretched,395.0
+303,Dharvil,Sossal,Aristocratic,0.0
+303,Dharvil,Sossal,Wealthy,36.0
+303,Dharvil,Sossal,Comfortable,129.0
+303,Dharvil,Sossal,Modest,467.0
+303,Dharvil,Sossal,Poor,673.0
+303,Dharvil,Sossal,Squalid,522.0
+303,Dharvil,Sossal,Wretched,58.0
+304,Naupau,Sossal,Aristocratic,0.0
+304,Naupau,Sossal,Wealthy,1.0
+304,Naupau,Sossal,Comfortable,40.0
+304,Naupau,Sossal,Modest,102.0
+304,Naupau,Sossal,Poor,341.0
+304,Naupau,Sossal,Squalid,287.0
+304,Naupau,Sossal,Wretched,10.0
+305,Shannath,Sossal,Aristocratic,0.0
+305,Shannath,Sossal,Wealthy,18.0
+305,Shannath,Sossal,Comfortable,102.0
+305,Shannath,Sossal,Modest,311.0
+305,Shannath,Sossal,Poor,451.0
+305,Shannath,Sossal,Squalid,357.0
+305,Shannath,Sossal,Wretched,66.0
+306,Uldfest,Sossal,Aristocratic,0.0
+306,Uldfest,Sossal,Wealthy,17.0
+306,Uldfest,Sossal,Comfortable,108.0
+306,Uldfest,Sossal,Modest,326.0
+306,Uldfest,Sossal,Poor,500.0
+306,Uldfest,Sossal,Squalid,265.0
+306,Uldfest,Sossal,Wretched,66.0
+307,Darromar,Tethyr,Aristocratic,82.0
+307,Darromar,Tethyr,Wealthy,746.0
+307,Darromar,Tethyr,Comfortable,5367.0
+307,Darromar,Tethyr,Modest,11383.0
+307,Darromar,Tethyr,Poor,21285.0
+307,Darromar,Tethyr,Squalid,22231.0
+307,Darromar,Tethyr,Wretched,3882.0
+308,Abbor,Tethyr,Aristocratic,0.0
+308,Abbor,Tethyr,Wealthy,0.0
+308,Abbor,Tethyr,Comfortable,8.0
+308,Abbor,Tethyr,Modest,15.0
+308,Abbor,Tethyr,Poor,29.0
+308,Abbor,Tethyr,Squalid,27.0
+308,Abbor,Tethyr,Wretched,0.0
+309,Banshivale,Tethyr,Aristocratic,0.0
+309,Banshivale,Tethyr,Wealthy,6.0
+309,Banshivale,Tethyr,Comfortable,50.0
+309,Banshivale,Tethyr,Modest,105.0
+309,Banshivale,Tethyr,Poor,268.0
+309,Banshivale,Tethyr,Squalid,130.0
+309,Banshivale,Tethyr,Wretched,9.0
+310,Barrowsmorn,Tethyr,Aristocratic,0.0
+310,Barrowsmorn,Tethyr,Wealthy,2.0
+310,Barrowsmorn,Tethyr,Comfortable,43.0
+310,Barrowsmorn,Tethyr,Modest,105.0
+310,Barrowsmorn,Tethyr,Poor,264.0
+310,Barrowsmorn,Tethyr,Squalid,175.0
+310,Barrowsmorn,Tethyr,Wretched,13.0
+311,Brost,Tethyr,Aristocratic,0.0
+311,Brost,Tethyr,Wealthy,4.0
+311,Brost,Tethyr,Comfortable,29.0
+311,Brost,Tethyr,Modest,83.0
+311,Brost,Tethyr,Poor,236.0
+311,Brost,Tethyr,Squalid,150.0
+311,Brost,Tethyr,Wretched,12.0
+312,Cayr Thalwood,Tethyr,Aristocratic,0.0
+312,Cayr Thalwood,Tethyr,Wealthy,0.0
+312,Cayr Thalwood,Tethyr,Comfortable,20.0
+312,Cayr Thalwood,Tethyr,Modest,59.0
+312,Cayr Thalwood,Tethyr,Poor,104.0
+312,Cayr Thalwood,Tethyr,Squalid,72.0
+312,Cayr Thalwood,Tethyr,Wretched,5.0
+313,Colbertann,Tethyr,Aristocratic,0.0
+313,Colbertann,Tethyr,Wealthy,2.0
+313,Colbertann,Tethyr,Comfortable,32.0
+313,Colbertann,Tethyr,Modest,98.0
+313,Colbertann,Tethyr,Poor,185.0
+313,Colbertann,Tethyr,Squalid,124.0
+313,Colbertann,Tethyr,Wretched,8.0
+314,Daraqadim,Tethyr,Aristocratic,0.0
+314,Daraqadim,Tethyr,Wealthy,2.0
+314,Daraqadim,Tethyr,Comfortable,33.0
+314,Daraqadim,Tethyr,Modest,133.0
+314,Daraqadim,Tethyr,Poor,235.0
+314,Daraqadim,Tethyr,Squalid,129.0
+314,Daraqadim,Tethyr,Wretched,9.0
+315,Dunod,Tethyr,Aristocratic,0.0
+315,Dunod,Tethyr,Wealthy,0.0
+315,Dunod,Tethyr,Comfortable,6.0
+315,Dunod,Tethyr,Modest,10.0
+315,Dunod,Tethyr,Poor,46.0
+315,Dunod,Tethyr,Squalid,34.0
+315,Dunod,Tethyr,Wretched,1.0
+316,Elbencourt,Tethyr,Aristocratic,0.0
+316,Elbencourt,Tethyr,Wealthy,2.0
+316,Elbencourt,Tethyr,Comfortable,55.0
+316,Elbencourt,Tethyr,Modest,86.0
+316,Elbencourt,Tethyr,Poor,271.0
+316,Elbencourt,Tethyr,Squalid,159.0
+316,Elbencourt,Tethyr,Wretched,8.0
+317,Fort Agis,Tethyr,Aristocratic,0.0
+317,Fort Agis,Tethyr,Wealthy,2.0
+317,Fort Agis,Tethyr,Comfortable,16.0
+317,Fort Agis,Tethyr,Modest,55.0
+317,Fort Agis,Tethyr,Poor,108.0
+317,Fort Agis,Tethyr,Squalid,95.0
+317,Fort Agis,Tethyr,Wretched,4.0
+318,Fort Calim,Tethyr,Aristocratic,0.0
+318,Fort Calim,Tethyr,Wealthy,1.0
+318,Fort Calim,Tethyr,Comfortable,36.0
+318,Fort Calim,Tethyr,Modest,141.0
+318,Fort Calim,Tethyr,Poor,238.0
+318,Fort Calim,Tethyr,Squalid,165.0
+318,Fort Calim,Tethyr,Wretched,7.0
+319,Fort Teqlar,Tethyr,Aristocratic,0.0
+319,Fort Teqlar,Tethyr,Wealthy,2.0
+319,Fort Teqlar,Tethyr,Comfortable,14.0
+319,Fort Teqlar,Tethyr,Modest,28.0
+319,Fort Teqlar,Tethyr,Poor,103.0
+319,Fort Teqlar,Tethyr,Squalid,51.0
+319,Fort Teqlar,Tethyr,Wretched,5.0
+320,Grapton,Tethyr,Aristocratic,0.0
+320,Grapton,Tethyr,Wealthy,4.0
+320,Grapton,Tethyr,Comfortable,44.0
+320,Grapton,Tethyr,Modest,110.0
+320,Grapton,Tethyr,Poor,320.0
+320,Grapton,Tethyr,Squalid,182.0
+320,Grapton,Tethyr,Wretched,15.0
+321,Hostim,Tethyr,Aristocratic,0.0
+321,Hostim,Tethyr,Wealthy,1.0
+321,Hostim,Tethyr,Comfortable,49.0
+321,Hostim,Tethyr,Modest,138.0
+321,Hostim,Tethyr,Poor,239.0
+321,Hostim,Tethyr,Squalid,175.0
+321,Hostim,Tethyr,Wretched,10.0
+322,Ithal Pass,Tethyr,Aristocratic,0.0
+322,Ithal Pass,Tethyr,Wealthy,1.0
+322,Ithal Pass,Tethyr,Comfortable,38.0
+322,Ithal Pass,Tethyr,Modest,112.0
+322,Ithal Pass,Tethyr,Poor,253.0
+322,Ithal Pass,Tethyr,Squalid,136.0
+322,Ithal Pass,Tethyr,Wretched,10.0
+323,Jhaansciim,Tethyr,Aristocratic,0.0
+323,Jhaansciim,Tethyr,Wealthy,1.0
+323,Jhaansciim,Tethyr,Comfortable,41.0
+323,Jhaansciim,Tethyr,Modest,65.0
+323,Jhaansciim,Tethyr,Poor,251.0
+323,Jhaansciim,Tethyr,Squalid,221.0
+323,Jhaansciim,Tethyr,Wretched,13.0
+324,Khanall,Tethyr,Aristocratic,4.0
+324,Khanall,Tethyr,Wealthy,81.0
+324,Khanall,Tethyr,Comfortable,492.0
+324,Khanall,Tethyr,Modest,1054.0
+324,Khanall,Tethyr,Poor,2694.0
+324,Khanall,Tethyr,Squalid,2144.0
+324,Khanall,Tethyr,Wretched,325.0
+325,Kirgard,Tethyr,Aristocratic,1.0
+325,Kirgard,Tethyr,Wealthy,93.0
+325,Kirgard,Tethyr,Comfortable,464.0
+325,Kirgard,Tethyr,Modest,1091.0
+325,Kirgard,Tethyr,Poor,2337.0
+325,Kirgard,Tethyr,Squalid,1523.0
+325,Kirgard,Tethyr,Wretched,218.0
+326,Krennasar,Tethyr,Aristocratic,0.0
+326,Krennasar,Tethyr,Wealthy,1.0
+326,Krennasar,Tethyr,Comfortable,30.0
+326,Krennasar,Tethyr,Modest,62.0
+326,Krennasar,Tethyr,Poor,238.0
+326,Krennasar,Tethyr,Squalid,158.0
+326,Krennasar,Tethyr,Wretched,10.0
+327,Kzelter,Tethyr,Aristocratic,2.0
+327,Kzelter,Tethyr,Wealthy,126.0
+327,Kzelter,Tethyr,Comfortable,588.0
+327,Kzelter,Tethyr,Modest,1723.0
+327,Kzelter,Tethyr,Poor,3230.0
+327,Kzelter,Tethyr,Squalid,2049.0
+327,Kzelter,Tethyr,Wretched,349.0
+328,Lhestyn’s Hearth,Tethyr,Aristocratic,1.0
+328,Lhestyn’s Hearth,Tethyr,Wealthy,43.0
+328,Lhestyn’s Hearth,Tethyr,Comfortable,269.0
+328,Lhestyn’s Hearth,Tethyr,Modest,415.0
+328,Lhestyn’s Hearth,Tethyr,Poor,1162.0
+328,Lhestyn’s Hearth,Tethyr,Squalid,790.0
+328,Lhestyn’s Hearth,Tethyr,Wretched,279.0
+329,Loranse,Tethyr,Aristocratic,0.0
+329,Loranse,Tethyr,Wealthy,152.0
+329,Loranse,Tethyr,Comfortable,598.0
+329,Loranse,Tethyr,Modest,1274.0
+329,Loranse,Tethyr,Poor,2386.0
+329,Loranse,Tethyr,Squalid,1519.0
+329,Loranse,Tethyr,Wretched,593.0
+330,Lyllburg,Tethyr,Aristocratic,0.0
+330,Lyllburg,Tethyr,Wealthy,1.0
+330,Lyllburg,Tethyr,Comfortable,37.0
+330,Lyllburg,Tethyr,Modest,128.0
+330,Lyllburg,Tethyr,Poor,232.0
+330,Lyllburg,Tethyr,Squalid,152.0
+330,Lyllburg,Tethyr,Wretched,8.0
+331,Marakir,Tethyr,Aristocratic,0.0
+331,Marakir,Tethyr,Wealthy,141.0
+331,Marakir,Tethyr,Comfortable,593.0
+331,Marakir,Tethyr,Modest,1603.0
+331,Marakir,Tethyr,Poor,2657.0
+331,Marakir,Tethyr,Squalid,1595.0
+331,Marakir,Tethyr,Wretched,346.0
+332,Maratimmir,Tethyr,Aristocratic,3.0
+332,Maratimmir,Tethyr,Wealthy,106.0
+332,Maratimmir,Tethyr,Comfortable,536.0
+332,Maratimmir,Tethyr,Modest,1690.0
+332,Maratimmir,Tethyr,Poor,2333.0
+332,Maratimmir,Tethyr,Squalid,1467.0
+332,Maratimmir,Tethyr,Wretched,450.0
+333,Masamount,Tethyr,Aristocratic,0.0
+333,Masamount,Tethyr,Wealthy,2.0
+333,Masamount,Tethyr,Comfortable,39.0
+333,Masamount,Tethyr,Modest,171.0
+333,Masamount,Tethyr,Poor,283.0
+333,Masamount,Tethyr,Squalid,193.0
+333,Masamount,Tethyr,Wretched,9.0
+334,Monguldarath,Tethyr,Aristocratic,3.0
+334,Monguldarath,Tethyr,Wealthy,93.0
+334,Monguldarath,Tethyr,Comfortable,533.0
+334,Monguldarath,Tethyr,Modest,1127.0
+334,Monguldarath,Tethyr,Poor,2288.0
+334,Monguldarath,Tethyr,Squalid,1868.0
+334,Monguldarath,Tethyr,Wretched,223.0
+335,Morninggold Keep,Tethyr,Aristocratic,53.0
+335,Morninggold Keep,Tethyr,Wealthy,159.0
+335,Morninggold Keep,Tethyr,Comfortable,1086.0
+335,Morninggold Keep,Tethyr,Modest,2079.0
+335,Morninggold Keep,Tethyr,Poor,3576.0
+335,Morninggold Keep,Tethyr,Squalid,4002.0
+335,Morninggold Keep,Tethyr,Wretched,984.0
+336,Mosstone,Tethyr,Aristocratic,0.0
+336,Mosstone,Tethyr,Wealthy,20.0
+336,Mosstone,Tethyr,Comfortable,115.0
+336,Mosstone,Tethyr,Modest,167.0
+336,Mosstone,Tethyr,Poor,559.0
+336,Mosstone,Tethyr,Squalid,342.0
+336,Mosstone,Tethyr,Wretched,65.0
+337,Mount Noblesse,Tethyr,Aristocratic,3.0
+337,Mount Noblesse,Tethyr,Wealthy,129.0
+337,Mount Noblesse,Tethyr,Comfortable,549.0
+337,Mount Noblesse,Tethyr,Modest,1308.0
+337,Mount Noblesse,Tethyr,Poor,2559.0
+337,Mount Noblesse,Tethyr,Squalid,1881.0
+337,Mount Noblesse,Tethyr,Wretched,337.0
+338,Myratma,Tethyr,Aristocratic,225.0
+338,Myratma,Tethyr,Wealthy,512.0
+338,Myratma,Tethyr,Comfortable,6412.0
+338,Myratma,Tethyr,Modest,9466.0
+338,Myratma,Tethyr,Poor,15607.0
+338,Myratma,Tethyr,Squalid,13603.0
+338,Myratma,Tethyr,Wretched,2595.0
+339,Myth Dyraalis,Tethyr,Aristocratic,3.0
+339,Myth Dyraalis,Tethyr,Wealthy,159.0
+339,Myth Dyraalis,Tethyr,Comfortable,525.0
+339,Myth Dyraalis,Tethyr,Modest,1396.0
+339,Myth Dyraalis,Tethyr,Poor,2670.0
+339,Myth Dyraalis,Tethyr,Squalid,2337.0
+339,Myth Dyraalis,Tethyr,Wretched,272.0
+340,Nomerritin,Tethyr,Aristocratic,0.0
+340,Nomerritin,Tethyr,Wealthy,0.0
+340,Nomerritin,Tethyr,Comfortable,32.0
+340,Nomerritin,Tethyr,Modest,58.0
+340,Nomerritin,Tethyr,Poor,253.0
+340,Nomerritin,Tethyr,Squalid,179.0
+340,Nomerritin,Tethyr,Wretched,11.0
+341,Pansemil,Tethyr,Aristocratic,0.0
+341,Pansemil,Tethyr,Wealthy,2.0
+341,Pansemil,Tethyr,Comfortable,12.0
+341,Pansemil,Tethyr,Modest,32.0
+341,Pansemil,Tethyr,Poor,99.0
+341,Pansemil,Tethyr,Squalid,64.0
+341,Pansemil,Tethyr,Wretched,5.0
+342,Port Kir,Tethyr,Aristocratic,2.0
+342,Port Kir,Tethyr,Wealthy,74.0
+342,Port Kir,Tethyr,Comfortable,427.0
+342,Port Kir,Tethyr,Modest,1607.0
+342,Port Kir,Tethyr,Poor,2231.0
+342,Port Kir,Tethyr,Squalid,1602.0
+342,Port Kir,Tethyr,Wretched,425.0
+343,Qian Hillfort,Tethyr,Aristocratic,0.0
+343,Qian Hillfort,Tethyr,Wealthy,0.0
+343,Qian Hillfort,Tethyr,Comfortable,4.0
+343,Qian Hillfort,Tethyr,Modest,9.0
+343,Qian Hillfort,Tethyr,Poor,18.0
+343,Qian Hillfort,Tethyr,Squalid,6.0
+343,Qian Hillfort,Tethyr,Wretched,0.0
+344,Riatavin,Tethyr,Aristocratic,30.0
+344,Riatavin,Tethyr,Wealthy,351.0
+344,Riatavin,Tethyr,Comfortable,1712.0
+344,Riatavin,Tethyr,Modest,2244.0
+344,Riatavin,Tethyr,Poor,4746.0
+344,Riatavin,Tethyr,Squalid,5433.0
+344,Riatavin,Tethyr,Wretched,1140.0
+345,Rock Orchard,Tethyr,Aristocratic,2.0
+345,Rock Orchard,Tethyr,Wealthy,130.0
+345,Rock Orchard,Tethyr,Comfortable,601.0
+345,Rock Orchard,Tethyr,Modest,1719.0
+345,Rock Orchard,Tethyr,Poor,2340.0
+345,Rock Orchard,Tethyr,Squalid,1844.0
+345,Rock Orchard,Tethyr,Wretched,492.0
+346,Ruba,Tethyr,Aristocratic,0.0
+346,Ruba,Tethyr,Wealthy,0.0
+346,Ruba,Tethyr,Comfortable,5.0
+346,Ruba,Tethyr,Modest,14.0
+346,Ruba,Tethyr,Poor,39.0
+346,Ruba,Tethyr,Squalid,32.0
+346,Ruba,Tethyr,Wretched,1.0
+347,Saharkhan,Tethyr,Aristocratic,3.0
+347,Saharkhan,Tethyr,Wealthy,89.0
+347,Saharkhan,Tethyr,Comfortable,574.0
+347,Saharkhan,Tethyr,Modest,1889.0
+347,Saharkhan,Tethyr,Poor,2706.0
+347,Saharkhan,Tethyr,Squalid,2005.0
+347,Saharkhan,Tethyr,Wretched,280.0
+348,Saradush,Tethyr,Aristocratic,110.0
+348,Saradush,Tethyr,Wealthy,463.0
+348,Saradush,Tethyr,Comfortable,3595.0
+348,Saradush,Tethyr,Modest,6007.0
+348,Saradush,Tethyr,Poor,11730.0
+348,Saradush,Tethyr,Squalid,11989.0
+348,Saradush,Tethyr,Wretched,3600.0
+349,Shelshyr House,Tethyr,Aristocratic,2.0
+349,Shelshyr House,Tethyr,Wealthy,81.0
+349,Shelshyr House,Tethyr,Comfortable,562.0
+349,Shelshyr House,Tethyr,Modest,1546.0
+349,Shelshyr House,Tethyr,Poor,2311.0
+349,Shelshyr House,Tethyr,Squalid,1808.0
+349,Shelshyr House,Tethyr,Wretched,422.0
+350,Sulduskoonar,Tethyr,Aristocratic,0.0
+350,Sulduskoonar,Tethyr,Wealthy,117.0
+350,Sulduskoonar,Tethyr,Comfortable,627.0
+350,Sulduskoonar,Tethyr,Modest,1585.0
+350,Sulduskoonar,Tethyr,Poor,2849.0
+350,Sulduskoonar,Tethyr,Squalid,2272.0
+350,Sulduskoonar,Tethyr,Wretched,638.0
+351,Survale Ford,Tethyr,Aristocratic,0.0
+351,Survale Ford,Tethyr,Wealthy,3.0
+351,Survale Ford,Tethyr,Comfortable,21.0
+351,Survale Ford,Tethyr,Modest,73.0
+351,Survale Ford,Tethyr,Poor,142.0
+351,Survale Ford,Tethyr,Squalid,116.0
+351,Survale Ford,Tethyr,Wretched,8.0
+352,Tannitton,Tethyr,Aristocratic,0.0
+352,Tannitton,Tethyr,Wealthy,0.0
+352,Tannitton,Tethyr,Comfortable,4.0
+352,Tannitton,Tethyr,Modest,1.0
+352,Tannitton,Tethyr,Poor,28.0
+352,Tannitton,Tethyr,Squalid,21.0
+352,Tannitton,Tethyr,Wretched,0.0
+353,Toaketh,Tethyr,Aristocratic,2.0
+353,Toaketh,Tethyr,Wealthy,143.0
+353,Toaketh,Tethyr,Comfortable,466.0
+353,Toaketh,Tethyr,Modest,1735.0
+353,Toaketh,Tethyr,Poor,2650.0
+353,Toaketh,Tethyr,Squalid,1875.0
+353,Toaketh,Tethyr,Wretched,369.0
+354,Toralth,Tethyr,Aristocratic,0.0
+354,Toralth,Tethyr,Wealthy,102.0
+354,Toralth,Tethyr,Comfortable,334.0
+354,Toralth,Tethyr,Modest,640.0
+354,Toralth,Tethyr,Poor,1717.0
+354,Toralth,Tethyr,Squalid,1412.0
+354,Toralth,Tethyr,Wretched,348.0
+355,Trailstone,Tethyr,Aristocratic,0.0
+355,Trailstone,Tethyr,Wealthy,3.0
+355,Trailstone,Tethyr,Comfortable,21.0
+355,Trailstone,Tethyr,Modest,31.0
+355,Trailstone,Tethyr,Poor,131.0
+355,Trailstone,Tethyr,Squalid,112.0
+355,Trailstone,Tethyr,Wretched,4.0
+356,Tulmene,Tethyr,Aristocratic,0.0
+356,Tulmene,Tethyr,Wealthy,55.0
+356,Tulmene,Tethyr,Comfortable,260.0
+356,Tulmene,Tethyr,Modest,591.0
+356,Tulmene,Tethyr,Poor,1216.0
+356,Tulmene,Tethyr,Squalid,822.0
+356,Tulmene,Tethyr,Wretched,150.0
+357,Tweyar,Tethyr,Aristocratic,2.0
+357,Tweyar,Tethyr,Wealthy,157.0
+357,Tweyar,Tethyr,Comfortable,527.0
+357,Tweyar,Tethyr,Modest,816.0
+357,Tweyar,Tethyr,Poor,2518.0
+357,Tweyar,Tethyr,Squalid,2344.0
+357,Tweyar,Tethyr,Wretched,586.0
+358,Upparkol,Tethyr,Aristocratic,0.0
+358,Upparkol,Tethyr,Wealthy,22.0
+358,Upparkol,Tethyr,Comfortable,115.0
+358,Upparkol,Tethyr,Modest,203.0
+358,Upparkol,Tethyr,Poor,496.0
+358,Upparkol,Tethyr,Squalid,381.0
+358,Upparkol,Tethyr,Wretched,94.0
+359,Valtreth,Tethyr,Aristocratic,0.0
+359,Valtreth,Tethyr,Wealthy,1.0
+359,Valtreth,Tethyr,Comfortable,50.0
+359,Valtreth,Tethyr,Modest,93.0
+359,Valtreth,Tethyr,Poor,241.0
+359,Valtreth,Tethyr,Squalid,118.0
+359,Valtreth,Tethyr,Wretched,11.0
+360,Velen,Tethyr,Aristocratic,14.0
+360,Velen,Tethyr,Wealthy,347.0
+360,Velen,Tethyr,Comfortable,1296.0
+360,Velen,Tethyr,Modest,1712.0
+360,Velen,Tethyr,Poor,4424.0
+360,Velen,Tethyr,Squalid,3436.0
+360,Velen,Tethyr,Wretched,1189.0
+361,Vineshade,Tethyr,Aristocratic,0.0
+361,Vineshade,Tethyr,Wealthy,57.0
+361,Vineshade,Tethyr,Comfortable,204.0
+361,Vineshade,Tethyr,Modest,701.0
+361,Vineshade,Tethyr,Poor,1085.0
+361,Vineshade,Tethyr,Squalid,927.0
+361,Vineshade,Tethyr,Wretched,164.0
+362,Viperstongue,Tethyr,Aristocratic,0.0
+362,Viperstongue,Tethyr,Wealthy,2.0
+362,Viperstongue,Tethyr,Comfortable,51.0
+362,Viperstongue,Tethyr,Modest,132.0
+362,Viperstongue,Tethyr,Poor,261.0
+362,Viperstongue,Tethyr,Squalid,226.0
+362,Viperstongue,Tethyr,Wretched,13.0
+363,Zazesspur,Tethyr,Aristocratic,676.0
+363,Zazesspur,Tethyr,Wealthy,2345.0
+363,Zazesspur,Tethyr,Comfortable,15782.0
+363,Zazesspur,Tethyr,Modest,22501.0
+363,Zazesspur,Tethyr,Poor,36095.0
+363,Zazesspur,Tethyr,Squalid,45221.0
+363,Zazesspur,Tethyr,Wretched,11390.0
+364,Eltabbar,Thay,Aristocratic,48.0
+364,Eltabbar,Thay,Wealthy,225.0
+364,Eltabbar,Thay,Comfortable,1089.0
+364,Eltabbar,Thay,Modest,1522.0
+364,Eltabbar,Thay,Poor,3869.0
+364,Eltabbar,Thay,Squalid,2614.0
+364,Eltabbar,Thay,Wretched,648.0
+365,Amruthar,Thay,Aristocratic,111.0
+365,Amruthar,Thay,Wealthy,979.0
+365,Amruthar,Thay,Comfortable,4283.0
+365,Amruthar,Thay,Modest,6710.0
+365,Amruthar,Thay,Poor,11964.0
+365,Amruthar,Thay,Squalid,13615.0
+365,Amruthar,Thay,Wretched,2450.0
+366,Anhaurz,Thay,Aristocratic,45.0
+366,Anhaurz,Thay,Wealthy,292.0
+366,Anhaurz,Thay,Comfortable,2774.0
+366,Anhaurz,Thay,Modest,3725.0
+366,Anhaurz,Thay,Poor,7532.0
+366,Anhaurz,Thay,Squalid,8416.0
+366,Anhaurz,Thay,Wretched,1556.0
+367,Ankhur,Thay,Aristocratic,0.0
+367,Ankhur,Thay,Wealthy,29.0
+367,Ankhur,Thay,Comfortable,172.0
+367,Ankhur,Thay,Modest,515.0
+367,Ankhur,Thay,Poor,710.0
+367,Ankhur,Thay,Squalid,552.0
+367,Ankhur,Thay,Wretched,114.0
+368,Belizir,Thay,Aristocratic,1.0
+368,Belizir,Thay,Wealthy,130.0
+368,Belizir,Thay,Comfortable,456.0
+368,Belizir,Thay,Modest,1209.0
+368,Belizir,Thay,Poor,2365.0
+368,Belizir,Thay,Squalid,1719.0
+368,Belizir,Thay,Wretched,430.0
+369,Bezantur,Thay,Aristocratic,18.0
+369,Bezantur,Thay,Wealthy,231.0
+369,Bezantur,Thay,Comfortable,965.0
+369,Bezantur,Thay,Modest,2105.0
+369,Bezantur,Thay,Poor,4490.0
+369,Bezantur,Thay,Squalid,4348.0
+369,Bezantur,Thay,Wretched,1131.0
+370,Delabbar,Thay,Aristocratic,90.0
+370,Delabbar,Thay,Wealthy,305.0
+370,Delabbar,Thay,Comfortable,1652.0
+370,Delabbar,Thay,Modest,4133.0
+370,Delabbar,Thay,Poor,7977.0
+370,Delabbar,Thay,Squalid,5112.0
+370,Delabbar,Thay,Wretched,2046.0
+371,Denzar,Thay,Aristocratic,0.0
+371,Denzar,Thay,Wealthy,36.0
+371,Denzar,Thay,Comfortable,235.0
+371,Denzar,Thay,Modest,696.0
+371,Denzar,Thay,Poor,1082.0
+371,Denzar,Thay,Squalid,775.0
+371,Denzar,Thay,Wretched,158.0
+372,Escalant,Thay,Aristocratic,12.0
+372,Escalant,Thay,Wealthy,351.0
+372,Escalant,Thay,Comfortable,2699.0
+372,Escalant,Thay,Modest,3328.0
+372,Escalant,Thay,Poor,9621.0
+372,Escalant,Thay,Squalid,11299.0
+372,Escalant,Thay,Wretched,2058.0
+373,Ezreket,Thay,Aristocratic,4.0
+373,Ezreket,Thay,Wealthy,155.0
+373,Ezreket,Thay,Comfortable,688.0
+373,Ezreket,Thay,Modest,2071.0
+373,Ezreket,Thay,Poor,2816.0
+373,Ezreket,Thay,Squalid,2125.0
+373,Ezreket,Thay,Wretched,480.0
+374,Hurkh,Thay,Aristocratic,0.0
+374,Hurkh,Thay,Wealthy,1.0
+374,Hurkh,Thay,Comfortable,10.0
+374,Hurkh,Thay,Modest,43.0
+374,Hurkh,Thay,Poor,67.0
+374,Hurkh,Thay,Squalid,43.0
+374,Hurkh,Thay,Wretched,2.0
+375,Keluthar,Thay,Aristocratic,0.0
+375,Keluthar,Thay,Wealthy,1.0
+375,Keluthar,Thay,Comfortable,21.0
+375,Keluthar,Thay,Modest,49.0
+375,Keluthar,Thay,Poor,128.0
+375,Keluthar,Thay,Squalid,96.0
+375,Keluthar,Thay,Wretched,5.0
+376,Mophur,Thay,Aristocratic,16.0
+376,Mophur,Thay,Wealthy,584.0
+376,Mophur,Thay,Comfortable,2637.0
+376,Mophur,Thay,Modest,3949.0
+376,Mophur,Thay,Poor,7449.0
+376,Mophur,Thay,Squalid,9058.0
+376,Mophur,Thay,Wretched,1754.0
+377,Murbant,Thay,Aristocratic,2.0
+377,Murbant,Thay,Wealthy,96.0
+377,Murbant,Thay,Comfortable,339.0
+377,Murbant,Thay,Modest,675.0
+377,Murbant,Thay,Poor,1641.0
+377,Murbant,Thay,Squalid,1257.0
+377,Murbant,Thay,Wretched,156.0
+378,Nethentir,Thay,Aristocratic,0.0
+378,Nethentir,Thay,Wealthy,38.0
+378,Nethentir,Thay,Comfortable,149.0
+378,Nethentir,Thay,Modest,385.0
+378,Nethentir,Thay,Poor,667.0
+378,Nethentir,Thay,Squalid,427.0
+378,Nethentir,Thay,Wretched,111.0
+379,Nethjet,Thay,Aristocratic,0.0
+379,Nethjet,Thay,Wealthy,20.0
+379,Nethjet,Thay,Comfortable,103.0
+379,Nethjet,Thay,Modest,273.0
+379,Nethjet,Thay,Poor,452.0
+379,Nethjet,Thay,Squalid,313.0
+379,Nethjet,Thay,Wretched,83.0
+380,Nurethretos,Thay,Aristocratic,0.0
+380,Nurethretos,Thay,Wealthy,2.0
+380,Nurethretos,Thay,Comfortable,18.0
+380,Nurethretos,Thay,Modest,43.0
+380,Nurethretos,Thay,Poor,85.0
+380,Nurethretos,Thay,Squalid,69.0
+380,Nurethretos,Thay,Wretched,5.0
+381,Pyrados,Thay,Aristocratic,196.0
+381,Pyrados,Thay,Wealthy,524.0
+381,Pyrados,Thay,Comfortable,3459.0
+381,Pyrados,Thay,Modest,7014.0
+381,Pyrados,Thay,Poor,15234.0
+381,Pyrados,Thay,Squalid,13837.0
+381,Pyrados,Thay,Wretched,3542.0
+382,Sefriszar,Thay,Aristocratic,0.0
+382,Sefriszar,Thay,Wealthy,0.0
+382,Sefriszar,Thay,Comfortable,13.0
+382,Sefriszar,Thay,Modest,32.0
+382,Sefriszar,Thay,Poor,69.0
+382,Sefriszar,Thay,Squalid,34.0
+382,Sefriszar,Thay,Wretched,4.0
+383,Sekelmur,Thay,Aristocratic,0.0
+383,Sekelmur,Thay,Wealthy,0.0
+383,Sekelmur,Thay,Comfortable,17.0
+383,Sekelmur,Thay,Modest,34.0
+383,Sekelmur,Thay,Poor,109.0
+383,Sekelmur,Thay,Squalid,70.0
+383,Sekelmur,Thay,Wretched,4.0
+384,Solzepar,Thay,Aristocratic,0.0
+384,Solzepar,Thay,Wealthy,1.0
+384,Solzepar,Thay,Comfortable,9.0
+384,Solzepar,Thay,Modest,42.0
+384,Solzepar,Thay,Poor,69.0
+384,Solzepar,Thay,Squalid,47.0
+384,Solzepar,Thay,Wretched,3.0
+385,Surag,Thay,Aristocratic,61.0
+385,Surag,Thay,Wealthy,209.0
+385,Surag,Thay,Comfortable,1055.0
+385,Surag,Thay,Modest,1628.0
+385,Surag,Thay,Poor,3921.0
+385,Surag,Thay,Squalid,3433.0
+385,Surag,Thay,Wretched,672.0
+386,Surthay,Thay,Aristocratic,38.0
+386,Surthay,Thay,Wealthy,222.0
+386,Surthay,Thay,Comfortable,1321.0
+386,Surthay,Thay,Modest,2195.0
+386,Surthay,Thay,Poor,5368.0
+386,Surthay,Thay,Squalid,4390.0
+386,Surthay,Thay,Wretched,1382.0
+387,Szul,Thay,Aristocratic,0.0
+387,Szul,Thay,Wealthy,21.0
+387,Szul,Thay,Comfortable,137.0
+387,Szul,Thay,Modest,349.0
+387,Szul,Thay,Poor,573.0
+387,Szul,Thay,Squalid,431.0
+387,Szul,Thay,Wretched,66.0
+388,Thasselen,Thay,Aristocratic,4.0
+388,Thasselen,Thay,Wealthy,121.0
+388,Thasselen,Thay,Comfortable,718.0
+388,Thasselen,Thay,Modest,1719.0
+388,Thasselen,Thay,Poor,2982.0
+388,Thasselen,Thay,Squalid,2010.0
+388,Thasselen,Thay,Wretched,493.0
+389,Thazrumaros,Thay,Aristocratic,0.0
+389,Thazrumaros,Thay,Wealthy,60.0
+389,Thazrumaros,Thay,Comfortable,281.0
+389,Thazrumaros,Thay,Modest,472.0
+389,Thazrumaros,Thay,Poor,1276.0
+389,Thazrumaros,Thay,Squalid,824.0
+389,Thazrumaros,Thay,Wretched,170.0
+390,Tyraturos,Thay,Aristocratic,167.0
+390,Tyraturos,Thay,Wealthy,802.0
+390,Tyraturos,Thay,Comfortable,4116.0
+390,Tyraturos,Thay,Modest,7316.0
+390,Tyraturos,Thay,Poor,14872.0
+390,Tyraturos,Thay,Squalid,13629.0
+390,Tyraturos,Thay,Wretched,3973.0
+391,Umratharos,Thay,Aristocratic,0.0
+391,Umratharos,Thay,Wealthy,0.0
+391,Umratharos,Thay,Comfortable,12.0
+391,Umratharos,Thay,Modest,38.0
+391,Umratharos,Thay,Poor,78.0
+391,Umratharos,Thay,Squalid,60.0
+391,Umratharos,Thay,Wretched,2.0
+392,Whitebranch,Thay,Aristocratic,0.0
+392,Whitebranch,Thay,Wealthy,0.0
+392,Whitebranch,Thay,Comfortable,5.0
+392,Whitebranch,Thay,Modest,6.0
+392,Whitebranch,Thay,Poor,24.0
+392,Whitebranch,Thay,Squalid,22.0
+392,Whitebranch,Thay,Wretched,0.0
+393,Zolum,Thay,Aristocratic,0.0
+393,Zolum,Thay,Wealthy,53.0
+393,Zolum,Thay,Comfortable,274.0
+393,Zolum,Thay,Modest,678.0
+393,Zolum,Thay,Poor,1183.0
+393,Zolum,Thay,Squalid,677.0
+393,Zolum,Thay,Wretched,219.0
+394,Culdorn,Thesk,Aristocratic,2.0
+394,Culdorn,Thesk,Wealthy,172.0
+394,Culdorn,Thesk,Comfortable,584.0
+394,Culdorn,Thesk,Modest,1311.0
+394,Culdorn,Thesk,Poor,3166.0
+394,Culdorn,Thesk,Squalid,2115.0
+394,Culdorn,Thesk,Wretched,396.0
+395,Ethvale,Thesk,Aristocratic,0.0
+395,Ethvale,Thesk,Wealthy,151.0
+395,Ethvale,Thesk,Comfortable,618.0
+395,Ethvale,Thesk,Modest,1092.0
+395,Ethvale,Thesk,Poor,2821.0
+395,Ethvale,Thesk,Squalid,1954.0
+395,Ethvale,Thesk,Wretched,572.0
+396,Fullpoint,Thesk,Aristocratic,0.0
+396,Fullpoint,Thesk,Wealthy,3.0
+396,Fullpoint,Thesk,Comfortable,43.0
+396,Fullpoint,Thesk,Modest,145.0
+396,Fullpoint,Thesk,Poor,292.0
+396,Fullpoint,Thesk,Squalid,181.0
+396,Fullpoint,Thesk,Wretched,13.0
+397,Hill Town,Thesk,Aristocratic,0.0
+397,Hill Town,Thesk,Wealthy,3.0
+397,Hill Town,Thesk,Comfortable,45.0
+397,Hill Town,Thesk,Modest,140.0
+397,Hill Town,Thesk,Poor,310.0
+397,Hill Town,Thesk,Squalid,210.0
+397,Hill Town,Thesk,Wretched,13.0
+398,Inkar,Thesk,Aristocratic,0.0
+398,Inkar,Thesk,Wealthy,5.0
+398,Inkar,Thesk,Comfortable,45.0
+398,Inkar,Thesk,Modest,112.0
+398,Inkar,Thesk,Poor,270.0
+398,Inkar,Thesk,Squalid,191.0
+398,Inkar,Thesk,Wretched,16.0
+399,Milvarune,Thesk,Aristocratic,0.0
+399,Milvarune,Thesk,Wealthy,92.0
+399,Milvarune,Thesk,Comfortable,436.0
+399,Milvarune,Thesk,Modest,1014.0
+399,Milvarune,Thesk,Poor,1955.0
+399,Milvarune,Thesk,Squalid,1635.0
+399,Milvarune,Thesk,Wretched,413.0
+400,Nyth,Thesk,Aristocratic,17.0
+400,Nyth,Thesk,Wealthy,133.0
+400,Nyth,Thesk,Comfortable,1291.0
+400,Nyth,Thesk,Modest,1653.0
+400,Nyth,Thesk,Poor,3829.0
+400,Nyth,Thesk,Squalid,4459.0
+400,Nyth,Thesk,Wretched,765.0
+401,Phent,Thesk,Aristocratic,3.0
+401,Phent,Thesk,Wealthy,86.0
+401,Phent,Thesk,Comfortable,540.0
+401,Phent,Thesk,Modest,917.0
+401,Phent,Thesk,Poor,2795.0
+401,Phent,Thesk,Squalid,2193.0
+401,Phent,Thesk,Wretched,624.0
+402,Phsant,Thesk,Aristocratic,0.0
+402,Phsant,Thesk,Wealthy,1.0
+402,Phsant,Thesk,Comfortable,9.0
+402,Phsant,Thesk,Modest,14.0
+402,Phsant,Thesk,Poor,67.0
+402,Phsant,Thesk,Squalid,38.0
+402,Phsant,Thesk,Wretched,2.0
+403,Tammar,Thesk,Aristocratic,0.0
+403,Tammar,Thesk,Wealthy,70.0
+403,Tammar,Thesk,Comfortable,279.0
+403,Tammar,Thesk,Modest,846.0
+403,Tammar,Thesk,Poor,1077.0
+403,Tammar,Thesk,Squalid,976.0
+403,Tammar,Thesk,Wretched,165.0
+404,Thassalra,Thesk,Aristocratic,4.0
+404,Thassalra,Thesk,Wealthy,116.0
+404,Thassalra,Thesk,Comfortable,647.0
+404,Thassalra,Thesk,Modest,953.0
+404,Thassalra,Thesk,Poor,3171.0
+404,Thassalra,Thesk,Squalid,2159.0
+404,Thassalra,Thesk,Wretched,440.0
+405,Two-Stars,Thesk,Aristocratic,0.0
+405,Two-Stars,Thesk,Wealthy,94.0
+405,Two-Stars,Thesk,Comfortable,361.0
+405,Two-Stars,Thesk,Modest,597.0
+405,Two-Stars,Thesk,Poor,1655.0
+405,Two-Stars,Thesk,Squalid,1368.0
+405,Two-Stars,Thesk,Wretched,362.0
+406,Tezir-on-the-Marsh,Thesk,Aristocratic,1.0
+406,Tezir-on-the-Marsh,Thesk,Wealthy,152.0
+406,Tezir-on-the-Marsh,Thesk,Comfortable,633.0
+406,Tezir-on-the-Marsh,Thesk,Modest,1210.0
+406,Tezir-on-the-Marsh,Thesk,Poor,2634.0
+406,Tezir-on-the-Marsh,Thesk,Squalid,2192.0
+406,Tezir-on-the-Marsh,Thesk,Wretched,365.0
+407,Alaghôn,Turmish,Aristocratic,14.0
+407,Alaghôn,Turmish,Wealthy,1085.0
+407,Alaghôn,Turmish,Comfortable,3413.0
+407,Alaghôn,Turmish,Modest,5580.0
+407,Alaghôn,Turmish,Poor,11737.0
+407,Alaghôn,Turmish,Squalid,11211.0
+407,Alaghôn,Turmish,Wretched,3109.0
+408,Ayakar,Turmish,Aristocratic,0.0
+408,Ayakar,Turmish,Wealthy,69.0
+408,Ayakar,Turmish,Comfortable,352.0
+408,Ayakar,Turmish,Modest,1002.0
+408,Ayakar,Turmish,Poor,1534.0
+408,Ayakar,Turmish,Squalid,920.0
+408,Ayakar,Turmish,Wretched,256.0
+409,Banathar,Turmish,Aristocratic,0.0
+409,Banathar,Turmish,Wealthy,3.0
+409,Banathar,Turmish,Comfortable,31.0
+409,Banathar,Turmish,Modest,73.0
+409,Banathar,Turmish,Poor,143.0
+409,Banathar,Turmish,Squalid,110.0
+409,Banathar,Turmish,Wretched,6.0
+410,Bistal’s Bottom,Turmish,Aristocratic,2.0
+410,Bistal’s Bottom,Turmish,Wealthy,108.0
+410,Bistal’s Bottom,Turmish,Comfortable,400.0
+410,Bistal’s Bottom,Turmish,Modest,666.0
+410,Bistal’s Bottom,Turmish,Poor,2044.0
+410,Bistal’s Bottom,Turmish,Squalid,1726.0
+410,Bistal’s Bottom,Turmish,Wretched,266.0
+411,Centaur Bridge,Turmish,Aristocratic,0.0
+411,Centaur Bridge,Turmish,Wealthy,4.0
+411,Centaur Bridge,Turmish,Comfortable,21.0
+411,Centaur Bridge,Turmish,Modest,73.0
+411,Centaur Bridge,Turmish,Poor,161.0
+411,Centaur Bridge,Turmish,Squalid,93.0
+411,Centaur Bridge,Turmish,Wretched,6.0
+412,Daroush,Turmish,Aristocratic,1.0
+412,Daroush,Turmish,Wealthy,147.0
+412,Daroush,Turmish,Comfortable,588.0
+412,Daroush,Turmish,Modest,1834.0
+412,Daroush,Turmish,Poor,2531.0
+412,Daroush,Turmish,Squalid,2271.0
+412,Daroush,Turmish,Wretched,387.0
+413,Dauntshield,Turmish,Aristocratic,0.0
+413,Dauntshield,Turmish,Wealthy,1.0
+413,Dauntshield,Turmish,Comfortable,19.0
+413,Dauntshield,Turmish,Modest,69.0
+413,Dauntshield,Turmish,Poor,135.0
+413,Dauntshield,Turmish,Squalid,127.0
+413,Dauntshield,Turmish,Wretched,4.0
+414,Faerie Well,Turmish,Aristocratic,0.0
+414,Faerie Well,Turmish,Wealthy,6.0
+414,Faerie Well,Turmish,Comfortable,53.0
+414,Faerie Well,Turmish,Modest,68.0
+414,Faerie Well,Turmish,Poor,260.0
+414,Faerie Well,Turmish,Squalid,184.0
+414,Faerie Well,Turmish,Wretched,14.0
+415,Five Lions,Turmish,Aristocratic,0.0
+415,Five Lions,Turmish,Wealthy,79.0
+415,Five Lions,Turmish,Comfortable,321.0
+415,Five Lions,Turmish,Modest,976.0
+415,Five Lions,Turmish,Poor,1537.0
+415,Five Lions,Turmish,Squalid,905.0
+415,Five Lions,Turmish,Wretched,158.0
+416,Gildenglade,Turmish,Aristocratic,1.0
+416,Gildenglade,Turmish,Wealthy,60.0
+416,Gildenglade,Turmish,Comfortable,301.0
+416,Gildenglade,Turmish,Modest,645.0
+416,Gildenglade,Turmish,Poor,1494.0
+416,Gildenglade,Turmish,Squalid,1320.0
+416,Gildenglade,Turmish,Wretched,222.0
+417,Holdensword,Turmish,Aristocratic,59.0
+417,Holdensword,Turmish,Wealthy,634.0
+417,Holdensword,Turmish,Comfortable,1975.0
+417,Holdensword,Turmish,Modest,2701.0
+417,Holdensword,Turmish,Poor,7024.0
+417,Holdensword,Turmish,Squalid,8211.0
+417,Holdensword,Turmish,Wretched,1334.0
+418,Illowwood,Turmish,Aristocratic,0.0
+418,Illowwood,Turmish,Wealthy,3.0
+418,Illowwood,Turmish,Comfortable,29.0
+418,Illowwood,Turmish,Modest,91.0
+418,Illowwood,Turmish,Poor,146.0
+418,Illowwood,Turmish,Squalid,92.0
+418,Illowwood,Turmish,Wretched,9.0
+419,Ironcloak,Turmish,Aristocratic,2.0
+419,Ironcloak,Turmish,Wealthy,84.0
+419,Ironcloak,Turmish,Comfortable,309.0
+419,Ironcloak,Turmish,Modest,671.0
+419,Ironcloak,Turmish,Poor,1569.0
+419,Ironcloak,Turmish,Squalid,1115.0
+419,Ironcloak,Turmish,Wretched,184.0
+420,Ironfang Deep,Turmish,Aristocratic,4.0
+420,Ironfang Deep,Turmish,Wealthy,124.0
+420,Ironfang Deep,Turmish,Comfortable,676.0
+420,Ironfang Deep,Turmish,Modest,1025.0
+420,Ironfang Deep,Turmish,Poor,3121.0
+420,Ironfang Deep,Turmish,Squalid,1634.0
+420,Ironfang Deep,Turmish,Wretched,489.0
+421,Jathrin’s Jump,Turmish,Aristocratic,0.0
+421,Jathrin’s Jump,Turmish,Wealthy,2.0
+421,Jathrin’s Jump,Turmish,Comfortable,27.0
+421,Jathrin’s Jump,Turmish,Modest,56.0
+421,Jathrin’s Jump,Turmish,Poor,168.0
+421,Jathrin’s Jump,Turmish,Squalid,118.0
+421,Jathrin’s Jump,Turmish,Wretched,9.0
+422,Karthoon,Turmish,Aristocratic,110.0
+422,Karthoon,Turmish,Wealthy,685.0
+422,Karthoon,Turmish,Comfortable,2333.0
+422,Karthoon,Turmish,Modest,4051.0
+422,Karthoon,Turmish,Poor,10405.0
+422,Karthoon,Turmish,Squalid,8241.0
+422,Karthoon,Turmish,Wretched,2098.0
+423,Merrydell,Turmish,Aristocratic,1.0
+423,Merrydell,Turmish,Wealthy,133.0
+423,Merrydell,Turmish,Comfortable,579.0
+423,Merrydell,Turmish,Modest,1833.0
+423,Merrydell,Turmish,Poor,2820.0
+423,Merrydell,Turmish,Squalid,2260.0
+423,Merrydell,Turmish,Wretched,328.0
+424,Moonhunt Down,Turmish,Aristocratic,1.0
+424,Moonhunt Down,Turmish,Wealthy,31.0
+424,Moonhunt Down,Turmish,Comfortable,168.0
+424,Moonhunt Down,Turmish,Modest,299.0
+424,Moonhunt Down,Turmish,Poor,934.0
+424,Moonhunt Down,Turmish,Squalid,799.0
+424,Moonhunt Down,Turmish,Wretched,111.0
+425,Morningstar Hollows,Turmish,Aristocratic,55.0
+425,Morningstar Hollows,Turmish,Wealthy,355.0
+425,Morningstar Hollows,Turmish,Comfortable,2268.0
+425,Morningstar Hollows,Turmish,Modest,2754.0
+425,Morningstar Hollows,Turmish,Poor,5800.0
+425,Morningstar Hollows,Turmish,Squalid,4300.0
+425,Morningstar Hollows,Turmish,Wretched,1817.0
+426,Nonthal,Turmish,Aristocratic,55.0
+426,Nonthal,Turmish,Wealthy,258.0
+426,Nonthal,Turmish,Comfortable,995.0
+426,Nonthal,Turmish,Modest,2655.0
+426,Nonthal,Turmish,Poor,4409.0
+426,Nonthal,Turmish,Squalid,2827.0
+426,Nonthal,Turmish,Wretched,1183.0
+427,Peldrathan’s Pool,Turmish,Aristocratic,0.0
+427,Peldrathan’s Pool,Turmish,Wealthy,1.0
+427,Peldrathan’s Pool,Turmish,Comfortable,47.0
+427,Peldrathan’s Pool,Turmish,Modest,174.0
+427,Peldrathan’s Pool,Turmish,Poor,327.0
+427,Peldrathan’s Pool,Turmish,Squalid,208.0
+427,Peldrathan’s Pool,Turmish,Wretched,11.0
+428,Oberiner’s Well,Turmish,Aristocratic,1.0
+428,Oberiner’s Well,Turmish,Wealthy,89.0
+428,Oberiner’s Well,Turmish,Comfortable,442.0
+428,Oberiner’s Well,Turmish,Modest,946.0
+428,Oberiner’s Well,Turmish,Poor,2187.0
+428,Oberiner’s Well,Turmish,Squalid,1250.0
+428,Oberiner’s Well,Turmish,Wretched,239.0
+429,Quorngar,Turmish,Aristocratic,0.0
+429,Quorngar,Turmish,Wealthy,1.0
+429,Quorngar,Turmish,Comfortable,19.0
+429,Quorngar,Turmish,Modest,56.0
+429,Quorngar,Turmish,Poor,127.0
+429,Quorngar,Turmish,Squalid,56.0
+429,Quorngar,Turmish,Wretched,5.0
+430,Ravilar’s Cloak,Turmish,Aristocratic,0.0
+430,Ravilar’s Cloak,Turmish,Wealthy,5.0
+430,Ravilar’s Cloak,Turmish,Comfortable,40.0
+430,Ravilar’s Cloak,Turmish,Modest,61.0
+430,Ravilar’s Cloak,Turmish,Poor,250.0
+430,Ravilar’s Cloak,Turmish,Squalid,133.0
+430,Ravilar’s Cloak,Turmish,Wretched,8.0
+431,Regalia,Turmish,Aristocratic,0.0
+431,Regalia,Turmish,Wealthy,0.0
+431,Regalia,Turmish,Comfortable,37.0
+431,Regalia,Turmish,Modest,50.0
+431,Regalia,Turmish,Poor,230.0
+431,Regalia,Turmish,Squalid,181.0
+431,Regalia,Turmish,Wretched,13.0
+432,Sambryntyn,Turmish,Aristocratic,0.0
+432,Sambryntyn,Turmish,Wealthy,93.0
+432,Sambryntyn,Turmish,Comfortable,365.0
+432,Sambryntyn,Turmish,Modest,1212.0
+432,Sambryntyn,Turmish,Poor,1622.0
+432,Sambryntyn,Turmish,Squalid,1291.0
+432,Sambryntyn,Turmish,Wretched,247.0
+433,Starfall,Turmish,Aristocratic,1.0
+433,Starfall,Turmish,Wealthy,77.0
+433,Starfall,Turmish,Comfortable,380.0
+433,Starfall,Turmish,Modest,771.0
+433,Starfall,Turmish,Poor,1519.0
+433,Starfall,Turmish,Squalid,1282.0
+433,Starfall,Turmish,Wretched,337.0
+434,Swordslake Creek,Turmish,Aristocratic,0.0
+434,Swordslake Creek,Turmish,Wealthy,7.0
+434,Swordslake Creek,Turmish,Comfortable,52.0
+434,Swordslake Creek,Turmish,Modest,85.0
+434,Swordslake Creek,Turmish,Poor,233.0
+434,Swordslake Creek,Turmish,Squalid,131.0
+434,Swordslake Creek,Turmish,Wretched,15.0
+435,Tamring,Turmish,Aristocratic,2.0
+435,Tamring,Turmish,Wealthy,109.0
+435,Tamring,Turmish,Comfortable,534.0
+435,Tamring,Turmish,Modest,1301.0
+435,Tamring,Turmish,Poor,2045.0
+435,Tamring,Turmish,Squalid,1787.0
+435,Tamring,Turmish,Wretched,342.0
+436,Ulver’s Lance,Turmish,Aristocratic,4.0
+436,Ulver’s Lance,Turmish,Wealthy,179.0
+436,Ulver’s Lance,Turmish,Comfortable,605.0
+436,Ulver’s Lance,Turmish,Modest,1157.0
+436,Ulver’s Lance,Turmish,Poor,3306.0
+436,Ulver’s Lance,Turmish,Squalid,2255.0
+436,Ulver’s Lance,Turmish,Wretched,418.0
+437,Velorn’s Valor,Turmish,Aristocratic,0.0
+437,Velorn’s Valor,Turmish,Wealthy,1.0
+437,Velorn’s Valor,Turmish,Comfortable,21.0
+437,Velorn’s Valor,Turmish,Modest,43.0
+437,Velorn’s Valor,Turmish,Poor,160.0
+437,Velorn’s Valor,Turmish,Squalid,89.0
+437,Velorn’s Valor,Turmish,Wretched,6.0
+438,Vollermore,Turmish,Aristocratic,0.0
+438,Vollermore,Turmish,Wealthy,3.0
+438,Vollermore,Turmish,Comfortable,28.0
+438,Vollermore,Turmish,Modest,68.0
+438,Vollermore,Turmish,Poor,152.0
+438,Vollermore,Turmish,Squalid,140.0
+438,Vollermore,Turmish,Wretched,7.0
+439,Wyvernstone,Turmish,Aristocratic,2.0
+439,Wyvernstone,Turmish,Wealthy,50.0
+439,Wyvernstone,Turmish,Comfortable,360.0
+439,Wyvernstone,Turmish,Modest,1029.0
+439,Wyvernstone,Turmish,Poor,1625.0
+439,Wyvernstone,Turmish,Squalid,1250.0
+439,Wyvernstone,Turmish,Wretched,349.0
+440,Xorhun,Turmish,Aristocratic,0.0
+440,Xorhun,Turmish,Wealthy,112.0
+440,Xorhun,Turmish,Comfortable,641.0
+440,Xorhun,Turmish,Modest,1642.0
+440,Xorhun,Turmish,Poor,2500.0
+440,Xorhun,Turmish,Squalid,2041.0
+440,Xorhun,Turmish,Wretched,303.0
+441,Zustild,Turmish,Aristocratic,2.0
+441,Zustild,Turmish,Wealthy,64.0
+441,Zustild,Turmish,Comfortable,376.0
+441,Zustild,Turmish,Modest,709.0
+441,Zustild,Turmish,Poor,1537.0
+441,Zustild,Turmish,Squalid,1445.0
+441,Zustild,Turmish,Wretched,149.0
+442,Unthalass,Unther,Aristocratic,881.0
+442,Unthalass,Unther,Wealthy,3834.0
+442,Unthalass,Unther,Comfortable,20724.0
+442,Unthalass,Unther,Modest,44919.0
+442,Unthalass,Unther,Poor,49071.0
+442,Unthalass,Unther,Squalid,58440.0
+442,Unthalass,Unther,Wretched,12978.0
+443,Dalath,Unther,Aristocratic,0.0
+443,Dalath,Unther,Wealthy,95.0
+443,Dalath,Unther,Comfortable,464.0
+443,Dalath,Unther,Modest,1277.0
+443,Dalath,Unther,Poor,2150.0
+443,Dalath,Unther,Squalid,1671.0
+443,Dalath,Unther,Wretched,364.0
+444,Firetrees,Unther,Aristocratic,3.0
+444,Firetrees,Unther,Wealthy,91.0
+444,Firetrees,Unther,Comfortable,492.0
+444,Firetrees,Unther,Modest,755.0
+444,Firetrees,Unther,Poor,2392.0
+444,Firetrees,Unther,Squalid,1729.0
+444,Firetrees,Unther,Wretched,380.0
+445,Kaoll,Unther,Aristocratic,12.0
+445,Kaoll,Unther,Wealthy,485.0
+445,Kaoll,Unther,Comfortable,2375.0
+445,Kaoll,Unther,Modest,3391.0
+445,Kaoll,Unther,Poor,6419.0
+445,Kaoll,Unther,Squalid,6254.0
+445,Kaoll,Unther,Wretched,1700.0
+446,Messemprar,Unther,Aristocratic,37.0
+446,Messemprar,Unther,Wealthy,383.0
+446,Messemprar,Unther,Comfortable,1127.0
+446,Messemprar,Unther,Modest,2137.0
+446,Messemprar,Unther,Poor,4937.0
+446,Messemprar,Unther,Squalid,5470.0
+446,Messemprar,Unther,Wretched,1537.0
+447,Red Haven,Unther,Aristocratic,0.0
+447,Red Haven,Unther,Wealthy,25.0
+447,Red Haven,Unther,Comfortable,123.0
+447,Red Haven,Unther,Modest,308.0
+447,Red Haven,Unther,Poor,514.0
+447,Red Haven,Unther,Squalid,325.0
+447,Red Haven,Unther,Wretched,72.0
+448,Sadamzar,Unther,Aristocratic,3.0
+448,Sadamzar,Unther,Wealthy,135.0
+448,Sadamzar,Unther,Comfortable,588.0
+448,Sadamzar,Unther,Modest,1766.0
+448,Sadamzar,Unther,Poor,3020.0
+448,Sadamzar,Unther,Squalid,2295.0
+448,Sadamzar,Unther,Wretched,562.0
+449,Shussel,Unther,Aristocratic,0.0
+449,Shussel,Unther,Wealthy,96.0
+449,Shussel,Unther,Comfortable,602.0
+449,Shussel,Unther,Modest,2164.0
+449,Shussel,Unther,Poor,2984.0
+449,Shussel,Unther,Squalid,2385.0
+449,Shussel,Unther,Wretched,689.0
+450,Ssintar,Unther,Aristocratic,0.0
+450,Ssintar,Unther,Wealthy,76.0
+450,Ssintar,Unther,Comfortable,279.0
+450,Ssintar,Unther,Modest,737.0
+450,Ssintar,Unther,Poor,1317.0
+450,Ssintar,Unther,Squalid,693.0
+450,Ssintar,Unther,Wretched,216.0
+451,Waterdeep,The Sword Coast,Aristocratic,790.0
+451,Waterdeep,The Sword Coast,Wealthy,37563.0
+451,Waterdeep,The Sword Coast,Comfortable,137556.0
+451,Waterdeep,The Sword Coast,Modest,378697.0
+451,Waterdeep,The Sword Coast,Poor,458117.0
+451,Waterdeep,The Sword Coast,Squalid,554590.0
+451,Waterdeep,The Sword Coast,Wretched,115100.0
+452,Amphail,The Sword Coast,Aristocratic,0.0
+452,Amphail,The Sword Coast,Wealthy,4.0
+452,Amphail,The Sword Coast,Comfortable,34.0
+452,Amphail,The Sword Coast,Modest,87.0
+452,Amphail,The Sword Coast,Poor,231.0
+452,Amphail,The Sword Coast,Squalid,184.0
+452,Amphail,The Sword Coast,Wretched,13.0
+453,Rassalantar,The Sword Coast,Aristocratic,0.0
+453,Rassalantar,The Sword Coast,Wealthy,0.0
+453,Rassalantar,The Sword Coast,Comfortable,12.0
+453,Rassalantar,The Sword Coast,Modest,13.0
+453,Rassalantar,The Sword Coast,Poor,57.0
+453,Rassalantar,The Sword Coast,Squalid,43.0
+453,Rassalantar,The Sword Coast,Wretched,3.0
+454,Tharqualnaar,The Sword Coast,Aristocratic,0.0
+454,Tharqualnaar,The Sword Coast,Wealthy,0.0
+454,Tharqualnaar,The Sword Coast,Comfortable,35.0
+454,Tharqualnaar,The Sword Coast,Modest,56.0
+454,Tharqualnaar,The Sword Coast,Poor,166.0
+454,Tharqualnaar,The Sword Coast,Squalid,93.0
+454,Tharqualnaar,The Sword Coast,Wretched,10.0
+455,T’Quession,The Sword Coast,Aristocratic,0.0
+455,T’Quession,The Sword Coast,Wealthy,1.0
+455,T’Quession,The Sword Coast,Comfortable,12.0
+455,T’Quession,The Sword Coast,Modest,39.0
+455,T’Quession,The Sword Coast,Poor,74.0
+455,T’Quession,The Sword Coast,Squalid,48.0
+455,T’Quession,The Sword Coast,Wretched,3.0
+456,Neverwinter,The Sword Coast,Aristocratic,114.0
+456,Neverwinter,The Sword Coast,Wealthy,622.0
+456,Neverwinter,The Sword Coast,Comfortable,3728.0
+456,Neverwinter,The Sword Coast,Modest,3523.0
+456,Neverwinter,The Sword Coast,Poor,9165.0
+456,Neverwinter,The Sword Coast,Squalid,7516.0
+456,Neverwinter,The Sword Coast,Wretched,2319.0
+457,Baldur's Gate,The Sword Coast,Aristocratic,52.0
+457,Baldur's Gate,The Sword Coast,Wealthy,2761.0
+457,Baldur's Gate,The Sword Coast,Comfortable,17142.0
+457,Baldur's Gate,The Sword Coast,Modest,26985.0
+457,Baldur's Gate,The Sword Coast,Poor,41568.0
+457,Baldur's Gate,The Sword Coast,Squalid,49433.0
+457,Baldur's Gate,The Sword Coast,Wretched,10642.0
+458,Phandalin,The Sword Coast,Aristocratic,0.0
+458,Phandalin,The Sword Coast,Wealthy,0.0
+458,Phandalin,The Sword Coast,Comfortable,7.0
+458,Phandalin,The Sword Coast,Modest,27.0
+458,Phandalin,The Sword Coast,Poor,46.0
+458,Phandalin,The Sword Coast,Squalid,33.0
+458,Phandalin,The Sword Coast,Wretched,2.0
+459,Daggerford,The Sword Coast,Aristocratic,0.0
+459,Daggerford,The Sword Coast,Wealthy,21.0
+459,Daggerford,The Sword Coast,Comfortable,83.0
+459,Daggerford,The Sword Coast,Modest,189.0
+459,Daggerford,The Sword Coast,Poor,398.0
+459,Daggerford,The Sword Coast,Squalid,334.0
+459,Daggerford,The Sword Coast,Wretched,85.0
+460,Mirabar,The Sword Coast,Aristocratic,151.0
+460,Mirabar,The Sword Coast,Wealthy,1019.0
+460,Mirabar,The Sword Coast,Comfortable,4319.0
+460,Mirabar,The Sword Coast,Modest,4649.0
+460,Mirabar,The Sword Coast,Poor,13014.0
+460,Mirabar,The Sword Coast,Squalid,16906.0
+460,Mirabar,The Sword Coast,Wretched,3394.0
+461,Secomber,The Sword Coast,Aristocratic,0.0
+461,Secomber,The Sword Coast,Wealthy,7.0
+461,Secomber,The Sword Coast,Comfortable,53.0
+461,Secomber,The Sword Coast,Modest,121.0
+461,Secomber,The Sword Coast,Poor,279.0
+461,Secomber,The Sword Coast,Squalid,204.0
+461,Secomber,The Sword Coast,Wretched,12.0
+462,Longsaddle,The Sword Coast,Aristocratic,0.0
+462,Longsaddle,The Sword Coast,Wealthy,0.0
+462,Longsaddle,The Sword Coast,Comfortable,5.0
+462,Longsaddle,The Sword Coast,Modest,16.0
+462,Longsaddle,The Sword Coast,Poor,30.0
+462,Longsaddle,The Sword Coast,Squalid,18.0
+462,Longsaddle,The Sword Coast,Wretched,0.0
+463,Zundbridge,The Sword Coast,Aristocratic,0.0
+463,Zundbridge,The Sword Coast,Wealthy,1.0
+463,Zundbridge,The Sword Coast,Comfortable,14.0
+463,Zundbridge,The Sword Coast,Modest,42.0
+463,Zundbridge,The Sword Coast,Poor,72.0
+463,Zundbridge,The Sword Coast,Squalid,46.0
+463,Zundbridge,The Sword Coast,Wretched,2.0
+464,Velprintalar,Aglarond,Aristocratic,207.0
+464,Velprintalar,Aglarond,Wealthy,981.0
+464,Velprintalar,Aglarond,Comfortable,5553.0
+464,Velprintalar,Aglarond,Modest,10976.0
+464,Velprintalar,Aglarond,Poor,20437.0
+464,Velprintalar,Aglarond,Squalid,25503.0
+464,Velprintalar,Aglarond,Wretched,4881.0
+465,Corth,Aglarond,Aristocratic,0.0
+465,Corth,Aglarond,Wealthy,4.0
+465,Corth,Aglarond,Comfortable,27.0
+465,Corth,Aglarond,Modest,64.0
+465,Corth,Aglarond,Poor,150.0
+465,Corth,Aglarond,Squalid,137.0
+465,Corth,Aglarond,Wretched,5.0
+466,Dahst,Aglarond,Aristocratic,0.0
+466,Dahst,Aglarond,Wealthy,1.0
+466,Dahst,Aglarond,Comfortable,14.0
+466,Dahst,Aglarond,Modest,25.0
+466,Dahst,Aglarond,Poor,92.0
+466,Dahst,Aglarond,Squalid,81.0
+466,Dahst,Aglarond,Wretched,3.0
+467,Dlusk,Aglarond,Aristocratic,0.0
+467,Dlusk,Aglarond,Wealthy,7.0
+467,Dlusk,Aglarond,Comfortable,48.0
+467,Dlusk,Aglarond,Modest,68.0
+467,Dlusk,Aglarond,Poor,289.0
+467,Dlusk,Aglarond,Squalid,164.0
+467,Dlusk,Aglarond,Wretched,10.0
+468,Emmech,Aglarond,Aristocratic,0.0
+468,Emmech,Aglarond,Wealthy,100.0
+468,Emmech,Aglarond,Comfortable,528.0
+468,Emmech,Aglarond,Modest,1607.0
+468,Emmech,Aglarond,Poor,2490.0
+468,Emmech,Aglarond,Squalid,1348.0
+468,Emmech,Aglarond,Wretched,233.0
+469,Findar,Aglarond,Aristocratic,0.0
+469,Findar,Aglarond,Wealthy,1.0
+469,Findar,Aglarond,Comfortable,14.0
+469,Findar,Aglarond,Modest,41.0
+469,Findar,Aglarond,Poor,88.0
+469,Findar,Aglarond,Squalid,83.0
+469,Findar,Aglarond,Wretched,3.0
+470,Furthinghome,Aglarond,Aristocratic,97.0
+470,Furthinghome,Aglarond,Wealthy,736.0
+470,Furthinghome,Aglarond,Comfortable,5003.0
+470,Furthinghome,Aglarond,Modest,6378.0
+470,Furthinghome,Aglarond,Poor,12440.0
+470,Furthinghome,Aglarond,Squalid,11270.0
+470,Furthinghome,Aglarond,Wretched,3902.0
+471,Glarondar,Aglarond,Aristocratic,2.0
+471,Glarondar,Aglarond,Wealthy,85.0
+471,Glarondar,Aglarond,Comfortable,345.0
+471,Glarondar,Aglarond,Modest,724.0
+471,Glarondar,Aglarond,Poor,1694.0
+471,Glarondar,Aglarond,Squalid,1659.0
+471,Glarondar,Aglarond,Wretched,336.0
+472,Halendos,Aglarond,Aristocratic,0.0
+472,Halendos,Aglarond,Wealthy,0.0
+472,Halendos,Aglarond,Comfortable,12.0
+472,Halendos,Aglarond,Modest,16.0
+472,Halendos,Aglarond,Poor,63.0
+472,Halendos,Aglarond,Squalid,33.0
+472,Halendos,Aglarond,Wretched,3.0
+473,Ingdal’s Arm,Aglarond,Aristocratic,0.0
+473,Ingdal’s Arm,Aglarond,Wealthy,8.0
+473,Ingdal’s Arm,Aglarond,Comfortable,56.0
+473,Ingdal’s Arm,Aglarond,Modest,111.0
+473,Ingdal’s Arm,Aglarond,Poor,302.0
+473,Ingdal’s Arm,Aglarond,Squalid,279.0
+473,Ingdal’s Arm,Aglarond,Wretched,13.0
+474,Mesring,Aglarond,Aristocratic,0.0
+474,Mesring,Aglarond,Wealthy,0.0
+474,Mesring,Aglarond,Comfortable,6.0
+474,Mesring,Aglarond,Modest,15.0
+474,Mesring,Aglarond,Poor,32.0
+474,Mesring,Aglarond,Squalid,10.0
+474,Mesring,Aglarond,Wretched,0.0
+475,Orithar,Aglarond,Aristocratic,0.0
+475,Orithar,Aglarond,Wealthy,2.0
+475,Orithar,Aglarond,Comfortable,27.0
+475,Orithar,Aglarond,Modest,78.0
+475,Orithar,Aglarond,Poor,162.0
+475,Orithar,Aglarond,Squalid,149.0
+475,Orithar,Aglarond,Wretched,5.0
+476,Osker,Aglarond,Aristocratic,0.0
+476,Osker,Aglarond,Wealthy,5.0
+476,Osker,Aglarond,Comfortable,37.0
+476,Osker,Aglarond,Modest,98.0
+476,Osker,Aglarond,Poor,238.0
+476,Osker,Aglarond,Squalid,108.0
+476,Osker,Aglarond,Wretched,7.0
+477,Relkath’s Foot,Aglarond,Aristocratic,0.0
+477,Relkath’s Foot,Aglarond,Wealthy,94.0
+477,Relkath’s Foot,Aglarond,Comfortable,413.0
+477,Relkath’s Foot,Aglarond,Modest,768.0
+477,Relkath’s Foot,Aglarond,Poor,1741.0
+477,Relkath’s Foot,Aglarond,Squalid,1288.0
+477,Relkath’s Foot,Aglarond,Wretched,272.0
+478,Thayguard,Aglarond,Aristocratic,1.0
+478,Thayguard,Aglarond,Wealthy,80.0
+478,Thayguard,Aglarond,Comfortable,364.0
+478,Thayguard,Aglarond,Modest,1118.0
+478,Thayguard,Aglarond,Poor,1635.0
+478,Thayguard,Aglarond,Squalid,1124.0
+478,Thayguard,Aglarond,Wretched,249.0
+479,Urst,Aglarond,Aristocratic,0.0
+479,Urst,Aglarond,Wealthy,6.0
+479,Urst,Aglarond,Comfortable,45.0
+479,Urst,Aglarond,Modest,153.0
+479,Urst,Aglarond,Poor,294.0
+479,Urst,Aglarond,Squalid,190.0
+479,Urst,Aglarond,Wretched,12.0
+480,Urve,Aglarond,Aristocratic,0.0
+480,Urve,Aglarond,Wealthy,2.0
+480,Urve,Aglarond,Comfortable,30.0
+480,Urve,Aglarond,Modest,41.0
+480,Urve,Aglarond,Poor,165.0
+480,Urve,Aglarond,Squalid,93.0
+480,Urve,Aglarond,Wretched,6.0
+481,Evermeet,Evereska,Aristocratic,0.0
+481,Evermeet,Evereska,Wealthy,1.0
+481,Evermeet,Evereska,Comfortable,5.0
+481,Evermeet,Evereska,Modest,12.0
+481,Evermeet,Evereska,Poor,37.0
+481,Evermeet,Evereska,Squalid,28.0
+481,Evermeet,Evereska,Wretched,2.0
+482,Greyhome,Evereska,Aristocratic,0.0
+482,Greyhome,Evereska,Wealthy,1.0
+482,Greyhome,Evereska,Comfortable,24.0
+482,Greyhome,Evereska,Modest,78.0
+482,Greyhome,Evereska,Poor,173.0
+482,Greyhome,Evereska,Squalid,89.0
+482,Greyhome,Evereska,Wretched,7.0
+483,Greyshield,Evereska,Aristocratic,1.0
+483,Greyshield,Evereska,Wealthy,69.0
+483,Greyshield,Evereska,Comfortable,420.0
+483,Greyshield,Evereska,Modest,858.0
+483,Greyshield,Evereska,Poor,1824.0
+483,Greyshield,Evereska,Squalid,1555.0
+483,Greyshield,Evereska,Wretched,381.0
+484,Leuthilspar,Evermeet,Aristocratic,103.0
+484,Leuthilspar,Evermeet,Wealthy,681.0
+484,Leuthilspar,Evermeet,Comfortable,4912.0
+484,Leuthilspar,Evermeet,Modest,9397.0
+484,Leuthilspar,Evermeet,Poor,14612.0
+484,Leuthilspar,Evermeet,Squalid,17037.0
+484,Leuthilspar,Evermeet,Wretched,2538.0
+485,Drelagara,Evermeet,Aristocratic,1.0
+485,Drelagara,Evermeet,Wealthy,48.0
+485,Drelagara,Evermeet,Comfortable,235.0
+485,Drelagara,Evermeet,Modest,479.0
+485,Drelagara,Evermeet,Poor,1013.0
+485,Drelagara,Evermeet,Squalid,670.0
+485,Drelagara,Evermeet,Wretched,181.0
+486,Elion,Evermeet,Aristocratic,0.0
+486,Elion,Evermeet,Wealthy,20.0
+486,Elion,Evermeet,Comfortable,100.0
+486,Elion,Evermeet,Modest,316.0
+486,Elion,Evermeet,Poor,496.0
+486,Elion,Evermeet,Squalid,395.0
+486,Elion,Evermeet,Wretched,94.0
+487,Erial,Evermeet,Aristocratic,0.0
+487,Erial,Evermeet,Wealthy,84.0
+487,Erial,Evermeet,Comfortable,394.0
+487,Erial,Evermeet,Modest,567.0
+487,Erial,Evermeet,Poor,1527.0
+487,Erial,Evermeet,Squalid,1361.0
+487,Erial,Evermeet,Wretched,341.0
+488,Iumathiashae,Evermeet,Aristocratic,1.0
+488,Iumathiashae,Evermeet,Wealthy,79.0
+488,Iumathiashae,Evermeet,Comfortable,344.0
+488,Iumathiashae,Evermeet,Modest,474.0
+488,Iumathiashae,Evermeet,Poor,1419.0
+488,Iumathiashae,Evermeet,Squalid,1323.0
+488,Iumathiashae,Evermeet,Wretched,236.0
+489,Nimlith,Evermeet,Aristocratic,0.0
+489,Nimlith,Evermeet,Wealthy,12.0
+489,Nimlith,Evermeet,Comfortable,64.0
+489,Nimlith,Evermeet,Modest,230.0
+489,Nimlith,Evermeet,Poor,321.0
+489,Nimlith,Evermeet,Squalid,226.0
+489,Nimlith,Evermeet,Wretched,74.0
+490,Ruith,Evermeet,Aristocratic,37.0
+490,Ruith,Evermeet,Wealthy,185.0
+490,Ruith,Evermeet,Comfortable,1286.0
+490,Ruith,Evermeet,Modest,1382.0
+490,Ruith,Evermeet,Poor,3324.0
+490,Ruith,Evermeet,Squalid,3037.0
+490,Ruith,Evermeet,Wretched,720.0
+491,Sumbrar,Evermeet,Aristocratic,0.0
+491,Sumbrar,Evermeet,Wealthy,40.0
+491,Sumbrar,Evermeet,Comfortable,183.0
+491,Sumbrar,Evermeet,Modest,367.0
+491,Sumbrar,Evermeet,Poor,768.0
+491,Sumbrar,Evermeet,Squalid,507.0
+491,Sumbrar,Evermeet,Wretched,172.0
+492,Taltempla,Evermeet,Aristocratic,44.0
+492,Taltempla,Evermeet,Wealthy,296.0
+492,Taltempla,Evermeet,Comfortable,837.0
+492,Taltempla,Evermeet,Modest,1538.0
+492,Taltempla,Evermeet,Poor,3922.0
+492,Taltempla,Evermeet,Squalid,3040.0
+492,Taltempla,Evermeet,Wretched,1066.0
+493,Gundbarg,Gundarlun,Aristocratic,27.0
+493,Gundbarg,Gundarlun,Wealthy,321.0
+493,Gundbarg,Gundarlun,Comfortable,860.0
+493,Gundbarg,Gundarlun,Modest,2284.0
+493,Gundbarg,Gundarlun,Poor,4153.0
+493,Gundbarg,Gundarlun,Squalid,2452.0
+493,Gundbarg,Gundarlun,Wretched,929.0
+494,Ruathym,Ruathym,Aristocratic,0.0
+494,Ruathym,Ruathym,Wealthy,62.0
+494,Ruathym,Ruathym,Comfortable,319.0
+494,Ruathym,Ruathym,Modest,1185.0
+494,Ruathym,Ruathym,Poor,1607.0
+494,Ruathym,Ruathym,Squalid,1098.0
+494,Ruathym,Ruathym,Wretched,296.0
+495,Hastor,Ruathym,Aristocratic,0.0
+495,Hastor,Ruathym,Wealthy,25.0
+495,Hastor,Ruathym,Comfortable,178.0
+495,Hastor,Ruathym,Modest,357.0
+495,Hastor,Ruathym,Poor,722.0
+495,Hastor,Ruathym,Squalid,530.0
+495,Hastor,Ruathym,Wretched,115.0
+496,Holgerstead,Ruathym,Aristocratic,0.0
+496,Holgerstead,Ruathym,Wealthy,29.0
+496,Holgerstead,Ruathym,Comfortable,173.0
+496,Holgerstead,Ruathym,Modest,264.0
+496,Holgerstead,Ruathym,Poor,791.0
+496,Holgerstead,Ruathym,Squalid,607.0
+496,Holgerstead,Ruathym,Wretched,72.0
+497,Rethgaard,Ruathym,Aristocratic,0.0
+497,Rethgaard,Ruathym,Wealthy,41.0
+497,Rethgaard,Ruathym,Comfortable,156.0
+497,Rethgaard,Ruathym,Modest,469.0
+497,Rethgaard,Ruathym,Poor,760.0
+497,Rethgaard,Ruathym,Squalid,689.0
+497,Rethgaard,Ruathym,Wretched,90.0
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),Aristocratic,0.0
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),Wealthy,5.0
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),Comfortable,34.0
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),Modest,128.0
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),Poor,256.0
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),Squalid,203.0
+498,Ulf of Thuger,Trisk (Kingdom of the Purple Rocks),Wretched,11.0
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),Aristocratic,0.0
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),Wealthy,3.0
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),Comfortable,17.0
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),Modest,52.0
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),Poor,119.0
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),Squalid,64.0
+499,Vilkstead,Trisk (Kingdom of the Purple Rocks),Wretched,7.0
+500,Uttersea,Tuern,Aristocratic,0.0
+500,Uttersea,Tuern,Wealthy,30.0
+500,Uttersea,Tuern,Comfortable,144.0
+500,Uttersea,Tuern,Modest,295.0
+500,Uttersea,Tuern,Poor,665.0
+500,Uttersea,Tuern,Squalid,378.0
+500,Uttersea,Tuern,Wretched,149.0
+501,Throne Rock,Tuern,Aristocratic,0.0
+501,Throne Rock,Tuern,Wealthy,3.0
+501,Throne Rock,Tuern,Comfortable,31.0
+501,Throne Rock,Tuern,Modest,34.0
+501,Throne Rock,Tuern,Poor,160.0
+501,Throne Rock,Tuern,Squalid,121.0
+501,Throne Rock,Tuern,Wretched,6.0
+502,Hartwick,Hartsvale,Aristocratic,8.0
+502,Hartwick,Hartsvale,Wealthy,273.0
+502,Hartwick,Hartsvale,Comfortable,1247.0
+502,Hartwick,Hartsvale,Modest,1971.0
+502,Hartwick,Hartsvale,Poor,3310.0
+502,Hartwick,Hartsvale,Squalid,3481.0
+502,Hartwick,Hartsvale,Wretched,822.0
+503,Cuthbert Castle,Hartsvale,Aristocratic,0.0
+503,Cuthbert Castle,Hartsvale,Wealthy,0.0
+503,Cuthbert Castle,Hartsvale,Comfortable,24.0
+503,Cuthbert Castle,Hartsvale,Modest,55.0
+503,Cuthbert Castle,Hartsvale,Poor,150.0
+503,Cuthbert Castle,Hartsvale,Squalid,109.0
+503,Cuthbert Castle,Hartsvale,Wretched,5.0
+504,Stagwick,Hartsvale,Aristocratic,0.0
+504,Stagwick,Hartsvale,Wealthy,2.0
+504,Stagwick,Hartsvale,Comfortable,32.0
+504,Stagwick,Hartsvale,Modest,54.0
+504,Stagwick,Hartsvale,Poor,175.0
+504,Stagwick,Hartsvale,Squalid,153.0
+504,Stagwick,Hartsvale,Wretched,7.0
+505,Wendel Manor,Hartsvale,Aristocratic,0.0
+505,Wendel Manor,Hartsvale,Wealthy,0.0
+505,Wendel Manor,Hartsvale,Comfortable,8.0
+505,Wendel Manor,Hartsvale,Modest,14.0
+505,Wendel Manor,Hartsvale,Poor,32.0
+505,Wendel Manor,Hartsvale,Squalid,23.0
+505,Wendel Manor,Hartsvale,Wretched,0.0
+506,Windward Town,Hartsvale,Aristocratic,0.0
+506,Windward Town,Hartsvale,Wealthy,3.0
+506,Windward Town,Hartsvale,Comfortable,20.0
+506,Windward Town,Hartsvale,Modest,28.0
+506,Windward Town,Hartsvale,Poor,122.0
+506,Windward Town,Hartsvale,Squalid,108.0
+506,Windward Town,Hartsvale,Wretched,7.0
+507,Wynn Castle,Hartsvale,Aristocratic,0.0
+507,Wynn Castle,Hartsvale,Wealthy,0.0
+507,Wynn Castle,Hartsvale,Comfortable,9.0
+507,Wynn Castle,Hartsvale,Modest,11.0
+507,Wynn Castle,Hartsvale,Poor,45.0
+507,Wynn Castle,Hartsvale,Squalid,20.0
+507,Wynn Castle,Hartsvale,Wretched,1.0
+508,Sambar,Lantan,Aristocratic,0.0
+508,Sambar,Lantan,Wealthy,2.0
+508,Sambar,Lantan,Comfortable,47.0
+508,Sambar,Lantan,Modest,168.0
+508,Sambar,Lantan,Poor,306.0
+508,Sambar,Lantan,Squalid,180.0
+508,Sambar,Lantan,Wretched,16.0
+509,Anchoril,Lantan,Aristocratic,0.0
+509,Anchoril,Lantan,Wealthy,1.0
+509,Anchoril,Lantan,Comfortable,8.0
+509,Anchoril,Lantan,Modest,21.0
+509,Anchoril,Lantan,Poor,43.0
+509,Anchoril,Lantan,Squalid,21.0
+509,Anchoril,Lantan,Wretched,2.0
+510,Baelrah,Lantan,Aristocratic,0.0
+510,Baelrah,Lantan,Wealthy,0.0
+510,Baelrah,Lantan,Comfortable,6.0
+510,Baelrah,Lantan,Modest,20.0
+510,Baelrah,Lantan,Poor,39.0
+510,Baelrah,Lantan,Squalid,28.0
+510,Baelrah,Lantan,Wretched,2.0
+511,Darluj,Lantan,Aristocratic,0.0
+511,Darluj,Lantan,Wealthy,0.0
+511,Darluj,Lantan,Comfortable,7.0
+511,Darluj,Lantan,Modest,26.0
+511,Darluj,Lantan,Poor,47.0
+511,Darluj,Lantan,Squalid,34.0
+511,Darluj,Lantan,Wretched,2.0
+512,Dtakkar,Lantan,Aristocratic,0.0
+512,Dtakkar,Lantan,Wealthy,2.0
+512,Dtakkar,Lantan,Comfortable,19.0
+512,Dtakkar,Lantan,Modest,37.0
+512,Dtakkar,Lantan,Poor,110.0
+512,Dtakkar,Lantan,Squalid,52.0
+512,Dtakkar,Lantan,Wretched,6.0
+513,Illul,Lantan,Aristocratic,0.0
+513,Illul,Lantan,Wealthy,0.0
+513,Illul,Lantan,Comfortable,5.0
+513,Illul,Lantan,Modest,17.0
+513,Illul,Lantan,Poor,40.0
+513,Illul,Lantan,Squalid,33.0
+513,Illul,Lantan,Wretched,1.0
+514,Lethtar,Lantan,Aristocratic,0.0
+514,Lethtar,Lantan,Wealthy,1.0
+514,Lethtar,Lantan,Comfortable,5.0
+514,Lethtar,Lantan,Modest,22.0
+514,Lethtar,Lantan,Poor,42.0
+514,Lethtar,Lantan,Squalid,31.0
+514,Lethtar,Lantan,Wretched,1.0
+515,Sundrah,Lantan,Aristocratic,0.0
+515,Sundrah,Lantan,Wealthy,0.0
+515,Sundrah,Lantan,Comfortable,6.0
+515,Sundrah,Lantan,Modest,17.0
+515,Sundrah,Lantan,Poor,41.0
+515,Sundrah,Lantan,Squalid,26.0
+515,Sundrah,Lantan,Wretched,1.0
+516,Sujjar,Lantan,Aristocratic,0.0
+516,Sujjar,Lantan,Wealthy,0.0
+516,Sujjar,Lantan,Comfortable,7.0
+516,Sujjar,Lantan,Modest,22.0
+516,Sujjar,Lantan,Poor,41.0
+516,Sujjar,Lantan,Squalid,32.0
+516,Sujjar,Lantan,Wretched,1.0
+517,Tsan,Lantan,Aristocratic,0.0
+517,Tsan,Lantan,Wealthy,0.0
+517,Tsan,Lantan,Comfortable,6.0
+517,Tsan,Lantan,Modest,12.0
+517,Tsan,Lantan,Poor,38.0
+517,Tsan,Lantan,Squalid,32.0
+517,Tsan,Lantan,Wretched,1.0
+518,Sheirtalar,Lapaliiya,Aristocratic,189.0
+518,Sheirtalar,Lapaliiya,Wealthy,1059.0
+518,Sheirtalar,Lapaliiya,Comfortable,5686.0
+518,Sheirtalar,Lapaliiya,Modest,6073.0
+518,Sheirtalar,Lapaliiya,Poor,18002.0
+518,Sheirtalar,Lapaliiya,Squalid,15221.0
+518,Sheirtalar,Lapaliiya,Wretched,3343.0
+519,Abreon,Lapaliiya,Aristocratic,0.0
+519,Abreon,Lapaliiya,Wealthy,81.0
+519,Abreon,Lapaliiya,Comfortable,360.0
+519,Abreon,Lapaliiya,Modest,869.0
+519,Abreon,Lapaliiya,Poor,1492.0
+519,Abreon,Lapaliiya,Squalid,1308.0
+519,Abreon,Lapaliiya,Wretched,256.0
+520,Dungar,Lapaliiya,Aristocratic,0.0
+520,Dungar,Lapaliiya,Wealthy,4.0
+520,Dungar,Lapaliiya,Comfortable,50.0
+520,Dungar,Lapaliiya,Modest,108.0
+520,Dungar,Lapaliiya,Poor,297.0
+520,Dungar,Lapaliiya,Squalid,263.0
+520,Dungar,Lapaliiya,Wretched,11.0
+521,Ilyaport,Lapaliiya,Aristocratic,0.0
+521,Ilyaport,Lapaliiya,Wealthy,20.0
+521,Ilyaport,Lapaliiya,Comfortable,122.0
+521,Ilyaport,Lapaliiya,Modest,222.0
+521,Ilyaport,Lapaliiya,Poor,613.0
+521,Ilyaport,Lapaliiya,Squalid,542.0
+521,Ilyaport,Lapaliiya,Wretched,68.0
+522,Ithmong,Lapaliiya,Aristocratic,161.0
+522,Ithmong,Lapaliiya,Wealthy,679.0
+522,Ithmong,Lapaliiya,Comfortable,5260.0
+522,Ithmong,Lapaliiya,Modest,4783.0
+522,Ithmong,Lapaliiya,Poor,14821.0
+522,Ithmong,Lapaliiya,Squalid,11404.0
+522,Ithmong,Lapaliiya,Wretched,2890.0
+523,Lapalgard,Lapaliiya,Aristocratic,0.0
+523,Lapalgard,Lapaliiya,Wealthy,38.0
+523,Lapalgard,Lapaliiya,Comfortable,279.0
+523,Lapalgard,Lapaliiya,Modest,434.0
+523,Lapalgard,Lapaliiya,Poor,1232.0
+523,Lapalgard,Lapaliiya,Squalid,1002.0
+523,Lapalgard,Lapaliiya,Wretched,193.0
+524,Lhazantal,Lapaliiya,Aristocratic,0.0
+524,Lhazantal,Lapaliiya,Wealthy,8.0
+524,Lhazantal,Lapaliiya,Comfortable,36.0
+524,Lhazantal,Lapaliiya,Modest,140.0
+524,Lhazantal,Lapaliiya,Poor,305.0
+524,Lhazantal,Lapaliiya,Squalid,235.0
+524,Lhazantal,Lapaliiya,Wretched,9.0
+525,Lushpool,Lapaliiya,Aristocratic,78.0
+525,Lushpool,Lapaliiya,Wealthy,256.0
+525,Lushpool,Lapaliiya,Comfortable,1458.0
+525,Lushpool,Lapaliiya,Modest,3235.0
+525,Lushpool,Lapaliiya,Poor,5435.0
+525,Lushpool,Lapaliiya,Squalid,6664.0
+525,Lushpool,Lapaliiya,Wretched,1293.0
+526,Malaxer,Lapaliiya,Aristocratic,0.0
+526,Malaxer,Lapaliiya,Wealthy,3.0
+526,Malaxer,Lapaliiya,Comfortable,22.0
+526,Malaxer,Lapaliiya,Modest,51.0
+526,Malaxer,Lapaliiya,Poor,129.0
+526,Malaxer,Lapaliiya,Squalid,82.0
+526,Malaxer,Lapaliiya,Wretched,7.0
+527,Mierskar,Lapaliiya,Aristocratic,0.0
+527,Mierskar,Lapaliiya,Wealthy,1.0
+527,Mierskar,Lapaliiya,Comfortable,9.0
+527,Mierskar,Lapaliiya,Modest,12.0
+527,Mierskar,Lapaliiya,Poor,55.0
+527,Mierskar,Lapaliiya,Squalid,48.0
+527,Mierskar,Lapaliiya,Wretched,3.0
+528,Ormpur,Lapaliiya,Aristocratic,88.0
+528,Ormpur,Lapaliiya,Wealthy,695.0
+528,Ormpur,Lapaliiya,Comfortable,1992.0
+528,Ormpur,Lapaliiya,Modest,3071.0
+528,Ormpur,Lapaliiya,Poor,8131.0
+528,Ormpur,Lapaliiya,Squalid,6302.0
+528,Ormpur,Lapaliiya,Wretched,1302.0
+529,Sammaresh,Lapaliiya,Aristocratic,7.0
+529,Sammaresh,Lapaliiya,Wealthy,549.0
+529,Sammaresh,Lapaliiya,Comfortable,2392.0
+529,Sammaresh,Lapaliiya,Modest,4084.0
+529,Sammaresh,Lapaliiya,Poor,6852.0
+529,Sammaresh,Lapaliiya,Squalid,5172.0
+529,Sammaresh,Lapaliiya,Wretched,1497.0
+530,Sheirlantar,Lapaliiya,Aristocratic,0.0
+530,Sheirlantar,Lapaliiya,Wealthy,0.0
+530,Sheirlantar,Lapaliiya,Comfortable,5.0
+530,Sheirlantar,Lapaliiya,Modest,9.0
+530,Sheirlantar,Lapaliiya,Poor,23.0
+530,Sheirlantar,Lapaliiya,Squalid,16.0
+530,Sheirlantar,Lapaliiya,Wretched,0.0
+531,Uzurr,Lapaliiya,Aristocratic,0.0
+531,Uzurr,Lapaliiya,Wealthy,7.0
+531,Uzurr,Lapaliiya,Comfortable,60.0
+531,Uzurr,Lapaliiya,Modest,96.0
+531,Uzurr,Lapaliiya,Poor,316.0
+531,Uzurr,Lapaliiya,Squalid,194.0
+531,Uzurr,Lapaliiya,Wretched,10.0
+532,Zashuma,Lapaliiya,Aristocratic,0.0
+532,Zashuma,Lapaliiya,Wealthy,21.0
+532,Zashuma,Lapaliiya,Comfortable,99.0
+532,Zashuma,Lapaliiya,Modest,299.0
+532,Zashuma,Lapaliiya,Poor,460.0
+532,Zashuma,Lapaliiya,Squalid,271.0
+532,Zashuma,Lapaliiya,Wretched,51.0
+533,Beluir,Luiren,Aristocratic,112.0
+533,Beluir,Luiren,Wealthy,322.0
+533,Beluir,Luiren,Comfortable,2994.0
+533,Beluir,Luiren,Modest,4635.0
+533,Beluir,Luiren,Poor,8819.0
+533,Beluir,Luiren,Squalid,7371.0
+533,Beluir,Luiren,Wretched,1483.0
+534,Ammathluir,Luiren,Aristocratic,0.0
+534,Ammathluir,Luiren,Wealthy,130.0
+534,Ammathluir,Luiren,Comfortable,691.0
+534,Ammathluir,Luiren,Modest,1854.0
+534,Ammathluir,Luiren,Poor,3160.0
+534,Ammathluir,Luiren,Squalid,2411.0
+534,Ammathluir,Luiren,Wretched,478.0
+535,Chethel,Luiren,Aristocratic,25.0
+535,Chethel,Luiren,Wealthy,274.0
+535,Chethel,Luiren,Comfortable,1573.0
+535,Chethel,Luiren,Modest,2688.0
+535,Chethel,Luiren,Poor,4854.0
+535,Chethel,Luiren,Squalid,4086.0
+535,Chethel,Luiren,Wretched,1003.0
+536,Crimel,Luiren,Aristocratic,0.0
+536,Crimel,Luiren,Wealthy,3.0
+536,Crimel,Luiren,Comfortable,42.0
+536,Crimel,Luiren,Modest,129.0
+536,Crimel,Luiren,Poor,324.0
+536,Crimel,Luiren,Squalid,205.0
+536,Crimel,Luiren,Wretched,12.0
+537,Djannath,Luiren,Aristocratic,0.0
+537,Djannath,Luiren,Wealthy,7.0
+537,Djannath,Luiren,Comfortable,48.0
+537,Djannath,Luiren,Modest,106.0
+537,Djannath,Luiren,Poor,260.0
+537,Djannath,Luiren,Squalid,203.0
+537,Djannath,Luiren,Wretched,12.0
+538,Fasruil,Luiren,Aristocratic,0.0
+538,Fasruil,Luiren,Wealthy,32.0
+538,Fasruil,Luiren,Comfortable,204.0
+538,Fasruil,Luiren,Modest,492.0
+538,Fasruil,Luiren,Poor,1103.0
+538,Fasruil,Luiren,Squalid,817.0
+538,Fasruil,Luiren,Wretched,209.0
+539,Krenadir,Luiren,Aristocratic,0.0
+539,Krenadir,Luiren,Wealthy,3.0
+539,Krenadir,Luiren,Comfortable,19.0
+539,Krenadir,Luiren,Modest,63.0
+539,Krenadir,Luiren,Poor,147.0
+539,Krenadir,Luiren,Squalid,127.0
+539,Krenadir,Luiren,Wretched,6.0
+540,Lluirvale,Luiren,Aristocratic,0.0
+540,Lluirvale,Luiren,Wealthy,21.0
+540,Lluirvale,Luiren,Comfortable,110.0
+540,Lluirvale,Luiren,Modest,343.0
+540,Lluirvale,Luiren,Poor,518.0
+540,Lluirvale,Luiren,Squalid,422.0
+540,Lluirvale,Luiren,Wretched,52.0
+541,Otennath,Luiren,Aristocratic,0.0
+541,Otennath,Luiren,Wealthy,2.0
+541,Otennath,Luiren,Comfortable,21.0
+541,Otennath,Luiren,Modest,65.0
+541,Otennath,Luiren,Poor,115.0
+541,Otennath,Luiren,Squalid,104.0
+541,Otennath,Luiren,Wretched,5.0
+542,Shoun,Luiren,Aristocratic,65.0
+542,Shoun,Luiren,Wealthy,169.0
+542,Shoun,Luiren,Comfortable,1949.0
+542,Shoun,Luiren,Modest,2669.0
+542,Shoun,Luiren,Poor,5493.0
+542,Shoun,Luiren,Squalid,3737.0
+542,Shoun,Luiren,Wretched,1308.0
+543,Silverymoon,The Silver Marches,Aristocratic,170.0
+543,Silverymoon,The Silver Marches,Wealthy,1119.0
+543,Silverymoon,The Silver Marches,Comfortable,4606.0
+543,Silverymoon,The Silver Marches,Modest,4160.0
+543,Silverymoon,The Silver Marches,Poor,12718.0
+543,Silverymoon,The Silver Marches,Squalid,8268.0
+543,Silverymoon,The Silver Marches,Wretched,2784.0
+544,Auvandell,The Silver Marches,Aristocratic,0.0
+544,Auvandell,The Silver Marches,Wealthy,0.0
+544,Auvandell,The Silver Marches,Comfortable,31.0
+544,Auvandell,The Silver Marches,Modest,84.0
+544,Auvandell,The Silver Marches,Poor,156.0
+544,Auvandell,The Silver Marches,Squalid,102.0
+544,Auvandell,The Silver Marches,Wretched,9.0
+545,Blumberg,The Silver Marches,Aristocratic,0.0
+545,Blumberg,The Silver Marches,Wealthy,5.0
+545,Blumberg,The Silver Marches,Comfortable,60.0
+545,Blumberg,The Silver Marches,Modest,139.0
+545,Blumberg,The Silver Marches,Poor,281.0
+545,Blumberg,The Silver Marches,Squalid,160.0
+545,Blumberg,The Silver Marches,Wretched,15.0
+546,Citadel Adbar,Dwarfholds of the North,Aristocratic,37.0
+546,Citadel Adbar,Dwarfholds of the North,Wealthy,257.0
+546,Citadel Adbar,Dwarfholds of the North,Comfortable,2223.0
+546,Citadel Adbar,Dwarfholds of the North,Modest,3696.0
+546,Citadel Adbar,Dwarfholds of the North,Poor,6139.0
+546,Citadel Adbar,Dwarfholds of the North,Squalid,5757.0
+546,Citadel Adbar,Dwarfholds of the North,Wretched,1469.0
+547,Citadel Felbarr,Dwarfholds of the North,Aristocratic,1.0
+547,Citadel Felbarr,Dwarfholds of the North,Wealthy,72.0
+547,Citadel Felbarr,Dwarfholds of the North,Comfortable,474.0
+547,Citadel Felbarr,Dwarfholds of the North,Modest,761.0
+547,Citadel Felbarr,Dwarfholds of the North,Poor,2294.0
+547,Citadel Felbarr,Dwarfholds of the North,Squalid,1903.0
+547,Citadel Felbarr,Dwarfholds of the North,Wretched,521.0
+548,Deadsnows,The Silver Marches,Aristocratic,0.0
+548,Deadsnows,The Silver Marches,Wealthy,4.0
+548,Deadsnows,The Silver Marches,Comfortable,43.0
+548,Deadsnows,The Silver Marches,Modest,67.0
+548,Deadsnows,The Silver Marches,Poor,258.0
+548,Deadsnows,The Silver Marches,Squalid,134.0
+548,Deadsnows,The Silver Marches,Wretched,15.0
+549,Everlund,The Silver Marches,Aristocratic,97.0
+549,Everlund,The Silver Marches,Wealthy,407.0
+549,Everlund,The Silver Marches,Comfortable,1988.0
+549,Everlund,The Silver Marches,Modest,3437.0
+549,Everlund,The Silver Marches,Poor,7220.0
+549,Everlund,The Silver Marches,Squalid,5382.0
+549,Everlund,The Silver Marches,Wretched,2059.0
+550,Hilltop,The Silver Marches,Aristocratic,0.0
+550,Hilltop,The Silver Marches,Wealthy,0.0
+550,Hilltop,The Silver Marches,Comfortable,6.0
+550,Hilltop,The Silver Marches,Modest,14.0
+550,Hilltop,The Silver Marches,Poor,36.0
+550,Hilltop,The Silver Marches,Squalid,30.0
+550,Hilltop,The Silver Marches,Wretched,1.0
+551,Jalanthar,The Silver Marches,Aristocratic,0.0
+551,Jalanthar,The Silver Marches,Wealthy,0.0
+551,Jalanthar,The Silver Marches,Comfortable,11.0
+551,Jalanthar,The Silver Marches,Modest,41.0
+551,Jalanthar,The Silver Marches,Poor,68.0
+551,Jalanthar,The Silver Marches,Squalid,36.0
+551,Jalanthar,The Silver Marches,Wretched,2.0
+552,Khelb,The Silver Marches,Aristocratic,73.0
+552,Khelb,The Silver Marches,Wealthy,329.0
+552,Khelb,The Silver Marches,Comfortable,1490.0
+552,Khelb,The Silver Marches,Modest,3033.0
+552,Khelb,The Silver Marches,Poor,5102.0
+552,Khelb,The Silver Marches,Squalid,4365.0
+552,Khelb,The Silver Marches,Wretched,908.0
+553,Lhuvenhead,The Silver Marches,Aristocratic,14.0
+553,Lhuvenhead,The Silver Marches,Wealthy,234.0
+553,Lhuvenhead,The Silver Marches,Comfortable,1549.0
+553,Lhuvenhead,The Silver Marches,Modest,2172.0
+553,Lhuvenhead,The Silver Marches,Poor,3908.0
+553,Lhuvenhead,The Silver Marches,Squalid,4268.0
+553,Lhuvenhead,The Silver Marches,Wretched,969.0
+554,Mithral Hall,Dwarfholds of the North,Aristocratic,1.0
+554,Mithral Hall,Dwarfholds of the North,Wealthy,90.0
+554,Mithral Hall,Dwarfholds of the North,Comfortable,293.0
+554,Mithral Hall,Dwarfholds of the North,Modest,1149.0
+554,Mithral Hall,Dwarfholds of the North,Poor,1481.0
+554,Mithral Hall,Dwarfholds of the North,Squalid,1064.0
+554,Mithral Hall,Dwarfholds of the North,Wretched,217.0
+555,Newfort,The Silver Marches,Aristocratic,0.0
+555,Newfort,The Silver Marches,Wealthy,0.0
+555,Newfort,The Silver Marches,Comfortable,6.0
+555,Newfort,The Silver Marches,Modest,22.0
+555,Newfort,The Silver Marches,Poor,45.0
+555,Newfort,The Silver Marches,Squalid,31.0
+555,Newfort,The Silver Marches,Wretched,2.0
+556,Quaervaar,The Silver Marches,Aristocratic,0.0
+556,Quaervaar,The Silver Marches,Wealthy,5.0
+556,Quaervaar,The Silver Marches,Comfortable,37.0
+556,Quaervaar,The Silver Marches,Modest,160.0
+556,Quaervaar,The Silver Marches,Poor,292.0
+556,Quaervaar,The Silver Marches,Squalid,164.0
+556,Quaervaar,The Silver Marches,Wretched,11.0
+557,Rauvincross,The Silver Marches,Aristocratic,69.0
+557,Rauvincross,The Silver Marches,Wealthy,350.0
+557,Rauvincross,The Silver Marches,Comfortable,2022.0
+557,Rauvincross,The Silver Marches,Modest,1908.0
+557,Rauvincross,The Silver Marches,Poor,5307.0
+557,Rauvincross,The Silver Marches,Squalid,5495.0
+557,Rauvincross,The Silver Marches,Wretched,1281.0
+558,Rivermoot,The Silver Marches,Aristocratic,0.0
+558,Rivermoot,The Silver Marches,Wealthy,107.0
+558,Rivermoot,The Silver Marches,Comfortable,416.0
+558,Rivermoot,The Silver Marches,Modest,704.0
+558,Rivermoot,The Silver Marches,Poor,2036.0
+558,Rivermoot,The Silver Marches,Squalid,1123.0
+558,Rivermoot,The Silver Marches,Wretched,334.0
+559,Sundabar,Dwarfholds of the North,Aristocratic,0.0
+559,Sundabar,Dwarfholds of the North,Wealthy,7.0
+559,Sundabar,Dwarfholds of the North,Comfortable,50.0
+559,Sundabar,Dwarfholds of the North,Modest,112.0
+559,Sundabar,Dwarfholds of the North,Poor,253.0
+559,Sundabar,Dwarfholds of the North,Squalid,183.0
+559,Sundabar,Dwarfholds of the North,Wretched,12.0
+560,Winter's Edge,The Silver Marches,Aristocratic,1.0
+560,Winter's Edge,The Silver Marches,Wealthy,83.0
+560,Winter's Edge,The Silver Marches,Comfortable,424.0
+560,Winter's Edge,The Silver Marches,Modest,1121.0
+560,Winter's Edge,The Silver Marches,Poor,2159.0
+560,Winter's Edge,The Silver Marches,Squalid,1713.0
+560,Winter's Edge,The Silver Marches,Wretched,189.0
+561,Yartar,The Sword Coast,Aristocratic,0.0
+561,Yartar,The Sword Coast,Wealthy,2.0
+561,Yartar,The Sword Coast,Comfortable,23.0
+561,Yartar,The Sword Coast,Modest,52.0
+561,Yartar,The Sword Coast,Poor,116.0
+561,Yartar,The Sword Coast,Squalid,89.0
+561,Yartar,The Sword Coast,Wretched,6.0
+562,Mintarn,The Sword Coast,Aristocratic,0.0
+562,Mintarn,The Sword Coast,Wealthy,51.0
+562,Mintarn,The Sword Coast,Comfortable,349.0
+562,Mintarn,The Sword Coast,Modest,1043.0
+562,Mintarn,The Sword Coast,Poor,1647.0
+562,Mintarn,The Sword Coast,Squalid,957.0
+562,Mintarn,The Sword Coast,Wretched,239.0
+563,Orlumbor,Orlumbor,Aristocratic,0.0
+563,Orlumbor,Orlumbor,Wealthy,16.0
+563,Orlumbor,Orlumbor,Comfortable,95.0
+563,Orlumbor,Orlumbor,Modest,264.0
+563,Orlumbor,Orlumbor,Poor,519.0
+563,Orlumbor,Orlumbor,Squalid,304.0
+563,Orlumbor,Orlumbor,Wretched,116.0
+564,Farr Windward,Orlumbor,Aristocratic,0.0
+564,Farr Windward,Orlumbor,Wealthy,2.0
+564,Farr Windward,Orlumbor,Comfortable,36.0
+564,Farr Windward,Orlumbor,Modest,98.0
+564,Farr Windward,Orlumbor,Poor,263.0
+564,Farr Windward,Orlumbor,Squalid,175.0
+564,Farr Windward,Orlumbor,Wretched,13.0
+565,Caer Callidyrr,Moonshae,Aristocratic,55.0
+565,Caer Callidyrr,Moonshae,Wealthy,563.0
+565,Caer Callidyrr,Moonshae,Comfortable,2009.0
+565,Caer Callidyrr,Moonshae,Modest,4130.0
+565,Caer Callidyrr,Moonshae,Poor,6928.0
+565,Caer Callidyrr,Moonshae,Squalid,5182.0
+565,Caer Callidyrr,Moonshae,Wretched,1551.0
+566,Aithelar,Moonshae,Aristocratic,20.0
+566,Aithelar,Moonshae,Wealthy,244.0
+566,Aithelar,Moonshae,Comfortable,1392.0
+566,Aithelar,Moonshae,Modest,2013.0
+566,Aithelar,Moonshae,Poor,4458.0
+566,Aithelar,Moonshae,Squalid,4509.0
+566,Aithelar,Moonshae,Wretched,1296.0
+567,Blackstone,Moonshae,Aristocratic,0.0
+567,Blackstone,Moonshae,Wealthy,1.0
+567,Blackstone,Moonshae,Comfortable,42.0
+567,Blackstone,Moonshae,Modest,62.0
+567,Blackstone,Moonshae,Poor,243.0
+567,Blackstone,Moonshae,Squalid,226.0
+567,Blackstone,Moonshae,Wretched,11.0
+568,Blythe,Moonshae,Aristocratic,0.0
+568,Blythe,Moonshae,Wealthy,5.0
+568,Blythe,Moonshae,Comfortable,27.0
+568,Blythe,Moonshae,Modest,53.0
+568,Blythe,Moonshae,Poor,206.0
+568,Blythe,Moonshae,Squalid,191.0
+568,Blythe,Moonshae,Wretched,12.0
+569,Borth,Moonshae,Aristocratic,17.0
+569,Borth,Moonshae,Wealthy,191.0
+569,Borth,Moonshae,Comfortable,2074.0
+569,Borth,Moonshae,Modest,1911.0
+569,Borth,Moonshae,Poor,5597.0
+569,Borth,Moonshae,Squalid,3614.0
+569,Borth,Moonshae,Wretched,1447.0
+570,Bounty,Moonshae,Aristocratic,0.0
+570,Bounty,Moonshae,Wealthy,0.0
+570,Bounty,Moonshae,Comfortable,35.0
+570,Bounty,Moonshae,Modest,70.0
+570,Bounty,Moonshae,Poor,200.0
+570,Bounty,Moonshae,Squalid,120.0
+570,Bounty,Moonshae,Wretched,10.0
+571,Brannoch,Moonshae,Aristocratic,0.0
+571,Brannoch,Moonshae,Wealthy,8.0
+571,Brannoch,Moonshae,Comfortable,36.0
+571,Brannoch,Moonshae,Modest,132.0
+571,Brannoch,Moonshae,Poor,275.0
+571,Brannoch,Moonshae,Squalid,235.0
+571,Brannoch,Moonshae,Wretched,9.0
+572,Bray,Moonshae,Aristocratic,0.0
+572,Bray,Moonshae,Wealthy,3.0
+572,Bray,Moonshae,Comfortable,22.0
+572,Bray,Moonshae,Modest,40.0
+572,Bray,Moonshae,Poor,141.0
+572,Bray,Moonshae,Squalid,126.0
+572,Bray,Moonshae,Wretched,5.0
+573,Cambro,Moonshae,Aristocratic,75.0
+573,Cambro,Moonshae,Wealthy,372.0
+573,Cambro,Moonshae,Comfortable,1695.0
+573,Cambro,Moonshae,Modest,3340.0
+573,Cambro,Moonshae,Poor,5610.0
+573,Cambro,Moonshae,Squalid,4704.0
+573,Cambro,Moonshae,Wretched,1588.0
+574,Caer Corwell,Moonshae,Aristocratic,0.0
+574,Caer Corwell,Moonshae,Wealthy,0.0
+574,Caer Corwell,Moonshae,Comfortable,6.0
+574,Caer Corwell,Moonshae,Modest,24.0
+574,Caer Corwell,Moonshae,Poor,43.0
+574,Caer Corwell,Moonshae,Squalid,35.0
+574,Caer Corwell,Moonshae,Wretched,2.0
+575,Caer Moray,Moonshae,Aristocratic,30.0
+575,Caer Moray,Moonshae,Wealthy,477.0
+575,Caer Moray,Moonshae,Comfortable,1359.0
+575,Caer Moray,Moonshae,Modest,3000.0
+575,Caer Moray,Moonshae,Poor,5326.0
+575,Caer Moray,Moonshae,Squalid,4194.0
+575,Caer Moray,Moonshae,Wretched,1098.0
+576,Caer Westphal,Moonshae,Aristocratic,0.0
+576,Caer Westphal,Moonshae,Wealthy,0.0
+576,Caer Westphal,Moonshae,Comfortable,8.0
+576,Caer Westphal,Moonshae,Modest,22.0
+576,Caer Westphal,Moonshae,Poor,42.0
+576,Caer Westphal,Moonshae,Squalid,32.0
+576,Caer Westphal,Moonshae,Wretched,1.0
+577,Caervu,Moonshae,Aristocratic,2.0
+577,Caervu,Moonshae,Wealthy,128.0
+577,Caervu,Moonshae,Comfortable,473.0
+577,Caervu,Moonshae,Modest,1380.0
+577,Caervu,Moonshae,Poor,2485.0
+577,Caervu,Moonshae,Squalid,1938.0
+577,Caervu,Moonshae,Wretched,328.0
+578,Cobh,Moonshae,Aristocratic,2.0
+578,Cobh,Moonshae,Wealthy,121.0
+578,Cobh,Moonshae,Comfortable,475.0
+578,Cobh,Moonshae,Modest,1312.0
+578,Cobh,Moonshae,Poor,2198.0
+578,Cobh,Moonshae,Squalid,1513.0
+578,Cobh,Moonshae,Wretched,282.0
+579,Codfin,Moonshae,Aristocratic,53.0
+579,Codfin,Moonshae,Wealthy,380.0
+579,Codfin,Moonshae,Comfortable,1532.0
+579,Codfin,Moonshae,Modest,2397.0
+579,Codfin,Moonshae,Poor,4597.0
+579,Codfin,Moonshae,Squalid,4627.0
+579,Codfin,Moonshae,Wretched,1409.0
+580,Codscove,Moonshae,Aristocratic,0.0
+580,Codscove,Moonshae,Wealthy,139.0
+580,Codscove,Moonshae,Comfortable,592.0
+580,Codscove,Moonshae,Modest,1533.0
+580,Codscove,Moonshae,Poor,2385.0
+580,Codscove,Moonshae,Squalid,1958.0
+580,Codscove,Moonshae,Wretched,546.0
+581,Doncastle,Moonshae,Aristocratic,0.0
+581,Doncastle,Moonshae,Wealthy,0.0
+581,Doncastle,Moonshae,Comfortable,5.0
+581,Doncastle,Moonshae,Modest,16.0
+581,Doncastle,Moonshae,Poor,31.0
+581,Doncastle,Moonshae,Squalid,18.0
+581,Doncastle,Moonshae,Wretched,1.0
+582,Dorset,Moonshae,Aristocratic,54.0
+582,Dorset,Moonshae,Wealthy,224.0
+582,Dorset,Moonshae,Comfortable,1465.0
+582,Dorset,Moonshae,Modest,2459.0
+582,Dorset,Moonshae,Poor,4491.0
+582,Dorset,Moonshae,Squalid,2788.0
+582,Dorset,Moonshae,Wretched,732.0
+583,Dultann,Moonshae,Aristocratic,1.0
+583,Dultann,Moonshae,Wealthy,108.0
+583,Dultann,Moonshae,Comfortable,599.0
+583,Dultann,Moonshae,Modest,1051.0
+583,Dultann,Moonshae,Poor,2281.0
+583,Dultann,Moonshae,Squalid,1500.0
+583,Dultann,Moonshae,Wretched,402.0
+584,Dynnatt,Moonshae,Aristocratic,0.0
+584,Dynnatt,Moonshae,Wealthy,0.0
+584,Dynnatt,Moonshae,Comfortable,6.0
+584,Dynnatt,Moonshae,Modest,10.0
+584,Dynnatt,Moonshae,Poor,45.0
+584,Dynnatt,Moonshae,Squalid,28.0
+584,Dynnatt,Moonshae,Wretched,2.0
+585,Dynnegall,Moonshae,Aristocratic,0.0
+585,Dynnegall,Moonshae,Wealthy,2.0
+585,Dynnegall,Moonshae,Comfortable,22.0
+585,Dynnegall,Moonshae,Modest,61.0
+585,Dynnegall,Moonshae,Poor,122.0
+585,Dynnegall,Moonshae,Squalid,102.0
+585,Dynnegall,Moonshae,Wretched,4.0
+586,Elyssyrr,Moonshae,Aristocratic,0.0
+586,Elyssyrr,Moonshae,Wealthy,52.0
+586,Elyssyrr,Moonshae,Comfortable,304.0
+586,Elyssyrr,Moonshae,Modest,904.0
+586,Elyssyrr,Moonshae,Poor,1377.0
+586,Elyssyrr,Moonshae,Squalid,1314.0
+586,Elyssyrr,Moonshae,Wretched,305.0
+587,Farview,Moonshae,Aristocratic,0.0
+587,Farview,Moonshae,Wealthy,5.0
+587,Farview,Moonshae,Comfortable,31.0
+587,Farview,Moonshae,Modest,59.0
+587,Farview,Moonshae,Poor,249.0
+587,Farview,Moonshae,Squalid,162.0
+587,Farview,Moonshae,Wretched,10.0
+588,Fenton,Moonshae,Aristocratic,0.0
+588,Fenton,Moonshae,Wealthy,1.0
+588,Fenton,Moonshae,Comfortable,48.0
+588,Fenton,Moonshae,Modest,73.0
+588,Fenton,Moonshae,Poor,253.0
+588,Fenton,Moonshae,Squalid,167.0
+588,Fenton,Moonshae,Wretched,12.0
+589,Grady,Moonshae,Aristocratic,0.0
+589,Grady,Moonshae,Wealthy,0.0
+589,Grady,Moonshae,Comfortable,2.0
+589,Grady,Moonshae,Modest,4.0
+589,Grady,Moonshae,Poor,20.0
+589,Grady,Moonshae,Squalid,16.0
+589,Grady,Moonshae,Wretched,0.0
+590,Graystone,Moonshae,Aristocratic,0.0
+590,Graystone,Moonshae,Wealthy,18.0
+590,Graystone,Moonshae,Comfortable,71.0
+590,Graystone,Moonshae,Modest,243.0
+590,Graystone,Moonshae,Poor,314.0
+590,Graystone,Moonshae,Squalid,306.0
+590,Graystone,Moonshae,Wretched,52.0
+591,Grimstad,Moonshae,Aristocratic,0.0
+591,Grimstad,Moonshae,Wealthy,0.0
+591,Grimstad,Moonshae,Comfortable,4.0
+591,Grimstad,Moonshae,Modest,7.0
+591,Grimstad,Moonshae,Poor,34.0
+591,Grimstad,Moonshae,Squalid,28.0
+591,Grimstad,Moonshae,Wretched,2.0
+592,Harloch,Moonshae,Aristocratic,0.0
+592,Harloch,Moonshae,Wealthy,2.0
+592,Harloch,Moonshae,Comfortable,25.0
+592,Harloch,Moonshae,Modest,83.0
+592,Harloch,Moonshae,Poor,143.0
+592,Harloch,Moonshae,Squalid,124.0
+592,Harloch,Moonshae,Wretched,4.0
+593,Hickorydale,Moonshae,Aristocratic,0.0
+593,Hickorydale,Moonshae,Wealthy,7.0
+593,Hickorydale,Moonshae,Comfortable,50.0
+593,Hickorydale,Moonshae,Modest,136.0
+593,Hickorydale,Moonshae,Poor,267.0
+593,Hickorydale,Moonshae,Squalid,215.0
+593,Hickorydale,Moonshae,Wretched,13.0
+594,Horsa,Moonshae,Aristocratic,0.0
+594,Horsa,Moonshae,Wealthy,1.0
+594,Horsa,Moonshae,Comfortable,9.0
+594,Horsa,Moonshae,Modest,28.0
+594,Horsa,Moonshae,Poor,59.0
+594,Horsa,Moonshae,Squalid,50.0
+594,Horsa,Moonshae,Wretched,3.0
+595,Horst,Moonshae,Aristocratic,0.0
+595,Horst,Moonshae,Wealthy,4.0
+595,Horst,Moonshae,Comfortable,35.0
+595,Horst,Moonshae,Modest,86.0
+595,Horst,Moonshae,Poor,168.0
+595,Horst,Moonshae,Squalid,113.0
+595,Horst,Moonshae,Wretched,7.0
+596,Highhome,Moonshae,Aristocratic,3.0
+596,Highhome,Moonshae,Wealthy,126.0
+596,Highhome,Moonshae,Comfortable,572.0
+596,Highhome,Moonshae,Modest,2142.0
+596,Highhome,Moonshae,Poor,3011.0
+596,Highhome,Moonshae,Squalid,2277.0
+596,Highhome,Moonshae,Wretched,490.0
+597,Highrock,Moonshae,Aristocratic,40.0
+597,Highrock,Moonshae,Wealthy,373.0
+597,Highrock,Moonshae,Comfortable,1499.0
+597,Highrock,Moonshae,Modest,1386.0
+597,Highrock,Moonshae,Poor,4466.0
+597,Highrock,Moonshae,Squalid,4453.0
+597,Highrock,Moonshae,Wretched,1150.0
+598,Holyhead,Moonshae,Aristocratic,0.0
+598,Holyhead,Moonshae,Wealthy,0.0
+598,Holyhead,Moonshae,Comfortable,7.0
+598,Holyhead,Moonshae,Modest,20.0
+598,Holyhead,Moonshae,Poor,47.0
+598,Holyhead,Moonshae,Squalid,25.0
+598,Holyhead,Moonshae,Wretched,1.0
+599,Horstall,Moonshae,Aristocratic,0.0
+599,Horstall,Moonshae,Wealthy,60.0
+599,Horstall,Moonshae,Comfortable,200.0
+599,Horstall,Moonshae,Modest,408.0
+599,Horstall,Moonshae,Poor,948.0
+599,Horstall,Moonshae,Squalid,897.0
+599,Horstall,Moonshae,Wretched,228.0
+600,Hyoclaatl,Moonshae,Aristocratic,0.0
+600,Hyoclaatl,Moonshae,Wealthy,1.0
+600,Hyoclaatl,Moonshae,Comfortable,8.0
+600,Hyoclaatl,Moonshae,Modest,27.0
+600,Hyoclaatl,Moonshae,Poor,52.0
+600,Hyoclaatl,Moonshae,Squalid,35.0
+600,Hyoclaatl,Moonshae,Wretched,2.0
+601,Kingsbay,Moonshae,Aristocratic,0.0
+601,Kingsbay,Moonshae,Wealthy,1.0
+601,Kingsbay,Moonshae,Comfortable,6.0
+601,Kingsbay,Moonshae,Modest,22.0
+601,Kingsbay,Moonshae,Poor,49.0
+601,Kingsbay,Moonshae,Squalid,45.0
+601,Kingsbay,Moonshae,Wretched,2.0
+602,Koart,Moonshae,Aristocratic,0.0
+602,Koart,Moonshae,Wealthy,2.0
+602,Koart,Moonshae,Comfortable,11.0
+602,Koart,Moonshae,Modest,34.0
+602,Koart,Moonshae,Poor,76.0
+602,Koart,Moonshae,Squalid,52.0
+602,Koart,Moonshae,Wretched,3.0
+603,Kork,Moonshae,Aristocratic,0.0
+603,Kork,Moonshae,Wealthy,0.0
+603,Kork,Moonshae,Comfortable,6.0
+603,Kork,Moonshae,Modest,8.0
+603,Kork,Moonshae,Poor,34.0
+603,Kork,Moonshae,Squalid,16.0
+603,Kork,Moonshae,Wretched,1.0
+604,Kythyss,Moonshae,Aristocratic,0.0
+604,Kythyss,Moonshae,Wealthy,3.0
+604,Kythyss,Moonshae,Comfortable,38.0
+604,Kythyss,Moonshae,Modest,84.0
+604,Kythyss,Moonshae,Poor,220.0
+604,Kythyss,Moonshae,Squalid,135.0
+604,Kythyss,Moonshae,Wretched,7.0
+605,Lehigh,Moonshae,Aristocratic,0.0
+605,Lehigh,Moonshae,Wealthy,0.0
+605,Lehigh,Moonshae,Comfortable,9.0
+605,Lehigh,Moonshae,Modest,13.0
+605,Lehigh,Moonshae,Poor,45.0
+605,Lehigh,Moonshae,Squalid,28.0
+605,Lehigh,Moonshae,Wretched,1.0
+606,Llandrain,Moonshae,Aristocratic,20.0
+606,Llandrain,Moonshae,Wealthy,238.0
+606,Llandrain,Moonshae,Comfortable,1956.0
+606,Llandrain,Moonshae,Modest,3058.0
+606,Llandrain,Moonshae,Poor,5213.0
+606,Llandrain,Moonshae,Squalid,5599.0
+606,Llandrain,Moonshae,Wretched,1524.0
+607,Llewellyn,Moonshae,Aristocratic,0.0
+607,Llewellyn,Moonshae,Wealthy,2.0
+607,Llewellyn,Moonshae,Comfortable,50.0
+607,Llewellyn,Moonshae,Modest,117.0
+607,Llewellyn,Moonshae,Poor,331.0
+607,Llewellyn,Moonshae,Squalid,196.0
+607,Llewellyn,Moonshae,Wretched,18.0
+608,Lowhill,Moonshae,Aristocratic,0.0
+608,Lowhill,Moonshae,Wealthy,19.0
+608,Lowhill,Moonshae,Comfortable,109.0
+608,Lowhill,Moonshae,Modest,198.0
+608,Lowhill,Moonshae,Poor,492.0
+608,Lowhill,Moonshae,Squalid,377.0
+608,Lowhill,Moonshae,Wretched,107.0
+609,MacSheehan,Moonshae,Aristocratic,0.0
+609,MacSheehan,Moonshae,Wealthy,6.0
+609,MacSheehan,Moonshae,Comfortable,31.0
+609,MacSheehan,Moonshae,Modest,87.0
+609,MacSheehan,Moonshae,Poor,227.0
+609,MacSheehan,Moonshae,Squalid,178.0
+609,MacSheehan,Moonshae,Wretched,13.0
+610,Manger,Moonshae,Aristocratic,0.0
+610,Manger,Moonshae,Wealthy,44.0
+610,Manger,Moonshae,Comfortable,301.0
+610,Manger,Moonshae,Modest,1053.0
+610,Manger,Moonshae,Poor,1479.0
+610,Manger,Moonshae,Squalid,1242.0
+610,Manger,Moonshae,Wretched,127.0
+611,Myrrdale,Moonshae,Aristocratic,0.0
+611,Myrrdale,Moonshae,Wealthy,7.0
+611,Myrrdale,Moonshae,Comfortable,56.0
+611,Myrrdale,Moonshae,Modest,172.0
+611,Myrrdale,Moonshae,Poor,290.0
+611,Myrrdale,Moonshae,Squalid,255.0
+611,Myrrdale,Moonshae,Wretched,9.0
+612,Ogden,Moonshae,Aristocratic,0.0
+612,Ogden,Moonshae,Wealthy,0.0
+612,Ogden,Moonshae,Comfortable,17.0
+612,Ogden,Moonshae,Modest,58.0
+612,Ogden,Moonshae,Poor,96.0
+612,Ogden,Moonshae,Squalid,86.0
+612,Ogden,Moonshae,Wretched,3.0
+613,O’Malley,Moonshae,Aristocratic,0.0
+613,O’Malley,Moonshae,Wealthy,1.0
+613,O’Malley,Moonshae,Comfortable,6.0
+613,O’Malley,Moonshae,Modest,25.0
+613,O’Malley,Moonshae,Poor,48.0
+613,O’Malley,Moonshae,Squalid,26.0
+613,O’Malley,Moonshae,Wretched,1.0
+614,Pembroke,Moonshae,Aristocratic,0.0
+614,Pembroke,Moonshae,Wealthy,14.0
+614,Pembroke,Moonshae,Comfortable,89.0
+614,Pembroke,Moonshae,Modest,320.0
+614,Pembroke,Moonshae,Poor,417.0
+614,Pembroke,Moonshae,Squalid,263.0
+614,Pembroke,Moonshae,Wretched,65.0
+615,Pengram,Moonshae,Aristocratic,0.0
+615,Pengram,Moonshae,Wealthy,8.0
+615,Pengram,Moonshae,Comfortable,55.0
+615,Pengram,Moonshae,Modest,175.0
+615,Pengram,Moonshae,Poor,294.0
+615,Pengram,Moonshae,Squalid,199.0
+615,Pengram,Moonshae,Wretched,10.0
+616,Pontswain,Moonshae,Aristocratic,0.0
+616,Pontswain,Moonshae,Wealthy,1.0
+616,Pontswain,Moonshae,Comfortable,20.0
+616,Pontswain,Moonshae,Modest,60.0
+616,Pontswain,Moonshae,Poor,143.0
+616,Pontswain,Moonshae,Squalid,111.0
+616,Pontswain,Moonshae,Wretched,7.0
+617,Regents Field,Moonshae,Aristocratic,2.0
+617,Regents Field,Moonshae,Wealthy,94.0
+617,Regents Field,Moonshae,Comfortable,610.0
+617,Regents Field,Moonshae,Modest,1833.0
+617,Regents Field,Moonshae,Poor,2820.0
+617,Regents Field,Moonshae,Squalid,2454.0
+617,Regents Field,Moonshae,Wretched,397.0
+618,Storaad,Moonshae,Aristocratic,0.0
+618,Storaad,Moonshae,Wealthy,2.0
+618,Storaad,Moonshae,Comfortable,12.0
+618,Storaad,Moonshae,Modest,17.0
+618,Storaad,Moonshae,Poor,83.0
+618,Storaad,Moonshae,Squalid,55.0
+618,Storaad,Moonshae,Wretched,2.0
+619,Tetauctaa,Moonshae,Aristocratic,0.0
+619,Tetauctaa,Moonshae,Wealthy,22.0
+619,Tetauctaa,Moonshae,Comfortable,117.0
+619,Tetauctaa,Moonshae,Modest,309.0
+619,Tetauctaa,Moonshae,Poor,457.0
+619,Tetauctaa,Moonshae,Squalid,402.0
+619,Tetauctaa,Moonshae,Wretched,82.0
+620,Thorndyke,Moonshae,Aristocratic,0.0
+620,Thorndyke,Moonshae,Wealthy,0.0
+620,Thorndyke,Moonshae,Comfortable,8.0
+620,Thorndyke,Moonshae,Modest,10.0
+620,Thorndyke,Moonshae,Poor,48.0
+620,Thorndyke,Moonshae,Squalid,38.0
+620,Thorndyke,Moonshae,Wretched,1.0
+621,White Rock,Moonshae,Aristocratic,0.0
+621,White Rock,Moonshae,Wealthy,6.0
+621,White Rock,Moonshae,Comfortable,45.0
+621,White Rock,Moonshae,Modest,118.0
+621,White Rock,Moonshae,Poor,259.0
+621,White Rock,Moonshae,Squalid,214.0
+621,White Rock,Moonshae,Wretched,9.0
+622,Wyngate,Moonshae,Aristocratic,0.0
+622,Wyngate,Moonshae,Wealthy,3.0
+622,Wyngate,Moonshae,Comfortable,51.0
+622,Wyngate,Moonshae,Modest,76.0
+622,Wyngate,Moonshae,Poor,324.0
+622,Wyngate,Moonshae,Squalid,226.0
+622,Wyngate,Moonshae,Wretched,14.0
+623,Skuld,Mulhorand,Aristocratic,364.0
+623,Skuld,Mulhorand,Wealthy,5732.0
+623,Skuld,Mulhorand,Comfortable,22301.0
+623,Skuld,Mulhorand,Modest,33207.0
+623,Skuld,Mulhorand,Poor,60729.0
+623,Skuld,Mulhorand,Squalid,85807.0
+623,Skuld,Mulhorand,Wretched,17550.0
+624,Aina,Mulhorand,Aristocratic,0.0
+624,Aina,Mulhorand,Wealthy,11.0
+624,Aina,Mulhorand,Comfortable,77.0
+624,Aina,Mulhorand,Modest,210.0
+624,Aina,Mulhorand,Poor,349.0
+624,Aina,Mulhorand,Squalid,187.0
+624,Aina,Mulhorand,Wretched,36.0
+625,Delgora,Mulhorand,Aristocratic,1.0
+625,Delgora,Mulhorand,Wealthy,74.0
+625,Delgora,Mulhorand,Comfortable,285.0
+625,Delgora,Mulhorand,Modest,534.0
+625,Delgora,Mulhorand,Poor,1207.0
+625,Delgora,Mulhorand,Squalid,994.0
+625,Delgora,Mulhorand,Wretched,291.0
+626,Gheldaneth,Mulhorand,Aristocratic,835.0
+626,Gheldaneth,Mulhorand,Wealthy,4262.0
+626,Gheldaneth,Mulhorand,Comfortable,22506.0
+626,Gheldaneth,Mulhorand,Modest,40660.0
+626,Gheldaneth,Mulhorand,Poor,58243.0
+626,Gheldaneth,Mulhorand,Squalid,60815.0
+626,Gheldaneth,Mulhorand,Wretched,17017.0
+627,Jhalhoran,Mulhorand,Aristocratic,0.0
+627,Jhalhoran,Mulhorand,Wealthy,19.0
+627,Jhalhoran,Mulhorand,Comfortable,66.0
+627,Jhalhoran,Mulhorand,Modest,117.0
+627,Jhalhoran,Mulhorand,Poor,328.0
+627,Jhalhoran,Mulhorand,Squalid,269.0
+627,Jhalhoran,Mulhorand,Wretched,39.0
+628,Klondor,Mulhorand,Aristocratic,0.0
+628,Klondor,Mulhorand,Wealthy,16.0
+628,Klondor,Mulhorand,Comfortable,108.0
+628,Klondor,Mulhorand,Modest,232.0
+628,Klondor,Mulhorand,Poor,426.0
+628,Klondor,Mulhorand,Squalid,271.0
+628,Klondor,Mulhorand,Wretched,47.0
+629,Maerlar,Mulhorand,Aristocratic,0.0
+629,Maerlar,Mulhorand,Wealthy,78.0
+629,Maerlar,Mulhorand,Comfortable,345.0
+629,Maerlar,Mulhorand,Modest,641.0
+629,Maerlar,Mulhorand,Poor,1582.0
+629,Maerlar,Mulhorand,Squalid,1259.0
+629,Maerlar,Mulhorand,Wretched,323.0
+630,Mishtan,Mulhorand,Aristocratic,2.0
+630,Mishtan,Mulhorand,Wealthy,117.0
+630,Mishtan,Mulhorand,Comfortable,419.0
+630,Mishtan,Mulhorand,Modest,1413.0
+630,Mishtan,Mulhorand,Poor,2181.0
+630,Mishtan,Mulhorand,Squalid,1331.0
+630,Mishtan,Mulhorand,Wretched,272.0
+631,Neldorild,Mulhorand,Aristocratic,167.0
+631,Neldorild,Mulhorand,Wealthy,1097.0
+631,Neldorild,Mulhorand,Comfortable,4491.0
+631,Neldorild,Mulhorand,Modest,7653.0
+631,Neldorild,Mulhorand,Poor,12885.0
+631,Neldorild,Mulhorand,Squalid,15305.0
+631,Neldorild,Mulhorand,Wretched,3827.0
+632,Rauthil,Mulhorand,Aristocratic,0.0
+632,Rauthil,Mulhorand,Wealthy,48.0
+632,Rauthil,Mulhorand,Comfortable,201.0
+632,Rauthil,Mulhorand,Modest,333.0
+632,Rauthil,Mulhorand,Poor,979.0
+632,Rauthil,Mulhorand,Squalid,811.0
+632,Rauthil,Mulhorand,Wretched,205.0
+633,Sampranasz,Mulhorand,Aristocratic,0.0
+633,Sampranasz,Mulhorand,Wealthy,36.0
+633,Sampranasz,Mulhorand,Comfortable,208.0
+633,Sampranasz,Mulhorand,Modest,489.0
+633,Sampranasz,Mulhorand,Poor,833.0
+633,Sampranasz,Mulhorand,Squalid,695.0
+633,Sampranasz,Mulhorand,Wretched,116.0
+634,Sultim,Mulhorand,Aristocratic,0.0
+634,Sultim,Mulhorand,Wealthy,0.0
+634,Sultim,Mulhorand,Comfortable,17.0
+634,Sultim,Mulhorand,Modest,34.0
+634,Sultim,Mulhorand,Poor,87.0
+634,Sultim,Mulhorand,Squalid,44.0
+634,Sultim,Mulhorand,Wretched,5.0
+635,Surbroar,Mulhorand,Aristocratic,0.0
+635,Surbroar,Mulhorand,Wealthy,0.0
+635,Surbroar,Mulhorand,Comfortable,17.0
+635,Surbroar,Mulhorand,Modest,31.0
+635,Surbroar,Mulhorand,Poor,92.0
+635,Surbroar,Mulhorand,Squalid,69.0
+635,Surbroar,Mulhorand,Wretched,3.0
+636,Ulzel,Mulhorand,Aristocratic,0.0
+636,Ulzel,Mulhorand,Wealthy,1.0
+636,Ulzel,Mulhorand,Comfortable,12.0
+636,Ulzel,Mulhorand,Modest,47.0
+636,Ulzel,Mulhorand,Poor,90.0
+636,Ulzel,Mulhorand,Squalid,63.0
+636,Ulzel,Mulhorand,Wretched,4.0
+637,Bildoobaris,Narfell,Aristocratic,34.0
+637,Bildoobaris,Narfell,Wealthy,524.0
+637,Bildoobaris,Narfell,Comfortable,3126.0
+637,Bildoobaris,Narfell,Modest,5174.0
+637,Bildoobaris,Narfell,Poor,9005.0
+637,Bildoobaris,Narfell,Squalid,7841.0
+637,Bildoobaris,Narfell,Wretched,2381.0
+638,Antlerbones,Narfell,Aristocratic,0.0
+638,Antlerbones,Narfell,Wealthy,0.0
+638,Antlerbones,Narfell,Comfortable,40.0
+638,Antlerbones,Narfell,Modest,101.0
+638,Antlerbones,Narfell,Poor,214.0
+638,Antlerbones,Narfell,Squalid,109.0
+638,Antlerbones,Narfell,Wretched,9.0
+639,Hoarbridge,Narfell,Aristocratic,0.0
+639,Hoarbridge,Narfell,Wealthy,2.0
+639,Hoarbridge,Narfell,Comfortable,17.0
+639,Hoarbridge,Narfell,Modest,27.0
+639,Hoarbridge,Narfell,Poor,108.0
+639,Hoarbridge,Narfell,Squalid,75.0
+639,Hoarbridge,Narfell,Wretched,4.0
+640,Jiyyd,Narfell,Aristocratic,0.0
+640,Jiyyd,Narfell,Wealthy,0.0
+640,Jiyyd,Narfell,Comfortable,21.0
+640,Jiyyd,Narfell,Modest,52.0
+640,Jiyyd,Narfell,Poor,148.0
+640,Jiyyd,Narfell,Squalid,106.0
+640,Jiyyd,Narfell,Wretched,5.0
+641,Nar-Sek Qu’encesta,Narfell,Aristocratic,0.0
+641,Nar-Sek Qu’encesta,Narfell,Wealthy,11.0
+641,Nar-Sek Qu’encesta,Narfell,Comfortable,70.0
+641,Nar-Sek Qu’encesta,Narfell,Modest,194.0
+641,Nar-Sek Qu’encesta,Narfell,Poor,344.0
+641,Nar-Sek Qu’encesta,Narfell,Squalid,289.0
+641,Nar-Sek Qu’encesta,Narfell,Wretched,61.0
+642,Nar-Sek Qu’istrade,Narfell,Aristocratic,0.0
+642,Nar-Sek Qu’istrade,Narfell,Wealthy,0.0
+642,Nar-Sek Qu’istrade,Narfell,Comfortable,4.0
+642,Nar-Sek Qu’istrade,Narfell,Modest,3.0
+642,Nar-Sek Qu’istrade,Narfell,Poor,27.0
+642,Nar-Sek Qu’istrade,Narfell,Squalid,14.0
+642,Nar-Sek Qu’istrade,Narfell,Wretched,0.0
+643,Nar-Sek Qu’tel,Narfell,Aristocratic,0.0
+643,Nar-Sek Qu’tel,Narfell,Wealthy,0.0
+643,Nar-Sek Qu’tel,Narfell,Comfortable,23.0
+643,Nar-Sek Qu’tel,Narfell,Modest,62.0
+643,Nar-Sek Qu’tel,Narfell,Poor,128.0
+643,Nar-Sek Qu’tel,Narfell,Squalid,70.0
+643,Nar-Sek Qu’tel,Narfell,Wretched,4.0
+644,N’Jast,Narfell,Aristocratic,0.0
+644,N’Jast,Narfell,Wealthy,0.0
+644,N’Jast,Narfell,Comfortable,3.0
+644,N’Jast,Narfell,Modest,9.0
+644,N’Jast,Narfell,Poor,22.0
+644,N’Jast,Narfell,Squalid,7.0
+644,N’Jast,Narfell,Wretched,0.0
+645,Peltarch,Narfell,Aristocratic,0.0
+645,Peltarch,Narfell,Wealthy,1.0
+645,Peltarch,Narfell,Comfortable,20.0
+645,Peltarch,Narfell,Modest,39.0
+645,Peltarch,Narfell,Poor,103.0
+645,Peltarch,Narfell,Squalid,73.0
+645,Peltarch,Narfell,Wretched,5.0
+646,Selmast,Narfell,Aristocratic,0.0
+646,Selmast,Narfell,Wealthy,0.0
+646,Selmast,Narfell,Comfortable,26.0
+646,Selmast,Narfell,Modest,28.0
+646,Selmast,Narfell,Poor,129.0
+646,Selmast,Narfell,Squalid,107.0
+646,Selmast,Narfell,Wretched,4.0
+647,Snowcap,Narfell,Aristocratic,0.0
+647,Snowcap,Narfell,Wealthy,4.0
+647,Snowcap,Narfell,Comfortable,21.0
+647,Snowcap,Narfell,Modest,82.0
+647,Snowcap,Narfell,Poor,167.0
+647,Snowcap,Narfell,Squalid,98.0
+647,Snowcap,Narfell,Wretched,5.0
+648,Luskan,The Sword Coast,Aristocratic,48.0
+648,Luskan,The Sword Coast,Wealthy,295.0
+648,Luskan,The Sword Coast,Comfortable,1371.0
+648,Luskan,The Sword Coast,Modest,3033.0
+648,Luskan,The Sword Coast,Poor,4851.0
+648,Luskan,The Sword Coast,Squalid,4734.0
+648,Luskan,The Sword Coast,Wretched,1546.0
