@@ -1,0 +1,2663 @@
+row_id,settlement,region_kingdom,import_item
+1,Athkatla,Amn,['exotic goods (from maztica)'
+1,Athkatla,Amn,'magic items'
+1,Athkatla,Amn,'mercenaries'
+1,Athkatla,Amn,'pearls'
+1,Athkatla,Amn,'siege weapons']
+2,Amnwater,Amn,['exotic goods (from maztica)'
+2,Amnwater,Amn,'magic items'
+2,Amnwater,Amn,'mercenaries'
+2,Amnwater,Amn,'pearls'
+2,Amnwater,Amn,'siege weapons']
+3,Citadel Amnur,Amn,['exotic goods (from maztica)'
+3,Citadel Amnur,Amn,'magic items'
+3,Citadel Amnur,Amn,'mercenaries'
+3,Citadel Amnur,Amn,'pearls'
+3,Citadel Amnur,Amn,'siege weapons']
+4,Citadel Rashturl,Amn,['exotic goods (from maztica)'
+4,Citadel Rashturl,Amn,'magic items'
+4,Citadel Rashturl,Amn,'mercenaries'
+4,Citadel Rashturl,Amn,'pearls'
+4,Citadel Rashturl,Amn,'siege weapons']
+5,Coryllvol,Amn,['exotic goods (from maztica)'
+5,Coryllvol,Amn,'magic items'
+5,Coryllvol,Amn,'mercenaries'
+5,Coryllvol,Amn,'pearls'
+5,Coryllvol,Amn,'siege weapons']
+6,Crimmor,Amn,['exotic goods (from maztica)'
+6,Crimmor,Amn,'magic items'
+6,Crimmor,Amn,'mercenaries'
+6,Crimmor,Amn,'pearls'
+6,Crimmor,Amn,'siege weapons']
+7,Dark Redoubt,Amn,['exotic goods (from maztica)'
+7,Dark Redoubt,Amn,'magic items'
+7,Dark Redoubt,Amn,'mercenaries'
+7,Dark Redoubt,Amn,'pearls'
+7,Dark Redoubt,Amn,'siege weapons']
+8,Edive,Amn,['exotic goods (from maztica)'
+8,Edive,Amn,'magic items'
+8,Edive,Amn,'mercenaries'
+8,Edive,Amn,'pearls'
+8,Edive,Amn,'siege weapons']
+9,Esford,Amn,['exotic goods (from maztica)'
+9,Esford,Amn,'magic items'
+9,Esford,Amn,'mercenaries'
+9,Esford,Amn,'pearls'
+9,Esford,Amn,'siege weapons']
+10,Eshpurta,Amn,['exotic goods (from maztica)'
+10,Eshpurta,Amn,'magic items'
+10,Eshpurta,Amn,'mercenaries'
+10,Eshpurta,Amn,'pearls'
+10,Eshpurta,Amn,'siege weapons']
+11,Esmeltaran,Amn,['exotic goods (from maztica)'
+11,Esmeltaran,Amn,'magic items'
+11,Esmeltaran,Amn,'mercenaries'
+11,Esmeltaran,Amn,'pearls'
+11,Esmeltaran,Amn,'siege weapons']
+12,Gambiton,Amn,['exotic goods (from maztica)'
+12,Gambiton,Amn,'magic items'
+12,Gambiton,Amn,'mercenaries'
+12,Gambiton,Amn,'pearls'
+12,Gambiton,Amn,'siege weapons']
+13,Goldspires,Amn,['exotic goods (from maztica)'
+13,Goldspires,Amn,'magic items'
+13,Goldspires,Amn,'mercenaries'
+13,Goldspires,Amn,'pearls'
+13,Goldspires,Amn,'siege weapons']
+14,Hillfort Ishla,Amn,['exotic goods (from maztica)'
+14,Hillfort Ishla,Amn,'magic items'
+14,Hillfort Ishla,Amn,'mercenaries'
+14,Hillfort Ishla,Amn,'pearls'
+14,Hillfort Ishla,Amn,'siege weapons']
+15,Hillfort Keshla,Amn,['exotic goods (from maztica)'
+15,Hillfort Keshla,Amn,'magic items'
+15,Hillfort Keshla,Amn,'mercenaries'
+15,Hillfort Keshla,Amn,'pearls'
+15,Hillfort Keshla,Amn,'siege weapons']
+16,Hillfort Torbold,Amn,['exotic goods (from maztica)'
+16,Hillfort Torbold,Amn,'magic items'
+16,Hillfort Torbold,Amn,'mercenaries'
+16,Hillfort Torbold,Amn,'pearls'
+16,Hillfort Torbold,Amn,'siege weapons']
+17,Ideepton,Amn,['exotic goods (from maztica)'
+17,Ideepton,Amn,'magic items'
+17,Ideepton,Amn,'mercenaries'
+17,Ideepton,Amn,'pearls'
+17,Ideepton,Amn,'siege weapons']
+18,Imnescar,Amn,['exotic goods (from maztica)'
+18,Imnescar,Amn,'magic items'
+18,Imnescar,Amn,'mercenaries'
+18,Imnescar,Amn,'pearls'
+18,Imnescar,Amn,'siege weapons']
+19,Keczulla,Amn,['exotic goods (from maztica)'
+19,Keczulla,Amn,'magic items'
+19,Keczulla,Amn,'mercenaries'
+19,Keczulla,Amn,'pearls'
+19,Keczulla,Amn,'siege weapons']
+20,Minsor Vale,Amn,['exotic goods (from maztica)'
+20,Minsor Vale,Amn,'magic items'
+20,Minsor Vale,Amn,'mercenaries'
+20,Minsor Vale,Amn,'pearls'
+20,Minsor Vale,Amn,'siege weapons']
+21,Murann,Amn,['exotic goods (from maztica)'
+21,Murann,Amn,'magic items'
+21,Murann,Amn,'mercenaries'
+21,Murann,Amn,'pearls'
+21,Murann,Amn,'siege weapons']
+22,Nashkel,Amn,['exotic goods (from maztica)'
+22,Nashkel,Amn,'magic items'
+22,Nashkel,Amn,'mercenaries'
+22,Nashkel,Amn,'pearls'
+22,Nashkel,Amn,'siege weapons']
+23,Purskul,Amn,['exotic goods (from maztica)'
+23,Purskul,Amn,'magic items'
+23,Purskul,Amn,'mercenaries'
+23,Purskul,Amn,'pearls'
+23,Purskul,Amn,'siege weapons']
+24,Quarrelshigh,Amn,['exotic goods (from maztica)'
+24,Quarrelshigh,Amn,'magic items'
+24,Quarrelshigh,Amn,'mercenaries'
+24,Quarrelshigh,Amn,'pearls'
+24,Quarrelshigh,Amn,'siege weapons']
+25,Riatavin,Amn,['exotic goods (from maztica)'
+25,Riatavin,Amn,'magic items'
+25,Riatavin,Amn,'mercenaries'
+25,Riatavin,Amn,'pearls'
+25,Riatavin,Amn,'siege weapons']
+26,Scimitar,Amn,['exotic goods (from maztica)'
+26,Scimitar,Amn,'magic items'
+26,Scimitar,Amn,'mercenaries'
+26,Scimitar,Amn,'pearls'
+26,Scimitar,Amn,'siege weapons']
+27,Shatar,Amn,['exotic goods (from maztica)'
+27,Shatar,Amn,'magic items'
+27,Shatar,Amn,'mercenaries'
+27,Shatar,Amn,'pearls'
+27,Shatar,Amn,'siege weapons']
+28,Shepherdston,Amn,['exotic goods (from maztica)'
+28,Shepherdston,Amn,'magic items'
+28,Shepherdston,Amn,'mercenaries'
+28,Shepherdston,Amn,'pearls'
+28,Shepherdston,Amn,'siege weapons']
+29,Trademeet,Amn,['exotic goods (from maztica)'
+29,Trademeet,Amn,'magic items'
+29,Trademeet,Amn,'mercenaries'
+29,Trademeet,Amn,'pearls'
+29,Trademeet,Amn,'siege weapons']
+30,Trailstone,Amn,['exotic goods (from maztica)'
+30,Trailstone,Amn,'magic items'
+30,Trailstone,Amn,'mercenaries'
+30,Trailstone,Amn,'pearls'
+30,Trailstone,Amn,'siege weapons']
+31,Zinner,Amn,['exotic goods (from maztica)'
+31,Zinner,Amn,'magic items'
+31,Zinner,Amn,'mercenaries'
+31,Zinner,Amn,'pearls'
+31,Zinner,Amn,'siege weapons']
+32,Calimport,Calimshan,['food'
+32,Calimport,Calimshan,'enslaved peoples'
+32,Calimport,Calimshan,'magic']
+33,Almraiven,Calimshan,['food'
+33,Almraiven,Calimshan,'enslaved peoples'
+33,Almraiven,Calimshan,'magic']
+34,Keltar,Calimshan,['food'
+34,Keltar,Calimshan,'enslaved peoples'
+34,Keltar,Calimshan,'magic']
+35,Manshaka,Calimshan,['food'
+35,Manshaka,Calimshan,'enslaved peoples'
+35,Manshaka,Calimshan,'magic']
+36,Memnon,Calimshan,['food'
+36,Memnon,Calimshan,'enslaved peoples'
+36,Memnon,Calimshan,'magic']
+37,Schamedar,Calimshan,['food'
+37,Schamedar,Calimshan,'enslaved peoples'
+37,Schamedar,Calimshan,'magic']
+38,Suldolphor,Calimshan,['food'
+38,Suldolphor,Calimshan,'enslaved peoples'
+38,Suldolphor,Calimshan,'magic']
+39,Teshburl,Calimshan,['food'
+39,Teshburl,Calimshan,'enslaved peoples'
+39,Teshburl,Calimshan,'magic']
+40,Volothamp,Calimshan,['food'
+40,Volothamp,Calimshan,'enslaved peoples'
+40,Volothamp,Calimshan,'magic']
+41,Cimbar,Chessenta,['cheese'
+41,Cimbar,Chessenta,'glass'
+41,Cimbar,Chessenta,'horses'
+41,Cimbar,Chessenta,'magic weapons'
+41,Cimbar,Chessenta,'mercenaries'
+41,Cimbar,Chessenta,'perfume'
+41,Cimbar,Chessenta,'pork'
+41,Cimbar,Chessenta,'slaves']
+42,Airspur,Chessenta,['cheese'
+42,Airspur,Chessenta,'glass'
+42,Airspur,Chessenta,'horses'
+42,Airspur,Chessenta,'magic weapons'
+42,Airspur,Chessenta,'mercenaries'
+42,Airspur,Chessenta,'perfume'
+42,Airspur,Chessenta,'pork'
+42,Airspur,Chessenta,'slaves']
+43,Akanax,Chessenta,['cheese'
+43,Akanax,Chessenta,'glass'
+43,Akanax,Chessenta,'horses'
+43,Akanax,Chessenta,'magic weapons'
+43,Akanax,Chessenta,'mercenaries'
+43,Akanax,Chessenta,'perfume'
+43,Akanax,Chessenta,'pork'
+43,Akanax,Chessenta,'slaves']
+44,Erebos,Chessenta,['cheese'
+44,Erebos,Chessenta,'glass'
+44,Erebos,Chessenta,'horses'
+44,Erebos,Chessenta,'magic weapons'
+44,Erebos,Chessenta,'mercenaries'
+44,Erebos,Chessenta,'perfume'
+44,Erebos,Chessenta,'pork'
+44,Erebos,Chessenta,'slaves']
+45,Gaj,Chessenta,['cheese'
+45,Gaj,Chessenta,'glass'
+45,Gaj,Chessenta,'horses'
+45,Gaj,Chessenta,'magic weapons'
+45,Gaj,Chessenta,'mercenaries'
+45,Gaj,Chessenta,'perfume'
+45,Gaj,Chessenta,'pork'
+45,Gaj,Chessenta,'slaves']
+46,Heptios,Chessenta,['cheese'
+46,Heptios,Chessenta,'glass'
+46,Heptios,Chessenta,'horses'
+46,Heptios,Chessenta,'magic weapons'
+46,Heptios,Chessenta,'mercenaries'
+46,Heptios,Chessenta,'perfume'
+46,Heptios,Chessenta,'pork'
+46,Heptios,Chessenta,'slaves']
+47,Luthcheq,Chessenta,['cheese'
+47,Luthcheq,Chessenta,'glass'
+47,Luthcheq,Chessenta,'horses'
+47,Luthcheq,Chessenta,'magic weapons'
+47,Luthcheq,Chessenta,'mercenaries'
+47,Luthcheq,Chessenta,'perfume'
+47,Luthcheq,Chessenta,'pork'
+47,Luthcheq,Chessenta,'slaves']
+48,Maerduuth,Chessenta,['cheese'
+48,Maerduuth,Chessenta,'glass'
+48,Maerduuth,Chessenta,'horses'
+48,Maerduuth,Chessenta,'magic weapons'
+48,Maerduuth,Chessenta,'mercenaries'
+48,Maerduuth,Chessenta,'perfume'
+48,Maerduuth,Chessenta,'pork'
+48,Maerduuth,Chessenta,'slaves']
+49,Mordulkin,Chessenta,['cheese'
+49,Mordulkin,Chessenta,'glass'
+49,Mordulkin,Chessenta,'horses'
+49,Mordulkin,Chessenta,'magic weapons'
+49,Mordulkin,Chessenta,'mercenaries'
+49,Mordulkin,Chessenta,'perfume'
+49,Mordulkin,Chessenta,'pork'
+49,Mordulkin,Chessenta,'slaves']
+50,Oslin,Chessenta,['cheese'
+50,Oslin,Chessenta,'glass'
+50,Oslin,Chessenta,'horses'
+50,Oslin,Chessenta,'magic weapons'
+50,Oslin,Chessenta,'mercenaries'
+50,Oslin,Chessenta,'perfume'
+50,Oslin,Chessenta,'pork'
+50,Oslin,Chessenta,'slaves']
+51,Pandrik,Chessenta,['cheese'
+51,Pandrik,Chessenta,'glass'
+51,Pandrik,Chessenta,'horses'
+51,Pandrik,Chessenta,'magic weapons'
+51,Pandrik,Chessenta,'mercenaries'
+51,Pandrik,Chessenta,'perfume'
+51,Pandrik,Chessenta,'pork'
+51,Pandrik,Chessenta,'slaves']
+52,Rodanar,Chessenta,['cheese'
+52,Rodanar,Chessenta,'glass'
+52,Rodanar,Chessenta,'horses'
+52,Rodanar,Chessenta,'magic weapons'
+52,Rodanar,Chessenta,'mercenaries'
+52,Rodanar,Chessenta,'perfume'
+52,Rodanar,Chessenta,'pork'
+52,Rodanar,Chessenta,'slaves']
+53,Saden,Chessenta,['cheese'
+53,Saden,Chessenta,'glass'
+53,Saden,Chessenta,'horses'
+53,Saden,Chessenta,'magic weapons'
+53,Saden,Chessenta,'mercenaries'
+53,Saden,Chessenta,'perfume'
+53,Saden,Chessenta,'pork'
+53,Saden,Chessenta,'slaves']
+54,Samnur,Chessenta,['cheese'
+54,Samnur,Chessenta,'glass'
+54,Samnur,Chessenta,'horses'
+54,Samnur,Chessenta,'magic weapons'
+54,Samnur,Chessenta,'mercenaries'
+54,Samnur,Chessenta,'perfume'
+54,Samnur,Chessenta,'pork'
+54,Samnur,Chessenta,'slaves']
+55,Soolabax,Chessenta,['cheese'
+55,Soolabax,Chessenta,'glass'
+55,Soolabax,Chessenta,'horses'
+55,Soolabax,Chessenta,'magic weapons'
+55,Soolabax,Chessenta,'mercenaries'
+55,Soolabax,Chessenta,'perfume'
+55,Soolabax,Chessenta,'pork'
+55,Soolabax,Chessenta,'slaves']
+56,Soorenar,Chessenta,['cheese'
+56,Soorenar,Chessenta,'glass'
+56,Soorenar,Chessenta,'horses'
+56,Soorenar,Chessenta,'magic weapons'
+56,Soorenar,Chessenta,'mercenaries'
+56,Soorenar,Chessenta,'perfume'
+56,Soorenar,Chessenta,'pork'
+56,Soorenar,Chessenta,'slaves']
+57,Toreus,Chessenta,['cheese'
+57,Toreus,Chessenta,'glass'
+57,Toreus,Chessenta,'horses'
+57,Toreus,Chessenta,'magic weapons'
+57,Toreus,Chessenta,'mercenaries'
+57,Toreus,Chessenta,'perfume'
+57,Toreus,Chessenta,'pork'
+57,Toreus,Chessenta,'slaves']
+58,Tulach,Chessenta,['cheese'
+58,Tulach,Chessenta,'glass'
+58,Tulach,Chessenta,'horses'
+58,Tulach,Chessenta,'magic weapons'
+58,Tulach,Chessenta,'mercenaries'
+58,Tulach,Chessenta,'perfume'
+58,Tulach,Chessenta,'pork'
+58,Tulach,Chessenta,'slaves']
+59,Villon,Chessenta,['cheese'
+59,Villon,Chessenta,'glass'
+59,Villon,Chessenta,'horses'
+59,Villon,Chessenta,'magic weapons'
+59,Villon,Chessenta,'mercenaries'
+59,Villon,Chessenta,'perfume'
+59,Villon,Chessenta,'pork'
+59,Villon,Chessenta,'slaves']
+60,Suzail,Cormyr,['glass'
+60,Suzail,Cormyr,'ivory'
+60,Suzail,Cormyr,'spices']
+61,Arabel,Cormyr,['glass'
+61,Arabel,Cormyr,'ivory'
+61,Arabel,Cormyr,'spices']
+62,Aunkspear,Cormyr,['glass'
+62,Aunkspear,Cormyr,'ivory'
+62,Aunkspear,Cormyr,'spices']
+63,Battlerise,Cormyr,['glass'
+63,Battlerise,Cormyr,'ivory'
+63,Battlerise,Cormyr,'spices']
+64,Besert,Cormyr,['glass'
+64,Besert,Cormyr,'ivory'
+64,Besert,Cormyr,'spices']
+65,Blustich,Cormyr,['glass'
+65,Blustich,Cormyr,'ivory'
+65,Blustich,Cormyr,'spices']
+66,Bogbrook,Cormyr,['glass'
+66,Bogbrook,Cormyr,'ivory'
+66,Bogbrook,Cormyr,'spices']
+67,Bospir,Cormyr,['glass'
+67,Bospir,Cormyr,'ivory'
+67,Bospir,Cormyr,'spices']
+68,Castle Crag,Cormyr,['glass'
+68,Castle Crag,Cormyr,'ivory'
+68,Castle Crag,Cormyr,'spices']
+69,Dawngleam,Cormyr,['glass'
+69,Dawngleam,Cormyr,'ivory'
+69,Dawngleam,Cormyr,'spices']
+70,Dhedluk,Cormyr,['glass'
+70,Dhedluk,Cormyr,'ivory'
+70,Dhedluk,Cormyr,'spices']
+71,Dreamer’s Rock,Cormyr,['glass'
+71,Dreamer’s Rock,Cormyr,'ivory'
+71,Dreamer’s Rock,Cormyr,'spices']
+72,Espar,Cormyr,['glass'
+72,Espar,Cormyr,'ivory'
+72,Espar,Cormyr,'spices']
+73,Eveningstar,Cormyr,['glass'
+73,Eveningstar,Cormyr,'ivory'
+73,Eveningstar,Cormyr,'spices']
+74,Ghars,Cormyr,['glass'
+74,Ghars,Cormyr,'ivory'
+74,Ghars,Cormyr,'spices']
+75,Gladehap,Cormyr,['glass'
+75,Gladehap,Cormyr,'ivory'
+75,Gladehap,Cormyr,'spices']
+76,Gorthin,Cormyr,['glass'
+76,Gorthin,Cormyr,'ivory'
+76,Gorthin,Cormyr,'spices']
+77,Gray Oaks,Cormyr,['glass'
+77,Gray Oaks,Cormyr,'ivory'
+77,Gray Oaks,Cormyr,'spices']
+78,Halfhap,Cormyr,['glass'
+78,Halfhap,Cormyr,'ivory'
+78,Halfhap,Cormyr,'spices']
+79,High Horn,Cormyr,['glass'
+79,High Horn,Cormyr,'ivory'
+79,High Horn,Cormyr,'spices']
+80,Hillmarch,Cormyr,['glass'
+80,Hillmarch,Cormyr,'ivory'
+80,Hillmarch,Cormyr,'spices']
+81,Hilp,Cormyr,['glass'
+81,Hilp,Cormyr,'ivory'
+81,Hilp,Cormyr,'spices']
+82,Hultail,Cormyr,['glass'
+82,Hultail,Cormyr,'ivory'
+82,Hultail,Cormyr,'spices']
+83,Immersea,Cormyr,['glass'
+83,Immersea,Cormyr,'ivory'
+83,Immersea,Cormyr,'spices']
+84,Juniril,Cormyr,['glass'
+84,Juniril,Cormyr,'ivory'
+84,Juniril,Cormyr,'spices']
+85,Kallamarn,Cormyr,['glass'
+85,Kallamarn,Cormyr,'ivory'
+85,Kallamarn,Cormyr,'spices']
+86,Kirinwood,Cormyr,['glass'
+86,Kirinwood,Cormyr,'ivory'
+86,Kirinwood,Cormyr,'spices']
+87,Knightswood,Cormyr,['glass'
+87,Knightswood,Cormyr,'ivory'
+87,Knightswood,Cormyr,'spices']
+88,Marsark’s Grove,Cormyr,['glass'
+88,Marsark’s Grove,Cormyr,'ivory'
+88,Marsark’s Grove,Cormyr,'spices']
+89,Marsember,Cormyr,['glass'
+89,Marsember,Cormyr,'ivory'
+89,Marsember,Cormyr,'spices']
+90,Minroe,Cormyr,['glass'
+90,Minroe,Cormyr,'ivory'
+90,Minroe,Cormyr,'spices']
+91,Monksblade,Cormyr,['glass'
+91,Monksblade,Cormyr,'ivory'
+91,Monksblade,Cormyr,'spices']
+92,Moonever,Cormyr,['glass'
+92,Moonever,Cormyr,'ivory'
+92,Moonever,Cormyr,'spices']
+93,Mouth O’ Gargoyles,Cormyr,['glass'
+93,Mouth O’ Gargoyles,Cormyr,'ivory'
+93,Mouth O’ Gargoyles,Cormyr,'spices']
+94,Nesmyth,Cormyr,['glass'
+94,Nesmyth,Cormyr,'ivory'
+94,Nesmyth,Cormyr,'spices']
+95,Ongul’s Water,Cormyr,['glass'
+95,Ongul’s Water,Cormyr,'ivory'
+95,Ongul’s Water,Cormyr,'spices']
+96,Redspring,Cormyr,['glass'
+96,Redspring,Cormyr,'ivory'
+96,Redspring,Cormyr,'spices']
+97,Smuggler’s Stone,Cormyr,['glass'
+97,Smuggler’s Stone,Cormyr,'ivory'
+97,Smuggler’s Stone,Cormyr,'spices']
+98,Stag Steads,Cormyr,['glass'
+98,Stag Steads,Cormyr,'ivory'
+98,Stag Steads,Cormyr,'spices']
+99,Sunset Hill,Cormyr,['glass'
+99,Sunset Hill,Cormyr,'ivory'
+99,Sunset Hill,Cormyr,'spices']
+100,Thunderstone,Cormyr,['glass'
+100,Thunderstone,Cormyr,'ivory'
+100,Thunderstone,Cormyr,'spices']
+101,Tilverton,Cormyr,['glass'
+101,Tilverton,Cormyr,'ivory'
+101,Tilverton,Cormyr,'spices']
+102,Tyrluk,Cormyr,['glass'
+102,Tyrluk,Cormyr,'ivory'
+102,Tyrluk,Cormyr,'spices']
+103,Waymoot,Cormyr,['glass'
+103,Waymoot,Cormyr,'ivory'
+103,Waymoot,Cormyr,'spices']
+104,Wheloon,Cormyr,['glass'
+104,Wheloon,Cormyr,'ivory'
+104,Wheloon,Cormyr,'spices']
+105,Wormtower,Cormyr,['glass'
+105,Wormtower,Cormyr,'ivory'
+105,Wormtower,Cormyr,'spices']
+106,Yeoman Bridge,Cormyr,['glass'
+106,Yeoman Bridge,Cormyr,'ivory'
+106,Yeoman Bridge,Cormyr,'spices']
+142,Halarahh,Halruaa,['exotic magic items'
+142,Halarahh,Halruaa,'jewellery'
+142,Halarahh,Halruaa,'precious metals'
+142,Halarahh,Halruaa,'musical instruments'
+142,Halarahh,Halruaa,'silk']
+143,Achelar,Halruaa,['exotic magic items'
+143,Achelar,Halruaa,'jewellery'
+143,Achelar,Halruaa,'precious metals'
+143,Achelar,Halruaa,'musical instruments'
+143,Achelar,Halruaa,'silk']
+144,Alathil,Halruaa,['exotic magic items'
+144,Alathil,Halruaa,'jewellery'
+144,Alathil,Halruaa,'precious metals'
+144,Alathil,Halruaa,'musical instruments'
+144,Alathil,Halruaa,'silk']
+145,Alu,Halruaa,['exotic magic items'
+145,Alu,Halruaa,'jewellery'
+145,Alu,Halruaa,'precious metals'
+145,Alu,Halruaa,'musical instruments'
+145,Alu,Halruaa,'silk']
+146,Aluarim,Halruaa,['exotic magic items'
+146,Aluarim,Halruaa,'jewellery'
+146,Aluarim,Halruaa,'precious metals'
+146,Aluarim,Halruaa,'musical instruments'
+146,Aluarim,Halruaa,'silk']
+147,Assundath,Halruaa,['exotic magic items'
+147,Assundath,Halruaa,'jewellery'
+147,Assundath,Halruaa,'precious metals'
+147,Assundath,Halruaa,'musical instruments'
+147,Assundath,Halruaa,'silk']
+148,Bathmé,Halruaa,['exotic magic items'
+148,Bathmé,Halruaa,'jewellery'
+148,Bathmé,Halruaa,'precious metals'
+148,Bathmé,Halruaa,'musical instruments'
+148,Bathmé,Halruaa,'silk']
+149,Borah,Halruaa,['exotic magic items'
+149,Borah,Halruaa,'jewellery'
+149,Borah,Halruaa,'precious metals'
+149,Borah,Halruaa,'musical instruments'
+149,Borah,Halruaa,'silk']
+150,Edouura,Halruaa,['exotic magic items'
+150,Edouura,Halruaa,'jewellery'
+150,Edouura,Halruaa,'precious metals'
+150,Edouura,Halruaa,'musical instruments'
+150,Edouura,Halruaa,'silk']
+151,Elchul,Halruaa,['exotic magic items'
+151,Elchul,Halruaa,'jewellery'
+151,Elchul,Halruaa,'precious metals'
+151,Elchul,Halruaa,'musical instruments'
+151,Elchul,Halruaa,'silk']
+152,Eru,Halruaa,['exotic magic items'
+152,Eru,Halruaa,'jewellery'
+152,Eru,Halruaa,'precious metals'
+152,Eru,Halruaa,'musical instruments'
+152,Eru,Halruaa,'silk']
+153,Galdel,Halruaa,['exotic magic items'
+153,Galdel,Halruaa,'jewellery'
+153,Galdel,Halruaa,'precious metals'
+153,Galdel,Halruaa,'musical instruments'
+153,Galdel,Halruaa,'silk']
+154,Githim,Halruaa,['exotic magic items'
+154,Githim,Halruaa,'jewellery'
+154,Githim,Halruaa,'precious metals'
+154,Githim,Halruaa,'musical instruments'
+154,Githim,Halruaa,'silk']
+155,Halabar,Halruaa,['exotic magic items'
+155,Halabar,Halruaa,'jewellery'
+155,Halabar,Halruaa,'precious metals'
+155,Halabar,Halruaa,'musical instruments'
+155,Halabar,Halruaa,'silk']
+156,Halagard,Halruaa,['exotic magic items'
+156,Halagard,Halruaa,'jewellery'
+156,Halagard,Halruaa,'precious metals'
+156,Halagard,Halruaa,'musical instruments'
+156,Halagard,Halruaa,'silk']
+157,Halazé,Halruaa,['exotic magic items'
+157,Halazé,Halruaa,'jewellery'
+157,Halazé,Halruaa,'precious metals'
+157,Halazé,Halruaa,'musical instruments'
+157,Halazé,Halruaa,'silk']
+158,Hamphal,Halruaa,['exotic magic items'
+158,Hamphal,Halruaa,'jewellery'
+158,Hamphal,Halruaa,'precious metals'
+158,Hamphal,Halruaa,'musical instruments'
+158,Hamphal,Halruaa,'silk']
+159,Khaerbaal,Halruaa,['exotic magic items'
+159,Khaerbaal,Halruaa,'jewellery'
+159,Khaerbaal,Halruaa,'precious metals'
+159,Khaerbaal,Halruaa,'musical instruments'
+159,Khaerbaal,Halruaa,'silk']
+160,Kithyym,Halruaa,['exotic magic items'
+160,Kithyym,Halruaa,'jewellery'
+160,Kithyym,Halruaa,'precious metals'
+160,Kithyym,Halruaa,'musical instruments'
+160,Kithyym,Halruaa,'silk']
+161,Lath,Halruaa,['exotic magic items'
+161,Lath,Halruaa,'jewellery'
+161,Lath,Halruaa,'precious metals'
+161,Lath,Halruaa,'musical instruments'
+161,Lath,Halruaa,'silk']
+162,Letharr,Halruaa,['exotic magic items'
+162,Letharr,Halruaa,'jewellery'
+162,Letharr,Halruaa,'precious metals'
+162,Letharr,Halruaa,'musical instruments'
+162,Letharr,Halruaa,'silk']
+163,Lhaddas,Halruaa,['exotic magic items'
+163,Lhaddas,Halruaa,'jewellery'
+163,Lhaddas,Halruaa,'precious metals'
+163,Lhaddas,Halruaa,'musical instruments'
+163,Lhaddas,Halruaa,'silk']
+164,Lhair,Halruaa,['exotic magic items'
+164,Lhair,Halruaa,'jewellery'
+164,Lhair,Halruaa,'precious metals'
+164,Lhair,Halruaa,'musical instruments'
+164,Lhair,Halruaa,'silk']
+165,Maerass,Halruaa,['exotic magic items'
+165,Maerass,Halruaa,'jewellery'
+165,Maerass,Halruaa,'precious metals'
+165,Maerass,Halruaa,'musical instruments'
+165,Maerass,Halruaa,'silk']
+166,Maeruhal,Halruaa,['exotic magic items'
+166,Maeruhal,Halruaa,'jewellery'
+166,Maeruhal,Halruaa,'precious metals'
+166,Maeruhal,Halruaa,'musical instruments'
+166,Maeruhal,Halruaa,'silk']
+167,Maerzalar,Halruaa,['exotic magic items'
+167,Maerzalar,Halruaa,'jewellery'
+167,Maerzalar,Halruaa,'precious metals'
+167,Maerzalar,Halruaa,'musical instruments'
+167,Maerzalar,Halruaa,'silk']
+168,Maezoun,Halruaa,['exotic magic items'
+168,Maezoun,Halruaa,'jewellery'
+168,Maezoun,Halruaa,'precious metals'
+168,Maezoun,Halruaa,'musical instruments'
+168,Maezoun,Halruaa,'silk']
+169,Mairb,Halruaa,['exotic magic items'
+169,Mairb,Halruaa,'jewellery'
+169,Mairb,Halruaa,'precious metals'
+169,Mairb,Halruaa,'musical instruments'
+169,Mairb,Halruaa,'silk']
+170,Martass,Halruaa,['exotic magic items'
+170,Martass,Halruaa,'jewellery'
+170,Martass,Halruaa,'precious metals'
+170,Martass,Halruaa,'musical instruments'
+170,Martass,Halruaa,'silk']
+171,Mithel,Halruaa,['exotic magic items'
+171,Mithel,Halruaa,'jewellery'
+171,Mithel,Halruaa,'precious metals'
+171,Mithel,Halruaa,'musical instruments'
+171,Mithel,Halruaa,'silk']
+172,Mithtar,Halruaa,['exotic magic items'
+172,Mithtar,Halruaa,'jewellery'
+172,Mithtar,Halruaa,'precious metals'
+172,Mithtar,Halruaa,'musical instruments'
+172,Mithtar,Halruaa,'silk']
+173,Nishtul,Halruaa,['exotic magic items'
+173,Nishtul,Halruaa,'jewellery'
+173,Nishtul,Halruaa,'precious metals'
+173,Nishtul,Halruaa,'musical instruments'
+173,Nishtul,Halruaa,'silk']
+174,Nuulatha,Halruaa,['exotic magic items'
+174,Nuulatha,Halruaa,'jewellery'
+174,Nuulatha,Halruaa,'precious metals'
+174,Nuulatha,Halruaa,'musical instruments'
+174,Nuulatha,Halruaa,'silk']
+175,Orbedal,Halruaa,['exotic magic items'
+175,Orbedal,Halruaa,'jewellery'
+175,Orbedal,Halruaa,'precious metals'
+175,Orbedal,Halruaa,'musical instruments'
+175,Orbedal,Halruaa,'silk']
+176,Rulasuu,Halruaa,['exotic magic items'
+176,Rulasuu,Halruaa,'jewellery'
+176,Rulasuu,Halruaa,'precious metals'
+176,Rulasuu,Halruaa,'musical instruments'
+176,Rulasuu,Halruaa,'silk']
+177,Rwamphaler,Halruaa,['exotic magic items'
+177,Rwamphaler,Halruaa,'jewellery'
+177,Rwamphaler,Halruaa,'precious metals'
+177,Rwamphaler,Halruaa,'musical instruments'
+177,Rwamphaler,Halruaa,'silk']
+178,Salhantar,Halruaa,['exotic magic items'
+178,Salhantar,Halruaa,'jewellery'
+178,Salhantar,Halruaa,'precious metals'
+178,Salhantar,Halruaa,'musical instruments'
+178,Salhantar,Halruaa,'silk']
+179,Ssorsil,Halruaa,['exotic magic items'
+179,Ssorsil,Halruaa,'jewellery'
+179,Ssorsil,Halruaa,'precious metals'
+179,Ssorsil,Halruaa,'musical instruments'
+179,Ssorsil,Halruaa,'silk']
+180,Sulaziir,Halruaa,['exotic magic items'
+180,Sulaziir,Halruaa,'jewellery'
+180,Sulaziir,Halruaa,'precious metals'
+180,Sulaziir,Halruaa,'musical instruments'
+180,Sulaziir,Halruaa,'silk']
+181,Talathgard,Halruaa,['exotic magic items'
+181,Talathgard,Halruaa,'jewellery'
+181,Talathgard,Halruaa,'precious metals'
+181,Talathgard,Halruaa,'musical instruments'
+181,Talathgard,Halruaa,'silk']
+182,Thilzoun,Halruaa,['exotic magic items'
+182,Thilzoun,Halruaa,'jewellery'
+182,Thilzoun,Halruaa,'precious metals'
+182,Thilzoun,Halruaa,'musical instruments'
+182,Thilzoun,Halruaa,'silk']
+183,Thom,Halruaa,['exotic magic items'
+183,Thom,Halruaa,'jewellery'
+183,Thom,Halruaa,'precious metals'
+183,Thom,Halruaa,'musical instruments'
+183,Thom,Halruaa,'silk']
+184,Yaulazna,Halruaa,['exotic magic items'
+184,Yaulazna,Halruaa,'jewellery'
+184,Yaulazna,Halruaa,'precious metals'
+184,Yaulazna,Halruaa,'musical instruments'
+184,Yaulazna,Halruaa,'silk']
+185,Zalazuu,Halruaa,['exotic magic items'
+185,Zalazuu,Halruaa,'jewellery'
+185,Zalazuu,Halruaa,'precious metals'
+185,Zalazuu,Halruaa,'musical instruments'
+185,Zalazuu,Halruaa,'silk']
+186,Zhal,Halruaa,['exotic magic items'
+186,Zhal,Halruaa,'jewellery'
+186,Zhal,Halruaa,'precious metals'
+186,Zhal,Halruaa,'musical instruments'
+186,Zhal,Halruaa,'silk']
+187,Zoundar,Halruaa,['exotic magic items'
+187,Zoundar,Halruaa,'jewellery'
+187,Zoundar,Halruaa,'precious metals'
+187,Zoundar,Halruaa,'musical instruments'
+187,Zoundar,Halruaa,'silk']
+188,Zzuntal,Halruaa,['exotic magic items'
+188,Zzuntal,Halruaa,'jewellery'
+188,Zzuntal,Halruaa,'precious metals'
+188,Zzuntal,Halruaa,'musical instruments'
+188,Zzuntal,Halruaa,'silk']
+189,Lyrabar,Impiltur,['exotic goods'
+189,Lyrabar,Impiltur,'fruit'
+189,Lyrabar,Impiltur,'shipbuilders'
+189,Lyrabar,Impiltur,'tea'
+189,Lyrabar,Impiltur,'vegetables'
+189,Lyrabar,Impiltur,'wood products']
+190,Arn’s Cove,Impiltur,['exotic goods'
+190,Arn’s Cove,Impiltur,'fruit'
+190,Arn’s Cove,Impiltur,'shipbuilders'
+190,Arn’s Cove,Impiltur,'tea'
+190,Arn’s Cove,Impiltur,'vegetables'
+190,Arn’s Cove,Impiltur,'wood products']
+191,Bay Town,Impiltur,['exotic goods'
+191,Bay Town,Impiltur,'fruit'
+191,Bay Town,Impiltur,'shipbuilders'
+191,Bay Town,Impiltur,'tea'
+191,Bay Town,Impiltur,'vegetables'
+191,Bay Town,Impiltur,'wood products']
+192,Borgar’s Mill,Impiltur,['exotic goods'
+192,Borgar’s Mill,Impiltur,'fruit'
+192,Borgar’s Mill,Impiltur,'shipbuilders'
+192,Borgar’s Mill,Impiltur,'tea'
+192,Borgar’s Mill,Impiltur,'vegetables'
+192,Borgar’s Mill,Impiltur,'wood products']
+193,Cairnpur,Impiltur,['exotic goods'
+193,Cairnpur,Impiltur,'fruit'
+193,Cairnpur,Impiltur,'shipbuilders'
+193,Cairnpur,Impiltur,'tea'
+193,Cairnpur,Impiltur,'vegetables'
+193,Cairnpur,Impiltur,'wood products']
+194,Dilpur,Impiltur,['exotic goods'
+194,Dilpur,Impiltur,'fruit'
+194,Dilpur,Impiltur,'shipbuilders'
+194,Dilpur,Impiltur,'tea'
+194,Dilpur,Impiltur,'vegetables'
+194,Dilpur,Impiltur,'wood products']
+195,Filur,Impiltur,['exotic goods'
+195,Filur,Impiltur,'fruit'
+195,Filur,Impiltur,'shipbuilders'
+195,Filur,Impiltur,'tea'
+195,Filur,Impiltur,'vegetables'
+195,Filur,Impiltur,'wood products']
+196,Guidodale,Impiltur,['exotic goods'
+196,Guidodale,Impiltur,'fruit'
+196,Guidodale,Impiltur,'shipbuilders'
+196,Guidodale,Impiltur,'tea'
+196,Guidodale,Impiltur,'vegetables'
+196,Guidodale,Impiltur,'wood products']
+197,Hlammach,Impiltur,['exotic goods'
+197,Hlammach,Impiltur,'fruit'
+197,Hlammach,Impiltur,'shipbuilders'
+197,Hlammach,Impiltur,'tea'
+197,Hlammach,Impiltur,'vegetables'
+197,Hlammach,Impiltur,'wood products']
+198,Ilmwatch,Impiltur,['exotic goods'
+198,Ilmwatch,Impiltur,'fruit'
+198,Ilmwatch,Impiltur,'shipbuilders'
+198,Ilmwatch,Impiltur,'tea'
+198,Ilmwatch,Impiltur,'vegetables'
+198,Ilmwatch,Impiltur,'wood products']
+199,Kielbast,Impiltur,['exotic goods'
+199,Kielbast,Impiltur,'fruit'
+199,Kielbast,Impiltur,'shipbuilders'
+199,Kielbast,Impiltur,'tea'
+199,Kielbast,Impiltur,'vegetables'
+199,Kielbast,Impiltur,'wood products']
+200,Laviguer,Impiltur,['exotic goods'
+200,Laviguer,Impiltur,'fruit'
+200,Laviguer,Impiltur,'shipbuilders'
+200,Laviguer,Impiltur,'tea'
+200,Laviguer,Impiltur,'vegetables'
+200,Laviguer,Impiltur,'wood products']
+201,Lenchford,Impiltur,['exotic goods'
+201,Lenchford,Impiltur,'fruit'
+201,Lenchford,Impiltur,'shipbuilders'
+201,Lenchford,Impiltur,'tea'
+201,Lenchford,Impiltur,'vegetables'
+201,Lenchford,Impiltur,'wood products']
+202,Maracrath,Impiltur,['exotic goods'
+202,Maracrath,Impiltur,'fruit'
+202,Maracrath,Impiltur,'shipbuilders'
+202,Maracrath,Impiltur,'tea'
+202,Maracrath,Impiltur,'vegetables'
+202,Maracrath,Impiltur,'wood products']
+203,Mulltown,Impiltur,['exotic goods'
+203,Mulltown,Impiltur,'fruit'
+203,Mulltown,Impiltur,'shipbuilders'
+203,Mulltown,Impiltur,'tea'
+203,Mulltown,Impiltur,'vegetables'
+203,Mulltown,Impiltur,'wood products']
+204,New Moranay,Impiltur,['exotic goods'
+204,New Moranay,Impiltur,'fruit'
+204,New Moranay,Impiltur,'shipbuilders'
+204,New Moranay,Impiltur,'tea'
+204,New Moranay,Impiltur,'vegetables'
+204,New Moranay,Impiltur,'wood products']
+205,New Sarshel,Impiltur,['exotic goods'
+205,New Sarshel,Impiltur,'fruit'
+205,New Sarshel,Impiltur,'shipbuilders'
+205,New Sarshel,Impiltur,'tea'
+205,New Sarshel,Impiltur,'vegetables'
+205,New Sarshel,Impiltur,'wood products']
+206,Outentown,Impiltur,['exotic goods'
+206,Outentown,Impiltur,'fruit'
+206,Outentown,Impiltur,'shipbuilders'
+206,Outentown,Impiltur,'tea'
+206,Outentown,Impiltur,'vegetables'
+206,Outentown,Impiltur,'wood products']
+207,Pick ‘n’ Axe,Impiltur,['exotic goods'
+207,Pick ‘n’ Axe,Impiltur,'fruit'
+207,Pick ‘n’ Axe,Impiltur,'shipbuilders'
+207,Pick ‘n’ Axe,Impiltur,'tea'
+207,Pick ‘n’ Axe,Impiltur,'vegetables'
+207,Pick ‘n’ Axe,Impiltur,'wood products']
+208,Red Bluffs,Impiltur,['exotic goods'
+208,Red Bluffs,Impiltur,'fruit'
+208,Red Bluffs,Impiltur,'shipbuilders'
+208,Red Bluffs,Impiltur,'tea'
+208,Red Bluffs,Impiltur,'vegetables'
+208,Red Bluffs,Impiltur,'wood products']
+209,Relgar’s Ford,Impiltur,['exotic goods'
+209,Relgar’s Ford,Impiltur,'fruit'
+209,Relgar’s Ford,Impiltur,'shipbuilders'
+209,Relgar’s Ford,Impiltur,'tea'
+209,Relgar’s Ford,Impiltur,'vegetables'
+209,Relgar’s Ford,Impiltur,'wood products']
+210,Sarshel,Impiltur,['exotic goods'
+210,Sarshel,Impiltur,'fruit'
+210,Sarshel,Impiltur,'shipbuilders'
+210,Sarshel,Impiltur,'tea'
+210,Sarshel,Impiltur,'vegetables'
+210,Sarshel,Impiltur,'wood products']
+211,Songhal,Impiltur,['exotic goods'
+211,Songhal,Impiltur,'fruit'
+211,Songhal,Impiltur,'shipbuilders'
+211,Songhal,Impiltur,'tea'
+211,Songhal,Impiltur,'vegetables'
+211,Songhal,Impiltur,'wood products']
+212,Thelnam,Impiltur,['exotic goods'
+212,Thelnam,Impiltur,'fruit'
+212,Thelnam,Impiltur,'shipbuilders'
+212,Thelnam,Impiltur,'tea'
+212,Thelnam,Impiltur,'vegetables'
+212,Thelnam,Impiltur,'wood products']
+213,Three Horns,Impiltur,['exotic goods'
+213,Three Horns,Impiltur,'fruit'
+213,Three Horns,Impiltur,'shipbuilders'
+213,Three Horns,Impiltur,'tea'
+213,Three Horns,Impiltur,'vegetables'
+213,Three Horns,Impiltur,'wood products']
+214,Timbertown,Impiltur,['exotic goods'
+214,Timbertown,Impiltur,'fruit'
+214,Timbertown,Impiltur,'shipbuilders'
+214,Timbertown,Impiltur,'tea'
+214,Timbertown,Impiltur,'vegetables'
+214,Timbertown,Impiltur,'wood products']
+215,Vordric Dun,Impiltur,['exotic goods'
+215,Vordric Dun,Impiltur,'fruit'
+215,Vordric Dun,Impiltur,'shipbuilders'
+215,Vordric Dun,Impiltur,'tea'
+215,Vordric Dun,Impiltur,'vegetables'
+215,Vordric Dun,Impiltur,'wood products']
+216,Caer Callidyrr,Moonshae,['coal'
+216,Caer Callidyrr,Moonshae,'horses'
+216,Caer Callidyrr,Moonshae,'minor magical items'
+216,Caer Callidyrr,Moonshae,'ore'
+216,Caer Callidyrr,Moonshae,'parchment'
+216,Caer Callidyrr,Moonshae,'silk']
+217,Aithelar,Moonshae,['coal'
+217,Aithelar,Moonshae,'horses'
+217,Aithelar,Moonshae,'minor magical items'
+217,Aithelar,Moonshae,'ore'
+217,Aithelar,Moonshae,'parchment'
+217,Aithelar,Moonshae,'silk']
+218,Blackstone,Moonshae,['coal'
+218,Blackstone,Moonshae,'horses'
+218,Blackstone,Moonshae,'minor magical items'
+218,Blackstone,Moonshae,'ore'
+218,Blackstone,Moonshae,'parchment'
+218,Blackstone,Moonshae,'silk']
+219,Blythe,Moonshae,['coal'
+219,Blythe,Moonshae,'horses'
+219,Blythe,Moonshae,'minor magical items'
+219,Blythe,Moonshae,'ore'
+219,Blythe,Moonshae,'parchment'
+219,Blythe,Moonshae,'silk']
+220,Borth,Moonshae,['coal'
+220,Borth,Moonshae,'horses'
+220,Borth,Moonshae,'minor magical items'
+220,Borth,Moonshae,'ore'
+220,Borth,Moonshae,'parchment'
+220,Borth,Moonshae,'silk']
+221,Bounty,Moonshae,['coal'
+221,Bounty,Moonshae,'horses'
+221,Bounty,Moonshae,'minor magical items'
+221,Bounty,Moonshae,'ore'
+221,Bounty,Moonshae,'parchment'
+221,Bounty,Moonshae,'silk']
+222,Brannoch,Moonshae,['coal'
+222,Brannoch,Moonshae,'horses'
+222,Brannoch,Moonshae,'minor magical items'
+222,Brannoch,Moonshae,'ore'
+222,Brannoch,Moonshae,'parchment'
+222,Brannoch,Moonshae,'silk']
+223,Bray,Moonshae,['coal'
+223,Bray,Moonshae,'horses'
+223,Bray,Moonshae,'minor magical items'
+223,Bray,Moonshae,'ore'
+223,Bray,Moonshae,'parchment'
+223,Bray,Moonshae,'silk']
+224,Cambro,Moonshae,['coal'
+224,Cambro,Moonshae,'horses'
+224,Cambro,Moonshae,'minor magical items'
+224,Cambro,Moonshae,'ore'
+224,Cambro,Moonshae,'parchment'
+224,Cambro,Moonshae,'silk']
+225,Caer Corwell,Moonshae,['coal'
+225,Caer Corwell,Moonshae,'horses'
+225,Caer Corwell,Moonshae,'minor magical items'
+225,Caer Corwell,Moonshae,'ore'
+225,Caer Corwell,Moonshae,'parchment'
+225,Caer Corwell,Moonshae,'silk']
+226,Caer Moray,Moonshae,['coal'
+226,Caer Moray,Moonshae,'horses'
+226,Caer Moray,Moonshae,'minor magical items'
+226,Caer Moray,Moonshae,'ore'
+226,Caer Moray,Moonshae,'parchment'
+226,Caer Moray,Moonshae,'silk']
+227,Caer Westphal,Moonshae,['coal'
+227,Caer Westphal,Moonshae,'horses'
+227,Caer Westphal,Moonshae,'minor magical items'
+227,Caer Westphal,Moonshae,'ore'
+227,Caer Westphal,Moonshae,'parchment'
+227,Caer Westphal,Moonshae,'silk']
+228,Caervu,Moonshae,['coal'
+228,Caervu,Moonshae,'horses'
+228,Caervu,Moonshae,'minor magical items'
+228,Caervu,Moonshae,'ore'
+228,Caervu,Moonshae,'parchment'
+228,Caervu,Moonshae,'silk']
+229,Cobh,Moonshae,['coal'
+229,Cobh,Moonshae,'horses'
+229,Cobh,Moonshae,'minor magical items'
+229,Cobh,Moonshae,'ore'
+229,Cobh,Moonshae,'parchment'
+229,Cobh,Moonshae,'silk']
+230,Codfin,Moonshae,['coal'
+230,Codfin,Moonshae,'horses'
+230,Codfin,Moonshae,'minor magical items'
+230,Codfin,Moonshae,'ore'
+230,Codfin,Moonshae,'parchment'
+230,Codfin,Moonshae,'silk']
+231,Codscove,Moonshae,['coal'
+231,Codscove,Moonshae,'horses'
+231,Codscove,Moonshae,'minor magical items'
+231,Codscove,Moonshae,'ore'
+231,Codscove,Moonshae,'parchment'
+231,Codscove,Moonshae,'silk']
+232,Doncastle,Moonshae,['coal'
+232,Doncastle,Moonshae,'horses'
+232,Doncastle,Moonshae,'minor magical items'
+232,Doncastle,Moonshae,'ore'
+232,Doncastle,Moonshae,'parchment'
+232,Doncastle,Moonshae,'silk']
+233,Dorset,Moonshae,['coal'
+233,Dorset,Moonshae,'horses'
+233,Dorset,Moonshae,'minor magical items'
+233,Dorset,Moonshae,'ore'
+233,Dorset,Moonshae,'parchment'
+233,Dorset,Moonshae,'silk']
+234,Dultann,Moonshae,['coal'
+234,Dultann,Moonshae,'horses'
+234,Dultann,Moonshae,'minor magical items'
+234,Dultann,Moonshae,'ore'
+234,Dultann,Moonshae,'parchment'
+234,Dultann,Moonshae,'silk']
+235,Dynnatt,Moonshae,['coal'
+235,Dynnatt,Moonshae,'horses'
+235,Dynnatt,Moonshae,'minor magical items'
+235,Dynnatt,Moonshae,'ore'
+235,Dynnatt,Moonshae,'parchment'
+235,Dynnatt,Moonshae,'silk']
+236,Dynnegall,Moonshae,['coal'
+236,Dynnegall,Moonshae,'horses'
+236,Dynnegall,Moonshae,'minor magical items'
+236,Dynnegall,Moonshae,'ore'
+236,Dynnegall,Moonshae,'parchment'
+236,Dynnegall,Moonshae,'silk']
+237,Elyssyrr,Moonshae,['coal'
+237,Elyssyrr,Moonshae,'horses'
+237,Elyssyrr,Moonshae,'minor magical items'
+237,Elyssyrr,Moonshae,'ore'
+237,Elyssyrr,Moonshae,'parchment'
+237,Elyssyrr,Moonshae,'silk']
+238,Farview,Moonshae,['coal'
+238,Farview,Moonshae,'horses'
+238,Farview,Moonshae,'minor magical items'
+238,Farview,Moonshae,'ore'
+238,Farview,Moonshae,'parchment'
+238,Farview,Moonshae,'silk']
+239,Fenton,Moonshae,['coal'
+239,Fenton,Moonshae,'horses'
+239,Fenton,Moonshae,'minor magical items'
+239,Fenton,Moonshae,'ore'
+239,Fenton,Moonshae,'parchment'
+239,Fenton,Moonshae,'silk']
+240,Grady,Moonshae,['coal'
+240,Grady,Moonshae,'horses'
+240,Grady,Moonshae,'minor magical items'
+240,Grady,Moonshae,'ore'
+240,Grady,Moonshae,'parchment'
+240,Grady,Moonshae,'silk']
+241,Graystone,Moonshae,['coal'
+241,Graystone,Moonshae,'horses'
+241,Graystone,Moonshae,'minor magical items'
+241,Graystone,Moonshae,'ore'
+241,Graystone,Moonshae,'parchment'
+241,Graystone,Moonshae,'silk']
+242,Grimstad,Moonshae,['coal'
+242,Grimstad,Moonshae,'horses'
+242,Grimstad,Moonshae,'minor magical items'
+242,Grimstad,Moonshae,'ore'
+242,Grimstad,Moonshae,'parchment'
+242,Grimstad,Moonshae,'silk']
+243,Harloch,Moonshae,['coal'
+243,Harloch,Moonshae,'horses'
+243,Harloch,Moonshae,'minor magical items'
+243,Harloch,Moonshae,'ore'
+243,Harloch,Moonshae,'parchment'
+243,Harloch,Moonshae,'silk']
+244,Hickorydale,Moonshae,['coal'
+244,Hickorydale,Moonshae,'horses'
+244,Hickorydale,Moonshae,'minor magical items'
+244,Hickorydale,Moonshae,'ore'
+244,Hickorydale,Moonshae,'parchment'
+244,Hickorydale,Moonshae,'silk']
+245,Horsa,Moonshae,['coal'
+245,Horsa,Moonshae,'horses'
+245,Horsa,Moonshae,'minor magical items'
+245,Horsa,Moonshae,'ore'
+245,Horsa,Moonshae,'parchment'
+245,Horsa,Moonshae,'silk']
+246,Horst,Moonshae,['coal'
+246,Horst,Moonshae,'horses'
+246,Horst,Moonshae,'minor magical items'
+246,Horst,Moonshae,'ore'
+246,Horst,Moonshae,'parchment'
+246,Horst,Moonshae,'silk']
+247,Highhome,Moonshae,['coal'
+247,Highhome,Moonshae,'horses'
+247,Highhome,Moonshae,'minor magical items'
+247,Highhome,Moonshae,'ore'
+247,Highhome,Moonshae,'parchment'
+247,Highhome,Moonshae,'silk']
+248,Highrock,Moonshae,['coal'
+248,Highrock,Moonshae,'horses'
+248,Highrock,Moonshae,'minor magical items'
+248,Highrock,Moonshae,'ore'
+248,Highrock,Moonshae,'parchment'
+248,Highrock,Moonshae,'silk']
+249,Holyhead,Moonshae,['coal'
+249,Holyhead,Moonshae,'horses'
+249,Holyhead,Moonshae,'minor magical items'
+249,Holyhead,Moonshae,'ore'
+249,Holyhead,Moonshae,'parchment'
+249,Holyhead,Moonshae,'silk']
+250,Horstall,Moonshae,['coal'
+250,Horstall,Moonshae,'horses'
+250,Horstall,Moonshae,'minor magical items'
+250,Horstall,Moonshae,'ore'
+250,Horstall,Moonshae,'parchment'
+250,Horstall,Moonshae,'silk']
+251,Hyoclaatl,Moonshae,['coal'
+251,Hyoclaatl,Moonshae,'horses'
+251,Hyoclaatl,Moonshae,'minor magical items'
+251,Hyoclaatl,Moonshae,'ore'
+251,Hyoclaatl,Moonshae,'parchment'
+251,Hyoclaatl,Moonshae,'silk']
+252,Kingsbay,Moonshae,['coal'
+252,Kingsbay,Moonshae,'horses'
+252,Kingsbay,Moonshae,'minor magical items'
+252,Kingsbay,Moonshae,'ore'
+252,Kingsbay,Moonshae,'parchment'
+252,Kingsbay,Moonshae,'silk']
+253,Koart,Moonshae,['coal'
+253,Koart,Moonshae,'horses'
+253,Koart,Moonshae,'minor magical items'
+253,Koart,Moonshae,'ore'
+253,Koart,Moonshae,'parchment'
+253,Koart,Moonshae,'silk']
+254,Kork,Moonshae,['coal'
+254,Kork,Moonshae,'horses'
+254,Kork,Moonshae,'minor magical items'
+254,Kork,Moonshae,'ore'
+254,Kork,Moonshae,'parchment'
+254,Kork,Moonshae,'silk']
+255,Kythyss,Moonshae,['coal'
+255,Kythyss,Moonshae,'horses'
+255,Kythyss,Moonshae,'minor magical items'
+255,Kythyss,Moonshae,'ore'
+255,Kythyss,Moonshae,'parchment'
+255,Kythyss,Moonshae,'silk']
+256,Lehigh,Moonshae,['coal'
+256,Lehigh,Moonshae,'horses'
+256,Lehigh,Moonshae,'minor magical items'
+256,Lehigh,Moonshae,'ore'
+256,Lehigh,Moonshae,'parchment'
+256,Lehigh,Moonshae,'silk']
+257,Llandrain,Moonshae,['coal'
+257,Llandrain,Moonshae,'horses'
+257,Llandrain,Moonshae,'minor magical items'
+257,Llandrain,Moonshae,'ore'
+257,Llandrain,Moonshae,'parchment'
+257,Llandrain,Moonshae,'silk']
+258,Llewellyn,Moonshae,['coal'
+258,Llewellyn,Moonshae,'horses'
+258,Llewellyn,Moonshae,'minor magical items'
+258,Llewellyn,Moonshae,'ore'
+258,Llewellyn,Moonshae,'parchment'
+258,Llewellyn,Moonshae,'silk']
+259,Lowhill,Moonshae,['coal'
+259,Lowhill,Moonshae,'horses'
+259,Lowhill,Moonshae,'minor magical items'
+259,Lowhill,Moonshae,'ore'
+259,Lowhill,Moonshae,'parchment'
+259,Lowhill,Moonshae,'silk']
+260,MacSheehan,Moonshae,['coal'
+260,MacSheehan,Moonshae,'horses'
+260,MacSheehan,Moonshae,'minor magical items'
+260,MacSheehan,Moonshae,'ore'
+260,MacSheehan,Moonshae,'parchment'
+260,MacSheehan,Moonshae,'silk']
+261,Manger,Moonshae,['coal'
+261,Manger,Moonshae,'horses'
+261,Manger,Moonshae,'minor magical items'
+261,Manger,Moonshae,'ore'
+261,Manger,Moonshae,'parchment'
+261,Manger,Moonshae,'silk']
+262,Myrrdale,Moonshae,['coal'
+262,Myrrdale,Moonshae,'horses'
+262,Myrrdale,Moonshae,'minor magical items'
+262,Myrrdale,Moonshae,'ore'
+262,Myrrdale,Moonshae,'parchment'
+262,Myrrdale,Moonshae,'silk']
+263,Ogden,Moonshae,['coal'
+263,Ogden,Moonshae,'horses'
+263,Ogden,Moonshae,'minor magical items'
+263,Ogden,Moonshae,'ore'
+263,Ogden,Moonshae,'parchment'
+263,Ogden,Moonshae,'silk']
+264,O’Malley,Moonshae,['coal'
+264,O’Malley,Moonshae,'horses'
+264,O’Malley,Moonshae,'minor magical items'
+264,O’Malley,Moonshae,'ore'
+264,O’Malley,Moonshae,'parchment'
+264,O’Malley,Moonshae,'silk']
+265,Pembroke,Moonshae,['coal'
+265,Pembroke,Moonshae,'horses'
+265,Pembroke,Moonshae,'minor magical items'
+265,Pembroke,Moonshae,'ore'
+265,Pembroke,Moonshae,'parchment'
+265,Pembroke,Moonshae,'silk']
+266,Pengram,Moonshae,['coal'
+266,Pengram,Moonshae,'horses'
+266,Pengram,Moonshae,'minor magical items'
+266,Pengram,Moonshae,'ore'
+266,Pengram,Moonshae,'parchment'
+266,Pengram,Moonshae,'silk']
+267,Pontswain,Moonshae,['coal'
+267,Pontswain,Moonshae,'horses'
+267,Pontswain,Moonshae,'minor magical items'
+267,Pontswain,Moonshae,'ore'
+267,Pontswain,Moonshae,'parchment'
+267,Pontswain,Moonshae,'silk']
+268,Regents Field,Moonshae,['coal'
+268,Regents Field,Moonshae,'horses'
+268,Regents Field,Moonshae,'minor magical items'
+268,Regents Field,Moonshae,'ore'
+268,Regents Field,Moonshae,'parchment'
+268,Regents Field,Moonshae,'silk']
+269,Storaad,Moonshae,['coal'
+269,Storaad,Moonshae,'horses'
+269,Storaad,Moonshae,'minor magical items'
+269,Storaad,Moonshae,'ore'
+269,Storaad,Moonshae,'parchment'
+269,Storaad,Moonshae,'silk']
+270,Tetauctaa,Moonshae,['coal'
+270,Tetauctaa,Moonshae,'horses'
+270,Tetauctaa,Moonshae,'minor magical items'
+270,Tetauctaa,Moonshae,'ore'
+270,Tetauctaa,Moonshae,'parchment'
+270,Tetauctaa,Moonshae,'silk']
+271,Thorndyke,Moonshae,['coal'
+271,Thorndyke,Moonshae,'horses'
+271,Thorndyke,Moonshae,'minor magical items'
+271,Thorndyke,Moonshae,'ore'
+271,Thorndyke,Moonshae,'parchment'
+271,Thorndyke,Moonshae,'silk']
+272,White Rock,Moonshae,['coal'
+272,White Rock,Moonshae,'horses'
+272,White Rock,Moonshae,'minor magical items'
+272,White Rock,Moonshae,'ore'
+272,White Rock,Moonshae,'parchment'
+272,White Rock,Moonshae,'silk']
+273,Wyngate,Moonshae,['coal'
+273,Wyngate,Moonshae,'horses'
+273,Wyngate,Moonshae,'minor magical items'
+273,Wyngate,Moonshae,'ore'
+273,Wyngate,Moonshae,'parchment'
+273,Wyngate,Moonshae,'silk']
+301,Sundice,Sossal,['fine wooden furniture'
+301,Sundice,Sossal,'furs'
+301,Sundice,Sossal,'gold'
+301,Sundice,Sossal,'seal meat']
+302,Sundice,Sossal,['fine wooden furniture'
+302,Sundice,Sossal,'furs'
+302,Sundice,Sossal,'gold'
+302,Sundice,Sossal,'seal meat']
+303,Dharvil,Sossal,['fine wooden furniture'
+303,Dharvil,Sossal,'furs'
+303,Dharvil,Sossal,'gold'
+303,Dharvil,Sossal,'seal meat']
+304,Naupau,Sossal,['fine wooden furniture'
+304,Naupau,Sossal,'furs'
+304,Naupau,Sossal,'gold'
+304,Naupau,Sossal,'seal meat']
+305,Shannath,Sossal,['fine wooden furniture'
+305,Shannath,Sossal,'furs'
+305,Shannath,Sossal,'gold'
+305,Shannath,Sossal,'seal meat']
+306,Uldfest,Sossal,['fine wooden furniture'
+306,Uldfest,Sossal,'furs'
+306,Uldfest,Sossal,'gold'
+306,Uldfest,Sossal,'seal meat']
+307,Darromar,Tethyr,['magic items'
+307,Darromar,Tethyr,'mercenaries'
+307,Darromar,Tethyr,'spices'
+307,Darromar,Tethyr,'weapons']
+308,Abbor,Tethyr,['magic items'
+308,Abbor,Tethyr,'mercenaries'
+308,Abbor,Tethyr,'spices'
+308,Abbor,Tethyr,'weapons']
+309,Banshivale,Tethyr,['magic items'
+309,Banshivale,Tethyr,'mercenaries'
+309,Banshivale,Tethyr,'spices'
+309,Banshivale,Tethyr,'weapons']
+310,Barrowsmorn,Tethyr,['magic items'
+310,Barrowsmorn,Tethyr,'mercenaries'
+310,Barrowsmorn,Tethyr,'spices'
+310,Barrowsmorn,Tethyr,'weapons']
+311,Brost,Tethyr,['magic items'
+311,Brost,Tethyr,'mercenaries'
+311,Brost,Tethyr,'spices'
+311,Brost,Tethyr,'weapons']
+312,Cayr Thalwood,Tethyr,['magic items'
+312,Cayr Thalwood,Tethyr,'mercenaries'
+312,Cayr Thalwood,Tethyr,'spices'
+312,Cayr Thalwood,Tethyr,'weapons']
+313,Colbertann,Tethyr,['magic items'
+313,Colbertann,Tethyr,'mercenaries'
+313,Colbertann,Tethyr,'spices'
+313,Colbertann,Tethyr,'weapons']
+314,Daraqadim,Tethyr,['magic items'
+314,Daraqadim,Tethyr,'mercenaries'
+314,Daraqadim,Tethyr,'spices'
+314,Daraqadim,Tethyr,'weapons']
+315,Dunod,Tethyr,['magic items'
+315,Dunod,Tethyr,'mercenaries'
+315,Dunod,Tethyr,'spices'
+315,Dunod,Tethyr,'weapons']
+316,Elbencourt,Tethyr,['magic items'
+316,Elbencourt,Tethyr,'mercenaries'
+316,Elbencourt,Tethyr,'spices'
+316,Elbencourt,Tethyr,'weapons']
+317,Fort Agis,Tethyr,['magic items'
+317,Fort Agis,Tethyr,'mercenaries'
+317,Fort Agis,Tethyr,'spices'
+317,Fort Agis,Tethyr,'weapons']
+318,Fort Calim,Tethyr,['magic items'
+318,Fort Calim,Tethyr,'mercenaries'
+318,Fort Calim,Tethyr,'spices'
+318,Fort Calim,Tethyr,'weapons']
+319,Fort Teqlar,Tethyr,['magic items'
+319,Fort Teqlar,Tethyr,'mercenaries'
+319,Fort Teqlar,Tethyr,'spices'
+319,Fort Teqlar,Tethyr,'weapons']
+320,Grapton,Tethyr,['magic items'
+320,Grapton,Tethyr,'mercenaries'
+320,Grapton,Tethyr,'spices'
+320,Grapton,Tethyr,'weapons']
+321,Hostim,Tethyr,['magic items'
+321,Hostim,Tethyr,'mercenaries'
+321,Hostim,Tethyr,'spices'
+321,Hostim,Tethyr,'weapons']
+322,Ithal Pass,Tethyr,['magic items'
+322,Ithal Pass,Tethyr,'mercenaries'
+322,Ithal Pass,Tethyr,'spices'
+322,Ithal Pass,Tethyr,'weapons']
+323,Jhaansciim,Tethyr,['magic items'
+323,Jhaansciim,Tethyr,'mercenaries'
+323,Jhaansciim,Tethyr,'spices'
+323,Jhaansciim,Tethyr,'weapons']
+324,Khanall,Tethyr,['magic items'
+324,Khanall,Tethyr,'mercenaries'
+324,Khanall,Tethyr,'spices'
+324,Khanall,Tethyr,'weapons']
+325,Kirgard,Tethyr,['magic items'
+325,Kirgard,Tethyr,'mercenaries'
+325,Kirgard,Tethyr,'spices'
+325,Kirgard,Tethyr,'weapons']
+326,Krennasar,Tethyr,['magic items'
+326,Krennasar,Tethyr,'mercenaries'
+326,Krennasar,Tethyr,'spices'
+326,Krennasar,Tethyr,'weapons']
+327,Kzelter,Tethyr,['magic items'
+327,Kzelter,Tethyr,'mercenaries'
+327,Kzelter,Tethyr,'spices'
+327,Kzelter,Tethyr,'weapons']
+328,Lhestyn’s Hearth,Tethyr,['magic items'
+328,Lhestyn’s Hearth,Tethyr,'mercenaries'
+328,Lhestyn’s Hearth,Tethyr,'spices'
+328,Lhestyn’s Hearth,Tethyr,'weapons']
+329,Loranse,Tethyr,['magic items'
+329,Loranse,Tethyr,'mercenaries'
+329,Loranse,Tethyr,'spices'
+329,Loranse,Tethyr,'weapons']
+330,Lyllburg,Tethyr,['magic items'
+330,Lyllburg,Tethyr,'mercenaries'
+330,Lyllburg,Tethyr,'spices'
+330,Lyllburg,Tethyr,'weapons']
+331,Marakir,Tethyr,['magic items'
+331,Marakir,Tethyr,'mercenaries'
+331,Marakir,Tethyr,'spices'
+331,Marakir,Tethyr,'weapons']
+332,Maratimmir,Tethyr,['magic items'
+332,Maratimmir,Tethyr,'mercenaries'
+332,Maratimmir,Tethyr,'spices'
+332,Maratimmir,Tethyr,'weapons']
+333,Masamount,Tethyr,['magic items'
+333,Masamount,Tethyr,'mercenaries'
+333,Masamount,Tethyr,'spices'
+333,Masamount,Tethyr,'weapons']
+334,Monguldarath,Tethyr,['magic items'
+334,Monguldarath,Tethyr,'mercenaries'
+334,Monguldarath,Tethyr,'spices'
+334,Monguldarath,Tethyr,'weapons']
+335,Morninggold Keep,Tethyr,['magic items'
+335,Morninggold Keep,Tethyr,'mercenaries'
+335,Morninggold Keep,Tethyr,'spices'
+335,Morninggold Keep,Tethyr,'weapons']
+336,Mosstone,Tethyr,['magic items'
+336,Mosstone,Tethyr,'mercenaries'
+336,Mosstone,Tethyr,'spices'
+336,Mosstone,Tethyr,'weapons']
+337,Mount Noblesse,Tethyr,['magic items'
+337,Mount Noblesse,Tethyr,'mercenaries'
+337,Mount Noblesse,Tethyr,'spices'
+337,Mount Noblesse,Tethyr,'weapons']
+338,Myratma,Tethyr,['magic items'
+338,Myratma,Tethyr,'mercenaries'
+338,Myratma,Tethyr,'spices'
+338,Myratma,Tethyr,'weapons']
+339,Myth Dyraalis,Tethyr,['magic items'
+339,Myth Dyraalis,Tethyr,'mercenaries'
+339,Myth Dyraalis,Tethyr,'spices'
+339,Myth Dyraalis,Tethyr,'weapons']
+340,Nomerritin,Tethyr,['magic items'
+340,Nomerritin,Tethyr,'mercenaries'
+340,Nomerritin,Tethyr,'spices'
+340,Nomerritin,Tethyr,'weapons']
+341,Pansemil,Tethyr,['magic items'
+341,Pansemil,Tethyr,'mercenaries'
+341,Pansemil,Tethyr,'spices'
+341,Pansemil,Tethyr,'weapons']
+342,Port Kir,Tethyr,['magic items'
+342,Port Kir,Tethyr,'mercenaries'
+342,Port Kir,Tethyr,'spices'
+342,Port Kir,Tethyr,'weapons']
+343,Qian Hillfort,Tethyr,['magic items'
+343,Qian Hillfort,Tethyr,'mercenaries'
+343,Qian Hillfort,Tethyr,'spices'
+343,Qian Hillfort,Tethyr,'weapons']
+344,Riatavin,Tethyr,['magic items'
+344,Riatavin,Tethyr,'mercenaries'
+344,Riatavin,Tethyr,'spices'
+344,Riatavin,Tethyr,'weapons']
+345,Rock Orchard,Tethyr,['magic items'
+345,Rock Orchard,Tethyr,'mercenaries'
+345,Rock Orchard,Tethyr,'spices'
+345,Rock Orchard,Tethyr,'weapons']
+346,Ruba,Tethyr,['magic items'
+346,Ruba,Tethyr,'mercenaries'
+346,Ruba,Tethyr,'spices'
+346,Ruba,Tethyr,'weapons']
+347,Saharkhan,Tethyr,['magic items'
+347,Saharkhan,Tethyr,'mercenaries'
+347,Saharkhan,Tethyr,'spices'
+347,Saharkhan,Tethyr,'weapons']
+348,Saradush,Tethyr,['magic items'
+348,Saradush,Tethyr,'mercenaries'
+348,Saradush,Tethyr,'spices'
+348,Saradush,Tethyr,'weapons']
+349,Shelshyr House,Tethyr,['magic items'
+349,Shelshyr House,Tethyr,'mercenaries'
+349,Shelshyr House,Tethyr,'spices'
+349,Shelshyr House,Tethyr,'weapons']
+350,Sulduskoonar,Tethyr,['magic items'
+350,Sulduskoonar,Tethyr,'mercenaries'
+350,Sulduskoonar,Tethyr,'spices'
+350,Sulduskoonar,Tethyr,'weapons']
+351,Survale Ford,Tethyr,['magic items'
+351,Survale Ford,Tethyr,'mercenaries'
+351,Survale Ford,Tethyr,'spices'
+351,Survale Ford,Tethyr,'weapons']
+352,Tannitton,Tethyr,['magic items'
+352,Tannitton,Tethyr,'mercenaries'
+352,Tannitton,Tethyr,'spices'
+352,Tannitton,Tethyr,'weapons']
+353,Toaketh,Tethyr,['magic items'
+353,Toaketh,Tethyr,'mercenaries'
+353,Toaketh,Tethyr,'spices'
+353,Toaketh,Tethyr,'weapons']
+354,Toralth,Tethyr,['magic items'
+354,Toralth,Tethyr,'mercenaries'
+354,Toralth,Tethyr,'spices'
+354,Toralth,Tethyr,'weapons']
+355,Trailstone,Tethyr,['magic items'
+355,Trailstone,Tethyr,'mercenaries'
+355,Trailstone,Tethyr,'spices'
+355,Trailstone,Tethyr,'weapons']
+356,Tulmene,Tethyr,['magic items'
+356,Tulmene,Tethyr,'mercenaries'
+356,Tulmene,Tethyr,'spices'
+356,Tulmene,Tethyr,'weapons']
+357,Tweyar,Tethyr,['magic items'
+357,Tweyar,Tethyr,'mercenaries'
+357,Tweyar,Tethyr,'spices'
+357,Tweyar,Tethyr,'weapons']
+358,Upparkol,Tethyr,['magic items'
+358,Upparkol,Tethyr,'mercenaries'
+358,Upparkol,Tethyr,'spices'
+358,Upparkol,Tethyr,'weapons']
+359,Valtreth,Tethyr,['magic items'
+359,Valtreth,Tethyr,'mercenaries'
+359,Valtreth,Tethyr,'spices'
+359,Valtreth,Tethyr,'weapons']
+360,Velen,Tethyr,['magic items'
+360,Velen,Tethyr,'mercenaries'
+360,Velen,Tethyr,'spices'
+360,Velen,Tethyr,'weapons']
+361,Vineshade,Tethyr,['magic items'
+361,Vineshade,Tethyr,'mercenaries'
+361,Vineshade,Tethyr,'spices'
+361,Vineshade,Tethyr,'weapons']
+362,Viperstongue,Tethyr,['magic items'
+362,Viperstongue,Tethyr,'mercenaries'
+362,Viperstongue,Tethyr,'spices'
+362,Viperstongue,Tethyr,'weapons']
+363,Zazesspur,Tethyr,['magic items'
+363,Zazesspur,Tethyr,'mercenaries'
+363,Zazesspur,Tethyr,'spices'
+363,Zazesspur,Tethyr,'weapons']
+364,Eltabbar,Thay,['iron'
+364,Eltabbar,Thay,'magic items'
+364,Eltabbar,Thay,'monsters'
+364,Eltabbar,Thay,'slaves'
+364,Eltabbar,Thay,'spells']
+365,Amruthar,Thay,['iron'
+365,Amruthar,Thay,'magic items'
+365,Amruthar,Thay,'monsters'
+365,Amruthar,Thay,'slaves'
+365,Amruthar,Thay,'spells']
+366,Anhaurz,Thay,['iron'
+366,Anhaurz,Thay,'magic items'
+366,Anhaurz,Thay,'monsters'
+366,Anhaurz,Thay,'slaves'
+366,Anhaurz,Thay,'spells']
+367,Ankhur,Thay,['iron'
+367,Ankhur,Thay,'magic items'
+367,Ankhur,Thay,'monsters'
+367,Ankhur,Thay,'slaves'
+367,Ankhur,Thay,'spells']
+368,Belizir,Thay,['iron'
+368,Belizir,Thay,'magic items'
+368,Belizir,Thay,'monsters'
+368,Belizir,Thay,'slaves'
+368,Belizir,Thay,'spells']
+369,Bezantur,Thay,['iron'
+369,Bezantur,Thay,'magic items'
+369,Bezantur,Thay,'monsters'
+369,Bezantur,Thay,'slaves'
+369,Bezantur,Thay,'spells']
+370,Delabbar,Thay,['iron'
+370,Delabbar,Thay,'magic items'
+370,Delabbar,Thay,'monsters'
+370,Delabbar,Thay,'slaves'
+370,Delabbar,Thay,'spells']
+371,Denzar,Thay,['iron'
+371,Denzar,Thay,'magic items'
+371,Denzar,Thay,'monsters'
+371,Denzar,Thay,'slaves'
+371,Denzar,Thay,'spells']
+372,Escalant,Thay,['iron'
+372,Escalant,Thay,'magic items'
+372,Escalant,Thay,'monsters'
+372,Escalant,Thay,'slaves'
+372,Escalant,Thay,'spells']
+373,Ezreket,Thay,['iron'
+373,Ezreket,Thay,'magic items'
+373,Ezreket,Thay,'monsters'
+373,Ezreket,Thay,'slaves'
+373,Ezreket,Thay,'spells']
+374,Hurkh,Thay,['iron'
+374,Hurkh,Thay,'magic items'
+374,Hurkh,Thay,'monsters'
+374,Hurkh,Thay,'slaves'
+374,Hurkh,Thay,'spells']
+375,Keluthar,Thay,['iron'
+375,Keluthar,Thay,'magic items'
+375,Keluthar,Thay,'monsters'
+375,Keluthar,Thay,'slaves'
+375,Keluthar,Thay,'spells']
+376,Mophur,Thay,['iron'
+376,Mophur,Thay,'magic items'
+376,Mophur,Thay,'monsters'
+376,Mophur,Thay,'slaves'
+376,Mophur,Thay,'spells']
+377,Murbant,Thay,['iron'
+377,Murbant,Thay,'magic items'
+377,Murbant,Thay,'monsters'
+377,Murbant,Thay,'slaves'
+377,Murbant,Thay,'spells']
+378,Nethentir,Thay,['iron'
+378,Nethentir,Thay,'magic items'
+378,Nethentir,Thay,'monsters'
+378,Nethentir,Thay,'slaves'
+378,Nethentir,Thay,'spells']
+379,Nethjet,Thay,['iron'
+379,Nethjet,Thay,'magic items'
+379,Nethjet,Thay,'monsters'
+379,Nethjet,Thay,'slaves'
+379,Nethjet,Thay,'spells']
+380,Nurethretos,Thay,['iron'
+380,Nurethretos,Thay,'magic items'
+380,Nurethretos,Thay,'monsters'
+380,Nurethretos,Thay,'slaves'
+380,Nurethretos,Thay,'spells']
+381,Pyrados,Thay,['iron'
+381,Pyrados,Thay,'magic items'
+381,Pyrados,Thay,'monsters'
+381,Pyrados,Thay,'slaves'
+381,Pyrados,Thay,'spells']
+382,Sefriszar,Thay,['iron'
+382,Sefriszar,Thay,'magic items'
+382,Sefriszar,Thay,'monsters'
+382,Sefriszar,Thay,'slaves'
+382,Sefriszar,Thay,'spells']
+383,Sekelmur,Thay,['iron'
+383,Sekelmur,Thay,'magic items'
+383,Sekelmur,Thay,'monsters'
+383,Sekelmur,Thay,'slaves'
+383,Sekelmur,Thay,'spells']
+384,Solzepar,Thay,['iron'
+384,Solzepar,Thay,'magic items'
+384,Solzepar,Thay,'monsters'
+384,Solzepar,Thay,'slaves'
+384,Solzepar,Thay,'spells']
+385,Surag,Thay,['iron'
+385,Surag,Thay,'magic items'
+385,Surag,Thay,'monsters'
+385,Surag,Thay,'slaves'
+385,Surag,Thay,'spells']
+386,Surthay,Thay,['iron'
+386,Surthay,Thay,'magic items'
+386,Surthay,Thay,'monsters'
+386,Surthay,Thay,'slaves'
+386,Surthay,Thay,'spells']
+387,Szul,Thay,['iron'
+387,Szul,Thay,'magic items'
+387,Szul,Thay,'monsters'
+387,Szul,Thay,'slaves'
+387,Szul,Thay,'spells']
+388,Thasselen,Thay,['iron'
+388,Thasselen,Thay,'magic items'
+388,Thasselen,Thay,'monsters'
+388,Thasselen,Thay,'slaves'
+388,Thasselen,Thay,'spells']
+389,Thazrumaros,Thay,['iron'
+389,Thazrumaros,Thay,'magic items'
+389,Thazrumaros,Thay,'monsters'
+389,Thazrumaros,Thay,'slaves'
+389,Thazrumaros,Thay,'spells']
+390,Tyraturos,Thay,['iron'
+390,Tyraturos,Thay,'magic items'
+390,Tyraturos,Thay,'monsters'
+390,Tyraturos,Thay,'slaves'
+390,Tyraturos,Thay,'spells']
+391,Umratharos,Thay,['iron'
+391,Umratharos,Thay,'magic items'
+391,Umratharos,Thay,'monsters'
+391,Umratharos,Thay,'slaves'
+391,Umratharos,Thay,'spells']
+392,Whitebranch,Thay,['iron'
+392,Whitebranch,Thay,'magic items'
+392,Whitebranch,Thay,'monsters'
+392,Whitebranch,Thay,'slaves'
+392,Whitebranch,Thay,'spells']
+393,Zolum,Thay,['iron'
+393,Zolum,Thay,'magic items'
+393,Zolum,Thay,'monsters'
+393,Zolum,Thay,'slaves'
+393,Zolum,Thay,'spells']
+394,Culdorn,Thesk,['gold'
+394,Culdorn,Thesk,'horses'
+394,Culdorn,Thesk,'trade goods']
+395,Ethvale,Thesk,['gold'
+395,Ethvale,Thesk,'horses'
+395,Ethvale,Thesk,'trade goods']
+396,Fullpoint,Thesk,['gold'
+396,Fullpoint,Thesk,'horses'
+396,Fullpoint,Thesk,'trade goods']
+397,Hill Town,Thesk,['gold'
+397,Hill Town,Thesk,'horses'
+397,Hill Town,Thesk,'trade goods']
+398,Inkar,Thesk,['gold'
+398,Inkar,Thesk,'horses'
+398,Inkar,Thesk,'trade goods']
+399,Milvarune,Thesk,['gold'
+399,Milvarune,Thesk,'horses'
+399,Milvarune,Thesk,'trade goods']
+400,Nyth,Thesk,['gold'
+400,Nyth,Thesk,'horses'
+400,Nyth,Thesk,'trade goods']
+401,Phent,Thesk,['gold'
+401,Phent,Thesk,'horses'
+401,Phent,Thesk,'trade goods']
+402,Phsant,Thesk,['gold'
+402,Phsant,Thesk,'horses'
+402,Phsant,Thesk,'trade goods']
+403,Tammar,Thesk,['gold'
+403,Tammar,Thesk,'horses'
+403,Tammar,Thesk,'trade goods']
+404,Thassalra,Thesk,['gold'
+404,Thassalra,Thesk,'horses'
+404,Thassalra,Thesk,'trade goods']
+405,Two-Stars,Thesk,['gold'
+405,Two-Stars,Thesk,'horses'
+405,Two-Stars,Thesk,'trade goods']
+406,Tezir-on-the-Marsh,Thesk,['gold'
+406,Tezir-on-the-Marsh,Thesk,'horses'
+406,Tezir-on-the-Marsh,Thesk,'trade goods']
+407,Alaghôn,Turmish,['luxury goods'
+407,Alaghôn,Turmish,'metal']
+408,Ayakar,Turmish,['luxury goods'
+408,Ayakar,Turmish,'metal']
+409,Banathar,Turmish,['luxury goods'
+409,Banathar,Turmish,'metal']
+410,Bistal’s Bottom,Turmish,['luxury goods'
+410,Bistal’s Bottom,Turmish,'metal']
+411,Centaur Bridge,Turmish,['luxury goods'
+411,Centaur Bridge,Turmish,'metal']
+412,Daroush,Turmish,['luxury goods'
+412,Daroush,Turmish,'metal']
+413,Dauntshield,Turmish,['luxury goods'
+413,Dauntshield,Turmish,'metal']
+414,Faerie Well,Turmish,['luxury goods'
+414,Faerie Well,Turmish,'metal']
+415,Five Lions,Turmish,['luxury goods'
+415,Five Lions,Turmish,'metal']
+416,Gildenglade,Turmish,['luxury goods'
+416,Gildenglade,Turmish,'metal']
+417,Holdensword,Turmish,['luxury goods'
+417,Holdensword,Turmish,'metal']
+418,Illowwood,Turmish,['luxury goods'
+418,Illowwood,Turmish,'metal']
+419,Ironcloak,Turmish,['luxury goods'
+419,Ironcloak,Turmish,'metal']
+420,Ironfang Deep,Turmish,['luxury goods'
+420,Ironfang Deep,Turmish,'metal']
+421,Jathrin’s Jump,Turmish,['luxury goods'
+421,Jathrin’s Jump,Turmish,'metal']
+422,Karthoon,Turmish,['luxury goods'
+422,Karthoon,Turmish,'metal']
+423,Merrydell,Turmish,['luxury goods'
+423,Merrydell,Turmish,'metal']
+424,Moonhunt Down,Turmish,['luxury goods'
+424,Moonhunt Down,Turmish,'metal']
+425,Morningstar Hollows,Turmish,['luxury goods'
+425,Morningstar Hollows,Turmish,'metal']
+426,Nonthal,Turmish,['luxury goods'
+426,Nonthal,Turmish,'metal']
+427,Peldrathan’s Pool,Turmish,['luxury goods'
+427,Peldrathan’s Pool,Turmish,'metal']
+428,Oberiner’s Well,Turmish,['luxury goods'
+428,Oberiner’s Well,Turmish,'metal']
+429,Quorngar,Turmish,['luxury goods'
+429,Quorngar,Turmish,'metal']
+430,Ravilar’s Cloak,Turmish,['luxury goods'
+430,Ravilar’s Cloak,Turmish,'metal']
+431,Regalia,Turmish,['luxury goods'
+431,Regalia,Turmish,'metal']
+432,Sambryntyn,Turmish,['luxury goods'
+432,Sambryntyn,Turmish,'metal']
+433,Starfall,Turmish,['luxury goods'
+433,Starfall,Turmish,'metal']
+434,Swordslake Creek,Turmish,['luxury goods'
+434,Swordslake Creek,Turmish,'metal']
+435,Tamring,Turmish,['luxury goods'
+435,Tamring,Turmish,'metal']
+436,Ulver’s Lance,Turmish,['luxury goods'
+436,Ulver’s Lance,Turmish,'metal']
+437,Velorn’s Valor,Turmish,['luxury goods'
+437,Velorn’s Valor,Turmish,'metal']
+438,Vollermore,Turmish,['luxury goods'
+438,Vollermore,Turmish,'metal']
+439,Wyvernstone,Turmish,['luxury goods'
+439,Wyvernstone,Turmish,'metal']
+440,Xorhun,Turmish,['luxury goods'
+440,Xorhun,Turmish,'metal']
+441,Zustild,Turmish,['luxury goods'
+441,Zustild,Turmish,'metal']
+442,Unthalass,Unther,['food'
+442,Unthalass,Unther,'mercenaries'
+442,Unthalass,Unther,'slaves'
+442,Unthalass,Unther,'weapons']
+443,Dalath,Unther,['food'
+443,Dalath,Unther,'mercenaries'
+443,Dalath,Unther,'slaves'
+443,Dalath,Unther,'weapons']
+444,Firetrees,Unther,['food'
+444,Firetrees,Unther,'mercenaries'
+444,Firetrees,Unther,'slaves'
+444,Firetrees,Unther,'weapons']
+445,Kaoll,Unther,['food'
+445,Kaoll,Unther,'mercenaries'
+445,Kaoll,Unther,'slaves'
+445,Kaoll,Unther,'weapons']
+446,Messemprar,Unther,['food'
+446,Messemprar,Unther,'mercenaries'
+446,Messemprar,Unther,'slaves'
+446,Messemprar,Unther,'weapons']
+447,Red Haven,Unther,['food'
+447,Red Haven,Unther,'mercenaries'
+447,Red Haven,Unther,'slaves'
+447,Red Haven,Unther,'weapons']
+448,Sadamzar,Unther,['food'
+448,Sadamzar,Unther,'mercenaries'
+448,Sadamzar,Unther,'slaves'
+448,Sadamzar,Unther,'weapons']
+449,Shussel,Unther,['food'
+449,Shussel,Unther,'mercenaries'
+449,Shussel,Unther,'slaves'
+449,Shussel,Unther,'weapons']
+450,Ssintar,Unther,['food'
+450,Ssintar,Unther,'mercenaries'
+450,Ssintar,Unther,'slaves'
+450,Ssintar,Unther,'weapons']
+451,Waterdeep,The Sword Coast,['grain'
+451,Waterdeep,The Sword Coast,'livestock'
+451,Waterdeep,The Sword Coast,'leather'
+451,Waterdeep,The Sword Coast,'ore'
+451,Waterdeep,The Sword Coast,'timber'
+451,Waterdeep,The Sword Coast,'exotic goods from other lands']
+452,Amphail,The Sword Coast,['grain'
+452,Amphail,The Sword Coast,'livestock'
+452,Amphail,The Sword Coast,'leather'
+452,Amphail,The Sword Coast,'ore'
+452,Amphail,The Sword Coast,'timber'
+452,Amphail,The Sword Coast,'exotic goods from other lands']
+453,Rassalantar,The Sword Coast,['grain'
+453,Rassalantar,The Sword Coast,'livestock'
+453,Rassalantar,The Sword Coast,'leather'
+453,Rassalantar,The Sword Coast,'ore'
+453,Rassalantar,The Sword Coast,'timber'
+453,Rassalantar,The Sword Coast,'exotic goods from other lands']
+454,Tharqualnaar,The Sword Coast,['grain'
+454,Tharqualnaar,The Sword Coast,'livestock'
+454,Tharqualnaar,The Sword Coast,'leather'
+454,Tharqualnaar,The Sword Coast,'ore'
+454,Tharqualnaar,The Sword Coast,'timber'
+454,Tharqualnaar,The Sword Coast,'exotic goods from other lands']
+455,T’Quession,The Sword Coast,['grain'
+455,T’Quession,The Sword Coast,'livestock'
+455,T’Quession,The Sword Coast,'leather'
+455,T’Quession,The Sword Coast,'ore'
+455,T’Quession,The Sword Coast,'timber'
+455,T’Quession,The Sword Coast,'exotic goods from other lands']
+456,Neverwinter,The Sword Coast,['grain'
+456,Neverwinter,The Sword Coast,'livestock'
+456,Neverwinter,The Sword Coast,'leather'
+456,Neverwinter,The Sword Coast,'ore'
+456,Neverwinter,The Sword Coast,'timber'
+456,Neverwinter,The Sword Coast,"'exotic goods from other lands', 'crafters',  'mercanaries']"
+457,Baldur's Gate,The Sword Coast,['grain'
+457,Baldur's Gate,The Sword Coast,'livestock'
+457,Baldur's Gate,The Sword Coast,'leather'
+457,Baldur's Gate,The Sword Coast,'ore'
+457,Baldur's Gate,The Sword Coast,'timber'
+457,Baldur's Gate,The Sword Coast,'exotic goods from other lands']
+458,Phandalin,The Sword Coast,['grain'
+458,Phandalin,The Sword Coast,'livestock'
+458,Phandalin,The Sword Coast,'leather'
+458,Phandalin,The Sword Coast,'ore'
+458,Phandalin,The Sword Coast,'timber'
+458,Phandalin,The Sword Coast,'exotic goods from other lands']
+459,Daggerford,The Sword Coast,['grain'
+459,Daggerford,The Sword Coast,'livestock'
+459,Daggerford,The Sword Coast,'leather'
+459,Daggerford,The Sword Coast,'ore'
+459,Daggerford,The Sword Coast,'timber'
+459,Daggerford,The Sword Coast,'exotic goods from other lands']
+460,Mirabar,The Sword Coast,['grain'
+460,Mirabar,The Sword Coast,'livestock'
+460,Mirabar,The Sword Coast,'leather'
+460,Mirabar,The Sword Coast,'ore'
+460,Mirabar,The Sword Coast,'timber'
+460,Mirabar,The Sword Coast,'exotic goods from other lands']
+461,Secomber,The Sword Coast,['grain'
+461,Secomber,The Sword Coast,'livestock'
+461,Secomber,The Sword Coast,'leather'
+461,Secomber,The Sword Coast,'ore'
+461,Secomber,The Sword Coast,'timber'
+461,Secomber,The Sword Coast,'exotic goods from other lands']
+462,Longsaddle,The Sword Coast,['grain'
+462,Longsaddle,The Sword Coast,'livestock'
+462,Longsaddle,The Sword Coast,'leather'
+462,Longsaddle,The Sword Coast,'ore'
+462,Longsaddle,The Sword Coast,'timber'
+462,Longsaddle,The Sword Coast,'exotic goods from other lands']
+463,Zundbridge,The Sword Coast,['grain'
+463,Zundbridge,The Sword Coast,'livestock'
+463,Zundbridge,The Sword Coast,'leather'
+463,Zundbridge,The Sword Coast,'ore'
+463,Zundbridge,The Sword Coast,'timber'
+463,Zundbridge,The Sword Coast,'exotic goods from other lands']
+464,Velprintalar,Aglarond,['glass'
+464,Velprintalar,Aglarond,'iron'
+464,Velprintalar,Aglarond,'textiles'
+464,Velprintalar,Aglarond,'produce']
+465,Corth,Aglarond,['glass'
+465,Corth,Aglarond,'iron'
+465,Corth,Aglarond,'textiles'
+465,Corth,Aglarond,'produce']
+466,Dahst,Aglarond,['glass'
+466,Dahst,Aglarond,'iron'
+466,Dahst,Aglarond,'textiles'
+466,Dahst,Aglarond,'produce']
+467,Dlusk,Aglarond,['glass'
+467,Dlusk,Aglarond,'iron'
+467,Dlusk,Aglarond,'textiles'
+467,Dlusk,Aglarond,'produce']
+468,Emmech,Aglarond,['glass'
+468,Emmech,Aglarond,'iron'
+468,Emmech,Aglarond,'textiles'
+468,Emmech,Aglarond,'produce']
+469,Findar,Aglarond,['glass'
+469,Findar,Aglarond,'iron'
+469,Findar,Aglarond,'textiles'
+469,Findar,Aglarond,'produce']
+470,Furthinghome,Aglarond,['glass'
+470,Furthinghome,Aglarond,'iron'
+470,Furthinghome,Aglarond,'textiles'
+470,Furthinghome,Aglarond,'produce']
+471,Glarondar,Aglarond,['glass'
+471,Glarondar,Aglarond,'iron'
+471,Glarondar,Aglarond,'textiles'
+471,Glarondar,Aglarond,'produce']
+472,Halendos,Aglarond,['glass'
+472,Halendos,Aglarond,'iron'
+472,Halendos,Aglarond,'textiles'
+472,Halendos,Aglarond,'produce']
+473,Ingdal’s Arm,Aglarond,['glass'
+473,Ingdal’s Arm,Aglarond,'iron'
+473,Ingdal’s Arm,Aglarond,'textiles'
+473,Ingdal’s Arm,Aglarond,'produce']
+474,Mesring,Aglarond,['glass'
+474,Mesring,Aglarond,'iron'
+474,Mesring,Aglarond,'textiles'
+474,Mesring,Aglarond,'produce']
+475,Orithar,Aglarond,['glass'
+475,Orithar,Aglarond,'iron'
+475,Orithar,Aglarond,'textiles'
+475,Orithar,Aglarond,'produce']
+476,Osker,Aglarond,['glass'
+476,Osker,Aglarond,'iron'
+476,Osker,Aglarond,'textiles'
+476,Osker,Aglarond,'produce']
+477,Relkath’s Foot,Aglarond,['glass'
+477,Relkath’s Foot,Aglarond,'iron'
+477,Relkath’s Foot,Aglarond,'textiles'
+477,Relkath’s Foot,Aglarond,'produce']
+478,Thayguard,Aglarond,['glass'
+478,Thayguard,Aglarond,'iron'
+478,Thayguard,Aglarond,'textiles'
+478,Thayguard,Aglarond,'produce']
+479,Urst,Aglarond,['glass'
+479,Urst,Aglarond,'iron'
+479,Urst,Aglarond,'textiles'
+479,Urst,Aglarond,'produce']
+480,Urve,Aglarond,['glass'
+480,Urve,Aglarond,'iron'
+480,Urve,Aglarond,'textiles'
+480,Urve,Aglarond,'produce']
+481,Evermeet,Evereska,['metal ore']
+482,Greyhome,Evereska,['metal ore']
+483,Greyshield,Evereska,['metal ore']
+508,Sambar,Lantan,['copper'
+508,Sambar,Lantan,'gemstones'
+508,Sambar,Lantan,'tin'
+508,Sambar,Lantan,'wood']
+509,Anchoril,Lantan,['copper'
+509,Anchoril,Lantan,'gemstones'
+509,Anchoril,Lantan,'tin'
+509,Anchoril,Lantan,'wood']
+510,Baelrah,Lantan,['copper'
+510,Baelrah,Lantan,'gemstones'
+510,Baelrah,Lantan,'tin'
+510,Baelrah,Lantan,'wood']
+511,Darluj,Lantan,['copper'
+511,Darluj,Lantan,'gemstones'
+511,Darluj,Lantan,'tin'
+511,Darluj,Lantan,'wood']
+512,Dtakkar,Lantan,['copper'
+512,Dtakkar,Lantan,'gemstones'
+512,Dtakkar,Lantan,'tin'
+512,Dtakkar,Lantan,'wood']
+513,Illul,Lantan,['copper'
+513,Illul,Lantan,'gemstones'
+513,Illul,Lantan,'tin'
+513,Illul,Lantan,'wood']
+514,Lethtar,Lantan,['copper'
+514,Lethtar,Lantan,'gemstones'
+514,Lethtar,Lantan,'tin'
+514,Lethtar,Lantan,'wood']
+515,Sundrah,Lantan,['copper'
+515,Sundrah,Lantan,'gemstones'
+515,Sundrah,Lantan,'tin'
+515,Sundrah,Lantan,'wood']
+516,Sujjar,Lantan,['copper'
+516,Sujjar,Lantan,'gemstones'
+516,Sujjar,Lantan,'tin'
+516,Sujjar,Lantan,'wood']
+517,Tsan,Lantan,['copper'
+517,Tsan,Lantan,'gemstones'
+517,Tsan,Lantan,'tin'
+517,Tsan,Lantan,'wood']
+518,Sheirtalar,Lapaliiya,['armour'
+518,Sheirtalar,Lapaliiya,'beef'
+518,Sheirtalar,Lapaliiya,'gems'
+518,Sheirtalar,Lapaliiya,'fruit'
+518,Sheirtalar,Lapaliiya,'iron'
+518,Sheirtalar,Lapaliiya,'jewellery'
+518,Sheirtalar,Lapaliiya,'pottery'
+518,Sheirtalar,Lapaliiya,'weapons']
+519,Abreon,Lapaliiya,['armour'
+519,Abreon,Lapaliiya,'beef'
+519,Abreon,Lapaliiya,'gems'
+519,Abreon,Lapaliiya,'fruit'
+519,Abreon,Lapaliiya,'iron'
+519,Abreon,Lapaliiya,'jewellery'
+519,Abreon,Lapaliiya,'pottery'
+519,Abreon,Lapaliiya,'weapons']
+520,Dungar,Lapaliiya,['armour'
+520,Dungar,Lapaliiya,'beef'
+520,Dungar,Lapaliiya,'gems'
+520,Dungar,Lapaliiya,'fruit'
+520,Dungar,Lapaliiya,'iron'
+520,Dungar,Lapaliiya,'jewellery'
+520,Dungar,Lapaliiya,'pottery'
+520,Dungar,Lapaliiya,'weapons']
+521,Ilyaport,Lapaliiya,['armour'
+521,Ilyaport,Lapaliiya,'beef'
+521,Ilyaport,Lapaliiya,'gems'
+521,Ilyaport,Lapaliiya,'fruit'
+521,Ilyaport,Lapaliiya,'iron'
+521,Ilyaport,Lapaliiya,'jewellery'
+521,Ilyaport,Lapaliiya,'pottery'
+521,Ilyaport,Lapaliiya,'weapons']
+522,Ithmong,Lapaliiya,['armour'
+522,Ithmong,Lapaliiya,'beef'
+522,Ithmong,Lapaliiya,'gems'
+522,Ithmong,Lapaliiya,'fruit'
+522,Ithmong,Lapaliiya,'iron'
+522,Ithmong,Lapaliiya,'jewellery'
+522,Ithmong,Lapaliiya,'pottery'
+522,Ithmong,Lapaliiya,'weapons']
+523,Lapalgard,Lapaliiya,['armour'
+523,Lapalgard,Lapaliiya,'beef'
+523,Lapalgard,Lapaliiya,'gems'
+523,Lapalgard,Lapaliiya,'fruit'
+523,Lapalgard,Lapaliiya,'iron'
+523,Lapalgard,Lapaliiya,'jewellery'
+523,Lapalgard,Lapaliiya,'pottery'
+523,Lapalgard,Lapaliiya,'weapons']
+524,Lhazantal,Lapaliiya,['armour'
+524,Lhazantal,Lapaliiya,'beef'
+524,Lhazantal,Lapaliiya,'gems'
+524,Lhazantal,Lapaliiya,'fruit'
+524,Lhazantal,Lapaliiya,'iron'
+524,Lhazantal,Lapaliiya,'jewellery'
+524,Lhazantal,Lapaliiya,'pottery'
+524,Lhazantal,Lapaliiya,'weapons']
+525,Lushpool,Lapaliiya,['armour'
+525,Lushpool,Lapaliiya,'beef'
+525,Lushpool,Lapaliiya,'gems'
+525,Lushpool,Lapaliiya,'fruit'
+525,Lushpool,Lapaliiya,'iron'
+525,Lushpool,Lapaliiya,'jewellery'
+525,Lushpool,Lapaliiya,'pottery'
+525,Lushpool,Lapaliiya,'weapons']
+526,Malaxer,Lapaliiya,['armour'
+526,Malaxer,Lapaliiya,'beef'
+526,Malaxer,Lapaliiya,'gems'
+526,Malaxer,Lapaliiya,'fruit'
+526,Malaxer,Lapaliiya,'iron'
+526,Malaxer,Lapaliiya,'jewellery'
+526,Malaxer,Lapaliiya,'pottery'
+526,Malaxer,Lapaliiya,'weapons']
+527,Mierskar,Lapaliiya,['armour'
+527,Mierskar,Lapaliiya,'beef'
+527,Mierskar,Lapaliiya,'gems'
+527,Mierskar,Lapaliiya,'fruit'
+527,Mierskar,Lapaliiya,'iron'
+527,Mierskar,Lapaliiya,'jewellery'
+527,Mierskar,Lapaliiya,'pottery'
+527,Mierskar,Lapaliiya,'weapons']
+528,Ormpur,Lapaliiya,['armour'
+528,Ormpur,Lapaliiya,'beef'
+528,Ormpur,Lapaliiya,'gems'
+528,Ormpur,Lapaliiya,'fruit'
+528,Ormpur,Lapaliiya,'iron'
+528,Ormpur,Lapaliiya,'jewellery'
+528,Ormpur,Lapaliiya,'pottery'
+528,Ormpur,Lapaliiya,'weapons']
+529,Sammaresh,Lapaliiya,['armour'
+529,Sammaresh,Lapaliiya,'beef'
+529,Sammaresh,Lapaliiya,'gems'
+529,Sammaresh,Lapaliiya,'fruit'
+529,Sammaresh,Lapaliiya,'iron'
+529,Sammaresh,Lapaliiya,'jewellery'
+529,Sammaresh,Lapaliiya,'pottery'
+529,Sammaresh,Lapaliiya,'weapons']
+530,Sheirlantar,Lapaliiya,['armour'
+530,Sheirlantar,Lapaliiya,'beef'
+530,Sheirlantar,Lapaliiya,'gems'
+530,Sheirlantar,Lapaliiya,'fruit'
+530,Sheirlantar,Lapaliiya,'iron'
+530,Sheirlantar,Lapaliiya,'jewellery'
+530,Sheirlantar,Lapaliiya,'pottery'
+530,Sheirlantar,Lapaliiya,'weapons']
+531,Uzurr,Lapaliiya,['armour'
+531,Uzurr,Lapaliiya,'beef'
+531,Uzurr,Lapaliiya,'gems'
+531,Uzurr,Lapaliiya,'fruit'
+531,Uzurr,Lapaliiya,'iron'
+531,Uzurr,Lapaliiya,'jewellery'
+531,Uzurr,Lapaliiya,'pottery'
+531,Uzurr,Lapaliiya,'weapons']
+532,Zashuma,Lapaliiya,['armour'
+532,Zashuma,Lapaliiya,'beef'
+532,Zashuma,Lapaliiya,'gems'
+532,Zashuma,Lapaliiya,'fruit'
+532,Zashuma,Lapaliiya,'iron'
+532,Zashuma,Lapaliiya,'jewellery'
+532,Zashuma,Lapaliiya,'pottery'
+532,Zashuma,Lapaliiya,'weapons']
+533,Beluir,Luiren,['metalwork items'
+533,Beluir,Luiren,'livestock']
+534,Ammathluir,Luiren,['metalwork items'
+534,Ammathluir,Luiren,'livestock']
+535,Chethel,Luiren,['metalwork items'
+535,Chethel,Luiren,'livestock']
+536,Crimel,Luiren,['metalwork items'
+536,Crimel,Luiren,'livestock']
+537,Djannath,Luiren,['metalwork items'
+537,Djannath,Luiren,'livestock']
+538,Fasruil,Luiren,['metalwork items'
+538,Fasruil,Luiren,'livestock']
+539,Krenadir,Luiren,['metalwork items'
+539,Krenadir,Luiren,'livestock']
+540,Lluirvale,Luiren,['metalwork items'
+540,Lluirvale,Luiren,'livestock']
+541,Otennath,Luiren,['metalwork items'
+541,Otennath,Luiren,'livestock']
+542,Shoun,Luiren,['metalwork items'
+542,Shoun,Luiren,'livestock']
+543,Silverymoon,The Silver Marches,['armour'
+543,Silverymoon,The Silver Marches,'books'
+543,Silverymoon,The Silver Marches,'manufactured goods'
+543,Silverymoon,The Silver Marches,'pottery'
+543,Silverymoon,The Silver Marches,'spices'
+543,Silverymoon,The Silver Marches,'wine']
+544,Auvandell,The Silver Marches,['armour'
+544,Auvandell,The Silver Marches,'books'
+544,Auvandell,The Silver Marches,'manufactured goods'
+544,Auvandell,The Silver Marches,'pottery'
+544,Auvandell,The Silver Marches,'spices'
+544,Auvandell,The Silver Marches,'wine']
+545,Blumberg,The Silver Marches,['armour'
+545,Blumberg,The Silver Marches,'books'
+545,Blumberg,The Silver Marches,'manufactured goods'
+545,Blumberg,The Silver Marches,'pottery'
+545,Blumberg,The Silver Marches,'spices'
+545,Blumberg,The Silver Marches,'wine']
+546,Citadel Adbar,Dwarfholds of the North,['armour'
+546,Citadel Adbar,Dwarfholds of the North,'books'
+546,Citadel Adbar,Dwarfholds of the North,'manufactured goods'
+546,Citadel Adbar,Dwarfholds of the North,'pottery'
+546,Citadel Adbar,Dwarfholds of the North,'spices'
+546,Citadel Adbar,Dwarfholds of the North,'wine']
+547,Citadel Felbarr,Dwarfholds of the North,['armour'
+547,Citadel Felbarr,Dwarfholds of the North,'books'
+547,Citadel Felbarr,Dwarfholds of the North,'manufactured goods'
+547,Citadel Felbarr,Dwarfholds of the North,'pottery'
+547,Citadel Felbarr,Dwarfholds of the North,'spices'
+547,Citadel Felbarr,Dwarfholds of the North,'wine']
+548,Deadsnows,The Silver Marches,['armour'
+548,Deadsnows,The Silver Marches,'books'
+548,Deadsnows,The Silver Marches,'manufactured goods'
+548,Deadsnows,The Silver Marches,'pottery'
+548,Deadsnows,The Silver Marches,'spices'
+548,Deadsnows,The Silver Marches,'wine']
+549,Everlund,The Silver Marches,['armour'
+549,Everlund,The Silver Marches,'books'
+549,Everlund,The Silver Marches,'manufactured goods'
+549,Everlund,The Silver Marches,'pottery'
+549,Everlund,The Silver Marches,'spices'
+549,Everlund,The Silver Marches,'wine']
+550,Hilltop,The Silver Marches,['armour'
+550,Hilltop,The Silver Marches,'books'
+550,Hilltop,The Silver Marches,'manufactured goods'
+550,Hilltop,The Silver Marches,'pottery'
+550,Hilltop,The Silver Marches,'spices'
+550,Hilltop,The Silver Marches,'wine']
+551,Jalanthar,The Silver Marches,['armour'
+551,Jalanthar,The Silver Marches,'books'
+551,Jalanthar,The Silver Marches,'manufactured goods'
+551,Jalanthar,The Silver Marches,'pottery'
+551,Jalanthar,The Silver Marches,'spices'
+551,Jalanthar,The Silver Marches,'wine']
+552,Khelb,The Silver Marches,['armour'
+552,Khelb,The Silver Marches,'books'
+552,Khelb,The Silver Marches,'manufactured goods'
+552,Khelb,The Silver Marches,'pottery'
+552,Khelb,The Silver Marches,'spices'
+552,Khelb,The Silver Marches,'wine']
+553,Lhuvenhead,The Silver Marches,['armour'
+553,Lhuvenhead,The Silver Marches,'books'
+553,Lhuvenhead,The Silver Marches,'manufactured goods'
+553,Lhuvenhead,The Silver Marches,'pottery'
+553,Lhuvenhead,The Silver Marches,'spices'
+553,Lhuvenhead,The Silver Marches,'wine']
+554,Mithral Hall,Dwarfholds of the North,['armour'
+554,Mithral Hall,Dwarfholds of the North,'books'
+554,Mithral Hall,Dwarfholds of the North,'manufactured goods'
+554,Mithral Hall,Dwarfholds of the North,'pottery'
+554,Mithral Hall,Dwarfholds of the North,'spices'
+554,Mithral Hall,Dwarfholds of the North,'wine']
+555,Newfort,The Silver Marches,['armour'
+555,Newfort,The Silver Marches,'books'
+555,Newfort,The Silver Marches,'manufactured goods'
+555,Newfort,The Silver Marches,'pottery'
+555,Newfort,The Silver Marches,'spices'
+555,Newfort,The Silver Marches,'wine']
+556,Quaervaar,The Silver Marches,['armour'
+556,Quaervaar,The Silver Marches,'books'
+556,Quaervaar,The Silver Marches,'manufactured goods'
+556,Quaervaar,The Silver Marches,'pottery'
+556,Quaervaar,The Silver Marches,'spices'
+556,Quaervaar,The Silver Marches,'wine']
+557,Rauvincross,The Silver Marches,['armour'
+557,Rauvincross,The Silver Marches,'books'
+557,Rauvincross,The Silver Marches,'manufactured goods'
+557,Rauvincross,The Silver Marches,'pottery'
+557,Rauvincross,The Silver Marches,'spices'
+557,Rauvincross,The Silver Marches,'wine']
+558,Rivermoot,The Silver Marches,['armour'
+558,Rivermoot,The Silver Marches,'books'
+558,Rivermoot,The Silver Marches,'manufactured goods'
+558,Rivermoot,The Silver Marches,'pottery'
+558,Rivermoot,The Silver Marches,'spices'
+558,Rivermoot,The Silver Marches,'wine']
+559,Sundabar,Dwarfholds of the North,['armour'
+559,Sundabar,Dwarfholds of the North,'books'
+559,Sundabar,Dwarfholds of the North,'manufactured goods'
+559,Sundabar,Dwarfholds of the North,'pottery'
+559,Sundabar,Dwarfholds of the North,'spices'
+559,Sundabar,Dwarfholds of the North,'wine']
+560,Winter's Edge,The Silver Marches,['armour'
+560,Winter's Edge,The Silver Marches,'books'
+560,Winter's Edge,The Silver Marches,'manufactured goods'
+560,Winter's Edge,The Silver Marches,'pottery'
+560,Winter's Edge,The Silver Marches,'spices'
+560,Winter's Edge,The Silver Marches,'wine']
+562,Mintarn,The Sword Coast,['moonshae wood'
+562,Mintarn,The Sword Coast,'mabadann oysters']
+563,Orlumbor,Orlumbor,['wood']
+564,Farr Windward,Orlumbor,['wood']
+565,Caer Callidyrr,Moonshae,['coal'
+565,Caer Callidyrr,Moonshae,'horses'
+565,Caer Callidyrr,Moonshae,'minor magical items'
+565,Caer Callidyrr,Moonshae,'ore'
+565,Caer Callidyrr,Moonshae,'parchment'
+565,Caer Callidyrr,Moonshae,'silk']
+566,Aithelar,Moonshae,['coal'
+566,Aithelar,Moonshae,'horses'
+566,Aithelar,Moonshae,'minor magical items'
+566,Aithelar,Moonshae,'ore'
+566,Aithelar,Moonshae,'parchment'
+566,Aithelar,Moonshae,'silk']
+567,Blackstone,Moonshae,['coal'
+567,Blackstone,Moonshae,'horses'
+567,Blackstone,Moonshae,'minor magical items'
+567,Blackstone,Moonshae,'ore'
+567,Blackstone,Moonshae,'parchment'
+567,Blackstone,Moonshae,'silk']
+568,Blythe,Moonshae,['coal'
+568,Blythe,Moonshae,'horses'
+568,Blythe,Moonshae,'minor magical items'
+568,Blythe,Moonshae,'ore'
+568,Blythe,Moonshae,'parchment'
+568,Blythe,Moonshae,'silk']
+569,Borth,Moonshae,['coal'
+569,Borth,Moonshae,'horses'
+569,Borth,Moonshae,'minor magical items'
+569,Borth,Moonshae,'ore'
+569,Borth,Moonshae,'parchment'
+569,Borth,Moonshae,'silk']
+570,Bounty,Moonshae,['coal'
+570,Bounty,Moonshae,'horses'
+570,Bounty,Moonshae,'minor magical items'
+570,Bounty,Moonshae,'ore'
+570,Bounty,Moonshae,'parchment'
+570,Bounty,Moonshae,'silk']
+571,Brannoch,Moonshae,['coal'
+571,Brannoch,Moonshae,'horses'
+571,Brannoch,Moonshae,'minor magical items'
+571,Brannoch,Moonshae,'ore'
+571,Brannoch,Moonshae,'parchment'
+571,Brannoch,Moonshae,'silk']
+572,Bray,Moonshae,['coal'
+572,Bray,Moonshae,'horses'
+572,Bray,Moonshae,'minor magical items'
+572,Bray,Moonshae,'ore'
+572,Bray,Moonshae,'parchment'
+572,Bray,Moonshae,'silk']
+573,Cambro,Moonshae,['coal'
+573,Cambro,Moonshae,'horses'
+573,Cambro,Moonshae,'minor magical items'
+573,Cambro,Moonshae,'ore'
+573,Cambro,Moonshae,'parchment'
+573,Cambro,Moonshae,'silk']
+574,Caer Corwell,Moonshae,['coal'
+574,Caer Corwell,Moonshae,'horses'
+574,Caer Corwell,Moonshae,'minor magical items'
+574,Caer Corwell,Moonshae,'ore'
+574,Caer Corwell,Moonshae,'parchment'
+574,Caer Corwell,Moonshae,'silk']
+575,Caer Moray,Moonshae,['coal'
+575,Caer Moray,Moonshae,'horses'
+575,Caer Moray,Moonshae,'minor magical items'
+575,Caer Moray,Moonshae,'ore'
+575,Caer Moray,Moonshae,'parchment'
+575,Caer Moray,Moonshae,'silk']
+576,Caer Westphal,Moonshae,['coal'
+576,Caer Westphal,Moonshae,'horses'
+576,Caer Westphal,Moonshae,'minor magical items'
+576,Caer Westphal,Moonshae,'ore'
+576,Caer Westphal,Moonshae,'parchment'
+576,Caer Westphal,Moonshae,'silk']
+577,Caervu,Moonshae,['coal'
+577,Caervu,Moonshae,'horses'
+577,Caervu,Moonshae,'minor magical items'
+577,Caervu,Moonshae,'ore'
+577,Caervu,Moonshae,'parchment'
+577,Caervu,Moonshae,'silk']
+578,Cobh,Moonshae,['coal'
+578,Cobh,Moonshae,'horses'
+578,Cobh,Moonshae,'minor magical items'
+578,Cobh,Moonshae,'ore'
+578,Cobh,Moonshae,'parchment'
+578,Cobh,Moonshae,'silk']
+579,Codfin,Moonshae,['coal'
+579,Codfin,Moonshae,'horses'
+579,Codfin,Moonshae,'minor magical items'
+579,Codfin,Moonshae,'ore'
+579,Codfin,Moonshae,'parchment'
+579,Codfin,Moonshae,'silk']
+580,Codscove,Moonshae,['coal'
+580,Codscove,Moonshae,'horses'
+580,Codscove,Moonshae,'minor magical items'
+580,Codscove,Moonshae,'ore'
+580,Codscove,Moonshae,'parchment'
+580,Codscove,Moonshae,'silk']
+581,Doncastle,Moonshae,['coal'
+581,Doncastle,Moonshae,'horses'
+581,Doncastle,Moonshae,'minor magical items'
+581,Doncastle,Moonshae,'ore'
+581,Doncastle,Moonshae,'parchment'
+581,Doncastle,Moonshae,'silk']
+582,Dorset,Moonshae,['coal'
+582,Dorset,Moonshae,'horses'
+582,Dorset,Moonshae,'minor magical items'
+582,Dorset,Moonshae,'ore'
+582,Dorset,Moonshae,'parchment'
+582,Dorset,Moonshae,'silk']
+583,Dultann,Moonshae,['coal'
+583,Dultann,Moonshae,'horses'
+583,Dultann,Moonshae,'minor magical items'
+583,Dultann,Moonshae,'ore'
+583,Dultann,Moonshae,'parchment'
+583,Dultann,Moonshae,'silk']
+584,Dynnatt,Moonshae,['coal'
+584,Dynnatt,Moonshae,'horses'
+584,Dynnatt,Moonshae,'minor magical items'
+584,Dynnatt,Moonshae,'ore'
+584,Dynnatt,Moonshae,'parchment'
+584,Dynnatt,Moonshae,'silk']
+585,Dynnegall,Moonshae,['coal'
+585,Dynnegall,Moonshae,'horses'
+585,Dynnegall,Moonshae,'minor magical items'
+585,Dynnegall,Moonshae,'ore'
+585,Dynnegall,Moonshae,'parchment'
+585,Dynnegall,Moonshae,'silk']
+586,Elyssyrr,Moonshae,['coal'
+586,Elyssyrr,Moonshae,'horses'
+586,Elyssyrr,Moonshae,'minor magical items'
+586,Elyssyrr,Moonshae,'ore'
+586,Elyssyrr,Moonshae,'parchment'
+586,Elyssyrr,Moonshae,'silk']
+587,Farview,Moonshae,['coal'
+587,Farview,Moonshae,'horses'
+587,Farview,Moonshae,'minor magical items'
+587,Farview,Moonshae,'ore'
+587,Farview,Moonshae,'parchment'
+587,Farview,Moonshae,'silk']
+588,Fenton,Moonshae,['coal'
+588,Fenton,Moonshae,'horses'
+588,Fenton,Moonshae,'minor magical items'
+588,Fenton,Moonshae,'ore'
+588,Fenton,Moonshae,'parchment'
+588,Fenton,Moonshae,'silk']
+589,Grady,Moonshae,['coal'
+589,Grady,Moonshae,'horses'
+589,Grady,Moonshae,'minor magical items'
+589,Grady,Moonshae,'ore'
+589,Grady,Moonshae,'parchment'
+589,Grady,Moonshae,'silk']
+590,Graystone,Moonshae,['coal'
+590,Graystone,Moonshae,'horses'
+590,Graystone,Moonshae,'minor magical items'
+590,Graystone,Moonshae,'ore'
+590,Graystone,Moonshae,'parchment'
+590,Graystone,Moonshae,'silk']
+591,Grimstad,Moonshae,['coal'
+591,Grimstad,Moonshae,'horses'
+591,Grimstad,Moonshae,'minor magical items'
+591,Grimstad,Moonshae,'ore'
+591,Grimstad,Moonshae,'parchment'
+591,Grimstad,Moonshae,'silk']
+592,Harloch,Moonshae,['coal'
+592,Harloch,Moonshae,'horses'
+592,Harloch,Moonshae,'minor magical items'
+592,Harloch,Moonshae,'ore'
+592,Harloch,Moonshae,'parchment'
+592,Harloch,Moonshae,'silk']
+593,Hickorydale,Moonshae,['coal'
+593,Hickorydale,Moonshae,'horses'
+593,Hickorydale,Moonshae,'minor magical items'
+593,Hickorydale,Moonshae,'ore'
+593,Hickorydale,Moonshae,'parchment'
+593,Hickorydale,Moonshae,'silk']
+594,Horsa,Moonshae,['coal'
+594,Horsa,Moonshae,'horses'
+594,Horsa,Moonshae,'minor magical items'
+594,Horsa,Moonshae,'ore'
+594,Horsa,Moonshae,'parchment'
+594,Horsa,Moonshae,'silk']
+595,Horst,Moonshae,['coal'
+595,Horst,Moonshae,'horses'
+595,Horst,Moonshae,'minor magical items'
+595,Horst,Moonshae,'ore'
+595,Horst,Moonshae,'parchment'
+595,Horst,Moonshae,'silk']
+596,Highhome,Moonshae,['coal'
+596,Highhome,Moonshae,'horses'
+596,Highhome,Moonshae,'minor magical items'
+596,Highhome,Moonshae,'ore'
+596,Highhome,Moonshae,'parchment'
+596,Highhome,Moonshae,'silk']
+597,Highrock,Moonshae,['coal'
+597,Highrock,Moonshae,'horses'
+597,Highrock,Moonshae,'minor magical items'
+597,Highrock,Moonshae,'ore'
+597,Highrock,Moonshae,'parchment'
+597,Highrock,Moonshae,'silk']
+598,Holyhead,Moonshae,['coal'
+598,Holyhead,Moonshae,'horses'
+598,Holyhead,Moonshae,'minor magical items'
+598,Holyhead,Moonshae,'ore'
+598,Holyhead,Moonshae,'parchment'
+598,Holyhead,Moonshae,'silk']
+599,Horstall,Moonshae,['coal'
+599,Horstall,Moonshae,'horses'
+599,Horstall,Moonshae,'minor magical items'
+599,Horstall,Moonshae,'ore'
+599,Horstall,Moonshae,'parchment'
+599,Horstall,Moonshae,'silk']
+600,Hyoclaatl,Moonshae,['coal'
+600,Hyoclaatl,Moonshae,'horses'
+600,Hyoclaatl,Moonshae,'minor magical items'
+600,Hyoclaatl,Moonshae,'ore'
+600,Hyoclaatl,Moonshae,'parchment'
+600,Hyoclaatl,Moonshae,'silk']
+601,Kingsbay,Moonshae,['coal'
+601,Kingsbay,Moonshae,'horses'
+601,Kingsbay,Moonshae,'minor magical items'
+601,Kingsbay,Moonshae,'ore'
+601,Kingsbay,Moonshae,'parchment'
+601,Kingsbay,Moonshae,'silk']
+602,Koart,Moonshae,['coal'
+602,Koart,Moonshae,'horses'
+602,Koart,Moonshae,'minor magical items'
+602,Koart,Moonshae,'ore'
+602,Koart,Moonshae,'parchment'
+602,Koart,Moonshae,'silk']
+603,Kork,Moonshae,['coal'
+603,Kork,Moonshae,'horses'
+603,Kork,Moonshae,'minor magical items'
+603,Kork,Moonshae,'ore'
+603,Kork,Moonshae,'parchment'
+603,Kork,Moonshae,'silk']
+604,Kythyss,Moonshae,['coal'
+604,Kythyss,Moonshae,'horses'
+604,Kythyss,Moonshae,'minor magical items'
+604,Kythyss,Moonshae,'ore'
+604,Kythyss,Moonshae,'parchment'
+604,Kythyss,Moonshae,'silk']
+605,Lehigh,Moonshae,['coal'
+605,Lehigh,Moonshae,'horses'
+605,Lehigh,Moonshae,'minor magical items'
+605,Lehigh,Moonshae,'ore'
+605,Lehigh,Moonshae,'parchment'
+605,Lehigh,Moonshae,'silk']
+606,Llandrain,Moonshae,['coal'
+606,Llandrain,Moonshae,'horses'
+606,Llandrain,Moonshae,'minor magical items'
+606,Llandrain,Moonshae,'ore'
+606,Llandrain,Moonshae,'parchment'
+606,Llandrain,Moonshae,'silk']
+607,Llewellyn,Moonshae,['coal'
+607,Llewellyn,Moonshae,'horses'
+607,Llewellyn,Moonshae,'minor magical items'
+607,Llewellyn,Moonshae,'ore'
+607,Llewellyn,Moonshae,'parchment'
+607,Llewellyn,Moonshae,'silk']
+608,Lowhill,Moonshae,['coal'
+608,Lowhill,Moonshae,'horses'
+608,Lowhill,Moonshae,'minor magical items'
+608,Lowhill,Moonshae,'ore'
+608,Lowhill,Moonshae,'parchment'
+608,Lowhill,Moonshae,'silk']
+609,MacSheehan,Moonshae,['coal'
+609,MacSheehan,Moonshae,'horses'
+609,MacSheehan,Moonshae,'minor magical items'
+609,MacSheehan,Moonshae,'ore'
+609,MacSheehan,Moonshae,'parchment'
+609,MacSheehan,Moonshae,'silk']
+610,Manger,Moonshae,['coal'
+610,Manger,Moonshae,'horses'
+610,Manger,Moonshae,'minor magical items'
+610,Manger,Moonshae,'ore'
+610,Manger,Moonshae,'parchment'
+610,Manger,Moonshae,'silk']
+611,Myrrdale,Moonshae,['coal'
+611,Myrrdale,Moonshae,'horses'
+611,Myrrdale,Moonshae,'minor magical items'
+611,Myrrdale,Moonshae,'ore'
+611,Myrrdale,Moonshae,'parchment'
+611,Myrrdale,Moonshae,'silk']
+612,Ogden,Moonshae,['coal'
+612,Ogden,Moonshae,'horses'
+612,Ogden,Moonshae,'minor magical items'
+612,Ogden,Moonshae,'ore'
+612,Ogden,Moonshae,'parchment'
+612,Ogden,Moonshae,'silk']
+613,O’Malley,Moonshae,['coal'
+613,O’Malley,Moonshae,'horses'
+613,O’Malley,Moonshae,'minor magical items'
+613,O’Malley,Moonshae,'ore'
+613,O’Malley,Moonshae,'parchment'
+613,O’Malley,Moonshae,'silk']
+614,Pembroke,Moonshae,['coal'
+614,Pembroke,Moonshae,'horses'
+614,Pembroke,Moonshae,'minor magical items'
+614,Pembroke,Moonshae,'ore'
+614,Pembroke,Moonshae,'parchment'
+614,Pembroke,Moonshae,'silk']
+615,Pengram,Moonshae,['coal'
+615,Pengram,Moonshae,'horses'
+615,Pengram,Moonshae,'minor magical items'
+615,Pengram,Moonshae,'ore'
+615,Pengram,Moonshae,'parchment'
+615,Pengram,Moonshae,'silk']
+616,Pontswain,Moonshae,['coal'
+616,Pontswain,Moonshae,'horses'
+616,Pontswain,Moonshae,'minor magical items'
+616,Pontswain,Moonshae,'ore'
+616,Pontswain,Moonshae,'parchment'
+616,Pontswain,Moonshae,'silk']
+617,Regents Field,Moonshae,['coal'
+617,Regents Field,Moonshae,'horses'
+617,Regents Field,Moonshae,'minor magical items'
+617,Regents Field,Moonshae,'ore'
+617,Regents Field,Moonshae,'parchment'
+617,Regents Field,Moonshae,'silk']
+618,Storaad,Moonshae,['coal'
+618,Storaad,Moonshae,'horses'
+618,Storaad,Moonshae,'minor magical items'
+618,Storaad,Moonshae,'ore'
+618,Storaad,Moonshae,'parchment'
+618,Storaad,Moonshae,'silk']
+619,Tetauctaa,Moonshae,['coal'
+619,Tetauctaa,Moonshae,'horses'
+619,Tetauctaa,Moonshae,'minor magical items'
+619,Tetauctaa,Moonshae,'ore'
+619,Tetauctaa,Moonshae,'parchment'
+619,Tetauctaa,Moonshae,'silk']
+620,Thorndyke,Moonshae,['coal'
+620,Thorndyke,Moonshae,'horses'
+620,Thorndyke,Moonshae,'minor magical items'
+620,Thorndyke,Moonshae,'ore'
+620,Thorndyke,Moonshae,'parchment'
+620,Thorndyke,Moonshae,'silk']
+621,White Rock,Moonshae,['coal'
+621,White Rock,Moonshae,'horses'
+621,White Rock,Moonshae,'minor magical items'
+621,White Rock,Moonshae,'ore'
+621,White Rock,Moonshae,'parchment'
+621,White Rock,Moonshae,'silk']
+622,Wyngate,Moonshae,['coal'
+622,Wyngate,Moonshae,'horses'
+622,Wyngate,Moonshae,'minor magical items'
+622,Wyngate,Moonshae,'ore'
+622,Wyngate,Moonshae,'parchment'
+622,Wyngate,Moonshae,'silk']
+623,Skuld,Mulhorand,['fine timber'
+623,Skuld,Mulhorand,'incense'
+623,Skuld,Mulhorand,'iron'
+623,Skuld,Mulhorand,'perfume'
+623,Skuld,Mulhorand,'slaves'
+623,Skuld,Mulhorand,'spices']
+624,Aina,Mulhorand,['fine timber'
+624,Aina,Mulhorand,'incense'
+624,Aina,Mulhorand,'iron'
+624,Aina,Mulhorand,'perfume'
+624,Aina,Mulhorand,'slaves'
+624,Aina,Mulhorand,'spices']
+625,Delgora,Mulhorand,['fine timber'
+625,Delgora,Mulhorand,'incense'
+625,Delgora,Mulhorand,'iron'
+625,Delgora,Mulhorand,'perfume'
+625,Delgora,Mulhorand,'slaves'
+625,Delgora,Mulhorand,'spices']
+626,Gheldaneth,Mulhorand,['fine timber'
+626,Gheldaneth,Mulhorand,'incense'
+626,Gheldaneth,Mulhorand,'iron'
+626,Gheldaneth,Mulhorand,'perfume'
+626,Gheldaneth,Mulhorand,'slaves'
+626,Gheldaneth,Mulhorand,'spices']
+627,Jhalhoran,Mulhorand,['fine timber'
+627,Jhalhoran,Mulhorand,'incense'
+627,Jhalhoran,Mulhorand,'iron'
+627,Jhalhoran,Mulhorand,'perfume'
+627,Jhalhoran,Mulhorand,'slaves'
+627,Jhalhoran,Mulhorand,'spices']
+628,Klondor,Mulhorand,['fine timber'
+628,Klondor,Mulhorand,'incense'
+628,Klondor,Mulhorand,'iron'
+628,Klondor,Mulhorand,'perfume'
+628,Klondor,Mulhorand,'slaves'
+628,Klondor,Mulhorand,'spices']
+629,Maerlar,Mulhorand,['fine timber'
+629,Maerlar,Mulhorand,'incense'
+629,Maerlar,Mulhorand,'iron'
+629,Maerlar,Mulhorand,'perfume'
+629,Maerlar,Mulhorand,'slaves'
+629,Maerlar,Mulhorand,'spices']
+630,Mishtan,Mulhorand,['fine timber'
+630,Mishtan,Mulhorand,'incense'
+630,Mishtan,Mulhorand,'iron'
+630,Mishtan,Mulhorand,'perfume'
+630,Mishtan,Mulhorand,'slaves'
+630,Mishtan,Mulhorand,'spices']
+631,Neldorild,Mulhorand,['fine timber'
+631,Neldorild,Mulhorand,'incense'
+631,Neldorild,Mulhorand,'iron'
+631,Neldorild,Mulhorand,'perfume'
+631,Neldorild,Mulhorand,'slaves'
+631,Neldorild,Mulhorand,'spices']
+632,Rauthil,Mulhorand,['fine timber'
+632,Rauthil,Mulhorand,'incense'
+632,Rauthil,Mulhorand,'iron'
+632,Rauthil,Mulhorand,'perfume'
+632,Rauthil,Mulhorand,'slaves'
+632,Rauthil,Mulhorand,'spices']
+633,Sampranasz,Mulhorand,['fine timber'
+633,Sampranasz,Mulhorand,'incense'
+633,Sampranasz,Mulhorand,'iron'
+633,Sampranasz,Mulhorand,'perfume'
+633,Sampranasz,Mulhorand,'slaves'
+633,Sampranasz,Mulhorand,'spices']
+634,Sultim,Mulhorand,['fine timber'
+634,Sultim,Mulhorand,'incense'
+634,Sultim,Mulhorand,'iron'
+634,Sultim,Mulhorand,'perfume'
+634,Sultim,Mulhorand,'slaves'
+634,Sultim,Mulhorand,'spices']
+635,Surbroar,Mulhorand,['fine timber'
+635,Surbroar,Mulhorand,'incense'
+635,Surbroar,Mulhorand,'iron'
+635,Surbroar,Mulhorand,'perfume'
+635,Surbroar,Mulhorand,'slaves'
+635,Surbroar,Mulhorand,'spices']
+636,Ulzel,Mulhorand,['fine timber'
+636,Ulzel,Mulhorand,'incense'
+636,Ulzel,Mulhorand,'iron'
+636,Ulzel,Mulhorand,'perfume'
+636,Ulzel,Mulhorand,'slaves'
+636,Ulzel,Mulhorand,'spices']
+637,Bildoobaris,Narfell,['clothing'
+637,Bildoobaris,Narfell,'jewellery']
+638,Antlerbones,Narfell,['clothing'
+638,Antlerbones,Narfell,'jewellery']
+639,Hoarbridge,Narfell,['clothing'
+639,Hoarbridge,Narfell,'jewellery']
+640,Jiyyd,Narfell,['clothing'
+640,Jiyyd,Narfell,'jewellery']
+641,Nar-Sek Qu’encesta,Narfell,['clothing'
+641,Nar-Sek Qu’encesta,Narfell,'jewellery']
+642,Nar-Sek Qu’istrade,Narfell,['clothing'
+642,Nar-Sek Qu’istrade,Narfell,'jewellery']
+643,Nar-Sek Qu’tel,Narfell,['clothing'
+643,Nar-Sek Qu’tel,Narfell,'jewellery']
+644,N’Jast,Narfell,['clothing'
+644,N’Jast,Narfell,'jewellery']
+645,Peltarch,Narfell,['clothing'
+645,Peltarch,Narfell,'jewellery']
+646,Selmast,Narfell,['clothing'
+646,Selmast,Narfell,'jewellery']
+647,Snowcap,Narfell,['clothing'
+647,Snowcap,Narfell,'jewellery']
